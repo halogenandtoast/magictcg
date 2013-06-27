@@ -53,12 +53,15 @@ GEM
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
     mime-types (1.23)
+    mini_portile (0.5.0)
     minitest (4.7.5)
     monban (0.0.7)
       bcrypt-ruby
       rails
       warden
     multi_json (1.7.7)
+    nokogiri (1.6.0)
+      mini_portile (~> 0.5.0)
     pg (0.15.1)
     polyglot (0.3.3)
     rack (1.5.2)
@@ -132,6 +135,7 @@ DEPENDENCIES
   jbuilder (~> 1.2)
   jquery-rails
   monban
+  nokogiri
   pg
   rails (= 4.0.0)
   rspec-rails (= 2.14.0.rc1)
