@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20130627192355) do
+ActiveRecord::Schema.define(version: 20130628135717) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -39,6 +39,29 @@ ActiveRecord::Schema.define(version: 20130627192355) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  create_table "collected_cards", force: true do |t|
+    t.integer  "card_version_id"
+    t.integer  "user_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.integer  "collecting_set_id"
+  end
+
+  add_index "collected_cards", ["card_version_id"], name: "index_collected_cards_on_card_version_id", using: :btree
+  add_index "collected_cards", ["collecting_set_id"], name: "index_collected_cards_on_collecting_set_id", using: :btree
+  add_index "collected_cards", ["user_id"], name: "index_collected_cards_on_user_id", using: :btree
+
+  create_table "collecting_sets", force: true do |t|
+    t.integer  "user_id"
+    t.integer  "card_set_id"
+    t.integer  "collected_cards_count"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "collecting_sets", ["card_set_id"], name: "index_collecting_sets_on_card_set_id", using: :btree
+  add_index "collecting_sets", ["user_id"], name: "index_collecting_sets_on_user_id", using: :btree
 
   create_table "users", force: true do |t|
     t.string   "email"

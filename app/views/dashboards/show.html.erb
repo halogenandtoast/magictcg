@@ -1,0 +1,5 @@
+<% @collecting_sets.each do |card_set| %>
+  <%= div_for(card_set) do %>
+    <%= link_to card_set.name, card_set %> (<%= card_set.collected_cards_count %>/<%= card_set.full_count %>)
+  <% end %>
+<% end %>
