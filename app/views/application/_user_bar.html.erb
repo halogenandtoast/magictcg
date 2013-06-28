@@ -1,4 +1,5 @@
 <div>
+  <%= link_to "Home", root_path %>
   <% if signed_in? %>
     Welcome <%= current_user.email %>
     <%= link_to "Sign out", session_path, method: :delete %>

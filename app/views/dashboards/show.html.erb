@@ -1,5 +1,15 @@
-<% @collecting_sets.each do |card_set| %>
-  <%= div_for(card_set) do %>
-    <%= link_to card_set.name, card_set %> (<%= card_set.collected_cards_count %>/<%= card_set.full_count %>)
-  <% end %>
+<%= form_for(CollectingSet.new, remote: true) do |form| %>
+  <input name="set" id="set" />
+  <%= form.submit "Track" %>
 <% end %>
+
+<div class='collecting_sets'>
+  <%= render @collecting_sets %>
+</div>
+
+<script type="text/javascript">
+  $(function() {
+    var availableTags = <%== @uncollecting_sets.map(&:name).to_json %>;
+    $("#set").autocomplete({ source: availableTags });
+  });
+</script>
