@@ -1,0 +1,2776 @@
+Name:	Abbey Griffin
+Cost:	 3{W}
+Type:	 Creature - Griffin
+Pow/Tgh:	 2/2
+Rules Text:	 Flying, vigilance
+Flavor Text:	 "The darkness crawls with vampires and ghouls, but we are not without allies."
+- Mikaeus, the Lunarch
+Illus.	 Jaime Jones
+Rarity:	 Common
+Set Number:	 #1/264
+
+Name:	Angel of Flight Alabaster
+Cost:	 4W
+Type:	 Creature - Angel
+Pow/Tgh:	 4/4
+Rules Text:	 Flying
+At the beginning of your upkeep, return target Spirit card from your graveyard to your hand.
+Flavor Text:	 She endures without Avacyn but secretly asks each soul she guides if it has seen her.
+Illus.	 Howard Lyon
+Rarity:	 Rare
+Set Number:	 #2/264
+
+Name:	Angelic Overseer
+Cost:	 3{W}{W}
+Type:	 Creature - Angel
+Pow/Tgh:	 5/3
+Rules Text:	 Flying
+As long as you control a Human, Angelic Overseer has hexproof and is indestructible.
+Flavor Text:	 From mortal hope immortal power springs.
+Illus.	 Jason Chan
+Rarity:	 Mythic Rare
+Set Number:	 #3/264
+
+Name:	Avacynian Priest
+Cost:	 1{W}
+Type:	 Creature - Human Cleric
+Pow/Tgh:	 1/2
+Rules Text:	 {1}, {T}: Tap target non-Human creature.
+Flavor Text:	 Moorlanders speak in awe of the priests' talent for arriving just in time to drive off the wicked things that prowl the ravished parish.
+Illus.	 Greg Staples
+Rarity:	 Common
+Set Number:	 #4/264
+
+Name:	Bonds of Faith
+Cost:	 1{W}
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.
+Flavor Text:	 "What cannot be destroyed will be bound."
+-Oath of Avacyn
+Illus.	 Steve Argyle
+Rarity:	 Common
+Set Number:	 #5/264
+
+Name:	Champion of the Parish
+Cost:	 {W}
+Type:	 Creature - Human Soldier
+Pow/Tgh:	 1/1
+Rules Text:	 Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Champion of the Parish.
+Flavor Text:	 "I stand for every cobbler, tanner, and fool in this town--and they stand for me."
+Illus.	 Svetlin Velinov
+Rarity:	 Rare
+Set Number:	 #6/264
+
+Name:	Chapel Geist
+Cost:	 1{W}{W}
+Type:	 Creature - Spirit
+Pow/Tgh:	 2/3
+Rules Text:	 Flying
+Flavor Text:	 Death has bound it with chains of past regrets. Forever it searches for atonement, each kindness removing a single link.
+Illus.	 Peter Mohrbacher
+Rarity:	 Common
+Set Number:	 #7/264
+
+Name:	Cloistered Youth
+Cost:	 1{W}
+Type:	 Creature - Human // Creature - Horror
+Pow/Tgh:	 1/1 // 33
+Rules Text:	 At the beginning of your upkeep, you may transform Cloistered Youth.
+//////////
+{B}
+At the beginning of your end step, you lose 1 life.
+Flavor Text:	 "I heard her talking in her sleep - pleading, shrieking, snarling. It was not my daughter's voice. That is not my daughter."
+-Ekatrin, Elder of Hanweir
+/////////
+The fiend tormented them by recounting the girl's memories, as if some part of her remained inside that twisted shell.
+Illus.	 Igor Kieryluk
+Rarity:	 Uncommon
+Set Number:	 #8/264
+
+Name:	Unholy Fiend
+Cost:	 1{W}
+Type:	 Creature - Human // Creature - Horror
+Pow/Tgh:	 1/1 // 33
+Rules Text:	 At the beginning of your upkeep, you may transform Cloistered Youth.
+//////////
+{B}
+At the beginning of your end step, you lose 1 life.
+Flavor Text:	 "I heard her talking in her sleep - pleading, shrieking, snarling. It was not my daughter's voice. That is not my daughter."
+-Ekatrin, Elder of Hanweir
+/////////
+The fiend tormented them by recounting the girl's memories, as if some part of her remained inside that twisted shell.
+Illus.	 Igor Kieryluk
+Rarity:	 Uncommon
+Set Number:	 #8/264
+
+Name:	Dearly Departed
+Cost:	 4{W}{W}
+Type:	 Creature - Spirit
+Pow/Tgh:	 5/5
+Rules Text:	 Flying
+As long as Dearly Departed is in your graveyard, each Human creature you control enters the battlefield with an additional +1/+1 counter on it.
+Flavor Text:	 "Never forget our ancestors. They have not forgotten us."
+- Mikaeus, the Lunarch
+Illus.	 Daniel Ljunggren
+Rarity:	 Rare
+Set Number:	 #9/264
+
+Name:	Divine Reckoning
+Cost:	 2{W}{W}
+Type:	 Sorcery
+Rules Text:	 Each player chooses a creature he or she controls. Destroy the rest.
+Flashback {5}{W}{W}
+Flavor Text:	 Survival of the purest.
+Illus.	 Greg Staples
+Rarity:	 Rare
+Set Number:	 #10/264
+
+Name:	Doomed Traveler
+Cost:	 {W}
+Type:	 Creature - Human Soldier
+Pow/Tgh:	 1/1
+Rules Text:	 When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+Flavor Text:	 He vowed he would never rest until he reached his destination. He doesn't know how right he was.
+Illus.	 Lars Grant-West
+Rarity:	 Common
+Set Number:	 #11/264
+
+Name:	Elder Cathar
+Cost:	 2{W}
+Type:	 Creature - Human Soldier
+Pow/Tgh:	 2/2
+Rules Text:	 When Elder Cathar dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead.
+Flavor Text:	 "My greatest hope is that you will surpass me in every way, consigning my name to some forgotten corner of history."
+Illus.	 Chris Rahn
+Rarity:	 Common
+Set Number:	 #12/264
+
+Name:	Elite Inquisitor
+Cost:	 {W}{W}
+Type:	 Creature - Human Soldier
+Pow/Tgh:	 2/2
+Rules Text:	 First strike, vigilance
+Protection from Vampires, from Werewolves, and from Zombies.
+Flavor Text:	 "No matter how many I kill, there are always more to hunt. It makes me smile just to think about it."
+Illus.	 Jana Schirmer & Johannes Voss
+Rarity:	 Rare
+Set Number:	 #13/264
+
+Name:	Feeling of Dread
+Cost:	 1{W}
+Type:	 Instant
+Rules Text:	 Tap up to two target creatures.
+Flashback {1}{U}
+Flavor Text:	 People only say "I'm sure it was nothing" when they're sure it was something.
+Illus.	 John Stanko
+Rarity:	 Common
+Set Number:	 #14/264
+
+Name:	Fiend Hunter
+Cost:	 1{W}{W}
+Type:	 Creature - Human Cleric
+Pow/Tgh:	 1/3
+Rules Text:	 When Fiend Hunter enters the battlefield, you may exile another target creature.
+When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+Illus.	 Wayne Reynolds
+Rarity:	 Uncommon
+Set Number:	 #15/264
+
+Name:	Gallows Warden
+Cost:	 4{W}
+Type:	 Creature - Spirit
+Pow/Tgh:	 3/3
+Rules Text:	 Flying
+Other Spirit creatures you control get +0/+1.
+Flavor Text:	 The spirit cares nothing for the crimes or triumphs of the slain. It shelters all beneath its stormy cloak.
+Illus.	 Dan Scott
+Rarity:	 Uncommon
+Set Number:	 #16/264
+
+Name:	Geist-Honored Monk
+Cost:	 3{W}{W}
+Type:	 Creature - Human Monk
+Pow/Tgh:	 */*
+Rules Text:	 Vigilance
+Geist-Honored Monk's power and toughness are each equal to the number of creatures you control.
+When Geist-Honored Monk enters the battlefield, put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+Illus.	 Clint Cearley
+Rarity:	 Rare
+Set Number:	 #17/264
+
+Name:	Ghostly Possession
+Cost:	 2{W}
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature has flying.
+Prevent all combat damage that would be dealt to and dealt by enchanted creature.
+Illus.	 Howard Lyon
+Rarity:	 Common
+Set Number:	 #18/264
+
+Name:	Intangible Virtue
+Cost:	 1{W}
+Type:	 Enchantment
+Rules Text:	 Creature tokens you control get +1/+1 and have vigilance.
+Flavor Text:	 In life, they were a motley crew: farmers, lords, cutpurses, priests. In death, they are united in singular, benevolent purpose.
+Illus.	 Clint Cearley
+Rarity:	 Uncommon
+Set Number:	 #19/264
+
+Name:	Mausoleum Guard
+Cost:	 3{W}
+Type:	 Creature - Human Scout
+Pow/Tgh:	 2/2
+Rules Text:	 When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+Flavor Text:	 "Ghoulcallers trying to get in, geists trying to get out...This duty is never dull."
+Illus.	 David Palumbo
+Rarity:	 Uncommon
+Set Number:	 #20/264
+
+Name:	Mentor of the Meek
+Cost:	 2W
+Type:	 Creature - Human Soldier
+Pow/Tgh:	 2/2
+Rules Text:	 Whenever another creature with power 2 or less enters the battlefield under your control, you may pay {1}. If you do, draw a card.
+Flavor Text:	 "In these halls there is no pass or fail. Your true test comes with the first full moon."
+Illus.	 Jana Schirmer & Jonannaes Voss
+Rarity:	 Rare
+Set Number:	 #21/264
+
+Name:	Midnight Haunting
+Cost:	 2{W}
+Type:	 Instant
+Rules Text:	 Put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+Flavor Text:	 The path back to the world of the living is murky and bewildering. A geist may not even realise that it's terrifying its own loved ones.
+Illus.	 Matt Stewart
+Rarity:	 Uncommon
+Set Number:	 #22/264
+
+Name:	Mikaeus, the Lunarch
+Cost:	 X{W}
+Type:	 Legendary Creature - Human Cleric
+Pow/Tgh:	 0/0
+Rules Text:	 Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.
+{T}: Put a +1/+1 counter on Mikaeus.
+{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.
+Illus.	 Steven Belledin
+Rarity:	 Mythic Rare
+Set Number:	 #23/264
+
+Name:	Moment of Heroism
+Cost:	 1{W}
+Type:	 Instant
+Rules Text:	 Target creature gets +2/+2 and gains lifelink until end of turn.
+Flavor Text:	 "My faith is stronger than fang, claw, or mindless hunger."
+Illus.	 Christopher Moeller
+Rarity:	 Common
+Set Number:	 #24/264
+
+Name:	Nevermore
+Cost:	 1{W}{W}
+Type:	 Enchantment
+Rules Text:	 As Nevermore enters the battlefield, name a nonland card.
+The named card can't be cast.
+Flavor Text:	 "By the law of Avacyn, the following thoughts, words, and deeds are henceforth disallowed."
+Rarity:	 Rare
+
+Name:	Paraselene
+Cost:	 2{W}
+Type:	 Sorcery
+Rules Text:	 Destroy all enchantments. You gain 1 life for each enchantment destroyed this way.
+Flavor Text:	 "Moonlight has a way of showing all things as they truly are - for better or for worse."
+-Zilla of Lambholt
+Illus.	 Ryan Yee
+Rarity:	 Uncommon
+Set Number:	 #26/264
+
+Name:	Purify the Grave
+Cost:	 {W}
+Type:	 Instant
+Rules Text:	 Exile target card from a graveyard.
+Flashback {W}
+Flavor Text:	 Some priests speak in whispers of the Helvault, a silver prison of unpurged evils.
+Illus.	 Drew Baker
+Rarity:	 Uncommon
+Set Number:	 #27/264
+
+Name:	Rally the Peasants
+Cost:	 2{W}
+Type:	 Instant
+Rules Text:	 Creatures you control get +2/+0 until end of turn.
+Flashback {2}{R}
+Flavor Text:	 "If you must go out at night, bring a mob."
+-Master of the Elgaud Cathars
+Illus.	 Jaime Jones
+Rarity:	 Uncommon
+Set Number:	 #28/264
+
+Name:	Rebuke
+Cost:	 2{W}
+Type:	 Instant
+Rules Text:	 Destroy target attacking creature.
+Flavor Text:	 "No one chooses to be stitched together into a skaab. If it could speak, it would beg for its own destruction."
+-Thalia, Knight-Cathar
+Illus.	 Igor Kieryluk
+Rarity:	 Common
+Set Number:	 #29/264
+
+Name:	Selfless Cathar
+Cost:	 {W}
+Type:	 Creature - Human Cleric
+Pow/Tgh:	 1/1
+Rules Text:	 {1}{W}, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.
+Flavor Text:	 "If I fail to offer myself, we will surely be overrun. My fate would be the same."
+Illus.	 Slawomir Maniak
+Rarity:	 Common
+Set Number:	 #30/264
+
+Name:	Silverchase Fox
+Cost:	 1{W}
+Type:	 Creature - Fox
+Pow/Tgh:	 2/2
+Rules Text:	 {1}{W}, Sacrifice Silverchase Fox: Exile target enchantment.
+Flavor Text:	 "Be careful in your hunt. The clever little creature can steal your wards and lead you right into the werewolf's den."
+-Bretta, midwife of Gatstaf
+Illus.	 Howard Lyon
+Rarity:	 Common
+Set Number:	 #31/264
+
+Name:	Slayer of the Wicked
+Cost:	 3{W}
+Type:	 Creature - Human Soldier
+Pow/Tgh:	 3/2
+Rules Text:	 When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie.
+Flavor Text:	 You don't want to see his trophy room.
+Illus.	 Anthony Palumbo
+Rarity:	 Uncommon
+
+Name:	Smite the Monstrous
+Cost:	 3{W}
+Type:	 Instant
+Rules Text:	 Destroy target creature with power 4 or greater.
+Flavor Text:	 Though the old holy wards and roadside shrines have begun to fail, faith in Avacyn still holds true power.
+Illus.	 Jason Felix
+Rarity:	 Common
+Set Number:	 #33/264
+
+Name:	Spare from Evil
+Cost:	 1{W}
+Type:	 Instant
+Rules Text:	 Creatures you control gain protection from non-Human creatures until end of turn.
+Flavor Text:	 "As long as we can utter a prayer or lift a weapon, we have the power to fight back."
+-Thalia, Knight-Cathar
+Illus.	 Jason Felix
+Rarity:	 Common
+Set Number:	 #34/264
+
+Name:	Spectral Rider
+Cost:	 {W}{W}
+Type:	 Creature - Spirit Knight
+Pow/Tgh:	 2/2
+Rules Text:	 Intimidate
+Flavor Text:	 Never a word. Never a warning. Only the sound of hoofbeats along the crossways, and the screams of the avenged.
+Illus.	 Igor Kieryluk
+Rarity:	 Uncommon
+
+Name:	Stony Silence
+Cost:	 1{W}
+Type:	 Enchantment
+Rules Text:	 Activated abilities of artifacts can't be activated.
+Flavor Text:	 Let moss grow over gargoyles
+-Gavony saying meaning "forget painful memories"
+Illus.	 Wayne England
+Rarity:	 Rare
+Set Number:	 #36/264
+
+Name:	Thraben Purebloods
+Cost:	 4{W}
+Type:	 Creature - Hound
+Pow/Tgh:	 3/5
+Flavor Text:	 "I've learned to trust my dogs' instincts. When they're calm, I'm calm. And when they get nervous, I get my crossbow."
+-Hinrik of House Cecani
+Illus.	 Martina Pilcerova
+Rarity:	 Common
+Set Number:	 #37/264
+
+Name:	Thraben Sentry
+Cost:	 3{W}
+Type:	 Creature - Human Soldier // Creature - Human Soldier
+Pow/Tgh:	 2/2 // 5/4
+Rules Text:	 Vigilance
+Whenever another creature you control dies, you may transform Thraben Sentry.
+////////////
+Trample
+Flavor Text:	 "Looks like it's going to be a quiet night."
+////////////
+"The time for grief is over. The time for retribution has begun."
+Illus.	 David Rapoza
+Rarity:	 Common
+Set Number:	 #38/264
+
+Name:	Thraben Militia
+Cost:	 3{W}
+Type:	 Creature - Human Soldier // Creature - Human Soldier
+Pow/Tgh:	 2/2 // 5/4
+Rules Text:	 Vigilance
+Whenever another creature you control dies, you may transform Thraben Sentry.
+////////////
+Trample
+Flavor Text:	 "Looks like it's going to be a quiet night."
+////////////
+"The time for grief is over. The time for retribution has begun."
+Illus.	 David Rapoza
+Rarity:	 Common
+Set Number:	 #38/264
+
+Name:	Unruly Mob
+Cost:	 1{W}
+Type:	 Creature - Human
+Pow/Tgh:	 1/1
+Rules Text:	 Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.
+Flavor Text:	 "Who says werewolves are the only ones who can hunt as a pack?"
+-Kolman, elder of Gatstaf
+Illus.	 Ryan Pancoast
+Rarity:	 Common
+Set Number:	 #39/264
+
+Name:	Urgent Exorcism
+Cost:	 1{W}
+Type:	 Instant
+Rules Text:	 Destroy target Spirit or enchantment.
+Flavor Text:	 "To show geists pity is to prolong their agonies. Whether they know it or not, they seek the Blessed Sleep, and we are to give it to them."
+-Mikaeus, the Lunarch
+Illus.	 Svetlin Velinov
+Rarity:	 Common
+Set Number:	 #40/264
+
+Name:	Village Bell-Ringer
+Cost:	 2{W}
+Type:	 Creature - Human Scout
+Pow/Tgh:	 1/4
+Rules Text:	 Flash
+When Village Bell-Ringer enters the battlefield, untap all creatures you control.
+Flavor Text:	 "Priests, hunters, slayers - to arms! The enemy approaches!"
+Illus.	 David Palumbo
+Rarity:	 Common
+Set Number:	 #41/264
+
+Name:	Voiceless Spirit
+Cost:	 2{W}
+Type:	 Creature - Spirit
+Pow/Tgh:	 2/1
+Rules Text:	 Flying, first strike
+Flavor Text:	 "I'd rather take on a neckbiter or a moonhowler any day. Oh well, looks like I'm going to end up parrying with empty air half the night."
+-Saint Trogen, the Slayer
+Illus.	 Daarken
+Rarity:	 Common
+Set Number:	 #42/264
+
+Name:	Armored Skaab
+Cost:	 2{U}
+Type:	 Creature - Zombie Warrior
+Pow/Tgh:	 1/4
+Rules Text:	 When Armored Skaab enters the battlefield, put the top four cards of your library into your graveyard.
+Illus.	 Volkan Baga
+Rarity:	 Common
+Set Number:	 #43/264
+
+Name:	Back from the Brink
+Cost:	 4{U}{U}
+Type:	 Enchantment
+Rules Text:	 Exile a creature card from your graveyard and pay its mana cost: Put a token onto the battlefield that's a copy of that card. Activate this ability only any time you could cast a sorcery.
+Illus.	 Anthony Palumbo
+Rarity:	 Rare
+Set Number:	 #44/264
+
+Name:	Battleground Geist
+Cost:	 4{U}
+Type:	 Creature - Spirit
+Pow/Tgh:	 3/3
+Rules Text:	 Flying
+Other Spirit creatures you control get +1/+0.
+Flavor Text:	 Not content to nudge vases and chill drawing rooms, some geists muster spectral armies to claw at the hearts of the living.
+Illus.	 Clint Cearley
+Rarity:	 Uncommon
+Set Number:	 #45/264
+
+Name:	Cackling Counterpart
+Cost:	 1{U}{U}
+Type:	 Instant
+Rules Text:	 Put a token onto the battlefield that's a copy of target creature you control.
+Flashback {5}{U}{U}
+Illus.	 David Rapoza
+Rarity:	 Rare
+Set Number:	 #46/264
+
+Name:	Civilized Scholar
+Cost:	 2{U}
+Type:	 Creature - Human Advisor // Human Mutant
+Pow/Tgh:	 0/1 // 5/1
+Rules Text:	 {t}: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it
+//////////////////////////////////////
+{R}
+At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it.
+Illus.	 Michael C. Hayes
+Rarity:	 Uncommon
+Set Number:	 #47/264
+
+Name:	Homicidal Brute
+Cost:	 2{U}
+Type:	 Creature - Human Advisor // Human Mutant
+Pow/Tgh:	 0/1 // 5/1
+Rules Text:	 {t}: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it
+//////////////////////////////////////
+{R}
+At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it.
+Illus.	 Michael C. Hayes
+Rarity:	 Uncommon
+Set Number:	 #47/264
+
+Name:	Claustrophobia
+Cost:	 1{U}{U}
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant Creature
+When Claustrophobia enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+Flavor Text:	 SLEEP!
+Illus.	 Ryan Pancoast
+Rarity:	 Common
+Set Number:	 #48/264
+
+Name:	Curiosity
+Cost:	 {U}
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.
+Illus.	 Igor Kieryluk
+Rarity:	 Uncommon
+Set Number:	 #49/264
+
+Name:	Curse of the Bloody Tome
+Cost:	 2{U}
+Type:	 Enchantment - Aura Curse
+Rules Text:	 Enchant player
+At the beginning of enchanted player's upkeep, that player puts the top two cards of his or her library into his or her graveyard.
+Flavor Text:	 After seeing his life's work drip away, the mage decided it was a good time to go crazy.
+Illus.	 Jaime Jones
+Rarity:	 Common
+Set Number:	 #50/264
+
+Name:	Delver of Secrets
+Cost:	 {U}
+Type:	 Creature - Human Wizard // Creature - Human Insect
+Pow/Tgh:	 1/1 // 3/2
+Rules Text:	 At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery is revealed this way, transform Delver of Secrets.
+//////////
+Flying
+Illus.	 Nils Hamm
+Rarity:	 Common
+Set Number:	 #51/264
+
+Name:	Insectile Aberration
+Cost:	 {U}
+Type:	 Creature - Human Wizard // Creature - Human Insect
+Pow/Tgh:	 1/1 // 3/2
+Rules Text:	 At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery is revealed this way, transform Delver of Secrets.
+//////////
+Flying
+Illus.	 Nils Hamm
+Rarity:	 Common
+Set Number:	 #51/264
+
+Name:	Deranged Assistant
+Cost:	 1{U}
+Type:	 Creature - Human Wizard
+Pow/Tgh:	 1/1
+Rules Text:	 {T}, Put the top card of your library into your graveyard: Add {1} to your mana pool.
+Flavor Text:	 "Garl, adjust the slurry dispensers. Garl, fetch more corpses. Garl, quit crying and give me your brain tissue. If he doesn't stop being so rude, I'm quitting."
+Illus.	 Nils Hamm
+Rarity:	 Common
+Set Number:	 #52/264
+
+Name:	Dissipate
+Cost:	 1{U}{U}
+Type:	 Instant
+Rules Text:	 Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Illus.	 Tomasz Jedruszek
+Rarity:	 Uncommon
+Set Number:	 #53/264
+
+Name:	Dream Twist
+Cost:	 {U}
+Type:	 Instant
+Rules Text:	 Target player puts the top three cards of his or her library into his or her graveyard.
+Flashback {1}{U}
+Illus.	 Dan Scott
+Rarity:	 Common
+Set Number:	 #54/264
+
+Name:	Forbidden Alchemy
+Cost:	 2{U}
+Type:	 Instant
+Rules Text:	 Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+Flashback {6}{B}
+Illus.	 David Rapoza
+Rarity:	 Common
+Set Number:	 #55/264
+
+Name:	Fortress Crab
+Cost:	 3{U}
+Type:	 Creature - Crab
+Pow/Tgh:	 1/6
+Illus.	 Vincent Proce
+Rarity:	 Common
+Set Number:	 #56/264
+
+Name:	Frightful Delusion
+Cost:	 2{U}
+Type:	 Instant
+Rules Text:	 Counter target spell unless its controller pays {1}. That player discards a card.
+Illus.	 Anthony Palumbo
+Rarity:	 Common
+Set Number:	 #57/264
+
+Name:	Grasp of Phantoms
+Cost:	 3{U}
+Type:	 Sorcery
+Rules Text:	 Put target creature on top of its owner's library.
+Flashback {7}{U}
+Illus.	 Izzy
+Rarity:	 Uncommon
+Set Number:	 #58/264
+
+Name:	Hysterical Blindness
+Cost:	 2{U}
+Type:	 Instant
+Rules Text:	 Creatures your opponents control get -4/-0 until end of turn.
+Illus.	 Wayne England
+Rarity:	 Common
+Set Number:	 #59/264
+
+Name:	Invisible Stalker
+Cost:	 1{U}
+Type:	 Creature - Human Rogue
+Pow/Tgh:	 1/1
+Rules Text:	 Hexproof
+Invisible Stalker is unblockable.
+Flavor Text:	 "What bothers me is the vampire's sense of smell and those icy Nephalian nights."
+Illus.	 Bud Cook
+Rarity:	 Uncommon
+Set Number:	 #60/264
+
+Name:	Laboratory Maniac
+Cost:	 2{U}
+Type:	 Creature - Human Wizard
+Pow/Tgh:	 2/2
+Rules Text:	 If you would draw a card while your library has no cards in it, you win the game instead.
+Flavor Text:	 His mind whirled with grand plans, never thinking of what might happen if he were to succeed.
+Illus.	 Jason Felix
+Rarity:	 Rare
+Set Number:	 #61/264
+
+Name:	Lantern Spirit
+Cost:	 2{U}
+Type:	 Creature - Spirit
+Pow/Tgh:	 2/1
+Rules Text:	 Flying
+{U}: Return Lantern Spirit to its owner's hand.
+Illus.	 Johann Bodin
+Rarity:	 Uncommon
+Set Number:	 #62/264
+
+Name:	Lost in the Mist
+Cost:	 3{U}{U}
+Type:	 Instant
+Rules Text:	 Counter target spell. Return target permanent to its owner's hand.
+Illus.	 David Pancoast
+Rarity:	 Common
+Set Number:	 #63/264
+
+Name:	Ludevic's Test Subject
+Cost:	 1{U}
+Type:	 Creature - Lizard // Creature - Lizard Horror
+Pow/Tgh:	 0/3 // 13/13
+Rules Text:	 Defender
+{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.
+////////////
+Trample
+Flavor Text:	 ////////////
+After several failed experiments, the visionary Ludevic realised he needed to create a monster that fed on torch-wielding mobs.
+Illus.	 Nils Hamm
+Rarity:	 Rare
+Set Number:	 #64/264
+
+Name:	Ludevic's Abomination
+Cost:	 1{U}
+Type:	 Creature - Lizard // Creature - Lizard Horror
+Pow/Tgh:	 0/3 // 13/13
+Rules Text:	 Defender
+{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.
+////////////
+Trample
+Flavor Text:	 ////////////
+After several failed experiments, the visionary Ludevic realised he needed to create a monster that fed on torch-wielding mobs.
+Illus.	 Nils Hamm
+Rarity:	 Rare
+Set Number:	 #64/264
+
+Name:	Makeshift Mauler
+Cost:	 3{U}
+Type:	 Creature - Zombie Horror
+Pow/Tgh:	 4/5
+Rules Text:	 As an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard.
+Illus.	 James Ryman
+Rarity:	 Common
+Set Number:	 #65/264
+
+Name:	Memory's Journey
+Cost:	 1{U}
+Type:	 Instant
+Rules Text:	 Target player shuffles up to three target cards from his or her graveyard into his or her library.
+Flashback {G}
+Illus.	 Slawomir Maniak
+Rarity:	 Uncommon
+Set Number:	 #66/264
+
+Name:	Mindshrieker
+Cost:	 1u
+Type:	 Creature - Spirit Bird
+Pow/Tgh:	 1/1
+Rules Text:	 Flying
+{2}: Target player puts the top card of his or her library into his or her graveyard. Mindshrieker gets +X/+X until end of turn, where X is that card's converted mana cost.
+Illus.	 Dave Kendall
+Rarity:	 Rare
+Set Number:	 #67/264
+
+Name:	Mirror-Mad Phantasm
+Cost:	 3{U}{U}
+Type:	 Creature - Spirit
+Pow/Tgh:	 5/1
+Rules Text:	 Flying
+{1}{U}: Mirror-Mad Phantasm's owner shuffles it into his or her library. If that player does, he or she reveals cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. That player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.
+Illus.	 Howard Lyon
+Rarity:	 Mythic Rare
+
+Name:	Moon Heron
+Cost:	 3{U}
+Type:	 Creature - Spirit Bird
+Pow/Tgh:	 3/2
+Rules Text:	 Flying
+Illus.	 Charles Urbach
+Rarity:	 Common
+Set Number:	 #69/264
+
+Name:	Murder of Crows
+Cost:	 3{U}{U}
+Type:	 Creature - Bird
+Pow/Tgh:	 4/4
+Rules Text:	 Flying
+Whenever another creature dies, you may draw a card. If you do, discard a card.
+Flavor Text:	 Even more than carrion, they crave the last words of the dying.
+Illus.	 Drew Baker
+Rarity:	 Uncommon
+Set Number:	 #70/264
+
+Name:	Rooftop Storm
+Cost:	 5U
+Type:	 Enchantment
+Rules Text:	 You may pay {0} rather than pay the mana cost for Zombie creature spells you cast.
+Flavor Text:	 "Let those idiot priests tremble! A new era in unlife begins here and now. Oglor, raise the lightning vane!"
+-- Stitcher Geralf
+Illus.	 John Stanko
+Rarity:	 Rare
+Set Number:	 #71/264
+
+Name:	Runic Repetition
+Cost:	 2{U}
+Type:	 Sorcery
+Rules Text:	 Return target exiled card with flashback you own to your hand.
+Illus.	 Svetlin Velinov
+Rarity:	 Uncommon
+Set Number:	 #72/264
+
+Name:	Selhoff Occultist
+Cost:	 2{U}
+Type:	 Creature - Human Rogue
+Pow/Tgh:	 2/3
+Rules Text:	 Whenever Selhoff Occultist or another creature dies, target player puts the top card of his or her library into his or her graveyard.
+Illus.	 Igor Kieryluk
+Rarity:	 Common
+Set Number:	 #73/264
+
+Name:	Sensory Deprivation
+Cost:	 {U}
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets -3/-0.
+Illus.	 Steven Belledin
+Rarity:	 Common
+Set Number:	 #74/264
+
+Name:	Silent Departure
+Cost:	 u
+Type:	 Sorcery
+Rules Text:	 Return target creature to its owner's hand.
+Flashback {4}{u}
+Flavor Text:	 The same magic that lets geists pass through our realm can force them out of it.
+Illus.	 John Avon
+Rarity:	 Common
+Set Number:	 #75/264
+
+Name:	Skaab Goliath
+Cost:	 5{U}
+Type:	 Creature - Zombie Giant
+Pow/Tgh:	 6/9
+Rules Text:	 As an additional cost to cast Skaab Goliath, exile two creature cards from your graveyard.
+Trample
+Flavor Text:	 "Three heads, six arms and some armor grafts are better than...the normal numbers of those things."
+-Stitcher Geralf
+Illus.	 Volkan Baga
+Rarity:	 Uncommon
+Set Number:	 #76/264
+
+Name:	Skaab Ruinator
+Cost:	 1{U}{U}
+Type:	 Creature - Zombie Horror
+Pow/Tgh:	 5/6
+Rules Text:	 As an additional cost to cast Skaab Ruinator, exile 3 creature cards from your graveyard.
+Flying
+You may cast Skaab Ruinator from your graveyard.
+Illus.	 Chris Rahn
+Rarity:	 Mythic Rare
+Set Number:	 #77/264
+
+Name:	Snapcaster Mage
+Cost:	 1{U}
+Type:	 Creature - Human Wizard
+Pow/Tgh:	 2/1
+Rules Text:	 Flash
+When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
+Illus.	 Volkan Baga
+Rarity:	 Rare
+
+Name:	Spectral Flight
+Cost:	 1{U}
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+Illus.	 Johann Bodin
+Rarity:	 Common
+Set Number:	 #79/264
+
+Name:	Stitched Drake
+Cost:	 1{U}{U}
+Type:	 Creature - Zombie Drake
+Pow/Tgh:	 3/4
+Rules Text:	 As an addition cost to cast Stitched Drake, exile a creature card from your graveyard.
+Flying
+Flavor Text:	 "The best skaab are more powerful and more beautiful than the sum of their parts."
+-Stitcher Geralf
+Illus.	 Chris Rahn
+Rarity:	 Common
+Set Number:	 #80/264
+
+Name:	Stitcher's Apprentice
+Cost:	 1{U}
+Type:	 Creature - Homunculus
+Pow/Tgh:	 1/2
+Rules Text:	 {1}{U}, {T}: Put a 2/2 blue Homunculus creature token onto the battlefield, then sacrifice a creature.
+Flavor Text:	 "Oglor create life, Oglor take it away. Oglor god! ... until Master return."
+Illus.	 Johann Bodin
+Rarity:	 Common
+Set Number:	 #81/264
+
+Name:	Sturmgeist
+Cost:	 3{U}{U}
+Type:	 Creature - Spirit
+Pow/Tgh:	 */*
+Rules Text:	 Flying
+Sturmgeist's power and toughness are each equal to the number of cards in your hand.
+Whenever Sturmgeist deals combat damage to a player, draw a card.
+Illus.	 Terese Nielsen
+Rarity:	 Rare
+Set Number:	 #82/264
+
+Name:	Think Twice
+Cost:	 1{U}
+Type:	 Instant
+Rules Text:	 Draw a card.
+Flashback {2}{U}
+Illus.	 Anthony Francisco
+Rarity:	 Common
+Set Number:	 #83/264
+
+Name:	Undead Alchemist
+Cost:	 3{U}
+Type:	 Creature - Zombie
+Pow/Tgh:	 4/2
+Rules Text:	 If a Zombie you control would deal combat damage to a player, instead that player puts that many cards from the top of his or her library into his or her graveyard.
+Whenever a creature card is put into an opponent's graveyard from his or her library, exile that card and put a 2/2 black Zombie creature token onto the battlefield.
+Illus.	 Michael C. Hayes
+Rarity:	 Rare
+Set Number:	 #84/264
+
+Name:	Abattoir Ghoul
+Cost:	 3{B}
+Type:	 Creature - Zombie
+Pow/Tgh:	 3/2
+Rules Text:	 First strike
+Whenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.
+Illus.	 Volkan Baga
+Rarity:	 Uncommon
+Set Number:	 #85/264
+
+Name:	Altar's Reap
+Cost:	 1{B}
+Type:	 Instant
+Rules Text:	 As an additional cost to cast Altar's Reap, sacrifice a creature.
+Draw two cards.
+Illus.	 Donato Giancola
+Rarity:	 Common
+Set Number:	 #86/264
+
+Name:	Army of the Damned
+Cost:	 5{B}{B}{B}
+Type:	 Sorcery
+Rules Text:	 Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped.
+Flashback {7}{B}{B}{B}
+Flavor Text:	 Sometimes death comes knocking. Sometimes it tears down the walls.
+Illus.	 Ryan Pancoast
+Rarity:	 Mythic Rare
+Set Number:	 #87/264
+
+Name:	Bitterheart Witch
+Cost:	 4{B}
+Type:	 Creature - Human Shaman
+Pow/Tgh:	 1/2
+Rules Text:	 Deathtouch
+When Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library.
+Illus.	 Karl Kopinski
+Rarity:	 Uncommon
+Set Number:	 #88/264
+
+Name:	Bloodgift Demon
+Cost:	 3{B}{B}
+Type:	 Creature - Demon
+Pow/Tgh:	 5/4
+Rules Text:	 Flying
+At the beginning of your upkeep, target player draws a card and loses 1 life.
+Flavor Text:	 He relishes the devotion of his Skirsdag puppets and their belief that it will earn them immortality.
+Illus.	 Peter Mohrbacher
+Rarity:	 Rare
+Set Number:	 #89/264
+
+Name:	Bloodline Keeper
+Cost:	 2{B}{B}
+Type:	 Creature - Vampire
+Pow/Tgh:	 3/3 // 5/5
+Rules Text:	 Flying
+{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.
+{B}: Transform Bloodline Keeper.
+Activate this ability only if you control five or more vampires.
+//
+Flying
+Other Vampire creatures you control get +2/+2.
+{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.
+Illus.	 Jason Chan
+Rarity:	 Rare
+
+Name:	Lord of Lineage
+Cost:	 2{B}{B}
+Type:	 Creature - Vampire
+Pow/Tgh:	 3/3 // 5/5
+Rules Text:	 Flying
+{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.
+{B}: Transform Bloodline Keeper.
+Activate this ability only if you control five or more vampires.
+//
+Flying
+Other Vampire creatures you control get +2/+2.
+{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.
+Illus.	 Jason Chan
+Rarity:	 Rare
+
+Name:	Brain Weevil
+Cost:	 3{B}
+Type:	 Creature - Insect
+Pow/Tgh:	 1/1
+Rules Text:	 Intimidate
+Sacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery.
+Illus.	 Anthony Jones
+Rarity:	 Common
+Set Number:	 #91/264
+
+Name:	Bump in the Night
+Cost:	 {B}
+Type:	 Sorcery
+Rules Text:	 Target opponent loses 3 life.
+Flashback {5}{R}
+Flavor Text:	 It's not just the wind. It's not all in your head. And it's definitely something to worry about.
+Illus.	 Kev Walker
+Rarity:	 Common
+Set Number:	 #92/264
+
+Name:	Corpse Lunge
+Cost:	 2{B}
+Type:	 Instant
+Rules Text:	 As an additional cost to cast Corpse Lunge, exile a creature card from your graveyard.
+Corpse Lunge deals damage equal to the exiled card's power to target creature.
+Illus.	 Christopher Moeller
+Rarity:	 Common
+Set Number:	 #93/264
+
+Name:	Curse of Death's Hold
+Cost:	 3BB
+Type:	 Enchantment - Aura Curse
+Rules Text:	 Enchant Player
+Creatures enchanted player controls gets -1/-1.
+Flavor Text:	 May you and all your kin waste and wither until your clan is no more.
+Illus.	 Clint Cearley
+Rarity:	 Rare
+Set Number:	 #94/264
+
+Name:	Curse of Oblivion
+Cost:	 3{B}
+Type:	 Enchantment - Aura Curse
+Rules Text:	 Enchant player
+At the beginning of enchanted player's upkeep, that player exiles two cards from his or her graveyard.
+Illus.	 Jana Schirmer & Johannes Voss
+Rarity:	 Common
+Set Number:	 #95/264
+
+Name:	Dead Weight
+Cost:	 {B}
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets -2/-2.
+Illus.	 Randy Gallegos
+Rarity:	 Common
+Set Number:	 #96/264
+
+Name:	Diregraf Ghoul
+Cost:	 {B}
+Type:	 Creature - Zombie
+Pow/Tgh:	 2/2
+Rules Text:	 Diregraf Ghoul enters the battlefield tapped.
+Flavor Text:	 "At least this one still has arms and legs. Well, most of its legs."
+-Enslow, ghoulcaller of Nephalia
+Illus.	 Dave Kendall
+Rarity:	 Uncommon
+Set Number:	 #97/264
+
+Name:	Disciple of Griselbrand
+Cost:	 1{B}
+Type:	 Creature - Human Cleric
+Pow/Tgh:	 1/1
+Rules Text:	 {1}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.
+Illus.	 Clink Cearley
+Rarity:	 Uncommon
+Set Number:	 #98/264
+
+Name:	Endless Ranks of the Dead
+Cost:	 2bb
+Type:	 Enchantment
+Rules Text:	 At the beginning of your upkeep, put X 2/2 black zombie creature tokens onto the battlefield, where X is half the number of the zombies you control, rounded down.
+Flavor Text:	 With Thraben's army recalled to its city walls, outlying villages were left to fend for themselves.
+Illus.	 Ryan Yee
+Rarity:	 Rare
+Set Number:	 #99/264
+
+Name:	Falkenrath Noble
+Cost:	 3{B}
+Type:	 Creature - Vampire
+Pow/Tgh:	 2/2
+Rules Text:	 Flying
+Whenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life.
+Illus.	 Slawomir Maniak
+Rarity:	 Uncommon
+Set Number:	 #100/264
+
+Name:	Ghoulcaller's Chant
+Cost:	 {B}
+Type:	 Sorcery
+Rules Text:	 Choose one - Return target creature card from your graveyard to your hand; or return two target Zombie cards from your graveyard to your hand.
+Illus.	 Randy Gallegos
+Rarity:	 Common
+Set Number:	 #101/264
+
+Name:	Ghoulraiser
+Cost:	 1{B}{B}
+Type:	 Creature - Zombie
+Pow/Tgh:	 2/2
+Rules Text:	 When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand.
+Illus.	 Steve Prescott
+Rarity:	 Common
+Set Number:	 #102/264
+
+Name:	Gruesome Deformity
+Cost:	 {B}
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature has intimidate.
+Illus.	 Matt Sterart
+Rarity:	 Common
+Set Number:	 #103/264
+
+Name:	Heartless Summoning
+Cost:	 1{B}
+Type:	 Enchantment
+Rules Text:	 Creature spells you cast cost {2} less to cast.
+Creatures you control get -1/-1.
+Flavor Text:	 "They won't be winning any beauty pageants, but they'll do the trick."
+-Enslow, ghoulcaller of Nephalia
+Illus.	 Anthony Palumbo
+Rarity:	 Rare
+Set Number:	 #104/264
+
+Name:	Liliana of the Veil
+Cost:	 1{B}{B}
+Type:	 Planeswalker - Liliana
+Pow/Tgh:	 3
+Rules Text:	 +1: Each player discards a card.
+-2: Target player sacrifices a creature.
+-6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of his or her choice.
+Illus.	 Steve Argyle
+Rarity:	 Mythic Rare
+Set Number:	 #105/264
+
+Name:	Manor Skeleton
+Cost:	 1{B}
+Type:	 Creature - Skeleton
+Pow/Tgh:	 1/1
+Rules Text:	 Haste
+{1}{B}: Regenerate Manor Skeleton
+Illus.	 Eric Deschamps
+Rarity:	 Common
+Set Number:	 #106/264
+
+Name:	Markov Patrician
+Cost:	 2{B}
+Type:	 Creature - Vampire
+Pow/Tgh:	 3/1
+Rules Text:	 Lifelink
+Illus.	 Jana Schirmer & Johannes Voss
+Rarity:	 Common
+Set Number:	 #107/264
+
+Name:	Maw of the Mire
+Cost:	 4{B}
+Type:	 Sorcery
+Rules Text:	 Destroy target land. You gain 4 life.
+Illus.	 Vincent Proce
+Rarity:	 Common
+Set Number:	 #108/264
+
+Name:	Moan of the Unhallowed
+Cost:	 2{B}{B}
+Type:	 Sorcery
+Rules Text:	 Put two 2/2 black Zombie creature tokens onto the battlefield.
+Flashback {5}{B}{B}
+Flavor Text:	 For a ghoul, every village is a buffet and every disaster is a reunion.
+Illus.	 Nils Hamm
+Rarity:	 Uncommon
+Set Number:	 #109/264
+
+Name:	Morkrut Banshee
+Cost:	 3{B}{B}
+Type:	 Creature - Spirit
+Pow/Tgh:	 4/4
+Rules Text:	 Morbid - When Morkut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.
+Flavor Text:	 Let go your grudges, or risk wandering the bogs forever in a murderous rage."
+-- Hildin, priest of Avavyn
+Illus.	 Svetlin Velinov
+Rarity:	 Uncommon
+Set Number:	 #110/264
+
+Name:	Night Terrors
+Cost:	 2{B}
+Type:	 Sorcery
+Rules Text:	 Target player reveals his or her hand. You choose a nonland card from it. Exile that card.
+Illus.	 Christopher Moeller
+Rarity:	 Common
+Set Number:	 #111/264
+
+Name:	Reaper from the Abyss
+Cost:	 3BBB
+Type:	 Creature - Demon
+Pow/Tgh:	 6/6
+Rules Text:	 Flying
+Morbid - At the beginning of each end step, if a creature died this turn, destroy target non-Demon creature.
+Flavor Text:	 Avacyn has deserted you. I welcome your devotion in her stead.
+Illus.	 Matt Stewart
+Rarity:	 Mythic Rare
+Set Number:	 #112/264
+
+Name:	Rotting Fensnake
+Cost:	 3{B}
+Type:	 Creature - Zombie Snake
+Pow/Tgh:	 5/1
+Illus.	 Tomasz Jedruszek
+Rarity:	 Common
+Set Number:	 #113/264
+
+Name:	Screeching Bat
+Cost:	 2{B}
+Type:	 Creature - Bat // Creature - Vampire
+Pow/Tgh:	 2/2 // 5/5
+Rules Text:	 Flying
+At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Screeching Bat.
+////////////
+At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Stalking Vampire.
+Flavor Text:	 The bat has such clarity of hearing that simple sounds become symphonies.
+////////////
+Each form she takes is an exploration of the senses.
+Rarity:	 Uncommon
+Set Number:	 #114/264
+
+Name:	 Stalking Vampire
+Cost:	 2{B}
+Type:	 Creature - Bat // Creature - Vampire
+Pow/Tgh:	 2/2 // 5/5
+Rules Text:	 Flying
+At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Screeching Bat.
+////////////
+At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Stalking Vampire.
+Flavor Text:	 The bat has such clarity of hearing that simple sounds become symphonies.
+////////////
+Each form she takes is an exploration of the senses.
+Rarity:	 Uncommon
+Set Number:	 #114/264
+
+Name:	Sever the Bloodline
+Cost:	 3{B}
+Type:	 Sorcery
+Rules Text:	 Exile target creature and all other creatures with the same name as that creature.
+Flashback {5}{B}{B}
+Illus.	 Clint Cearley
+Rarity:	 Rare
+Set Number:	 #115/264
+
+Name:	Skeletal Grimace
+Cost:	 1{B}
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +1/+1 and has "{B}: Regenerate this creature."
+Flavor Text:	 "And then I realized we all have skeletons on the inside. Why wait until the bodies are dead to control them?"
+--Jadar, ghoulcaller of Nephalia
+Illus.	 Eric Deschamps
+Rarity:	 Common
+Set Number:	 #116/264
+
+Name:	Skirsdag High Priest
+Cost:	 1B
+Type:	 Creature - Human Cleric
+Pow/Tgh:	 1/2
+Rules Text:	 Morbid - {t}, tap two untapped creatures you control: Put a 5/5 black Demon creature token with flying onto the battlefield. Activate this ability only if a creature died this turn.
+Flavor Text:	 "Thraben's pleas fall of deaf ears. Ours do not."
+Illus.	 Jason A. Engle
+Rarity:	 Rare
+Set Number:	 #117/264
+
+Name:	Stromkirk Patrol
+Cost:	 4{B}
+Type:	 Creature - Vampire
+Pow/Tgh:	 4/3
+Rules Text:	 Whenever Stromkirk Patrol deals combat damage to a player, put a +1/+1 counter on it.
+Illus.	 Karl Kopinski
+Rarity:	 Common
+Set Number:	 #118/264
+
+Name:	Tribute to Hunger
+Cost:	 2{B}
+Type:	 Instant
+Rules Text:	 Target opponent sacrifices a creature. You gain life equal to that creature's toughness.
+Illus.	 Dave Kendall
+Rarity:	 Uncommon
+Set Number:	 #119/264
+
+Name:	Typhoid Rats
+Cost:	 {B}
+Type:	 Creature - Rat
+Pow/Tgh:	 1/1
+Rules Text:	 Deathtouch
+Illus.	 Kev Walker
+Rarity:	 Common
+Set Number:	 #120/264
+
+Name:	Unbreathing Horde
+Cost:	 2{B}
+Type:	 Creature - Zombie
+Pow/Tgh:	 0/0
+Rules Text:	 Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each other Zombie you control and for each Zombie card in your graveyard.
+If Unbreathing Horde would be dealt damage, prevent that damage and remove a +1/+1 counter from it.
+Illus.	 Dave Kendall
+Rarity:	 Rare
+Set Number:	 #121/264
+
+Name:	Unburial Rites
+Cost:	 4{B}
+Type:	 Sorcery
+Rules Text:	 Return target creature card from your graveyard to the battlefield.
+Flashback {3}{W}
+Flavor Text:	 All crave the Blessed Sleep. Few receive it.
+Illus.	 Ryan Pancoast
+Rarity:	 Uncommon
+Set Number:	 #122/264
+
+Name:	Vampire Interloper
+Cost:	 1{B}
+Type:	 Creature - Vampire Scout
+Pow/Tgh:	 2/1
+Rules Text:	 Flying
+Vampire Interloper can't block.
+Flavor Text:	 He listens to every heartbeat, deciding which one of hundreds he will stop.
+Rarity:	 Common
+Set Number:	 #123/264
+
+Name:	Victim of Night
+Cost:	 {B}{B}
+Type:	 Instant
+Rules Text:	 Destroy target non-Vampire, non-Werewolf, non-Zombie creature.
+Illus.	 Winona Nelson
+Rarity:	 Common
+Set Number:	 #124/264
+
+Name:	Village Cannibals
+Cost:	 2{B}
+Type:	 Creature - Human
+Pow/Tgh:	 2/2
+Rules Text:	 Whenever another Human creature dies, put a +1/+1 counter on Village Cannibals.
+Flavor Text:	 They have endured the horrors of Innistrad by becoming the worst monsters of all.
+Illus.	 Bud Cook
+Rarity:	 Uncommon
+
+Name:	Walking Corpse
+Cost:	 1{B}
+Type:	 Creature - Zombie
+Pow/Tgh:	 2/2
+Illus.	 Igor Kieryluk
+Rarity:	 Common
+Set Number:	 #126/264
+
+Name:	Ancient Grudge
+Cost:	 1{R}
+Type:	 Instant
+Rules Text:	 Destroy target artifact.
+Flashback {G}
+Rarity:	 Common
+
+Name:	Ashmouth Hound
+Cost:	 1{R}
+Type:	 Creature - Elemental Hound
+Pow/Tgh:	 2/1
+Rules Text:	 Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature
+Illus.	 Daarken
+Rarity:	 Common
+Set Number:	 #128/264
+
+Name:	Balefire Dragon
+Cost:	 5{R}{R}
+Type:	 Creature - Dragon
+Pow/Tgh:	 6/6
+Rules Text:	 Flying
+Whenever Balefire Dragon deals combat damage to a player, it deals that much damage to each creature that player controls.
+Flavor Text:	 If it comes for you, die boldly or die swiftly - for die you will.
+Illus.	 Eric Deschamps
+Rarity:	 Mythic Rare
+
+Name:	Blasphemous Act
+Cost:	 8{R}
+Type:	 Sorcery
+Rules Text:	 Blasphemous Act costs {1} less to cast for each creature on the battlefield.
+Blasphemous Act deals 13 damage to each creature.
+Flavor Text:	 "Holy places are no longer sanctuary from death, and death is no longer sanctuary from anything."
+- Thalia, Knight-Cathar
+Illus.	 Daarken
+Rarity:	 Rare
+
+Name:	Bloodcrazed Neonate
+Cost:	 1{R}
+Type:	 Creature - Vampire
+Pow/Tgh:	 2/1
+Rules Text:	 Bloodcrazed Neonate attacks each turn if able. 
+Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.
+Flavor Text:	 While elder vampires select their meals with care, the newly sired frenzy at the first whiff.
+Illus.	 Cynthia Sheppard
+Rarity:	 Common
+
+Name:	Brimstone Volley
+Cost:	 2{R}
+Type:	 Instant
+Rules Text:	 Brimstone Volley deals 3 damage to target creature or player.
+Morbid - Brimstone Volley deals 5 damage to that creature or player instead if a creature died this turn.
+Illus.	 Eytan Zana
+Rarity:	 Common
+Set Number:	 #132/264
+
+Name:	Burning Vengeance
+Cost:	 2{R}
+Type:	 Enchantment
+Rules Text:	 Whenever you cast a spell from your graveyard, Burning Vengeance deals 2 damage to target creature or player.
+Illus.	 Raymond Swanland
+Rarity:	 Uncommon
+Set Number:	 #133/264
+
+Name:	Charmbreaker Devils
+Cost:	 5{R}
+Type:	 Creature - Devil
+Pow/Tgh:	 4/4
+Rules Text:	 At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.
+Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn
+Illus.	 Dan Scott
+Rarity:	 Rare
+
+Name:	Crossway Vampire
+Cost:	 1{R}{R}
+Type:	 Creature - Vampire
+Pow/Tgh:	 3/2
+Rules Text:	 When Crossway Vampire enters the battlefield, target creature can't block this turn.
+Illus.	 Mark Evans
+Rarity:	 Common
+Set Number:	 #135/264
+
+Name:	Curse of Stalked Prey
+Cost:	 1{R}
+Type:	 Enchantment - Aura Curse
+Rules Text:	 Enchant player
+Whenever a creature deals combat damage to enchanted player, put a +1/+1 counter on that creature.
+Flavor Text:	 "Innocent thorns can fill the air with your bloodscent. Don't stray from the path."
+--Elmut, crossway watcher
+Illus.	 Christopher Moeller
+Rarity:	 Rare
+Set Number:	 #136/264
+
+Name:	Curse of the Nightly Hunt
+Cost:	 2{R}
+Type:	 Enchantment - Aura Curse
+Rules Text:	 Enchant Player
+Creatures enchanted palyer controls attack each turn if able.
+Illus.	 Daarken
+Rarity:	 Uncommon
+Set Number:	 #137/264
+
+Name:	Curse of the Pierced Heart
+Cost:	 1{R}
+Type:	 Enchantment - Aura Curse
+Rules Text:	 Enchant Player
+At the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player.
+Illus.	 E.M. Gist
+Rarity:	 Common
+Set Number:	 #138/264
+
+Name:	Desperate Ravings
+Cost:	 1{R}
+Type:	 Instant
+Rules Text:	 Draw two cards, then discard a card at random.
+Flashback {2}{U}
+Illus.	 John Stanko
+Rarity:	 Uncommon
+Set Number:	 #139/264
+
+Name:	Devil's Play
+Cost:	 X{R}
+Type:	 Sorcery
+Rules Text:	 Devil's Play deals X damage to target creature or player.
+Flashback {X}{R}{R}{R}
+Flavor Text:	 A devil's hands are never idle.
+Illus.	 Austin Hsu
+Rarity:	 Rare
+
+Name:	Falkenrath Marauders
+Cost:	 3{R}{R}
+Type:	 Creature - Vampire Warrior
+Pow/Tgh:	 2/2
+Rules Text:	 Flying, haste
+Whenever Falkenrath Marauders deals combat damage to a player, put two +1/+1 counters on it.
+Rarity:	 Rare
+
+Name:	Feral Ridgewolf
+Cost:	 2{R}
+Type:	 Creature - Wolf
+Pow/Tgh:	 1/2
+Rules Text:	 Trample
+{1}{R}: Feral Ridgewolf gets +2/+0 until end of turn.
+Illus.	 Martina Pilcerova
+Rarity:	 Common
+Set Number:	 #142/264
+
+Name:	Furor of the Bitten
+Cost:	 {R}
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +2/+2 and attacks each turn if able.
+Illus.	 Randy Gallegos
+Rarity:	 Common
+Set Number:	 #143/264
+
+Name:	Geistflame
+Cost:	 {R}
+Type:	 Instant
+Rules Text:	 Geistflame deals 1 damage to target creature or player.
+Flashback {3}{R}
+Illus.	 Scott Chou
+Rarity:	 Common
+Set Number:	 #144/264
+
+Name:	Hanweir Watchkeep
+Cost:	 2{R}
+Type:	 Creature - Human Warrior Werewolf // Creature Werewolf
+Pow/Tgh:	 1/5 // 5/5
+Rules Text:	 Defender
+At the beginning of each upkeep, if no spells were cast last turn, transform Hanweir Watchkeep.
+//
+Bane of Hanweir attacks each turn if able
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Bane of Hanweir.
+Flavor Text:	 He scans for wolves, knowing there's one he can never anticipate.
+//
+Technically he never left his post. He looks after the wolf wherever it goes.
+Illus.	 Wayne Reynolds
+Rarity:	 Uncommon
+
+Name:	Bane of Hanweir
+Cost:	 2{R}
+Type:	 Creature - Human Warrior Werewolf // Creature Werewolf
+Pow/Tgh:	 1/5 // 5/5
+Rules Text:	 Defender
+At the beginning of each upkeep, if no spells were cast last turn, transform Hanweir Watchkeep.
+//
+Bane of Hanweir attacks each turn if able
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Bane of Hanweir.
+Flavor Text:	 He scans for wolves, knowing there's one he can never anticipate.
+//
+Technically he never left his post. He looks after the wolf wherever it goes.
+Illus.	 Wayne Reynolds
+Rarity:	 Uncommon
+
+Name:	Harvest Pyre
+Cost:	 1{R}
+Type:	 Instant
+Rules Text:	 As an additional cost to cast Harvest Pyre, exile X cards from your graveyard.
+Harvest Pyre deals X damage to target creature.
+Illus.	 Ryan Yee
+Rarity:	 Common
+Set Number:	 #146/264
+
+Name:	Heretic's Punishment
+Cost:	 4{R}
+Type:	 Enchantment
+Rules Text:	 {3}{R}: Chose target creature or player, then put the top 3 cards of your library into your graveyard. Heretic's Punishment deals damage to that creature or player equal to the highest converted mana cost among those cards.
+Illus.	 Vincent Proce
+Rarity:	 Rare
+Set Number:	 #147/264
+
+Name:	Infernal Plunge
+Cost:	 {R}
+Type:	 Sorcery
+Rules Text:	 As an additional cost to cast Infernal Plunge, sacrifice a creature.
+Add {R}{R}{R} to your mana pool.
+Illus.	 Daarken
+Rarity:	 Common
+Set Number:	 #148/264
+
+Name:	Instigator Gang
+Cost:	 3{R}
+Type:	 Creature - Human Werewolf // Creature - Werewolf
+Pow/Tgh:	 2/3 // 5/5
+Rules Text:	 Attacking creatures you control get +1/+0.
+At the beginning of each upkeep, if no spells were cast last turn, transform Instigator Gang.
+////////////
+Trample
+Attacking creatures you control get +3/+0.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Wildblood Pack.
+Illus.	 Greg Staples
+Rarity:	 Rare
+
+Name:	Wildblood Pack
+Cost:	 3{R}
+Type:	 Creature - Human Werewolf // Creature - Werewolf
+Pow/Tgh:	 2/3 // 5/5
+Rules Text:	 Attacking creatures you control get +1/+0.
+At the beginning of each upkeep, if no spells were cast last turn, transform Instigator Gang.
+////////////
+Trample
+Attacking creatures you control get +3/+0.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Wildblood Pack.
+Illus.	 Greg Staples
+Rarity:	 Rare
+
+Name:	Into the Maw of Hell
+Cost:	 4{R}{R}
+Type:	 Sorcery
+Rules Text:	 Destroy target land. Into the Maw of Hell deals 13 damage to target creature.
+Illus.	 Raymond Swanland
+Rarity:	 Uncommon
+
+Name:	Kessig Wolf
+Cost:	 2{R}
+Type:	 Creature - Wolf
+Pow/Tgh:	 3/1
+Rules Text:	 {1}{R}: Kessig Wolf gains first strike until end of turn.
+Illus.	 Wayne Reynolds
+Rarity:	 Common
+Set Number:	 #151/264
+
+Name:	Kruin Outlaw
+Cost:	 1{R}{R}
+Type:	 Creature - Human Rogue Werewolf // Creature - Werewolf
+Pow/Tgh:	 2/2 // 3/3
+Rules Text:	 First strike
+At the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.
+////////////
+Double strike
+Each Werewolf you control can't be blocked except by two or more creatures.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass.
+Flavor Text:	 "Hold tight. I've got a surprise for them."
+Illus.	 David Rapoza
+Rarity:	 Rare
+
+Name:	Terror of Kruin Pass
+Cost:	 1{R}{R}
+Type:	 Creature - Human Rogue Werewolf // Creature - Werewolf
+Pow/Tgh:	 2/2 // 3/3
+Rules Text:	 First strike
+At the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.
+////////////
+Double strike
+Each Werewolf you control can't be blocked except by two or more creatures.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass.
+Flavor Text:	 "Hold tight. I've got a surprise for them."
+Illus.	 David Rapoza
+Rarity:	 Rare
+
+Name:	Night Revelers
+Cost:	 4{R}
+Type:	 Creature - Vampire
+Pow/Tgh:	 4/4
+Rules Text:	 Night Revelers has haste as long as an opponent controls a human.
+Illus.	 Steve Argyle
+Rarity:	 Common
+Set Number:	 #153/264
+
+Name:	Nightbird's Clutches
+Cost:	 1{R}
+Type:	 Sorcery
+Rules Text:	 Up to two target creatures can't block this turn.
+Flashback {3}{R}
+Illus.	 Jason A. Engle
+Rarity:	 Common
+Set Number:	 #154/264
+
+Name:	Past in Flames
+Cost:	 3{R}
+Type:	 Sorcery
+Rules Text:	 Each instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
+Flashback {4}{R}
+Illus.	 Anthony Jones
+Rarity:	 Mythic Rare
+Set Number:	 #155/264
+
+Name:	Pitchburn Devils
+Cost:	 4{R}
+Type:	 Creature - Devil
+Pow/Tgh:	 3/3
+Rules Text:	 When Pitchburn Devils dies, it deals 3 damage to target creature or player.
+Illus.	 Johann Bodin
+Rarity:	 Common
+Set Number:	 #156/264
+
+Name:	Rage Thrower
+Cost:	 5{R}
+Type:	 Creature - Human Shaman
+Pow/Tgh:	 4/2
+Rules Text:	 Whenever another creature dies, Rage Thrower deals 2 damage to target player.
+Illus.	 Peter Mohrbacher
+Rarity:	 Uncommon
+Set Number:	 #157/264
+
+Name:	Rakish Heir
+Cost:	 2{R}
+Type:	 Creature - Vampire
+Pow/Tgh:	 2/2
+Rules Text:	 Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it.
+Illus.	 Winona Nelson
+Rarity:	 Uncommon
+Set Number:	 #158/264
+
+Name:	Reckless Waif
+Cost:	 {R}
+Type:	 Creature - Human Rogue Werewolf
+Pow/Tgh:	 1/1 // 3/2
+Rules Text:	 At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif
+//
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator.
+Illus.	 Michael C. Hayes
+Rarity:	 Uncommon
+Set Number:	 #159/264
+
+Name:	Merciless Predator
+Cost:	 {R}
+Type:	 Creature - Human Rogue Werewolf
+Pow/Tgh:	 1/1 // 3/2
+Rules Text:	 At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif
+//
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator.
+Illus.	 Michael C. Hayes
+Rarity:	 Uncommon
+Set Number:	 #159/264
+
+Name:	Riot Devils
+Cost:	 2{R}
+Type:	 Creature - Devil
+Pow/Tgh:	 2/3
+Illus.	 Svetlin Velinov
+Rarity:	 Common
+Set Number:	 #160/264
+
+Name:	Rolling Temblor
+Cost:	 2{R}
+Type:	 Sorcery
+Rules Text:	 Rolling Temblor deals 2 damage to each creature without flying.
+Flashback {4}{R}{R}
+Illus.	 Cliff Childs
+Rarity:	 Uncommon
+Set Number:	 #161/264
+
+Name:	Scourge of Geier Reach
+Cost:	 3{R}{R}
+Type:	 Creature - Elemental
+Pow/Tgh:	 3/3
+Rules Text:	 Scourge of Geier Reach gets +1/+1 for each creature your opponents control.
+Flavor Text:	 Stensian villagers mourned the loss of human life. Thraben vampire slayers mourned the loss of living wood.
+Illus.	 Jung Park
+Rarity:	 Uncommon
+
+Name:	Skirsdag Cultist
+Cost:	 2{R}{R}
+Type:	 Creature - Human Shaman
+Pow/Tgh:	 2/2
+Rules Text:	 {R}, {T}, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player.
+Flavor Text:	 "Within blood is life. Within life is fire. Within fire is the path to our master's glory!"
+Illus.	 Slawomir Maniak
+Rarity:	 Uncommon
+Set Number:	 #163/264
+
+Name:	Stromkirk Noble
+Cost:	 R
+Type:	 Creature - Vampire
+Pow/Tgh:	 1/1
+Rules Text:	 Stromkirk Noble can't be blocked by Humans.
+When Stromkirk Noble deals combat damage to a player, put a +1/+1 counter on it.
+Flavor Text:	 "A responsible king walks among his subjects."
+Illus.	 James Ryman
+Rarity:	 Rare
+Set Number:	 #164/264
+
+Name:	Tormented Pariah
+Cost:	 3{R}
+Type:	 Creature - Human Warrior Werewolf // Creatue - Werewolf
+Pow/Tgh:	 3/2 // 6/4
+Rules Text:	 At the beginning of each upkeep, if no spells were cast last turn, transform Tormented Pariah.
+////////////
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Rampaging Werewolf.
+Illus.	 Bud Cook
+Rarity:	 Common
+Set Number:	 #165/264
+
+Name:	Rampaging Werewolf
+Cost:	 3{R}
+Type:	 Creature - Human Warrior Werewolf // Creatue - Werewolf
+Pow/Tgh:	 3/2 // 6/4
+Rules Text:	 At the beginning of each upkeep, if no spells were cast last turn, transform Tormented Pariah.
+////////////
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Rampaging Werewolf.
+Illus.	 Bud Cook
+Rarity:	 Common
+Set Number:	 #165/264
+
+Name:	Traitorous Blood
+Cost:	 1{R}{R}
+Type:	 Sorcery
+Rules Text:	 Gain control of target creature until end of turn. Untap it. It gains trample and haste until end of turn.
+Illus.	 Raymond Swanland
+Rarity:	 Common
+Set Number:	 #166/264
+
+Name:	Vampiric Fury
+Cost:	 1{R}
+Type:	 Instant
+Rules Text:	 Vampire creatures you control get +2/+0 and gain first strike until end of turn.
+Flavor Text:	 Many peasants secretly admire vampires' galmour and elegance-until they witness a moment of pure bloodlust.
+Illus.	 Matt Stewart
+Rarity:	 Common
+Set Number:	 #167/264
+
+Name:	Village Ironsmith
+Cost:	 1{R}
+Type:	 Creature - Human Werewolf // Creature - Werewolf
+Pow/Tgh:	 1/1 // 3/1
+Rules Text:	 First strike
+At the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.
+////////////
+First strike
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang.
+Flavor Text:	 Each night, he abandons the trappings of civilization.
+////////////
+Each morning, he repairs the front door.
+Illus.	 Christopher Moeller
+Rarity:	 Common
+Set Number:	 #168/264
+
+Name:	Ironfang
+Cost:	 1{R}
+Type:	 Creature - Human Werewolf // Creature - Werewolf
+Pow/Tgh:	 1/1 // 3/1
+Rules Text:	 First strike
+At the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.
+////////////
+First strike
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang.
+Flavor Text:	 Each night, he abandons the trappings of civilization.
+////////////
+Each morning, he repairs the front door.
+Illus.	 Christopher Moeller
+Rarity:	 Common
+Set Number:	 #168/264
+
+Name:	Ambush Viper
+Cost:	 1{G}
+Type:	 Creature - Snake
+Pow/Tgh:	 2/1
+Rules Text:	 Flash
+Deathtouch
+Illus.	 Alan Pollack
+Rarity:	 Common
+Set Number:	 #169/264
+
+Name:	Avacyn's Pilgrim
+Cost:	 {G}
+Type:	 Creature - Human Monk
+Pow/Tgh:	 1/1
+Rules Text:	 {T}: Add {W} to your mana pool.
+Flavor Text:	 "Avacyn's protection is everywhere. From the holy church to the sacred glade, all that we see is under her blessed watch."
+Illus.	 Jana Schirmer & Johannes Voss
+Rarity:	 Common
+Set Number:	 #170/264
+
+Name:	Boneyard Wurm
+Cost:	 1{G}
+Type:	 Creature - Wurm
+Pow/Tgh:	 */*
+Rules Text:	 Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.
+Flavor Text:	 The only thing it likes more than discovering a pit of bones is adding to it.
+Illus.	 Jaime Jones
+Rarity:	 Uncommon
+Set Number:	 #171/264
+
+Name:	Bramblecrush
+Cost:	 2{G}{G}
+Type:	 Sorcery
+Rules Text:	 Destroy target noncreature permanent.
+Illus.	 Drew Baker
+Rarity:	 Uncommon
+Set Number:	 #172/264
+
+Name:	Caravan Vigil
+Cost:	 {G}
+Type:	 Sorcery
+Rules Text:	 Search your library for a basic land card, reveal it, put it into your hand then shuffle your library.
+Morbid - You may put that card onto the battlefield instead of putting it into your hand if a creature died this turn.
+Illus.	 Drew Baker
+Rarity:	 Common
+Set Number:	 #173/264
+
+Name:	Creeping Renaissance
+Cost:	 3{G}{G}
+Type:	 Sorcery
+Rules Text:	 Choose a permanent type. Return all cards of the chosen type from your graveyard to your hand.
+Flashback {5}{G}{G}
+Illus.	 Tomasz Jedruszek
+Rarity:	 Rare
+Set Number:	 #174/264
+
+Name:	Darkthicket Wolf
+Cost:	 1{G}
+Type:	 Creature - Wolf
+Pow/Tgh:	 2/2
+Rules Text:	 {2}{G}: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.
+Illus.	 Wayne England
+Rarity:	 Common
+Set Number:	 #175/264
+
+Name:	Daybreak Ranger
+Cost:	 2{G}
+Type:	 Creature - Human Archer Werewolf // Creature - Werewolf
+Pow/Tgh:	 2/2 // 4/4
+Rules Text:	 {T}: Daybreak Ranger deals 2 damage to target creature with flying.
+At the beginning of each upkeep, if no spells were cast last turn, transform Daybreak Ranger.
+////////////
+{R}, {T}: Nightfall Predator fights target creature. (Each deals damage equal to its power to the other.)
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Nightfall Predator.
+Illus.	 Steve Prescott
+Rarity:	 Rare
+Set Number:	 #176/264
+
+Name:	 Nightfall Predator
+Cost:	 2{G}
+Type:	 Creature - Human Archer Werewolf // Creature - Werewolf
+Pow/Tgh:	 2/2 // 4/4
+Rules Text:	 {T}: Daybreak Ranger deals 2 damage to target creature with flying.
+At the beginning of each upkeep, if no spells were cast last turn, transform Daybreak Ranger.
+////////////
+{R}, {T}: Nightfall Predator fights target creature. (Each deals damage equal to its power to the other.)
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Nightfall Predator.
+Illus.	 Steve Prescott
+Rarity:	 Rare
+Set Number:	 #176/264
+
+Name:	Elder of Laurels
+Cost:	 2{G}
+Type:	 Creature - Human Advisor
+Pow/Tgh:	 2/3
+Rules Text:	 {3}{G}: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.
+Illus.	 Terese Nielsen
+Rarity:	 Rare
+Set Number:	 #177/264
+
+Name:	Essence of the Wild
+Cost:	 3{G}{G}{G}
+Type:	 Creature - Avatar
+Pow/Tgh:	 6/6
+Rules Text:	 Creatures you control enter the battlefield as a copy of Essence of the Wild.
+Flavor Text:	 Wander too far into the wild and it may take you for its own.
+Illus.	 Terese Nielsen
+Rarity:	 Mythic Rare
+Set Number:	 #178/264
+
+Name:	Festerhide Boar
+Cost:	 3{G}
+Type:	 Creature - Boar
+Pow/Tgh:	 3/3
+Rules Text:	 Trample
+Morbid - Festerhide Board enters the battlefield with two +1/+1 counters on it if a creature died this turn.
+Illus.	 Nils Hamm
+Rarity:	 Common
+Set Number:	 #179/264
+
+Name:	Full Moon's Rise
+Cost:	 1{G}
+Type:	 Enchantment
+Rules Text:	 Werewolf creatures you control get +1/+0 and have trample.
+Sacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control.
+Illus.	 Terese Nielsen
+Rarity:	 Uncommon
+Set Number:	 #180/264
+
+Name:	Garruk Relentless
+Cost:	 3G
+Type:	 Planeswalker - Garruk
+Pow/Tgh:	 3
+Rules Text:	 When Garruk Relentless has two or fewer loyalty counters on him, transform him.
+0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him
+0: Put a 2/2 green Wolf creature token onto the battlefield.
+//
+{bg}
++1 : Put a 1/1 black Wolf creature token with deathtouch onto the battlefield.
+-1 : Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
+-3 : Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.
+Illus.	 Eric Deschamps
+Rarity:	 Mythic Rare
+Set Number:	 #181/264
+
+Name:	Garruk, the Veil-Cursed
+Cost:	 3G
+Type:	 Planeswalker - Garruk
+Pow/Tgh:	 3
+Rules Text:	 When Garruk Relentless has two or fewer loyalty counters on him, transform him.
+0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him
+0: Put a 2/2 green Wolf creature token onto the battlefield.
+//
+{bg}
++1 : Put a 1/1 black Wolf creature token with deathtouch onto the battlefield.
+-1 : Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
+-3 : Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.
+Illus.	 Eric Deschamps
+Rarity:	 Mythic Rare
+Set Number:	 #181/264
+
+Name:	Gatstaf Shepherd
+Cost:	 1{G}
+Type:	 Creature - Human Werewolf // Creature - Werewolf
+Pow/Tgh:	 2/2 // 3/3
+Rules Text:	 At the beginning of each upkeep, if no spells were cast last turn, transform Gastaf Shepherd.
+////////////
+Intimidate
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Gastaf Howler.
+Flavor Text:	 "What's worse than a wolf in sheep's clothing?"
+-Wolfhunter's riddle
+Illus.	 Mark Evans
+Rarity:	 Uncommon
+Set Number:	 #182/264
+
+Name:	 Gatstaf Howler
+Cost:	 1{G}
+Type:	 Creature - Human Werewolf // Creature - Werewolf
+Pow/Tgh:	 2/2 // 3/3
+Rules Text:	 At the beginning of each upkeep, if no spells were cast last turn, transform Gastaf Shepherd.
+////////////
+Intimidate
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Gastaf Howler.
+Flavor Text:	 "What's worse than a wolf in sheep's clothing?"
+-Wolfhunter's riddle
+Illus.	 Mark Evans
+Rarity:	 Uncommon
+Set Number:	 #182/264
+
+Name:	Gnaw to the Bone
+Cost:	 2{G}
+Type:	 Instant
+Rules Text:	 You gain 2 life for each creature card in your graveyard.
+Flashback {2}{G}
+Illus.	 Scott Chou
+Rarity:	 Common
+Set Number:	 #183/264
+
+Name:	Grave Bramble
+Cost:	 1{G}{G}
+Type:	 Creature - Plant
+Pow/Tgh:	 3/4
+Rules Text:	 Defender, protection from Zombies
+Flavor Text:	 Nature abhors a zombie.
+Illus.	 Anthony Jones
+Rarity:	 Common
+Set Number:	 #184/264
+
+Name:	Grizzled Outcasts
+Cost:	 4{G}
+Type:	 Creature - Human Werewolf // Creature - Werewolf
+Pow/Tgh:	 4/4 // 7/7
+Rules Text:	 At the beginning of each upkeep, if no spells were cast last turn, transform Grizzled Outcasts.
+---
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons.
+Illus.	 Randy Gallegos
+Rarity:	 Common
+
+Name:	 Krallenhorde Wantons
+Cost:	 4{G}
+Type:	 Creature - Human Werewolf // Creature - Werewolf
+Pow/Tgh:	 4/4 // 7/7
+Rules Text:	 At the beginning of each upkeep, if no spells were cast last turn, transform Grizzled Outcasts.
+---
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons.
+Illus.	 Randy Gallegos
+Rarity:	 Common
+
+Name:	Gutter Grime
+Cost:	 4{G}
+Type:	 Enchantment
+Rules Text:	 Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then put a green Ooze token onto the battlefield with "This creature's power and toughness are each equal to the number of slime counters on Gutter Grime."
+Illus.	 Erica Yang
+Rarity:	 Rare
+Set Number:	 #186/264
+
+Name:	Hamlet Captain
+Cost:	 1{G}
+Type:	 Creature - Human Warrior
+Pow/Tgh:	 2/2
+Rules Text:	 Whenever Hamlet Captain attacks or blocks, other Human creatures you control get +1/+1 until end of turn
+Illus.	 Wayne Reynolds
+Rarity:	 Uncommon
+Set Number:	 #187/264
+
+Name:	Hollowhenge Scavenger
+Cost:	 3{G}{G}
+Type:	 Creature - Elemental
+Pow/Tgh:	 4/5
+Rules Text:	 Morbid - When Hollowhenge Scavenger enters the battlefield, if a creature died this turn, you gain 5 life.
+Flavor Text:	 After werewolves slaughtered the citizenry of Hollowhenge, other creatures moved in.
+Rarity:	 Uncommon
+Set Number:	 #188/264
+
+Name:	Kessig Cagebreakers
+Cost:	 4{G}
+Type:	 Creature - Human Rogue
+Pow/Tgh:	 3/4
+Rules Text:	 Whenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.
+Flavor Text:	 "They put bars on these noble beasts and then wonder why werewolves target our towns."
+Illus.	 Wayne England
+Rarity:	 Rare
+Set Number:	 #189/264
+
+Name:	Kindercatch
+Cost:	 3{G}{G}{G}
+Type:	 Creature - Spirit
+Pow/Tgh:	 6/6
+Illus.	 Terese Nielsen
+Rarity:	 Common
+Set Number:	 #190/264
+
+Name:	Lumberknot
+Cost:	 2{G}{G}
+Type:	 Creature - Treefolk
+Pow/Tgh:	 1/1
+Rules Text:	 Hexproof
+Whenever a creature dies, put a +1/+1 counter on Lumberknot.
+Illus.	 Jason A. Engle
+Rarity:	 Uncommon
+Set Number:	 #191/264
+
+Name:	Make a Wish
+Cost:	 3{G}
+Type:	 Sorcery
+Rules Text:	 Return two cards at random from your graveyard to your hand.
+Illus.	 Howard Lyon
+Rarity:	 Uncommon
+Set Number:	 #192/264
+
+Name:	Mayor of Avabruck
+Cost:	 1{G}
+Type:	 Creature - Human Advisor Werewolf // Creature - Werewolf
+Pow/Tgh:	 1/1 // 3/3
+Rules Text:	 Other Human creatures you control get +1/+1.
+At the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck.
+////////////
+Other Werewolf and Wolf creatures you control get +1/+1.
+At the beginning of your end step, put a 2/2 green Wolf creature token onto the battlefield.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha.
+Flavor Text:	 He can deny his true nature for only so long.
+Illus.	 Svetlin Velinov
+Rarity:	 Rare
+Set Number:	 #193/264
+
+Name:	 Howlpack Alpha
+Cost:	 1{G}
+Type:	 Creature - Human Advisor Werewolf // Creature - Werewolf
+Pow/Tgh:	 1/1 // 3/3
+Rules Text:	 Other Human creatures you control get +1/+1.
+At the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck.
+////////////
+Other Werewolf and Wolf creatures you control get +1/+1.
+At the beginning of your end step, put a 2/2 green Wolf creature token onto the battlefield.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha.
+Flavor Text:	 He can deny his true nature for only so long.
+Illus.	 Svetlin Velinov
+Rarity:	 Rare
+Set Number:	 #193/264
+
+Name:	Moldgraf Monstrosity
+Cost:	 4{G}{G}{G}
+Type:	 Creature - Insect
+Pow/Tgh:	 8/8
+Rules Text:	 Trample
+When Moldgraf Monstrosity dies, exile it, then return two creature cards at random from your graveyard to the battlefield
+Illus.	 Tomasz Jedruszek
+Rarity:	 Rare
+Set Number:	 #194/264
+
+Name:	Moonmist
+Cost:	 1{G}
+Type:	 Instant
+Rules Text:	 Transform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves.
+Illus.	 Ryan Yee
+Rarity:	 Common
+Set Number:	 #195/264
+
+Name:	Mulch
+Cost:	 1{G}
+Type:	 Sorcery
+Rules Text:	 Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.
+Illus.	 Christopher Moeller
+Rarity:	 Common
+Set Number:	 #196/264
+
+Name:	Naturalize
+Cost:	 1{G}
+Type:	 Instant
+Rules Text:	 Destroy target artifact or enchantment.
+Illus.	 Scott Chou
+Rarity:	 Common
+Set Number:	 #197/264
+
+Name:	Orchard Spirit
+Cost:	 2{G}
+Type:	 Creature - Spirit
+Pow/Tgh:	 2/2
+Rules Text:	 Orchard Spirit can't be blocked except by creatures with flying or reach.
+Illus.	 Howard Lyon
+Rarity:	 Common
+Set Number:	 #198/264
+
+Name:	Parallel Lives
+Cost:	 3{G}
+Type:	 Enchantment
+Rules Text:	 If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many tokens onto the battlefield instead.
+Illus.	 Steve Prescott
+Rarity:	 Rare
+Set Number:	 #199/264
+
+Name:	Prey Upon
+Cost:	 {G}
+Type:	 Sorcery
+Rules Text:	 Target creature you control fights target creature you don't control.
+Flavor Text:	 "You don't find many old werewolf hunters." 
+-Paulin, trapper of Somberwald
+Illus.	 Dave Kendall
+Rarity:	 Common
+Set Number:	 #200/264
+
+Name:	Ranger's Guile
+Cost:	 {G}
+Type:	 Instant
+Rules Text:	 Target creature you control gets +1/+1 and gains hexproof until end of turn.
+Illus.	 Steve Prescott
+Rarity:	 Common
+Set Number:	 #201/264
+
+Name:	Somberwald Spider
+Cost:	 4{G}
+Type:	 Creature - Spider
+Pow/Tgh:	 2/4
+Rules Text:	 Reach
+Morbid - Somerwald Spider enters the battlefield with two or +1/+1 counters on it if a creature died this turn.
+Illus.	 Volkan Baga
+Rarity:	 Common
+Set Number:	 #202/264
+
+Name:	Spider Spawning
+Cost:	 4{G}
+Type:	 Sorcery
+Rules Text:	 Put a 1/2 green Spider creature token with reach onto the battlefield for each creature card in your graveyard.
+Flashback {6}{B}
+Illus.	 Daniel Ljungren
+Rarity:	 Uncommon
+Set Number:	 #203/264
+
+Name:	Spidery Grasp
+Cost:	 2{G}
+Type:	 Instant
+Rules Text:	 Untap target creature. It gets +2/+4 and gains reach until end of turn.
+Flavor Text:	 "Nobody's seen the Lady of Videns for years. Poor dear, no companions at all in that old castle."
+- Yonda of Gavony
+Illus.	 James Ryman
+Rarity:	 Common
+Set Number:	 #204/264
+
+Name:	Splinterfright
+Cost:	 2{G}
+Type:	 Creature - Elemental
+Pow/Tgh:	 */*
+Rules Text:	 Trample
+Splinterfright's power and toughness are each equal to the number of creature cards in your graveyard
+At the beginning of your upkeep, put the top two cards of your library into your graveyard.
+Illus.	 Eric Deschamps
+Rarity:	 Rare
+Set Number:	 #205/264
+
+Name:	Travel Preparations
+Cost:	 1{G}
+Type:	 Sorcery
+Rules Text:	 Put a +1/+1 counter on each of up to two target creatures.
+Flashback {1}{W}
+Flavor Text:	 Visiting a shrine at the start of a journey makes the traveler more likely to finish it.
+Rarity:	 Common
+Set Number:	 #206/264
+
+Name:	Tree of Redemption
+Cost:	 3{G}
+Type:	 Creature - Plant
+Pow/Tgh:	 0/13
+Rules Text:	 Defender
+{T}: Exchange your life total with Tree of Redemption's toughness.
+Illus.	 Vincent Proce
+Rarity:	 Mythic Rare
+Set Number:	 #207/264
+
+Name:	Ulvenwald Mystics
+Cost:	 2{G}{G}
+Type:	 Creature - Human Shaman Werewolf // Creature - Werewolf
+Pow/Tgh:	 3/3 // 5/5
+Rules Text:	 At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.
+//////////
+{G}: Regenerate Ulvenwald Primordials.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials.
+Illus.	 Dan Scott
+Rarity:	 Uncommon
+Set Number:	 #208/264
+
+Name:	 Ulvenwald Primordials
+Cost:	 2{G}{G}
+Type:	 Creature - Human Shaman Werewolf // Creature - Werewolf
+Pow/Tgh:	 3/3 // 5/5
+Rules Text:	 At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.
+//////////
+{G}: Regenerate Ulvenwald Primordials.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials.
+Illus.	 Dan Scott
+Rarity:	 Uncommon
+Set Number:	 #208/264
+
+Name:	Villagers of Estwald
+Cost:	 2{G}
+Type:	 Creature - Human Werewolf // Creature - Werewolf
+Pow/Tgh:	 2/3 // 4/6
+Rules Text:	 At the beginning of each upkeep, if no spells were cast last turn, transform Villagers of Estwald.
+//
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack of Estwald.
+Illus.	 Kev Walker
+Rarity:	 Common
+Set Number:	 #209a/264
+
+Name:	 Howlpack of Estwald
+Cost:	 2{G}
+Type:	 Creature - Human Werewolf // Creature - Werewolf
+Pow/Tgh:	 2/3 // 4/6
+Rules Text:	 At the beginning of each upkeep, if no spells were cast last turn, transform Villagers of Estwald.
+//
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack of Estwald.
+Illus.	 Kev Walker
+Rarity:	 Common
+Set Number:	 #209a/264
+
+Name:	Woodland Sleuth
+Cost:	 3{G}
+Type:	 Creature - Human Scout
+Pow/Tgh:	 2/3
+Rules Text:	 Morbid - When Woodland Sleuth enters the battlefield, if a creature died this turn, return a creature card at random from your graveyard to your hand.
+Flavor Text:	 "Whatever did this is near. Death reversion has not yet occurred. Be Alert!"
+Illus.	 Tomasz Jedruszek
+Rarity:	 Common
+Set Number:	 #210/264
+
+Name:	Wreath of Geists
+Cost:	 {G}
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +X/+X, where X is the number of creature cards in your graveyard.
+Flavor Text:	 Before you travel the woods of Kessig, get permission from those who died trying.
+Illus.	 Jason A. Engle
+Rarity:	 Uncommon
+Set Number:	 #211/264
+
+Name:	Evil Twin
+Cost:	 2{U}{B}
+Type:	 Creature - Shapeshifter
+Pow/Tgh:	 0/0
+Rules Text:	 You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield except it gains "{U}{B}, {T}: Destroy target creature with the same name as this creature.
+Flavor Text:	 You can always tell the evil one by the dagger he's sticking in you.
+Illus.	 Greg Staples
+Rarity:	 Rare
+Set Number:	 #212/264
+
+Name:	Geist of Saint Traft
+Cost:	 1{W}{U}
+Type:	 Legendary Creature - Spirit Cleric
+Pow/Tgh:	 2/2
+Rules Text:	 Hexproof
+Whenever Geist of Saint Traft attacks, put a 4/4 white Angel creature token with flying onto the battlefield tapped and attacking. Exile that token at the end of combat
+Illus.	 Igor Kieryluk
+Rarity:	 Mythic Rare
+Set Number:	 #213/264
+
+Name:	Grimgrin, Corpse-Born
+Cost:	 3{U}{B}
+Type:	 Legendary Creature - Zombie Warrior
+Pow/Tgh:	 5/5
+Rules Text:	 Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step.
+Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.
+Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.
+Illus.	 Peter Mohrbacher
+Rarity:	 Mythic Rare
+Set Number:	 #214/264
+
+Name:	Olivia Voldaren
+Cost:	 2{B}{R}
+Type:	 Legendary Creature - Vampire
+Pow/Tgh:	 3/3
+Rules Text:	 Flying
+{1}{R}: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren.
+{3}{B}{B}: Gain control of target Vampire for as long as you control Olivia Voldaren.
+Illus.	 Eric Deschamps
+Rarity:	 Mythic Rare
+Set Number:	 #215/264
+
+Name:	Blazing Torch
+Cost:	 1
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature can't be blocked by Vampires or Zombies.
+Equipped creature has "{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player."
+Equip {1}
+Rarity:	 Common
+Set Number:	 #216/264
+
+Name:	Butcher's Cleaver
+Cost:	 3
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature gets +3/+0.
+As long as equipped creature is a Human, it has lifelink.
+Equip {3}
+Illus.	 Jason Felix
+Rarity:	 Uncommon
+Set Number:	 #217/264
+
+Name:	Cellar Door
+Cost:	 2
+Type:	 Artifact
+Rules Text:	 {3},{T}: Target player puts the bottom card of his or her library into his or her graveyard. If it's a creature card, you put a 2/2 black Zombie creature token onto the battlefield.
+Flavor Text:	 As if anyone needed another reason to avoid dark, dank cellars.
+Illus.	 Rob Alexander
+Rarity:	 Uncommon
+Set Number:	 #218/264
+
+Name:	Cobbled Wings
+Cost:	 2
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature has flying.
+Equip {1}
+Illus.	 Matt Stewart
+Rarity:	 Common
+Set Number:	 #219/264
+
+Name:	Creepy Doll
+Cost:	 5
+Type:	 Artifact Creature - Construct
+Pow/Tgh:	 1/1
+Rules Text:	 Creepy Doll is indestructible.
+Whenever Creepy Doll deals combat damage to a creature, flip a coin. If you win the flip, destroy that creature.
+Flavor Text:	 A child's porcelain doll went missing one night, as did a pair of kitchen shears and the town magistrate.
+Illus.	 Matt Stewart
+Rarity:	 Rare
+Set Number:	 #220/264
+
+Name:	Demonmail Hauberk
+Cost:	 4
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature gets +4/+2.
+Equip - Sacrifice a creature.
+Illus.	 Jason Felix
+Rarity:	 Uncommon
+Set Number:	 #221/264
+
+Name:	Galvanic Juggernaut
+Cost:	 4
+Type:	 Artifact Creature - Juggernaut
+Pow/Tgh:	 5/5
+Rules Text:	 Galvanic Juggernaut attacks each turn if able.
+Galvanic Juggernaut doesn't untap during your untap step.
+Whenever another creature dies, untap Galvanic Juggernaut.
+Illus.	 Lucas Graciano
+Rarity:	 Uncommon
+Set Number:	 #222/264
+
+Name:	Geistcatcher's Rig
+Cost:	 6
+Type:	 Artifact Creature - Construct
+Pow/Tgh:	 4/5
+Rules Text:	 When Geistcatcher's Rig enters the battlefield, you may have it deal 4 damage to target creature with flying.
+Illus.	 Vincent Proce
+Rarity:	 Uncommon
+Set Number:	 #223/264
+
+Name:	Ghoulcaller's Bell
+Cost:	 1
+Type:	 Artifact
+Rules Text:	 {T}: Each player puts the top card of his or her library into his or her graveyard.
+Illus.	 Lars Grant-West
+Rarity:	 Common
+Set Number:	 #224/264
+
+Name:	Graveyard Shovel
+Cost:	 2
+Type:	 Artifact
+Rules Text:	 {2}, {T}: Target player exiles a card from his or her graveyard. If it's a creature card, you gain 2 life.
+Illus.	 Martina Pilcerova
+Rarity:	 Uncommon
+Set Number:	 #225/264
+
+Name:	Grimoire of the Dead
+Cost:	 4
+Type:	 Legendary Artifact
+Rules Text:	 {1}, {T}, Discard a card: Put a study counter on Grimoire of the Dead.
+{T}, Remove three study counters from Grimoire of the Dead and sacrifice it: Put all creature cards in all graveyards onto the battlefield under your control. They are black Zombies in addition to their other colors and types.
+Rarity:	 Mythic Rare
+
+Name:	Inquisitor's Flail
+Cost:	 2
+Type:	 Artifact - Equipment
+Rules Text:	 If equipped creature would deal combat damage, it deals double that damage instead.
+If another creature would deal combat damage to equipped creature, it deals double that damage to equipped creature instead.
+Equip {2}
+Illus.	 Rob Alexander
+Rarity:	 Uncommon
+Set Number:	 #227/264
+
+Name:	Manor Gargoyle
+Cost:	 5
+Type:	 Artifact Creature - Gargoyle
+Pow/Tgh:	 4/4
+Rules Text:	 Defender
+Manor Gargoyle is indestructible as long as it has defender.
+{1}: Until end of turn, Manor Gargoyle loses defender and gains flying.
+Illus.	 Matt Stewart
+Rarity:	 Rare
+Set Number:	 #228/264
+
+Name:	Mask of Avacyn
+Cost:	 2
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature gets +1/+2 and has hexproof.
+Equip {3}
+Illus.	 James Paick
+Rarity:	 Uncommon
+Set Number:	 #229/264
+
+Name:	One-Eyed Scarecrow
+Cost:	 3
+Type:	 Artifact Creature - Scarecrow
+Pow/Tgh:	 2/3
+Rules Text:	 Defender
+Creatures with flying your opponents control get -1/-0.
+Illus.	 David Kendall
+Rarity:	 Common
+Set Number:	 #230/264
+
+Name:	Runechanter's Pike
+Cost:	 2
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature has first strike and gets +X/+0 where X is the number of instant and sorcery cards in your graveyard.
+Equip {2}
+Illus.	 John Avon
+Rarity:	 Rare
+Set Number:	 #231/264
+
+Name:	Sharpened Pitchfork
+Cost:	 2
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature has first strike.
+As long as equipped creature is a Human, it gets +1/+1.
+Equip {1}
+Illus.	 Winona Nelson
+Rarity:	 Common
+Set Number:	 #233/264
+
+Name:	Silver-Inlaid Dagger
+Cost:	 1
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature gets +2/+0
+As long as equipped creature is a Human, it gets and additional +1/+0
+Equip {2}
+Illus.	 Austin Hsu
+Rarity:	 Uncommon
+Set Number:	 #233/264
+
+Name:	Traveler's Amulet
+Cost:	 1
+Type:	 Artifact
+Rules Text:	 {1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+Illus.	 Alan Pollack
+Rarity:	 Common
+Set Number:	 #234/264
+
+Name:	Trepanation Blade
+Cost:	 3
+Type:	 Artifact - Equipment
+Rules Text:	 Whenever equipped creature attacks, defending player reveals cards from the top of his or her library until he or she reveals a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into his or her graveyard.
+Equip {2}
+Illus.	 Daniel Ljunggren
+Rarity:	 Uncommon
+Set Number:	 #235/264
+
+Name:	Witchbane Orb
+Cost:	 4
+Type:	 Artifact
+Rules Text:	 When Witchbane Orb enters the battlefield, destroy all Curses attached to you.
+You have hexproof.
+Illus.	 John Avon
+Rarity:	 Rare
+Set Number:	 #236/264
+
+Name:	Wooden Stake
+Cost:	 2
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature gets +1/+0.
+Whenever equipped creature blocks or becomes blocked by a Vampire, destroy that creature. It can't be regenerated.
+Equip {1}
+Illus.	 David Palumbo
+Rarity:	 Common
+Set Number:	 #237/264
+
+Name:	Clifftop Retreat
+Type:	 Land
+Rules Text:	 Clifftop Retreat enters the battlefield tapped unless you control a Mountain or Plains.
+{T}: Add {R} or {W} to your mana pool.
+Flavor Text:	 Where cathars learn to fight not only demons and vampires, but but ignorance as well.
+Illus.	 John Avon
+Rarity:	 Rare
+Set Number:	 #238/264
+
+Name:	Gavony Township
+Type:	 Land
+Rules Text:	 {T}: Add {1} to your mana pool.
+{2}{G}{W}, {T}: Put a +1/+1 counter on each creature you control.
+Illus.	 Peter Mohrbacher
+Rarity:	 Rare
+Set Number:	 #239/264
+
+Name:	Ghost Quarter
+Type:	 Land
+Rules Text:	 {T}: Add {1} to your mana pool.
+{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her llibrary for a basic land card, put it onto the battlefield, then shuffle his or her library.
+Flavor Text:	 Deserted, but not uninhabited.
+Illus.	 Peter Mohrbacher
+Rarity:	 Uncommon
+Set Number:	 #240/264
+
+Name:	Hinterland Harbor
+Type:	 Land
+Rules Text:	 Hinterland Harbor enters the battlefield tapped unless you control a Forest or Island.
+{T}: Add {G} or {U} to your mana pool.
+Flavor Text:	 In places where the sea meets the trees, it's easy to forget the darkness that rules most of Innistrad.
+Illus.	 Karl Kopinski
+Rarity:	 Rare
+Set Number:	 #241/264
+
+Name:	Isolated Chapel
+Type:	 Land
+Rules Text:	 Isolated Chapel enters the battlefield tapped unless you control a Plains or Swamp.
+{T}: Add {W} or {B} to your mana pool.
+Flavor Text:	 Not every church is a place of faith.
+Illus.	 Cliff Childs
+Rarity:	 Rare
+Set Number:	 #242/264
+
+Name:	Kessig Wolf Run
+Type:	 Land
+Rules Text:	 {T}: Add {1} to your mana pool.
+{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.
+Flavor Text:	 When a werewolf changes for the first time, that first howl is said to echo through the wilds till moonset.
+Illus.	 Eytan Zana
+Rarity:	 Rare
+Set Number:	 #243/264
+
+Name:	Moorland Haunt
+Type:	 Land
+Rules Text:	 {T}: Add {1} to your mana pool.
+{W}{U}, {T}, Exile a creature card from your graveyard: Put a 1/1 white Spirit creature token with flying onto the battlefield.
+Illus.	 James Paick
+Rarity:	 Rare
+Set Number:	 #244/264
+
+Name:	Nephalia Drownyard
+Type:	 Land
+Rules Text:	 {T}: Add 1 to your mana pool.
+{1}{U}{B}, {T}: Target player puts the top three cards of his or her library into his or her graveyard.
+Flavor Text:	 "Some see a coastal disaster. I see a fully-stocked seagraf."
+-Jaadar, ghoulcaller of Nephalia
+Illus.	 Cliff Childs
+Rarity:	 Rare
+Set Number:	 #245/264
+
+Name:	Shimmering Grotto
+Type:	 Land
+Rules Text:	 {T}: Add {1} to your mana pool.
+{1}, {T}: Add one mana of any color to your mana pool.
+Illus.	 Cliff Childs
+Rarity:	 Common
+Set Number:	 #246/264
+
+Name:	Stensia Bloodhall
+Type:	 Land
+Rules Text:	 {T}: Add {1} to your mana pool.
+{3}{B}{R}, {T}: Stensia Bloodhall deals 2 damage to target player.
+Illus.	 John Avon
+Rarity:	 Rare
+Set Number:	 #247/264
+
+Name:	Sulfur Falls
+Type:	 Land
+Rules Text:	 Sulfur Falls enters the battlefield tapped unless you control an Island or Mountain.
+{T}: Add {U} or {R} to your mana pool.
+Flavor Text:	 Skirsdag cultists meet behind a waterfall's curtain and plot with demonic forces.
+Illus.	 Cliff Childs
+Rarity:	 Rare
+Set Number:	 #248/264
+
+Name:	Woodland Cemetery
+Type:	 Land
+Rules Text:	 Woodland Cemetery enters the battlefield tapped unless you control a Swamp or Forest.
+{T}: Add {B} or {G} to your mana pool.
+Flavor Text:	 Farmers cut the trees and buried their dead. The dead rose up and killed the farmers. The trees grew back and strangled the dead.
+Illus.	 Lars Grant-West
+Rarity:	 Rare
+Set Number:	 #249/264
+
+Name:	Plains
+Type:	 Basic Land - Plains
+Rarity:	 Basic Land
+Set Number:	 #250/264
+
+Name:	Plains
+Type:	 Basic Land - Plains
+Rarity:	 Basic Land
+Set Number:	 #251/264
+
+Name:	Plains
+Type:	 Basic Land - Plains
+Rarity:	 Basic Land
+Set Number:	 #252/264
+
+Name:	Island
+Type:	 Basic Land - Island
+Rarity:	 Basic Land
+Set Number:	 #253/264
+
+Name:	Island
+Type:	 Basic Land - Island
+Rarity:	 Basic Land
+Set Number:	 #254/264
+
+Name:	Island
+Type:	 Basic Land - Island
+Rarity:	 Basic Land
+Set Number:	 #255/264
+
+Name:	Swamp
+Type:	 Basic Land - Swamp
+Rarity:	 Basic Land
+Set Number:	 #256/264
+
+Name:	Swamp
+Type:	 Basic Land - Swamp
+Rarity:	 Basic Land
+Set Number:	 #257/264
+
+Name:	Swamp
+Type:	 Basic Land - Swamp
+Rarity:	 Basic Land
+Set Number:	 #258/264
+
+Name:	Mountain
+Type:	 Basic Land - Mountain
+Rarity:	 Basic Land
+Set Number:	 #259/264
+
+Name:	Mountain
+Type:	 Basic Land - Mountain
+Rarity:	 Basic Land
+Set Number:	 #260/264
+
+Name:	Mountain
+Type:	 Basic Land - Mountain
+Rarity:	 Basic Land
+Set Number:	 #261/264
+
+Name:	Forest
+Type:	 Basic Land - Forest
+Rarity:	 Basic Land
+Set Number:	 #262/264
+
+Name:	Forest
+Type:	 Basic Land - Forest
+Rarity:	 Basic Land
+Set Number:	 #263/264
+
+Name:	Forest
+Type:	 Basic Land - Forest
+Rarity:	 Basic Land
+Set Number:	 #264/264

@@ -1,0 +1,2140 @@
+Card Title:	Alabaster Dragon
+Color:		White
+Card Type:	Summon Creature
+Cost:		4WW
+Off./Def.:	4/4
+Card Text:	Flying
+		If Alabaster Dragon is put into your discard pile from
+		play, shuffle Alabaster Dragon back into your deck.
+Artist:		Ted Naifeh
+Rarity:		Rare
+
+Card Title:	Alluring Scent
+Color:		Green
+Card Type:	Sorcery
+Cost:		1GG
+Off./Def.:	n/a
+Card Text:	Choose any one creature. This turn, all creatures able
+		to intercept that creature do so.
+Artist:		Ted Naifeh
+Rarity:		Rare
+
+Card Title:	Anaconda
+Color:		Green
+Card Type:	Summon Creature
+Cost:		3G
+Off./Def.:	3/3
+Card Text:	Swampwalk (If defending player has any swamps in
+		play, Anaconda can't be intercepted.)
+Artist:		Andrew Robinson
+Rarity:		Uncommon
+
+Card Title:	Ancestral Memories
+Color:		Blue
+Card Type:	Sorcery
+Cost:		2UUU
+Off./Def.:	n/a
+Card Text:	Look at the top seven cards of your deck. Put two of
+		them into your hand and the rest into your discard
+		pile.
+Artist:		Dan Frazier
+Rarity:		Rare
+
+Card Title:	Angelic Blessing
+Color:		White
+Card Type:	Sorcery
+Cost:		2W
+Off./Def.:	n/a
+Card Text:	Any one creature gets +3[O]/+3[D] and gains flying until
+		the end of the turn.
+Artist:		DiTerlizzi
+Rarity:		Common
+
+Card Title:	Archangel
+Color:		White
+Card Type:	Summon Creature
+Cost:		5WW
+Off./Def.:	5/5
+Card Text:	Flying
+		Attacking doesn't cause Archangel to tap. 
+Artist:		Quinton Hoover
+Rarity:		Rare
+
+Card Title:	Ardent Militia
+Color:		White
+Card Type:	Summon Creature
+Cost:		4W
+Off./Def.:	2/5
+Card Text:	Attacking doesn't cause Ardent Militia to tap.
+Artist:		Mike Raabe
+Rarity:		Uncommon
+
+Card Title:	Armageddon
+Color:		White
+Card Type:	Sorcery
+Cost:		3W
+Off./Def.:	n/a
+Card Text:	Destroy all lands. (This includes your lands.)
+Artist:		John Avon
+Rarity:		Rare
+
+Card Title:	Armored Pegasus
+Color:		White
+Card Type:	Summon Creature
+Cost:		1W
+Off./Def.:	1/2
+Card Text:	Flying
+Artist:		Andrew Robinson
+Rarity:		Common
+
+Card Title:	Arrogant Vampire
+Color:		Black
+Card Type:	Summon Creature
+Cost:		3BB
+Off./Def.:	4/3
+Card Text:	Flying
+Artist:		Zina Saunders
+Rarity:		Uncommon
+
+Card Title:	Assassin's Blade
+Color:		Black
+Card Type:	Sorcery
+Cost:		1B
+Off./Def.:	n/a
+Card Text:	Play Assassin's Blade only after you're attacked,
+		before you declare interceptors.
+		Destroy any one attacking creature that isn't black.
+Artist:		John Matson
+Rarity:		Uncommon
+
+Card Title:	Balance of Power
+Color:		Blue
+Card Type:	Sorcery
+Cost:		3UU
+Off./Def.:	n/a
+Card Text:	If you have fewer cards in your hand than your
+		opponent does, draw until you have the same number.
+		(When you play Balance of Power, it doesn't count as
+		in your hand.)
+Artist:		Adam Rex
+Rarity:		Rare
+
+Card Title:	Baleful Stare
+Color:		Blue
+Card Type:	Sorcery
+Cost:		2U
+Off./Def.:	n/a
+Card Text:	Look at your opponent's hand. For each mountain
+		and red card there, you draw a card. (You draw from
+		your deck.)
+Artist:		John Coulthart
+Rarity:		Uncommon
+
+Card Title:	Bee Sting
+Color:		Green
+Card Type:	Sorcery
+Cost:		3G
+Off./Def.:	n/a
+Card Text:	Bee Sting deals 2 damage to any one creature or
+		player.
+Artist:		Phil Foglio
+Rarity:		Uncommon
+
+Card Title:	Blaze
+Color:		Red
+Card Type:	Sorcery
+Cost:		XR
+Off./Def.:	n/a
+Card Text:	Blaze deals X damage to any one creature or player.
+		(For example, if you tap a mountain plus four other
+		lands when you play Blaze, it deals 4 damage.)
+Artist:		Gerry Grace
+Rarity:		Uncommon
+
+Card Title:	Blessed Reversal
+Color:		White
+Card Type:	Sorcery
+Cost:		1W
+Off./Def.:	n/a
+Card Text:	Play Blessed Reversal only after you're attacked,
+		before you declare interceptors.
+		For each attacking creature, you gain 3 life.
+Artist:		Zina Saunders
+Rarity:		Rare
+
+Card Title:	Blinding Light
+Color:		White
+Card Type:	Sorcery
+Cost:		2W
+Off./Def.:	n/a
+Card Text:	Tap all creatures except for white creatures.
+		(This includes your creatures.)
+Artist:		John Coulthart
+Rarity:		Rare
+
+Card Title:	Bog Imp
+Color:		Black
+Card Type:	Summon Creature
+Cost:		1B
+Off./Def.:	1/1
+Card Text:	Flying
+Artist:		Christopher Rush
+Rarity:		Common
+
+Card Title:	Bog Raiders
+Color:		Black
+Card Type:	Summon Creature
+Cost:		2B
+Off./Def.:	2/2
+Card Text:	Swampwalk (If defending player has any swamps
+		in play, Bog Raiders can't be intercepted.)
+Artist:		Steve Luke
+Rarity:		Common
+
+Card Title:	Bog Wraith
+Color:		Black
+Card Type:	Summon Creature
+Cost:		3B
+Off./Def.:	3/3
+Card Text:	Swampwalk (If defending player has any swamps
+		in play, Bog Wraith can't be intercepted.)
+Artist:		Ted Naifeh
+Rarity:		Uncommon
+
+Card Title:	Boiling Seas
+Color:		Red
+Card Type:	Sorcery
+Cost:		3R
+Off./Def.:	n/a
+Card Text:	Destroy all islands. (This includes your islands.)
+Artist:		Tom Wanerstrand
+Rarity:		Uncommon
+
+Card Title:	Border Guard
+Color:		White
+Card Type:	Summon Creature
+Cost:		2W
+Off./Def.:	1/4
+Card Text:	n/a
+Artist:		Kev Walker
+Rarity:		Common
+
+Card Title:	Breath of Life
+Color:		White
+Card Type:	Sorcery
+Cost:		3W
+Off./Def.:	n/a
+Card Text:	Take any one summon creature from your discard
+		pile and put that card into play. Treat it as though you
+		just played it from your hand.
+Artist:		DiTerlizzi
+Rarity:		Common
+
+Card Title:	Bull Hippo
+Color:		Green
+Card Type:	Summon Creature
+Cost:		3G
+Off./Def.:	3/3
+Card Text:	Islandwalk (If defending player has any islands in
+		play, Bull Hippo can't be intercepted.)
+Artist:		Roger Raupp
+Rarity:		Uncommon
+
+Card Title:	Burning Cloak
+Color:		Red
+Card Type:	Sorcery
+Cost:		R
+Off./Def.:	n/a
+Card Text:	Any one creature gets +2[O]/+0[D] until the end of the
+		turn.
+		Burning Cloak deals 2 damage to that creature.
+Artist:		Scott M. Fischer
+Rarity:		Common
+
+Card Title:	Capricious Sorcerer
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		2U
+Off./Def.:	1/1
+Card Text:	On your turn, before you attack, you may tap
+		Capricious Sorcerer to have it deal 1 damage to any
+		one creature or player.
+Artist:		Zina Saunders
+Rarity:		Rare
+
+Card Title:	Charging Bandits
+Color:		Black
+Card Type:	Summon Creature
+Cost:		4B
+Off./Def.:	3/3
+Card Text:	If Charging Bandits attacks, it gets +2[O]/+0[D] until
+		the end of the turn.
+Artist:		Dermot Power
+Rarity:		Uncommon
+
+Card Title:	Charging Paladin
+Color:		White
+Card Type:	Summon Creature
+Cost:		2W
+Off./Def.:	2/2
+Card Text:	If Charging Paladin attacks, it gets +0[O]/+3[D] until
+		the end of the turn.
+Artist:		Kev Walker
+Rarity:		Uncommon
+
+Card Title:	Charging Rhino
+Color:		Green
+Card Type:	Summon Creature
+Cost:		3GG
+Off./Def.:	4/4
+Card Text:	Charging Rhino can't be intercepted by more than
+		one creature.
+Artist:		Una Fricker
+Rarity:		Rare
+
+Card Title:	Cloak of Feathers
+Color:		Blue
+Card Type:	Sorcery
+Cost:		U
+Off./Def.:	n/a
+Card Text:	Any one creature gains flying until the end of the turn.
+		You draw a card.
+Artist:		Rebecca Guay
+Rarity:		Common
+
+Card Title:	Cloud Dragon
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		5U
+Off./Def.:	5/4
+Card Text:	Flying
+		Cloud Dragon can intercept only creatures with flying.
+Artist:		John Avon
+Rarity:		Rare
+
+Card Title:	Cloud Pirates
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		U
+Off./Def.:	1/1
+Card Text:	Flying
+		Cloud Pirates can intercept only creatures with flying.
+Artist:		Phil Foglio
+Rarity:		Common
+
+Card Title:	Cloud Spirit
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		2U
+Off./Def.:	3/1
+Card Text:	Flying
+		Cloud Spirit can intercept only creatures with flying.
+Artist:		DiTerlizzi
+Rarity:		Uncommon
+
+Card Title:	Command of Unsummoning
+Color:		Blue
+Card Type:	Sorcery
+Cost:		2U
+Off./Def.:	n/a
+Card Text:	Play Command of Unsummoning only after you're
+		attacked, before you declare interceptors.
+		Return any one or two attacking creatures to their
+		Owner's hand.
+Artist:		Phil Foglio
+Rarity:		Uncommon
+
+Card Title:	Coral Eel
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		1U
+Off./Def.:	2/1
+Card Text:	n/a
+Artist:		Una Fricker
+Rarity:		Common
+
+Card Title:	Craven Giant
+Color:		Red
+Card Type:	Summon Creature
+Cost:		2R
+Off./Def.:	4/1
+Card Text:	Craven Giant can't intercept.
+Artist:		Ron Spencer
+Rarity:		Common
+
+Card Title:	Craven Knight
+Color:		Black
+Card Type:	Summon Creature
+Cost:		1B
+Off./Def.:	2/2
+Card Text:	Craven Knight can't intercept.
+Artist:		Charles Gillespie
+Rarity:		Common
+
+Card Title:	Cruel Bargain
+Color:		Black
+Card Type:	Sorcery
+Cost:		BBB
+Off./Def.:	n/a
+Card Text:	Draw four cards. You lose half your life, rounded
+		up. (For example, if you have 11 life, you lose 6 life.)
+Artist:		Adrian Smith
+Rarity:		Rare
+
+Card Title:	Cruel Fate
+Color:		Blue
+Card Type:	Sorcery
+Cost:		4U
+Off./Def.:	n/a
+Card Text:	Look at the top five cards of your opponent's deck.
+		Put one of them into your opponent's discard pile and
+		the rest on top of his or her deck in any order.
+Artist:		Adrian Smith
+Rarity:		Rare
+
+Card Title:	Cruel Tutor
+Color:		Black
+Card Type:	Sorcery
+Cost:		2B
+Off./Def.:	n/a
+Card Text:	Search your deck for any card. Shuffle your deck and
+		put that card on top of it. You lose 2 life.
+Artist:		Kev Walker
+Rarity:		Rare
+
+Card Title:	Deep Wood
+Color:		Green
+Card Type:	Sorcery
+Cost:		1G
+Off./Def.:	n/a
+Card Text:	Play Deep Wood only after you're attacked, before
+		you declare interceptors.
+		This turn, all damage dealt to you by attacking
+		creatures is reduced to 0.
+Artist:		Paolo Parente
+Rarity:		Uncommon
+
+Card Title:	Deep-Sea Serpent
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		4UU
+Off./Def.:	5/5
+Card Text:	Deep-Sea Serpent can attack only if the defending
+		player has an island in play.
+Artist:		Scott M. Fischer
+Rarity:		Uncommon
+
+Card Title:	Defiant Stand
+Color:		White
+Card Type:	Sorcery
+Cost:		1W
+Off./Def.:	n/a
+Card Text:	Play Defiant Stand only after you're attacked, before
+		you declare interceptors.
+		Any one creature gets +1[O]/+3[D] until the end of the
+		turn. If that creature is tapped, untap it.
+Artist:		Hannibal King
+Rarity:		Uncommon
+
+Card Title:	Déjà Vu
+Color:		Blue
+Card Type:	Sorcery
+Cost:		2U
+Off./Def.:	n/a
+Card Text:	Return any one sorcery card from your discard pile
+		to your hand.
+Artist:		Hannibal King
+Rarity:		Common
+
+Card Title:	Desert Drake
+Color:		Red
+Card Type:	Summon Creature
+Cost:		3R
+Off./Def.:	2/2
+Card Text:	Flying
+Artist:		Gerry Grace
+Rarity:		Uncommon
+
+Card Title:	Devastation
+Color:		Red
+Card Type:	Sorcery
+Cost:		5RR
+Off./Def.:	n/a
+Card Text:	Destroy all creatures and lands. (This includes your
+		creatures and lands.)
+Artist:		Steve Luke
+Rarity:		Rare
+
+Card Title:	Devoted Hero
+Color:		White
+Card Type:	Summon Creature
+Cost:		W
+Off./Def.:	1/2
+Card Text:	n/a
+Artist:		DiTerlizzi
+Rarity:		Common
+
+Card Title:	Djinn of the Lamp
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		5UU
+Off./Def.:	5/6
+Card Text:	Flying
+Artist:		DiTerlizzi
+Rarity:		Rare
+
+Card Title:	Dread Charge
+Color:		Black
+Card Type:	Sorcery
+Cost:		3B
+Off./Def.:	n/a
+Card Text:	This turn, your black creatures can be intercepted only
+		by other black creatures.
+Artist:		Ted Naifeh
+Rarity:		Rare
+
+Card Title:	Dread Reaper
+Color:		Black
+Card Type:	Summon Creature
+Cost:		3BBB
+Off./Def.:	6/5
+Card Text:	Flying
+		When Dread Reaper comes into play from your hand,
+		you lose 5 life. (The person who plays Dread Reaper
+		loses the life.)
+Artist:		Christopher Rush
+Rarity:		Rare
+
+Card Title:	Dry Spell
+Color:		Black
+Card Type:	Sorcery
+Cost:		1B
+Off./Def.:	n/a
+Card Text:	Dry Spell deals 1 damage to each creature and player.
+		(This includes your creatures and you.)
+Artist:		Roger Raupp
+Rarity:		Uncommon
+
+Card Title:	Earthquake
+Color:		Red
+Card Type:	Sorcery
+Cost:		XR
+Off./Def.:	n/a
+Card Text:	Earthquake deals X damage to each player and each
+		creature without flying. (This includes you and your
+		creatures without flying.)
+Artist:		Adrian Smith
+Rarity:		Rare
+
+Card Title:	Ebon Dragon
+Color:		Black
+Card Type:	Summon Creature
+Cost:		5BB
+Off./Def.:	5/4
+Card Text:	Flying
+		When Ebon Dragon comes into play from your hand,
+		you may force your opponent to choose and discard a
+		card from his or her hand.
+Artist:		Donato Giancola
+Rarity:		Rare
+
+Card Title:	Elite Cat Warrior
+Color:		Green
+Card Type:	Summon Creature
+Cost:		2G
+Off./Def.:	2/3
+Card Text:	Forestwalk (If defending player has any forests in
+		play, Elite Cat Warrior can't be intercepted.)
+Artist:		Eric Peterson
+Rarity:		Common
+
+Card Title:	Elven Cache
+Color:		Green
+Card Type:	Sorcery
+Cost:		2GG
+Off./Def.:	n/a
+Card Text:	Return any one card from your discard pile to your
+		hand.
+Artist:		Rebecca Guay
+Rarity:		Common
+
+Card Title:	Elvish Ranger
+Color:		Green
+Card Type:	Summon Creature
+Cost:		2G
+Off./Def.:	4/1
+Card Text:	n/a
+Artist:		DiTerlizzi
+Rarity:		Common
+
+Card Title:	Endless Cockroaches
+Color:		Black
+Card Type:	Summon Creature
+Cost:		1BB
+Off./Def.:	1/1
+Card Text:	If Endless Cockroaches is put into your discard pile
+		from play, return Endless Cockroaches to your hand.
+Artist:		Ron Spencer
+Rarity:		Rare
+
+Card Title:	Exhaustion
+Color:		Blue
+Card Type:	Sorcery
+Cost:		2U
+Off./Def.:	n/a
+Card Text:	At the beginning of your opponent's next turn, he
+		or she skips untapping his or her creatures and
+		lands.
+Artist:		DiTerlizzi
+Rarity:		Rare
+
+Card Title:	False Peace
+Color:		White
+Card Type:	Sorcery
+Cost:		W
+Off./Def.:	n/a
+Card Text:	Choose any one player. That player can't attack on his
+		or her next turn.
+Artist:		Zina Saunders
+Rarity:		Common
+
+Card Title:	Feral Shadow
+Color:		Black
+Card Type:	Summon Creature
+Cost:		2B
+Off./Def.:	2/1
+Card Text:	Flying
+Artist:		Colin MacNeil
+Rarity:		Common
+
+Card Title:	Final Strike
+Color:		Black
+Card Type:	Sorcery
+Cost:		2BB
+Off./Def.:	n/a
+Card Text:	Choose one of your creatures. Final Strike deals to
+		your opponent damage equal to that creature's
+		offense. Then, put the creature in your discard pile.
+Artist:		John Coulthart
+Rarity:		Rare
+
+Card Title:	Fire Dragon
+Color:		Red
+Card Type:	Summon Creature
+Cost:		6RRR
+Off./Def.:	6/6
+Card Text:	Flying
+		When Fire Dragon comes into play from your hand,
+		it deals to any one creature damage equal to the number
+		of mountains you have in play.
+Artist:		William Simpson
+Rarity:		Rare
+
+Card Title:	Fire Imp
+Color:		Red
+Card Type:	Summon Creature
+Cost:		2R
+Off./Def.:	2/1
+Card Text:	When Fire Imp comes into play from your hand, it
+		deals 2 damage to any one creature. (If you're the
+		only player with creatures, Fire Imp deals 2 damage
+		to one of your creatures.)
+Artist:		DiTerlizzi
+Rarity:		Uncommon
+
+Card Title:	Fire Snake
+Color:		Red
+Card Type:	Summon Creature
+Cost:		4R
+Off./Def.:	3/1
+Card Text:	If Fire Snake is put into your discard pile from play,
+		destroy any one land.
+Artist:		Steve Luke
+Rarity:		Common
+
+Card Title:	Fire Tempest
+Color:		Red
+Card Type:	Sorcery
+Cost:		5RR
+Off./Def.:	n/a
+Card Text:	Fire Tempest deals 6 damage to each creature and
+		player. (This includes your creatures and you. If all
+		players drop to 0 life or less, the game is a draw.)
+Artist:		Mike Dringenberg
+Rarity:		Rare
+
+Card Title:	Flashfires
+Color:		Red
+Card Type:	Sorcery
+Cost:		3R
+Off./Def.:	n/a
+Card Text:	Destroy all plains. (This includes your plains.)
+Artist:		Randy Gallegos
+Rarity:		Uncommon
+
+Card Title:	Fleet-Footed Monk
+Color:		White
+Card Type:	Summon Creature
+Cost:		1W
+Off./Def.:	1/1
+Card Text:	Fleet-Footed Monk can't be intercepted by any
+		creature with offense 2 or greater.
+Artist:		D. Alexander Gregory
+Rarity:		Common
+
+Card Title:	Flux
+Color:		Blue
+Card Type:	Sorcery
+Cost:		2U
+Off./Def.:	n/a
+Card Text:	Each player chooses and discards from his or her
+		hand any number of cards and then draws that many
+		cards. You then draw a card. (You choose first.)
+Artist:		Ted Naifeh
+Rarity:		Uncommon
+
+Card Title:	Foot Soldiers
+Color:		White
+Card Type:	Summon Creature
+Cost:		3W
+Off./Def.:	2/4
+Card Text:	n/a
+Artist:		Kev Walker
+Rarity:		Common
+
+Card Title:	Forest
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	G
+Artist:		John Avon
+Rarity:		Starter
+
+Card Title:	Forest
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	G
+Artist:		John Avon
+Rarity:		Land
+
+Card Title:	Forest
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	G
+Artist:		John Avon
+Rarity:		Land
+
+Card Title:	Forest
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	G
+Artist:		John Avon
+Rarity:		Land
+
+Card Title:	Forked Lightning
+Color:		Red
+Card Type:	Sorcery
+Cost:		3R
+Off./Def.:	n/a
+Card Text:	Forked Lightning deals 4 damage divided any way
+		you choose among any one, two, or three creatures.
+Artist:		Ted Naifeh
+Rarity:		Rare
+
+Card Title:	Fruition
+Color:		Green
+Card Type:	Sorcery
+Cost:		G
+Off./Def.:	n/a
+Card Text:	For each forest you and your opponent have in play,
+		you gain 1 life.
+Artist:		Steve Luke
+Rarity:		Common
+
+Card Title:	Giant Octopus
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		3U
+Off./Def.:	3/3
+Card Text:	n/a
+Artist:		John Matson
+Rarity:		Common
+
+Card Title:	Giant Spider
+Color:		Green
+Card Type:	Summon Creature
+Cost:		3G
+Off./Def.:	2/4
+Card Text:	Giant Spider can intercept as though it had flying.
+Artist:		Randy Gallegos
+Rarity:		Common
+
+Card Title:	Gift of Estates
+Color:		White
+Card Type:	Sorcery
+Cost:		1W
+Off./Def.:	n/a
+Card Text:	If your opponent has more lands in play than you
+		do, search your deck for up to three plains and put
+		them into your hand. Shuffle your deck afterwards.
+Artist:		Kaja Foglio
+Rarity:		Rare
+
+Card Title:	Goblin Bully
+Color:		Red
+Card Type:	Summon Creature
+Cost:		1R
+Off./Def.:	2/1
+Card Text:	n/a
+Artist:		Pete Venters
+Rarity:		Common
+
+Card Title:	Gorilla Warrior
+Color:		Green
+Card Type:	Summon Creature
+Cost:		2G
+Off./Def.:	3/2
+Card Text:	n/a
+Artist:		John Matson
+Rarity:		Common
+
+Card Title:	Gravedigger
+Color:		Black
+Card Type:	Summon Creature
+Cost:		3B
+Off./Def.:	2/2
+Card Text:	When Gravedigger comes into play from your hand,
+		you may choose to return a summon creature from
+		your discard pile to your hand.
+Artist:		Scott M. Fischer
+Rarity:		Uncommon
+
+Card Title:	Grizzly Bears
+Color:		Green
+Card Type:	Summon Creature
+Cost:		1G
+Off./Def.:	2/2
+Card Text:	n/a
+Artist:		Zina Saunders
+Rarity:		Common
+
+Card Title:	Hand of Death
+Color:		Black
+Card Type:	Sorcery
+Cost:		2B
+Off./Def.:	n/a
+Card Text:	Destroy any one creature that isn't black.
+Artist:		John Coulthart
+Rarity:		Common
+
+Card Title:	Harsh Justice
+Color:		White
+Card Type:	Sorcery
+Cost:		2W
+Off./Def.:	n/a
+Card Text:	Play Harsh Justice only after you're attacked, before
+		you declare interceptors.
+		This turn, each attacking creature that damages you
+		also deals equal damage to the attacking player.
+Artist:		John Coulthart
+Rarity:		Rare
+
+Card Title:	Highland Giant
+Color:		Red
+Card Type:	Summon Creature
+Cost:		2RR
+Off./Def.:	3/4
+Card Text:	n/a
+Artist:		Ron Spencer
+Rarity:		Common
+
+Card Title:	Hill Giant
+Color:		Red
+Card Type:	Summon Creature
+Cost:		3R
+Off./Def.:	3/3
+Card Text:	n/a
+Artist:		Randy Gallegos
+Rarity:		Common
+
+Card Title:	Horned Turtle
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		2U
+Off./Def.:	1/4
+Card Text:	n/a
+Artist:		Adrian Smith
+Rarity:		Common
+
+Card Title:	Howling Fury
+Color:		Black
+Card Type:	Sorcery
+Cost:		2B
+Off./Def.:	n/a
+Card Text:	Any one creature gets +4[O]/+0[D] until the end of the turn.
+Artist:		Mike Dringenberg
+Rarity:		Common
+
+Card Title:	Hulking Cyclops
+Color:		Red
+Card Type:	Summon Creature
+Cost:		3RR
+Off./Def.:	5/5
+Card Text:	Hulking Cyclops can't intercept.
+Artist:		Paolo Parente
+Rarity:		Uncommon
+
+Card Title:	Hulking Goblin
+Color:		Red
+Card Type:	Summon Creature
+Cost:		1R
+Off./Def.:	2/2
+Card Text:	Hulking Goblin can't intercept.
+Artist:		Pete Venters
+Rarity:		Common
+
+Card Title:	Hurricane
+Color:		Green
+Card Type:	Sorcery
+Cost:		XG
+Off./Def.:	n/a
+Card Text:	Hurricane deals X damage to each player and each
+		creature with flying. (This includes you and your
+		creatures with flying.)
+Artist:		Andrew Robinson
+Rarity:		Rare
+
+Card Title:	Ingenious Thief
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		1U
+Off./Def.:	1/1
+Card Text:	Flying
+		When Ingenious Thief comes into play from your
+		hand, look at your opponent's hand.
+Artist:		Dan Frazier
+Rarity:		Uncommon
+
+Card Title:	Island
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	U
+Artist:		Eric Peterson
+Rarity:		Starter
+
+Card Title:	Island
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	U
+Artist:		Eric Peterson
+Rarity:		Land
+
+Card Title:	Island
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	U
+Artist:		Eric Peterson
+Rarity:		Land
+
+Card Title:	Island
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	U
+Artist:		Eric Peterson
+Rarity:		Land
+
+Card Title:	Jungle Lion
+Color:		Green
+Card Type:	Summon Creature
+Cost:		G
+Off./Def.:	2/1
+Card Text:	Jungle Lion can't intercept.
+Artist:		Janine Johnston
+Rarity:		Common
+
+Card Title:	Keen-Eyed Archers
+Color:		White
+Card Type:	Summon Creature
+Cost:		2W
+Off./Def.:	2/2
+Card Text:	Keen-Eyed Archers can intercept as though it had
+		flying.
+Artist:		Alan Rabinowitz
+Rarity:		Common
+
+Card Title:	King's Assassin
+Color:		Black
+Card Type:	Summon Creature
+Cost:		1BB
+Off./Def.:	1/1
+Card Text:	On your turn, before you attack, you may tap
+		King's Assassin to destroy any one tapped
+		creature.
+Artist:		Zina Saunders
+Rarity:		Rare
+
+Card Title:	Knight Errant
+Color:		White
+Card Type:	Summon Creature
+Cost:		1W
+Off./Def.:	2/2
+Card Text:	n/a
+Artist:		Dan Frazier
+Rarity:		Common
+
+Card Title:	Last Chance
+Color:		Red
+Card Type:	Sorcery
+Cost:		RR
+Off./Def.:	n/a
+Card Text:	Take another turn after this one. You lose the game at
+		the end of that turn. (You don't lose if you've already
+		won.)
+Artist:		Hannibal King
+Rarity:		Rare
+
+Card Title:	Lava Axe
+Color:		Red
+Card Type:	Sorcery
+Cost:		4R
+Off./Def.:	n/a
+Card Text:	Lava Axe deals 5 damage to your opponent.
+Artist:		Adrian Smith
+Rarity:		Common
+
+Card Title:	Lava Flow
+Color:		Red
+Card Type:	Sorcery
+Cost:		3RR
+Off./Def.:	n/a
+Card Text:	Destroy any one creature or land.
+Artist:		Mike Dringenberg
+Rarity:		Uncommon
+
+Card Title:	Lizard Warrior
+Color:		Red
+Card Type:	Summon Creature
+Cost:		3R
+Off./Def.:	4/2
+Card Text:	n/a
+Artist:		Roger Raupp
+Rarity:		Common
+
+Card Title:	Man-o'-War
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		2U
+Off./Def.:	2/2
+Card Text:	When Man-o'-War comes into play from your hand,
+		return any one creature to its Owner's hand. (If
+		you're the only one with creatures, return one of
+		them to your hand.)
+Artist:		Una Fricker
+Rarity:		Uncommon
+
+Card Title:	Mercenary Knight
+Color:		Black
+Card Type:	Summon Creature
+Cost:		2B
+Off./Def.:	4/4
+Card Text:	When Mercenary Knight comes into play from your
+		hand, choose and discard a summon creature from
+		your hand or destroy Mercenary Knight.
+Artist:		Adrian Smith
+Rarity:		Rare
+
+Card Title:	Merfolk of the Pearl Trident
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		U
+Off./Def.:	1/1
+Card Text:	n/a
+Artist:		DiTerlizzi
+Rarity:		Common
+
+Card Title:	Mind Knives
+Color:		Black
+Card Type:	Sorcery
+Cost:		1B
+Off./Def.:	n/a
+Card Text:	Your opponent discards a card at random from his or
+		her hand.
+Artist:		Rebecca Guay
+Rarity:		Common
+
+Card Title:	Mind Rot
+Color:		Black
+Card Type:	Sorcery
+Cost:		2B
+Off./Def.:	n/a
+Card Text:	Your opponent chooses and discards two cards
+		from his or her hand. (If your opponent has only
+		one card, he or she discards it.)
+Artist:		Steve Luke
+Rarity:		Common
+
+Card Title:	Minotaur Warrior
+Color:		Red
+Card Type:	Summon Creature
+Cost:		2R
+Off./Def.:	2/3
+Card Text:	n/a
+Artist:		Scott M. Fischer
+Rarity:		Common
+
+Card Title:	Mobilize 
+Color:		Green
+Card Type:	Sorcery
+Cost:		G
+Off./Def.:	n/a
+Card Text:	Untap all your creatures.
+Artist:		Rebecca Guay
+Rarity:		Common
+
+Card Title:	Monstrous Growth
+Color:		Green
+Card Type:	Sorcery
+Cost:		1G
+Off./Def.:	n/a
+Card Text:	Any one creature gets +4S/+4D until the end of the
+		turn. (For example, a 6[O]/3[D] creature would
+		become 10[O]/7[D].)
+Artist:		Dan Frazier
+Rarity:		Common
+
+Card Title:	Moon Sprite
+Color:		Green
+Card Type:	Summon Creature
+Cost:		1G
+Off./Def.:	1/1
+Card Text:	Flying
+Artist:		Terese Nielsen
+Rarity:		Uncommon
+
+Card Title:	Mountain
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	R
+Artist:		Brian Durfee
+Rarity:		Starter
+
+Card Title:	Mountain
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	R
+Artist:		Brian Durfee
+Rarity:		Land
+
+Card Title:	Mountain
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	R
+Artist:		Brian Durfee
+Rarity:		Land
+
+Card Title:	Mountain
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	R
+Artist:		Brian Durfee
+Rarity:		Land
+
+Card Title:	Mountain Goat
+Color:		Red
+Card Type:	Summon Creature
+Cost:		R
+Off./Def.:	1/1
+Card Text:	Mountainwalk (If defending player has any
+		mountains in play, Mountain Goat can't be
+		intercepted.)
+Artist:		Una Fricker
+Rarity:		Uncommon
+
+Card Title:	Muck Rats
+Color:		Black
+Card Type:	Summon Creature
+Cost:		B
+Off./Def.:	1/1
+Card Text:	n/a
+Artist:		Colin MacNeil
+Rarity:		Common
+
+Card Title:	Mystic Denial
+Color:		Blue
+Card Type:	Sorcery
+Cost:		1UU
+Off./Def.:	n/a
+Card Text:	Play Mystic Denial only in response to another player
+		playing a summon creature or a sorcery. That card
+		has no effect, and that player puts it into his or her
+		discard pile.
+Artist:		Hannibal King
+Rarity:		Uncommon
+
+Card Title:	Natural Order
+Color:		Green
+Card Type:	Sorcery
+Cost:		2GG
+Off./Def.:	n/a
+Card Text:	Search your deck for a green summon creature and
+		put that card into play. Treat it as though you just
+		played it from your hand. Then put one of your green
+		creatures into your discard pile. Shuffle your deck
+		afterwards.
+Artist:		Alan Rabinowitz
+Rarity:		Rare
+
+Card Title:	Natural Spring
+Color:		Green
+Card Type:	Sorcery
+Cost:		3GG
+Off./Def.:	n/a
+Card Text:	You gain 8 life.
+Artist:		Janine Johnston
+Rarity:		Uncommon
+
+Card Title:	Nature's Cloak
+Color:		Green
+Card Type:	Sorcery
+Cost:		2G
+Off./Def.:	n/a
+Card Text:	All your green creatures gain forestwalk until the end
+		of the turn. (If defending player has any forests in
+		play, none of your green creatures can be intercepted.)
+Artist:		Rebecca Guay
+Rarity:		Rare
+
+Card Title:	Nature's Lore
+Color:		Green
+Card Type:	Sorcery
+Cost:		1G
+Off./Def.:	n/a
+Card Text:	Search your deck for a forest and put that card into
+		play. Shuffle your deck afterwards.
+Artist:		Terese Nielsen
+Rarity:		Common
+
+Card Title:	Nature's Ruin
+Color:		Black
+Card Type:	Sorcery
+Cost:		2B
+Off./Def.:	n/a
+Card Text:	Destroy all green creatures. (This includes your green
+		creatures.)
+Artist:		Mike Dringenberg
+Rarity:		Uncommon
+
+Card Title:	Needle Storm
+Color:		Green
+Card Type:	Sorcery
+Cost:		2G
+Off./Def.:	n/a
+Card Text:	Needle Storm deals 4 damage to each creature with
+		flying. (This includes your creatures with flying.)
+Artist:		Charles Gillespie
+Rarity:		Uncommon
+
+Card Title:	Noxious Toad
+Color:		Black
+Card Type:	Summon Creature
+Cost:		2B
+Off./Def.:	1/1
+Card Text:	If Noxious Toad is put into your discard pile from
+		play, your opponent chooses and discards a card
+		from his or her hand.
+Artist:		Adrian Smith
+Rarity:		Uncommon
+
+Card Title:	Omen
+Color:		Blue
+Card Type:	Sorcery
+Cost:		1U
+Off./Def.:	n/a
+Card Text:	Look at the top three cards of your deck and return
+		them in any order. You may choose to shuffle your
+		deck. Then draw a card.
+Artist:		Eric Peterson
+Rarity:		Common
+
+Card Title:	Owl Familiar
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		1U
+Off./Def.:	1/1
+Card Text:	Flying
+		When Owl Familiar comes into play from your hand,
+		draw a card, then choose and discard a card from
+		your hand.
+Artist:		Janine Johnston
+Rarity:		Common
+
+Card Title:	Panther Warriors
+Color:		Green
+Card Type:	Summon Creature
+Cost:		4G
+Off./Def.:	6/3
+Card Text:	n/a
+Artist:		Eric Peterson
+Rarity:		Common
+
+Card Title:	Path of Peace
+Color:		White
+Card Type:	Sorcery
+Cost:		3W
+Off./Def.:	n/a
+Card Text:	Destroy any one creature. That creature's owner
+		gains 4 life.
+Artist:		Pete Venters
+Rarity:		Common
+
+Card Title:	Personal Tutor
+Color:		Blue
+Card Type:	Sorcery
+Cost:		U
+Off./Def.:	n/a
+Card Text:	Search your deck for a sorcery and reveal that card
+		to all players. Shuffle your deck and put the revealed
+		card on top of it.
+Artist:		D. Alexander Gregory
+Rarity:		Uncommon
+
+Card Title:	Phantom Warrior
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		1UU
+Off./Def.:	2/2
+Card Text:	Phantom Warrior can't be intercepted.
+Artist:		Dan Frazier
+Rarity:		Rare
+
+Card Title:	Pillaging Horde
+Color:		Red
+Card Type:	Summon Creature
+Cost:		2RR
+Off./Def.:	5/5
+Card Text:	When Pillaging Horde comes into play from your
+		hand, discard a card at random from your hand or
+		destroy Pillaging Horde.
+Artist:		Kev Walker
+Rarity:		Rare
+
+Card Title:	Plains
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	W
+Artist:		Douglas Shuler
+Rarity:		Starter
+
+Card Title:	Plains
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	W
+Artist:		Douglas Shuler
+Rarity:		Land
+
+Card Title:	Plains
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	W
+Artist:		Douglas Shuler
+Rarity:		Land
+
+Card Title:	Plains
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	W
+Artist:		Douglas Shuler
+Rarity:		Land
+
+Card Title:	Plant Elemental
+Color:		Green
+Card Type:	Summon Creature
+Cost:		1G
+Off./Def.:	3/4
+Card Text:	When Plant Elemental comes into play from your
+		hand, destroy one of your forests or destroy Plant
+		Elemental.
+Artist:		Ted Naifeh
+Rarity:		Uncommon
+
+Card Title:	Primeval Force
+Color:		Green
+Card Type:	Summon Creature
+Cost:		2GGG
+Off./Def.:	8/8
+Card Text:	When Primeval Force comes into play from your
+		hand, destroy three of your forests or destroy
+		Primeval Force.
+Artist:		Randy Gallegos
+Rarity:		Rare
+
+Card Title:	Prosperity
+Color:		Blue
+Card Type:	Sorcery
+Cost:		XU
+Off./Def.:	n/a
+Card Text:	Each player draws X cards.
+Artist:		Phil Foglio
+Rarity:		Rare
+
+Card Title:	Pyroclasm
+Color:		Red
+Card Type:	Sorcery
+Cost:		1R
+Off./Def.:	n/a
+Card Text:	Pyroclasm deals 2 damage to each creature. (This
+		includes your creatures.)
+Artist:		John Matson
+Rarity:		Rare
+
+Card Title:	Python
+Color:		Black
+Card Type:	Summon Creature
+Cost:		1BB
+Off./Def.:	3/2
+Card Text:	n/a
+Artist:		Alan Rabinowitz
+Rarity:		Common
+
+Card Title:	Raging Cougar
+Color:		Red
+Card Type:	Summon Creature
+Cost:		2R
+Off./Def.:	2/2
+Card Text:	Raging Cougar is unaffected by summoning sickness.
+Artist:		Terese Nielsen
+Rarity:		Common
+
+Card Title:	Raging Goblin
+Color:		Red
+Card Type:	Summon Creature
+Cost:		R
+Off./Def.:	1/1
+Card Text:	Raging Goblin is unaffected by summoning sickness. 
+Artist:		Pete Venters
+Rarity:		Common
+
+Card Title:	Raging Minotaur
+Color:		Red
+Card Type:	Summon Creature
+Cost:		2RR
+Off./Def.:	3/3
+Card Text:	Raging Minotaur is unaffected by summoning sickness.
+Artist:		Scott M. Fischer
+Rarity:		Common
+
+Card Title:	Rain of Salt
+Color:		Red
+Card Type:	Sorcery
+Cost:		4RR
+Off./Def.:	n/a
+Card Text:	Destroy any two lands.
+Artist:		Charles Gillespie
+Rarity:		Uncommon
+
+Card Title:	Rain of Tears
+Color:		Black
+Card Type:	Sorcery
+Cost:		1BB
+Off./Def.:	n/a
+Card Text:	Destroy any one land.
+Artist:		Eric Peterson
+Rarity:		Uncommon
+
+Card Title:	Raise Dead
+Color:		Black
+Card Type:	Sorcery
+Cost:		B
+Off./Def.:	n/a
+Card Text:	Return any one summon creature from your discard
+		pile to your hand.
+Artist:		Charles Gillespie
+Rarity:		Common
+
+Card Title:	Redwood Treefolk
+Color:		Green
+Card Type:	Summon Creature
+Cost:		4G
+Off./Def.:	3/6
+Card Text:	n/a
+Artist:		Steve Luke
+Rarity:		Common
+
+Card Title:	Regal Unicorn
+Color:		White
+Card Type:	Summon Creature
+Cost:		2W
+Off./Def.:	2/3
+Card Text:	n/a
+Artist:		Zina Saunders
+Rarity:		Common
+
+Card Title:	Renewing Dawn
+Color:		White
+Card Type:	Sorcery
+Cost:		1W
+Off./Def.:	n/a
+Card Text:	For each mountain your opponent has in play, you
+		gain 2 life.
+Artist:		John Avon
+Rarity:		Uncommon
+
+Card Title:	Rowan Treefolk
+Color:		Green
+Card Type:	Summon Creature
+Cost:		3G
+Off./Def.:	3/4
+Card Text:	n/a
+Artist:		Gerry Grace
+Rarity:		Common
+
+Card Title:	Sacred Knight
+Color:		White
+Card Type:	Summon Creature
+Cost:		3W
+Off./Def.:	3/2
+Card Text:	Sacred Knight can't be intercepted by black or red
+		creatures.
+Artist:		Donato Giancola
+Rarity:		Common
+
+Card Title:	Sacred Nectar
+Color:		White
+Card Type:	Sorcery
+Cost:		1W
+Off./Def.:	n/a
+Card Text:	You gain 4 life.
+Artist:		Janine Johnston
+Rarity:		Common
+
+Card Title:	Scorching Spear
+Color:		Red
+Card Type:	Sorcery
+Cost:		R
+Off./Def.:	n/a
+Card Text:	Scorching Spear deals 1 damage to any one creature
+		or player.
+Artist:		Mike Raabe
+Rarity:		Common
+
+Card Title:	Scorching Winds
+Color:		Red
+Card Type:	Sorcery
+Cost:		R
+Off./Def.:	n/a
+Card Text:	Play Scorching Winds only after you're attacked,
+		before you declare interceptors.
+		Scorching Winds deals 1 damage to each attacking
+		creature.
+Artist:		D. Alexander Gregory
+Rarity:		Uncommon
+
+Card Title:	Seasoned Marshal
+Color:		White
+Card Type:	Summon Creature
+Cost:		2WW
+Off./Def.:	2/2
+Card Text:	If Seasoned Marshal attacks, you may choose to tap
+		any one creature. (Tapped creatures can't intercept.)
+Artist:		Zina Saunders
+Rarity:		Uncommon
+
+Card Title:	Serpent Assassin
+Color:		Black
+Card Type:	Summon Creature
+Cost:		3BB
+Off./Def.:	2/2
+Card Text:	When Serpent Assassin comes into play from your
+		hand, you may choose to destroy any one creature
+		that isn't black.
+Artist:		Roger Raupp
+Rarity:		Rare
+
+Card Title:	Serpent Warrior
+Color:		Black
+Card Type:	Summon Creature
+Cost:		2B
+Off./Def.:	3/3
+Card Text:	When Serpent Warrior comes into play from your
+		hand, you lose 3 life. (The person who plays Serpent
+		Warrior loses the life.)
+Artist:		Roger Raupp
+Rarity:		Common
+
+Card Title:	Skeletal Crocodile
+Color:		Black
+Card Type:	Summon Creature
+Cost:		3B
+Off./Def.:	5/1
+Card Text:	n/a
+Artist:		Mike Dringenberg
+Rarity:		Common
+
+Card Title:	Skeletal Snake
+Color:		Black
+Card Type:	Summon Creature
+Cost:		1B
+Off./Def.:	2/1
+Card Text:	n/a
+Artist:		John Matson
+Rarity:		Common
+
+Card Title:	Snapping Drake
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		3U
+Off./Def.:	3/2
+Card Text:	Flying
+Artist:		Christopher Rush
+Rarity:		Common
+
+Card Title:	Sorcerous Sight
+Color:		Blue
+Card Type:	Sorcery
+Cost:		U
+Off./Def.:	n/a
+Card Text:	Look at your opponent's hand. You draw a card.
+		(Draw the card from your deck.)
+Artist:		Kaja Foglio
+Rarity:		Common
+
+Card Title:	Soul Shred
+Color:		Black
+Card Type:	Sorcery
+Cost:		3BB
+Off./Def.:	n/a
+Card Text:	Soul Shred deals 3 damage to any one creature that
+		isn't black. You gain 3 life.
+Artist:		Alan Rabinowitz
+Rarity:		Common
+
+Card Title:	Spined Wurm
+Color:		Green
+Card Type:	Summon Creature
+Cost:		4G
+Off./Def.:	5/4
+Card Text:	n/a
+Artist:		Colin MacNeil
+Rarity:		Common
+
+Card Title:	Spiritual Guardian
+Color:		White
+Card Type:	Summon Creature
+Cost:		3WW
+Off./Def.:	3/4
+Card Text:	When Spiritual Guardian comes into play from your
+		hand, you gain 4 life.
+Artist:		Terese Nielsen
+Rarity:		Rare
+
+Card Title:	Spitting Earth
+Color:		Red
+Card Type:	Sorcery
+Cost:		1R
+Off./Def.:	n/a
+Card Text:	Spitting Earth deals to any one creature damage equal
+		to the number of mountains you have in play. (This
+		includes both tapped and untapped mountains.)
+Artist:		Hannibal King
+Rarity:		Common
+
+Card Title:	Spotted Griffin
+Color:		White
+Card Type:	Summon Creature
+Cost:		3W
+Off./Def.:	2/3
+Card Text:	Flying
+Artist:		William Simpson
+Rarity:		Common
+
+Card Title:	Stalking Tiger
+Color:		Green
+Card Type:	Summon Creature
+Cost:		3G
+Off./Def.:	3/3
+Card Text:	Stalking Tiger can't be intercepted by more than one
+		creature.
+Artist:		Colin MacNeil
+Rarity:		Common
+
+Card Title:	Starlight
+Color:		White
+Card Type:	Sorcery
+Cost:		1W
+Off./Def.:	n/a
+Card Text:	For each black creature your opponent has in play,
+		you gain 3 life.
+Artist:		John Avon
+Rarity:		Uncommon
+
+Card Title:	Starlit Angel
+Color:		White
+Card Type:	Summon Creature
+Cost:		3WW
+Off./Def.:	3/4
+Card Text:	Flying
+Artist:		Rebecca Guay
+Rarity:		Uncommon
+
+Card Title:	Steadfastness
+Color:		White
+Card Type:	Sorcery
+Cost:		1W
+Off./Def.:	n/a
+Card Text:	All your creatures get +0[O]/+3[D] until the end of
+		the turn.
+Artist:		Kev Walker
+Rarity:		Common
+
+Card Title:	Stern Marshal
+Color:		White
+Card Type:	Summon Creature
+Cost:		2W
+Off./Def.:	2/2
+Card Text:	On your turn, before you attack, you may tap Stern
+		Marshal to give any one creature +2[O]/+2[D] until
+		the end of the turn.
+Artist:		D. Alexander Gregory
+Rarity:		Rare
+
+Card Title:	Stone Rain
+Color:		Red
+Card Type:	Sorcery
+Cost:		2R
+Off./Def.:	n/a
+Card Text:	Destroy any one land.
+Artist:		John Matson
+Rarity:		Common
+
+Card Title:	Storm Crow
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		1U
+Off./Def.:	1/2
+Card Text:	Flying
+Artist:		Una Fricker
+Rarity:		Common
+
+Card Title:	Summer Bloom
+Color:		Green
+Card Type:	Sorcery
+Cost:		1G
+Off./Def.:	n/a
+Card Text:	Take up to three lands from your hand and put them
+		into play.
+Artist:		Kaja Foglio
+Rarity:		Rare
+
+Card Title:	Swamp
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	B
+Artist:		Romas
+Rarity:		Starter
+
+Card Title:	Swamp
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	B
+Artist:		Romas
+Rarity:		Land
+
+Card Title:	Swamp
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	B
+Artist:		Romas
+Rarity:		Land
+
+Card Title:	Swamp
+Color:		Land
+Card Type:	Land
+Cost:		n/a
+Off./Def.:	n/a
+Card Text:	B
+Artist:		Romas
+Rarity:		Land
+
+Card Title:	Sylvan Tutor
+Color:		Green
+Card Type:	Sorcery
+Cost:		G
+Off./Def.:	n/a
+Card Text:	Search your deck for a summon creature and reveal
+		that card to all players. Then shuffle your deck and
+		put the revealed card on top of it.
+Artist:		Kaja Foglio
+Rarity:		Rare
+
+Card Title:	Symbol of Unsummoning
+Color:		Blue
+Card Type:	Sorcery
+Cost:		2U
+Off./Def.:	n/a
+Card Text:	Return any one creature to its owner's hand. You
+		draw a card.
+Artist:		Adam Rex
+Rarity:		Common
+
+Card Title:	Taunt
+Color:		Blue
+Card Type:	Sorcery
+Cost:		U
+Off./Def.:	n/a
+Card Text:	Choose any one player. On that player's next turn,
+		all his or her creatures that can attack you must do so.
+Artist:		Phil Foglio
+Rarity:		Rare
+
+Card Title:	Temporary Truce
+Color:		White
+Card Type:	Sorcery
+Cost:		1W
+Off./Def.:	n/a
+Card Text:	Each player may draw up to two cards. For each card
+		less than two any player draws, that player gains 2
+		life. (You choose whether to draw first.)
+Artist:		Mike Raabe
+Rarity:		Rare
+
+Card Title:	Theft of Dreams
+Color:		Blue
+Card Type:	Sorcery
+Cost:		2U
+Off./Def.:	n/a
+Card Text:	For each tapped creature your opponent has in play,
+		you draw a card.
+Artist:		Adam Rex
+Rarity:		Uncommon
+
+Card Title:	Thing from the Deep
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		6UUU
+Off./Def.:	9/9
+Card Text:	If Thing from the Deep attacks, destroy one of your
+		islands or destroy Thing from the Deep.
+Artist:		Paolo Parente
+Rarity:		Rare
+
+Card Title:	Thundering Wurm
+Color:		Green
+Card Type:	Summon Creature
+Cost:		2G
+Off./Def.:	4/4
+Card Text:	When Thundering Wurm comes into play from your
+		hand, discard a land from your hand or destroy
+		Thundering Wurm.
+Artist:		Paolo Parente
+Rarity:		Rare
+
+Card Title:	Thundermare
+Color:		Red
+Card Type:	Summon Creature
+Cost:		5R
+Off./Def.:	5/5
+Card Text:	Thundermare is unaffected by summoning sickness. 
+		When Thundermare comes into play from your
+		hand, tap all other creatures. (This includes your
+		creatures.)
+Artist:		Bob Eggleton
+Rarity:		Rare
+
+Card Title:	Tidal Surge
+Color:		Blue
+Card Type:	Sorcery
+Cost:		1U
+Off./Def.:	n/a
+Card Text:	Tap any one, two, or three creatures without flying.
+		(Tapped creatures can't intercept.)
+Artist:		Douglas Shuler
+Rarity:		Common
+
+Card Title:	Time Ebb
+Color:		Blue
+Card Type:	Sorcery
+Cost:		2U
+Off./Def.:	n/a
+Card Text:	Return any one creature to the top of its owner's deck.
+Artist:		Alan Rabinowitz
+Rarity:		Common
+
+Card Title:	Touch of Brilliance
+Color:		Blue
+Card Type:	Sorcery
+Cost:		3U
+Off./Def.:	n/a
+Card Text:	Draw two cards.
+Artist:		John Coulthart
+Rarity:		Common
+
+Card Title:	Treetop Defense
+Color:		Green
+Card Type:	Sorcery
+Cost:		1G
+Off./Def.:	n/a
+Card Text:	Play Treetop Defense only after you're attacked,
+		before you declare interceptors.
+		This turn, all your creatures can intercept as though
+		they had flying.
+Artist:		Zina Saunders
+Rarity:		Rare
+
+Card Title:	Undying Beast
+Color:		Black
+Card Type:	Summon Creature
+Cost:		3B
+Off./Def.:	3/2
+Card Text:	If Undying Beast is put into your discard pile from
+		play, put Undying Beast on top of your deck.
+Artist:		Steve Luke
+Rarity:		Common
+
+Card Title:	Untamed Wilds
+Color:		Green
+Card Type:	Sorcery
+Cost:		2G
+Off./Def.:	n/a
+Card Text:	Search your deck for a plains, island, swamp,
+		mountain, or forest and put that card into play. Shuffle
+		your deck afterwards.
+Artist:		Romas
+Rarity:		Uncommon
+
+Card Title:	Valorous Charge
+Color:		White
+Card Type:	Sorcery
+Cost:		1WW
+Off./Def.:	n/a
+Card Text:	All white creatures get +2[O]/+0[D] until the end of the
+		turn. (This includes other players' white creatures.)
+Artist:		Douglas Shuler
+Rarity:		Uncommon
+
+Card Title:	Vampiric Feast
+Color:		Black
+Card Type:	Sorcery
+Cost:		5BB
+Off./Def.:	n/a
+Card Text:	Vampiric Feast deals 4 damage to any one creature or
+		player. You gain 4 life.
+Artist:		D. Alexander Gregory
+Rarity:		Uncommon
+
+Card Title:	Vampiric Touch
+Color:		Black
+Card Type:	Sorcery
+Cost:		2B
+Off./Def.:	n/a
+Card Text:	Vampiric Touch deals 2 damage to your opponent.
+		You gain 2 life.
+Artist:		Zina Saunders
+Rarity:		Common
+
+Card Title:	Venerable Monk
+Color:		White
+Card Type:	Summon Creature
+Cost:		2W
+Off./Def.:	2/2
+Card Text:	When Venerable Monk comes into play from your
+		hand, you gain 2 life.
+Artist:		D. Alexander Gregory
+Rarity:		Uncommon
+
+Card Title:	Vengeance
+Color:		White
+Card Type:	Sorcery
+Cost:		3W
+Off./Def.:	n/a
+Card Text:	Destroy any one tapped creature.
+Artist:		Andrew Robinson
+Rarity:		Uncommon
+
+Card Title:	Virtue's Ruin
+Color:		Black
+Card Type:	Sorcery
+Cost:		2B
+Off./Def.:	n/a
+Card Text:	Destroy all white creatures. (This includes your
+		white creatures.)
+Artist:		Mike Dringenberg
+Rarity:		Uncommon
+
+Card Title:	Volcanic Dragon
+Color:		Red
+Card Type:	Summon Creature
+Cost:		4RR
+Off./Def.:	4/4
+Card Text:	Flying
+		Volcanic Dragon is unaffected by summoning
+		sickness.
+Artist:		Tom Wanerstrand
+Rarity:		Rare
+
+Card Title:	Volcanic Hammer
+Color:		Red
+Card Type:	Sorcery
+Cost:		1R
+Off./Def.:	n/a
+Card Text:	Volcanic Hammer deals 3 damage to any one
+		creature or player.
+Artist:		Christopher Rush
+Rarity:		Common
+
+Card Title:	Wall of Granite
+Color:		Red
+Card Type:	Summon Creature
+Cost:		2R
+Off./Def.:	0/7
+Card Text:	Wall of Granite can't attack.
+Artist:		Kev Walker
+Rarity:		Uncommon
+
+Card Title:	Wall of Swords
+Color:		White
+Card Type:	Summon Creature
+Cost:		3W
+Off./Def.:	3/5
+Card Text:	Flying
+		Wall of Swords can't attack.
+Artist:		Douglas Shuler
+Rarity:		Uncommon
+
+Card Title:	Warrior's Charge
+Color:		White
+Card Type:	Sorcery
+Cost:		2W
+Off./Def.:	n/a
+Card Text:	All your creatures get +1[O]/+1[D] until the end of the
+		turn. 
+Artist:		Ted Naifeh
+Rarity:		Common
+
+Card Title:	Whiptail Wurm
+Color:		Green
+Card Type:	Summon Creature
+Cost:		6G
+Off./Def.:	8/5
+Card Text:	n/a
+Artist:		Una Fricker
+Rarity:		Uncommon
+
+Card Title:	Wicked Pact
+Color:		Black
+Card Type:	Sorcery
+Cost:		1BB
+Off./Def.:	n/a
+Card Text:	Destroy any two creatures that aren't black. You lose
+		5 life. (You can't play Wicked Pact unless you can
+		choose two creatures to destroy.)
+Artist:		Adam Rex
+Rarity:		Rare
+
+Card Title:	Willow Dryad
+Color:		Green
+Card Type:	Summon Creature
+Cost:		G
+Off./Def.:	1/1
+Card Text:	Forestwalk (If defending player has any forests in
+		play, Willow Dryad can't be intercepted.)
+Artist:		D. Alexander Gregory
+Rarity:		Common
+
+Card Title:	Wind Drake
+Color:		Blue
+Card Type:	Summon Creature
+Cost:		2U
+Off./Def.:	2/2
+Card Text:	Flying
+Artist:		Zina Saunders
+Rarity:		Common
+
+Card Title:	Winds of Change
+Color:		Red
+Card Type:	Sorcery
+Cost:		R
+Off./Def.:	n/a
+Card Text:	Each player counts the cards in his or her hand,
+		shuffles those cards into his or her deck, and then
+		draws that many cards. (When you play Winds of
+		Change, it doesn't count as a card in your hand.)
+Artist:		Adam Rex
+Rarity:		Rare
+
+Card Title:	Winter's Grasp
+Color:		Green
+Card Type:	Sorcery
+Cost:		1GG
+Off./Def.:	n/a
+Card Text:	Destroy any one land.
+Artist:		Paolo Parente
+Rarity:		Uncommon
+
+Card Title:	Withering Gaze
+Color:		Blue
+Card Type:	Sorcery
+Cost:		2U
+Off./Def.:	n/a
+Card Text:	Look at your opponent's hand. For each forest and
+		green card there, you draw a card. (You draw from
+		your deck.)
+Artist:		Scott M. Fischer
+Rarity:		Uncommon
+
+Card Title:	Wood Elves
+Color:		Green
+Card Type:	Summon Creature
+Cost:		2G
+Off./Def.:	1/1
+Card Text:	When Wood Elves comes into play from your hand,
+		search your deck for a forest and put that card into
+		play. Shuffle your deck afterwards.
+Artist:		Rebecca Guay
+Rarity:		Rare
+
+Card Title:	Wrath of God
+Color:		White
+Card Type:	Sorcery
+Cost:		2WW
+Off./Def.:	n/a
+Card Text:	Put all creatures into their Owners' discard piles. (This
+		includes your creatures.)
+Artist:		Mike Raabe
+Rarity:		Rare

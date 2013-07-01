@@ -1,7 +1,27 @@
 .card_version {
+  width: 223px;
   display: inline-block;
   button {
     border: none;
     background: transparent;
   }
+}
+
+a.active {
+  color: #000;
+  font-weight: bold;
+  background-color: #FEE;
+}
+
+.collected {
+  display: none;
+  -webkit-opacity: 0.5;
+}
+
+.card_version.advanced {
+  display: inline-block;
+}
+
+.advanced_bar {
+  display: none;
 }

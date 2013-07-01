@@ -2,6 +2,7 @@ class CollectingSet < ActiveRecord::Base
   belongs_to :user
   belongs_to :card_set
   has_many :collected_cards, dependent: :destroy
+  has_many :card_versions, through: :card_set
 
   delegate :name, to: :card_set
 

@@ -1,0 +1,1882 @@
+Name:	All Is Dust
+Cost:	 7
+Type:	 Tribal Sorcery - Eldrazi
+Rules Text:	 Each player sacrifices all colored permanents he or she controls.
+Illus.	 Jason Felix
+Rarity:	 Mythic Rare
+Set Number:	 #1/248
+
+Name:	Artisan of Kozilek
+Cost:	 9
+Type:	 Creature - Eldrazi
+Pow/Tgh:	 10/9
+Rules Text:	 When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.
+Annihilator 2
+Illus.	 Jason Felix
+Rarity:	 Uncommon
+Set Number:	 #2/248
+
+Name:	Eldrazi Conscription
+Cost:	 8
+Type:	 Tribal Enchantment - Eldrazi Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +10/+10 and has trample and annihilator 2.
+Illus.	 Jaime Jones
+Rarity:	 Rare
+
+Name:	Emrakul, the Aeons Torn
+Cost:	 15
+Type:	 Legendary Creature - Eldrazi
+Pow/Tgh:	 15/15
+Rules Text:	 Emrakul, the Aeons Torn can't be countered.
+When you cast Emrakul, take an extra turn after this one.
+Flying, protection from colored spells, Annihilator 6
+When Emrakul is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+Illus.	 Mark Tedin
+Rarity:	 Mythic Rare
+Set Number:	 #4/248
+
+Name:	Hand of Emrakul
+Cost:	 9
+Type:	 Creature - Eldrazi
+Pow/Tgh:	 7/7
+Rules Text:	 You may sacrifice four Eldrazi Spawn rather than pay Hand of Emrakul's mana cost.
+Annihilator 1
+Rarity:	 Common
+
+Name:	Kozilek, Butcher of Truth
+Cost:	 10
+Type:	 Legendary Creature - Eldrazi
+Pow/Tgh:	 12/12
+Rules Text:	 When you cast Kozilek, Butcher of Truth, draw four cards.
+Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)
+When Kozilek is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+Illus.	 Michael Komarck
+Rarity:	 Mythic Rare
+Set Number:	 #6/248
+
+Name:	It That Betrays
+Cost:	 12
+Type:	 Creature - Eldrazi
+Pow/Tgh:	 11/11
+Rules Text:	 Annihilator 2
+Whenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.
+Rarity:	 Rare
+Set Number:	 #7/248
+
+Name:	Not Of This World
+Cost:	 7
+Type:	 Tribal Instant - Eldrazi
+Rules Text:	 Counter target spell or ability that targets a permanent you control.
+Not Of This World costs {7} less to cast if f it targets a spell or ability that targets a creature you control with power 7 or greater.
+Illus.	 Izzy
+Rarity:	 Uncommon
+Set Number:	 #8/248
+
+Name:	Pathrazer of Ulamog
+Cost:	 11
+Type:	 Creature - Eldrazi
+Pow/Tgh:	 9/9
+Rules Text:	 Annihilator 3 (Whenever this creature
+attacks, defending player sacrifices three permanents.)
+Pathrazer of Ulamog canÃ¢Â€Â™t be blocked
+except by three or more creatures.
+Rarity:	 Uncommon
+
+Name:	Skittering Invasion
+Cost:	 7
+Type:	 Tribal Sorcery - Eldrazi
+Rules Text:	 Put five 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Rarity:	 Uncommon
+Set Number:	 #10/248
+
+Name:	Spawnsire of Ulamog
+Cost:	 10
+Type:	 Creature - Eldrazi
+Pow/Tgh:	 7/11
+Rules Text:	 Annihilator 1
+{4}: Put two 0/1 colorless Eldrazi Spawn tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+{20}: Cast any number of Eldrazi cards you own from outside the game without paying their mana costs.
+Illus.	 Izzy
+Rarity:	 Rare
+Set Number:	 #11/248
+
+Name:	Ulamog, the Infinite Gyre
+Cost:	 11
+Type:	 Legendary Creature - Eldrazi
+Pow/Tgh:	 10/10
+Rules Text:	 When you cast Ulamog, the Infinite Gyre, destroy target permanent.
+Annihilator 4
+Ulamog is indestructible.
+When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+Rarity:	 Mythic Rare
+Set Number:	 #12/248
+
+Name:	Ulamog's Crusher
+Cost:	 8
+Type:	 Creature - Eldrazi
+Pow/Tgh:	 8/8
+Rules Text:	 Annihilator 2
+Ulamog's Crusher attacks each turn if able.
+Rarity:	 Common
+Set Number:	 #13/248
+
+Name:	Affa Guard Hound
+Cost:	 2W
+Type:	 Creature - Hound
+Pow/Tgh:	 2/2
+Rules Text:	 Flash
+When Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.
+Flavor Text:	 Once a welcoming hub for explorers, Affa became a place of guarded tongues and quick defenses.
+Illus.	 Ryan Pancoast
+Rarity:	 Uncommon
+Set Number:	 #14/248
+
+Name:	Caravan Escort
+Cost:	 W
+Type:	 Creature - Human Knight
+Pow/Tgh:	 1/1
+Rules Text:	 Level Up {2}
+[Level 1-4] | 2/2
+[Level 5+] First Strike | 5/5
+Rarity:	 Common
+
+Name:	Dawnglare Invoker
+Cost:	 2W
+Type:	 Creature - Kor Wizard
+Pow/Tgh:	 2/1
+Rules Text:	 Flying
+{8}: Tap all creatures target player controls.
+Rarity:	 Common
+
+Name:	Deathless Angel
+Cost:	 4WW
+Type:	 Creature - Angel
+Pow/Tgh:	 5/7
+Rules Text:	 Flying
+{W}{W}: Target creature is indestructible this turn.
+Rarity:	 Rare
+
+Name:	Demystify
+Cost:	 W
+Type:	 Instant
+Rules Text:	 Destroy target enchantment.
+Rarity:	 Common
+
+Name:	Eland Umbra
+Cost:	 1W
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +0/+4.
+Totem armor
+Rarity:	 Common
+
+Name:	Emerge Unscathed
+Cost:	 W
+Type:	 Instant
+Rules Text:	 Target creature you control gains protection from the color of your choice until end of turn.
+Rebound.
+Rarity:	 Uncommon
+
+Name:	Gideon Jura
+Cost:	 3WW
+Type:	 Planeswalker - Gideon
+Pow/Tgh:	 6
+Rules Text:	 [+2]: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.
+[-2]: Destroy target tapped creature.
+[0]: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+Illus.	 Aleksi Briclot
+Rarity:	 Mythic Rare
+Set Number:	 #21/248
+
+Name:	Glory Seeker
+Cost:	 1W
+Type:	 Creature - Human Soldier
+Pow/Tgh:	 2/2
+Flavor Text:	 I wa- I was like
+Baby, baby, baby noo
+I'm like
+Baby, baby, baby noo
+I'm like
+Baby, baby, baby noo
+I thought you'd always be mine
+Rarity:	 Common
+
+Name:	Guard Duty
+Cost:	 W
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature has defender.
+Rarity:	 Common
+
+Name:	Harmless Assault
+Cost:	 2WW
+Type:	 Instant
+Rules Text:	 Prevent all combat damage that would be dealt this turn by attacking creatures.
+Rarity:	 Common
+Set Number:	 #24/248
+
+Name:	Hedron-Field Purists
+Cost:	 2W
+Type:	 Creature - Human Cleric
+Pow/Tgh:	 0/3
+Rules Text:	 Level up {2}{W}
+[Level 1-4] If a source would deal damage to you or a permanent you control, prevent 1 of that damage. | 1/4
+[Level 5+] If a source would deal damage to you or a permanent you control, prevent 2 of that damage. | 2/5
+Rarity:	 Rare
+
+Name:	Hyena Umbra
+Cost:	 W
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +1/+1 and has first strike.
+Totem armor (If enchanted creature would be destroyed, instead remove damage from it and destroy this Aura.)
+Rarity:	 Common
+
+Name:	Ikiral Outrider
+Cost:	 1W
+Type:	 Creature - Human Soldier
+Pow/Tgh:	 1/2
+Rules Text:	 Level up {4}
+[Level 1-3] Vigilance | 2/6
+[Level 4+] Vigilance | 3/10
+Rarity:	 Common
+
+Name:	Kabira Vindicator
+Cost:	 3W
+Type:	 Creature - Human Knight
+Pow/Tgh:	 2/4
+Rules Text:	 Level up {2}{W}
+[Level 2-4] Other creatures you control get +1/+1. | 3/6
+[Level 5+] Other creatures you control get +2/+2. | 4/8
+Rarity:	 Uncommon
+
+Name:	Knight of Cliffhaven
+Cost:	 1W
+Type:	 Creature - Kor Knight
+Pow/Tgh:	 2/2
+Rules Text:	 Level up {3}
+[Level 1-3] Flying | 2/3
+[Level 4+] Flying, vigilance | 4/4
+Rarity:	 Common
+
+Name:	Kor Line-Slinger
+Cost:	 1W
+Type:	 Creature - Kor Scout
+Pow/Tgh:	 0/1
+Rules Text:	 {T}: Tap target creature with power 3 or less.
+Rarity:	 Common
+
+Name:	Kor Spiritdancer
+Cost:	 1W
+Type:	 Creature - Kor Wizard
+Pow/Tgh:	 0/2
+Rules Text:	 Kor Spiritdancer gets +2+2 for each Aura attached to it.
+Whenever you cast an Aura spell, you may draw a card.
+Rarity:	 Rare
+
+Name:	Lightmine Field
+Cost:	 2WW
+Type:	 Enchantment
+Rules Text:	 Whenever one or more creatures attack, Lightmine Field deals damage to each of those creatures equal to the number of attacking creatures.
+Rarity:	 Rare
+
+Name:	Linvala, Keeper of Silence
+Cost:	 2WW
+Type:	 Legendary Creature - Angel
+Pow/Tgh:	 3/4
+Rules Text:	 Flying
+Activated abilities of creatures your opponents control canÃ¢Â€Â™t be activated.
+Rarity:	 Mythic Rare
+
+Name:	Lone Missionary
+Cost:	 1W
+Type:	 Creature - Kor Cleric
+Pow/Tgh:	 2/1
+Rules Text:	 When Lone Missionary enters the battlefield, you gain 4 life.
+Rarity:	 Common
+
+Name:	Luminous Wake
+Cost:	 2W
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Whenever enchanted creature attacks or blocks, you gain 4 life.
+Rarity:	 Uncommon
+
+Name:	Makindi Griffin
+Cost:	 3W
+Type:	 Creature - Griffin
+Pow/Tgh:	 2/4
+Rules Text:	 Flying
+Rarity:	 Common
+
+Name:	Mammoth Umbra
+Cost:	 4W
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +3/+3 and
+has vigilance.
+Totem armor (If enchanted creature
+would be destroyed, instead remove all
+damage from it and destroy this Aura.)
+Rarity:	 Uncommon
+
+Name:	Near-Death Experience
+Cost:	 2WWW
+Type:	 Enchantment
+Rules Text:	 At the beginning of your upkeep, if you have exactly 1 life, you win the game.
+Rarity:	 Rare
+
+Name:	Nomads' Assembly
+Cost:	 4WW
+Type:	 Sorcery
+Rules Text:	 Put a 1/1 white Kor Soldier creature token onto the battlefield for each creature you control.
+Rebound
+Rarity:	 Rare
+
+Name:	Oust
+Cost:	 W
+Type:	 Sorcery
+Rules Text:	 Put target creature on top of its owner's library second from the top. Its controller gains 3 life.
+Rarity:	 Uncommon
+
+Name:	Puncturing Light
+Cost:	 1W
+Type:	 Instant
+Rules Text:	 Destroy target attacking or blocking creature with power 3 or less.
+Rarity:	 Common
+Set Number:	 #41/248
+
+Name:	Repel the Darkness
+Cost:	 2W
+Type:	 Instant
+Rules Text:	 Tap up to two target creatures.
+Draw a card.
+Rarity:	 Basic Land
+
+Name:	Smite
+Cost:	 W
+Type:	 Instant
+Rules Text:	 Destroy target blocked creature.
+Rarity:	 Common
+
+Name:	Soul's Attendant
+Cost:	 W
+Type:	 Creature - Human Cleric
+Pow/Tgh:	 1/1
+Rules Text:	 Whenever another creature enters the battlefield, you may gain 1 life.
+Rarity:	 Common
+Set Number:	 #44/248
+
+Name:	Soulbound Guardians
+Cost:	 4W
+Type:	 Creature - Kor Spirit
+Pow/Tgh:	 4/5
+Rules Text:	 Defender, flying
+Rarity:	 Uncommon
+
+Name:	Stalwart Shield-Bearers
+Cost:	 1W
+Type:	 Creature - Human Soldier
+Pow/Tgh:	 0/3
+Rules Text:	 Defender
+Other creatures you control with defender get +0/+2.
+Rarity:	 Common
+
+Name:	Student of Warfare
+Cost:	 W
+Type:	 Creature - Human Knight
+Pow/Tgh:	 1/1
+Rules Text:	 Level up {W}
+[Level 2-6] First strike | 3/3
+[Level 7+] Double strike | 4/4
+Illus.	 Volkan Baga
+Rarity:	 Rare
+Set Number:	 #47/248
+
+Name:	Survival Cache
+Cost:	 2W
+Type:	 Sorcery
+Rules Text:	 You gain 2 life. Then if you have more life than an opponent, draw a card.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Rarity:	 Uncommon
+
+Name:	Time of Heroes
+Cost:	 1W
+Type:	 Enchantment
+Rules Text:	 Each creature you control with a level counter on it gets +2/+2.
+Rarity:	 Uncommon
+
+Name:	Totem-Guide Hartebeest
+Cost:	 4W
+Type:	 Creature - Antelope
+Pow/Tgh:	 2/5
+Rules Text:	 When Totem-Guard Hartbeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.
+Rarity:	 Common
+Set Number:	 #50/248
+
+Name:	Transcendent Master
+Cost:	 1WW
+Type:	 Creature - Human Cleric Avatar
+Pow/Tgh:	 3/3
+Rules Text:	 Level up {1}
+[Level 6-11] Lifelink | 6/6
+[Level 12+] Lifelink
+Transcendent Master is indestructible. | 9/9
+Illus.	 Steven Belledin
+Rarity:	 Mythic Rare
+
+Name:	Umbra Mystic
+Cost:	 2W
+Type:	 Creature - Human Wizard
+Pow/Tgh:	 2/2
+Rules Text:	 Auras attached to permanents you control have totem armor.
+Rarity:	 Rare
+
+Name:	Wall of Omens
+Cost:	 1W
+Type:	 Creature - Wall
+Pow/Tgh:	 0/4
+Rules Text:	 Defender
+When Wall of Omens enters the battlefield, draw a card.
+Rarity:	 Uncommon
+
+Name:	Aura Finesse
+Cost:	 U
+Type:	 Instant
+Rules Text:	 Attach target Aura you control to target creature.
+Draw a card.
+Rarity:	 Common
+
+Name:	Cast Through Time
+Cost:	 4UUU
+Type:	 Enchantment
+Rules Text:	 Instant and sorcery spells you control have rebound. (Exile the spell as it resolves if you cast it from your hand. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)
+Illus.	 Zoltan Boros & Gabor Szikszai
+Rarity:	 Mythic Rare
+
+Name:	Champion's Drake
+Cost:	 1U
+Type:	 Creature - Drake
+Pow/Tgh:	 1/1
+Rules Text:	 Flying
+Champion's Drake gets +3/+3 as long as you control a creature with three or more level counters on it.
+Rarity:	 Common
+
+Name:	Coralhelm Commander
+Cost:	 UU
+Type:	 Creature - Merfolk Soldier
+Pow/Tgh:	 2/2
+Rules Text:	 Level up {1}
+[Level 2-3] : Flying | 3/3
+[Level 4+] : Flying, other Merfolk you control get +1/+1. | 4/4.
+Illus.	 Jaime Jones
+Rarity:	 Rare
+Set Number:	 #57/248
+
+Name:	Crab Umbra
+Cost:	 U
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+{2}{U}: Untap enchanted creature.
+Totem armor
+Rarity:	 Uncommon
+
+Name:	Deprive
+Cost:	 UU
+Type:	 Instant
+Rules Text:	 As an additional cost to cast Deprive, return a land you control to its owner's hand.
+Counter target spell.
+Flavor Text:	 Take a look at this fine creation and enjoy it better with appreciation.
+Rarity:	 Common
+
+Name:	Distortion Strike
+Cost:	 U
+Type:	 Sorcery
+Rules Text:	 Target creature gets +1/+0 until end of turn and is unblockable this turn.
+Rebound
+Rarity:	 Common
+Set Number:	 #60/248
+
+Name:	Domestication
+Cost:	 2UU
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+You control enchanted creature.
+At the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice Domestication.
+Rarity:	 Uncommon
+
+Name:	Dormant Gomazoa
+Cost:	 1UU
+Type:	 Creature - Jellyfish
+Pow/Tgh:	 5/5
+Rules Text:	 Flying
+Dormant Gomazoa enters the battlefield tapped.
+Dormant Gomazoa doesn't untap during your untap step.
+Whenever you become the target of a spell, you may untap Dormant Gomazoa.
+Rarity:	 Rare
+
+Name:	Drake Umbra
+Cost:	 4U
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +3/+3 and has flying.
+Totem armor
+Rarity:	 Uncommon
+
+Name:	Echo Mage
+Cost:	 1UU
+Type:	 Creature - Human Wizard
+Pow/Tgh:	 2/3
+Rules Text:	 Level up {1}{U}
+[Level 2-3] {U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy. | 2/4
+[Level 4+] {U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies. | 2/5
+Illus.	 Matt Stewart
+Rarity:	 Rare
+Set Number:	 #64/248
+
+Name:	Eel Umbra
+Cost:	 1U
+Type:	 Enchantment - Aura
+Rules Text:	 Flash
+Enchant creature
+Enchanted creature gets +1/+1.
+Totem armor
+Rarity:	 Common
+
+Name:	Enclave Cryptologist
+Cost:	 U
+Type:	 Creature - Merfolk Wizard
+Pow/Tgh:	 0/1
+Rules Text:	 Level up {1}{U}
+[Level 1-2] {T}: Draw a card, then discard a card. | 0/1
+[Level 3+] {T}: Draw a card. | 0/1
+Rarity:	 Uncommon
+Set Number:	 #66/248
+
+Name:	Fleeting Distraction
+Cost:	 U
+Type:	 Instant
+Rules Text:	 Target creature gets -1/-0 until end of turn.
+Draw a card.
+Rarity:	 Common
+
+Name:	Frostwind Invoker
+Cost:	 4U
+Type:	 Creature - Merfolk Wizard
+Pow/Tgh:	 3/3
+Rules Text:	 Flying
+{8}: Creatures you control gain flying until end of turn.
+Rarity:	 Common
+
+Name:	Gravitational Shift
+Cost:	 3UU
+Type:	 Enchantment
+Rules Text:	 Creatures with flying get +2/+0.
+Creatures without flying get -2/-0.
+Rarity:	 Rare
+
+Name:	Guard Gomazoa
+Cost:	 2U
+Type:	 Creature - Jellyfish
+Pow/Tgh:	 1/3
+Rules Text:	 Defender, flying
+Prevent all combat damage that would be dealt to Guard Gomazoa.
+Rarity:	 Uncommon
+
+Name:	Hada Spy Patrol
+Cost:	 1U
+Type:	 Creature - Human Rogue
+Pow/Tgh:	 1/1
+Rules Text:	 Level up {2}{U}
+[Level 1-2] Hada Spy Patrol is unblockable. | 2/2
+[Level 3+] Shroud
+Hada Spy Patrol is unblockable. | 3/3
+Rarity:	 Uncommon
+
+Name:	Halimar Wavewatch
+Cost:	 1U
+Type:	 Creature - Merfolk Soldier
+Pow/Tgh:	 0/3
+Rules Text:	 Level up {2}
+[Level 1-4] 0/6
+[Level 5+] Islandwalk | 6/6
+Rarity:	 Common
+
+Name:	Jwari Scuttler
+Cost:	 2U
+Type:	 Creature - Crab
+Pow/Tgh:	 2/3
+Flavor Text:	 "OK, hypothetically if you're going on a mission to, say, catch a guilty whale. And while you were catching the whale, you saw something else that may also be another whale, and you were like, "What?" But then you thought, "Maybe it's not a whale. Maybe it's a big fish, maybe it's a crab with a face painted on it." The point is if I kill the first whale, am I technically a murderer?"
+Rarity:	 Common
+Set Number:	 #73/248
+
+Name:	Lay Bare
+Cost:	 2UU
+Type:	 Instant
+Rules Text:	 Counter target spell. Look at its controller's hand.
+Illus.	 Chippy
+Rarity:	 Common
+Set Number:	 #74/248
+
+Name:	Lighthouse Chronologist
+Cost:	 1U
+Type:	 Creature - Human Wizard
+Pow/Tgh:	 1/3
+Rules Text:	 Level up {U}
+[Level 4-6] | 2/4
+[Level 7+] At the beginning of each end step, if it's not your turn, take an extra turn after this one. | 3/5
+Rarity:	 Mythic Rare
+
+Name:	Merfolk Observer
+Cost:	 1U
+Type:	 Creature - Merfolk Rogue
+Pow/Tgh:	 2/1
+Rules Text:	 When Merfolk Observer enters the battlefield, look at the top card of target player's library
+Rarity:	 Common
+Set Number:	 #76/248
+
+Name:	Merfolk Skyscout
+Cost:	 2UU
+Type:	 Creature - Merfolk Scout
+Pow/Tgh:	 2/3
+Rules Text:	 Flying
+Whenever Merfolk Skyscout attacks or blocks, untap target permanent.
+Flavor Text:	 "Magic everywhere in this plane
+it's all around you, you don't even know it"
+Rarity:	 Uncommon
+
+Name:	Mnemonic Wall
+Cost:	 4U
+Type:	 Creature - Wall
+Pow/Tgh:	 0/4
+Rules Text:	 Defender
+When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+Rarity:	 Common
+
+Name:	Narcolepsy
+Cost:	 1U
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant Creature
+At the beginning of each upkeep, if enchanted creature is untapped, tap it.
+Rarity:	 Common
+
+Name:	Phantasmal Abomination
+Cost:	 1UU
+Type:	 Creature - Illusion
+Pow/Tgh:	 5/5
+Rules Text:	 Defender
+When Phantasmal Abomination becomes the target of a spell or ability, sacrifice it.
+Rarity:	 Uncommon
+
+Name:	Reality Spasm
+Cost:	 XUU
+Type:	 Instant
+Rules Text:	 Choose one - Tap X target permanents; or untap X target permanents.
+Rarity:	 Uncommon
+
+Name:	Recurring Insight
+Cost:	 4UU
+Type:	 Sorcery
+Rules Text:	 Draw cards equal to the number of cards in target opponent's hand.
+Rebound
+Rarity:	 Rare
+
+Name:	Regress
+Cost:	 2U
+Type:	 Instant
+Rules Text:	 Return target permanent to its owner's hand.
+Rarity:	 Common
+
+Name:	Renegade Doppelganger
+Cost:	 1U
+Type:	 Creature - Shapeshifter
+Pow/Tgh:	 0/1
+Rules Text:	 Whenever another creature enters the battlefield under your control, you may have Renegade Doppelganger become a copy of that creature until end of turn. (If it does, it loses this ability for the rest of the turn.)
+Flavor Text:	 To truly know a creature, slither a mile in its tentacles.
+Rarity:	 Rare
+
+Name:	Sea Gate Oracle
+Cost:	 2U
+Type:	 Creature - Human Wizard
+Pow/Tgh:	 1/3
+Rules Text:	 When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+Rarity:	 Common
+
+Name:	See Beyond
+Cost:	 1U
+Type:	 Sorcery
+Rules Text:	 Draw two cards, then shuffle a card from your hand into your library.
+Rarity:	 Common
+
+Name:	Shared Discovery
+Cost:	 U
+Type:	 Sorcery
+Rules Text:	 As an additional cost to cast Shared Discovery, tap four untapped creatures you control.
+Draw three cards.
+Rarity:	 Common
+
+Name:	Skywatcher Adept
+Cost:	 U
+Type:	 Creature - Merfolk Soldier
+Pow/Tgh:	 1/1
+Rules Text:	 Level up {3}
+[Level 1-2] : Flying (2/2)
+[Level 3+] : Flying (4/2)
+Rarity:	 Common
+
+Name:	Sphinx of Magosi
+Cost:	 3UUU
+Type:	 Creature - Sphinx
+Pow/Tgh:	 6/6
+Rules Text:	 Flying
+{2}{U} : Draw a card and put a +1/+1 counter on Sphinx of Magosi.
+Rarity:	 Rare
+Set Number:	 #89/248
+
+Name:	Surrakar Spellblade
+Cost:	 1UU
+Type:	 Creature - Surrakar
+Pow/Tgh:	 2/1
+Rules Text:	 Whenever you cast an instant or sorcery spell, you may put a charge counter on Surrakar Spellblade.
+Whenever Surrakar Spellblade deals combat damage to a player, you may draw X cards, where X is equal to the number of charge counters on it.
+Rarity:	 Rare
+
+Name:	Training Grounds
+Cost:	 U
+Type:	 Enchantment
+Rules Text:	 Activated abilities of creatures you control cost up to {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+Rarity:	 Rare
+
+Name:	Unified Will
+Cost:	 1U
+Type:	 Instant
+Rules Text:	 Counter target spell if you control more creatures than that spell's controller.
+Rarity:	 Uncommon
+Set Number:	 #92/248
+
+Name:	Venerated Teacher
+Cost:	 2U
+Type:	 Creature - Human Wizard
+Pow/Tgh:	 2/2
+Rules Text:	 When Venerated Teacher enters the battlefield, put two level counters on each creature you control with level up.
+Rarity:	 Common
+
+Name:	Arrogant Bloodlord
+Cost:	 1BB
+Type:	 Creature - Vampire Knight
+Pow/Tgh:	 4/4
+Rules Text:	 Whenever Arrogant Bloodlord blocks or becomes blocked by a creature with power 1 or less, destroy Arrogant Bloodlord at end of combat.
+Rarity:	 Uncommon
+
+Name:	Bala Ged Scorpion
+Cost:	 3B
+Type:	 Creature - Scorpion
+Pow/Tgh:	 2/3
+Rules Text:	 When Bala Ged Scorpion enters the battlefield, you may destroy target creature with power 1 or less.
+Rarity:	 Common
+
+Name:	Baneful Omen
+Cost:	 4BBB
+Type:	 Enchantment
+Rules Text:	 At the beginning of your end step, you may reveal the top card of your library. If you do, each opponent loses life equal to that card's converted mana cost.
+Rarity:	 Rare
+
+Name:	Bloodrite Invoker
+Cost:	 2B
+Type:	 Creature - Vampire Shaman
+Pow/Tgh:	 3/1
+Rules Text:	 {8}: Target player loses 3 life and you gain 3 life.
+Rarity:	 Common
+
+Name:	Bloodthrone Vampire
+Cost:	 1B
+Type:	 Creature - Vampire
+Pow/Tgh:	 1/1
+Rules Text:	 Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.
+Rarity:	 Common
+Set Number:	 #98/248
+
+Name:	Cadaver Imp
+Cost:	 1BB
+Type:	 Creature - Imp
+Pow/Tgh:	 1/1
+Rules Text:	 Flying
+When Cadaver Imp enters the battlefield, return target creature card from your graveyard to your hand.
+Rarity:	 Common
+Set Number:	 #99/248
+
+Name:	Consume the Meek
+Cost:	 3BB
+Type:	 Instant
+Rules Text:	 Destroy all creatures with converted mana cost 3 or less. They can't be regenerated.
+Flavor Text:	 "Emrakul is so powerful that it can turn off the sun. But then it gets too cold so it makes another sun."
+Rarity:	 Rare
+Set Number:	 #100/248
+
+Name:	Consuming Vapors
+Cost:	 3B
+Type:	 Sorcery
+Rules Text:	 Target player sacrifices a creature. You gain life equal to that creature's toughness.
+Rebound
+Rarity:	 Rare
+
+Name:	Contaminated Ground
+Cost:	 1B
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant land
+Enchanted land is a Swamp.
+Whenever enchanted land becomes tapped, its controller loses 2 life.
+Rarity:	 Common
+
+Name:	Corpsehatch
+Cost:	 3BB
+Type:	 Sorcery
+Rules Text:	 Destroy target nonblack creature.
+Put two 0/1 colorless Eldrazi Spawn
+creature tokens onto the battlefield. They have Ã¢Â€ÂœSacrifice this creature:
+Add {1} to your mana pool.Ã¢Â€Â
+Rarity:	 Uncommon
+
+Name:	Curse of Wizardry
+Cost:	 2BB
+Type:	 Enchantment
+Rules Text:	 As Curse of Wizardry enters the battlefield, choose a color.
+Whenever a player casts a spell of the chosen color, that player loses 1 life.
+Rarity:	 Uncommon
+
+Name:	Death Cultist
+Cost:	 B
+Type:	 Creature - Human Wizard
+Pow/Tgh:	 1/1
+Rules Text:	 Sacrifice Death Cultist: Target player loses 1 life and you gain 1 life.
+Rarity:	 Common
+
+Name:	Demonic Appetite
+Cost:	 B
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature you control
+Enchanted creature gets +3/+3.
+At the beginning of your upkeep, sacrifice a creature.
+Rarity:	 Common
+Set Number:	 #106/248
+
+Name:	Drana, Kalastria Bloodchief
+Cost:	 3BB
+Type:	 Legendary Creature - Vampire Shaman
+Pow/Tgh:	 4/4
+Rules Text:	 Flying
+{X}{B}{B}: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn.
+Rarity:	 Rare
+
+Name:	Dread Drone
+Cost:	 4B
+Type:	 Creature - Eldrazi Drone
+Pow/Tgh:	 4/1
+Rules Text:	 When Dread Drone enters the battlefield put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Rarity:	 Common
+
+Name:	Escaped Null
+Cost:	 3B
+Type:	 Creature - Zombie Berserker
+Pow/Tgh:	 1/2
+Rules Text:	 Lifelink
+Whenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of turn.
+Rarity:	 Uncommon
+
+Name:	Essence Feed
+Cost:	 5B
+Type:	 Sorcery
+Rules Text:	 Target player loses 3 life. You gain 3 life and put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Rarity:	 Common
+
+Name:	Gloomhunter
+Cost:	 2B
+Type:	 Creature - Bat
+Pow/Tgh:	 2/1
+Rules Text:	 Flying
+Rarity:	 Common
+
+Name:	Guul Draz Assassin
+Cost:	 B
+Type:	 Creature - Vampire Assassin
+Pow/Tgh:	 1/1
+Rules Text:	 Level up {1}{B} ({1}{B}: Put a Level counter on this. Level up only as a sorcery.)
+[Level 2-3] {B}, {T}: Target creature gets -2/-2 until end of turn. | 2/2
+[Level 4+] {B}, {T}: Target creature gets -4/-4 until end of turn. | 4/4
+Rarity:	 Rare
+
+Name:	Hellcarver Demon
+Cost:	 3BBB
+Type:	 Creature - Demon
+Pow/Tgh:	 6/6
+Rules Text:	 Flying
+Whenever Hellcarver Demon deals combat damage to a player, sacrifice all other permanents you control and discard your hand. Exile the top six cards of your library. You may cast any number of nonland cards exiled this way without paying their mana costs.
+Illus.	 Greg Staples
+Rarity:	 Mythic Rare
+Set Number:	 #113/248
+
+Name:	Induce Despair
+Cost:	 2B
+Type:	 Instant
+Rules Text:	 As an additional cost to cast Induce Despair, reveal a creature card from your hand.
+Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.
+Rarity:	 Common
+
+Name:	Inquisition of Kozilek
+Cost:	 B
+Type:	 Sorcery
+Rules Text:	 Target player reveals his or her hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.
+Rarity:	 Uncommon
+
+Name:	Last Kiss
+Cost:	 2B
+Type:	 Instant
+Rules Text:	 Last Kiss deals 2 damage to target creature and you gain 2 life.
+Rarity:	 Common
+
+Name:	Mortician Beetle
+Cost:	 B
+Type:	 Creature - Insect
+Pow/Tgh:	 1/1
+Rules Text:	 Whenever a player sacrifices a creature, you may put a +1/+1 counter on Mortician Beetle.
+Rarity:	 Rare
+
+Name:	Nighthaze
+Cost:	 B
+Type:	 Sorcery
+Rules Text:	 Target creature gains swampwalk until end of turn.
+Draw a card.
+Rarity:	 Common
+
+Name:	Nirkana Cutthroat
+Cost:	 2B
+Type:	 Creature - Vampire Warrior
+Pow/Tgh:	 3/2
+Rules Text:	 Level up {2}{B}
+[Level 1-2] Deathtouch | 4/3
+[Level 3+] First strike, Deathtouch | 5/4
+Rarity:	 Uncommon
+
+Name:	Nirkana Revenant
+Cost:	 4BB
+Type:	 Creature - Vampire Shade
+Pow/Tgh:	 4/4
+Rules Text:	 Whenever you tap a Swamp for mana, add {B} to your mana pool (in addition to the mana the land produces).
+{B}: Nirkana Revenant gets +1/+1 until end of turn.
+Rarity:	 Mythic Rare
+
+Name:	Null Champion
+Cost:	 1B
+Type:	 Creature - Zombie Warrior
+Pow/Tgh:	 1/1
+Rules Text:	 Level up {3}
+[Level 1-3]: 4/2
+[Level 4+]: {B}: Regenerate Null Champion | 7/3
+Rarity:	 Common
+
+Name:	Pawn of Ulamog
+Cost:	 1BB
+Type:	 Creature - Vampire Shaman
+Pow/Tgh:	 2/2
+Rules Text:	 Whenever Pawn of Ulamog or another nontoken creature you control is put into a graveyard from the battlefield, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Rarity:	 Uncommon
+
+Name:	Perish the Thought
+Cost:	 2B
+Type:	 Sorcery
+Rules Text:	 Target opponent reveals his or her hand. Choose a card from it. That player shuffles that card into his or her library.
+Rarity:	 Common
+Set Number:	 #123/248
+
+Name:	Pestilence Demon
+Cost:	 5BBB
+Type:	 Creature - Demon
+Pow/Tgh:	 7/6
+Rules Text:	 Flying
+{B}: Pestilence Demon deals 1 damage to each creature and each player.
+Illus.	 Justin Sweet
+Rarity:	 Rare
+Set Number:	 #124/248
+
+Name:	Repay In Kind
+Cost:	 5BB
+Type:	 Sorcery
+Rules Text:	 Each playerÃ¢Â€Â™s life total becomes the lowest life total among all players.
+Rarity:	 Rare
+Set Number:	 #125/248
+
+Name:	Shrivel
+Cost:	 1B
+Type:	 Sorcery
+Rules Text:	 All creatures get -1/-1 until end of turn.
+Rarity:	 Common
+
+Name:	Skeletal Wurm
+Cost:	 7B
+Type:	 Creature - Skeleton Wurm
+Pow/Tgh:	 7/6
+Rules Text:	 {B}: Regenerate Skeletal Wurm.
+Rarity:	 Uncommon
+
+Name:	Suffer the Past
+Cost:	 XB
+Type:	 Instant
+Rules Text:	 Exile X target cards from target playerÃ¢Â€Â™s graveyard. For each card exiled this way, that player loses 1 life and you gain 1 life.
+Rarity:	 Uncommon
+Set Number:	 #128/248
+
+Name:	Thought Gorger
+Cost:	 2BB
+Type:	 Creature - Horror
+Pow/Tgh:	 2/2
+Rules Text:	 Trample
+When Thought Gorger enters the battlefield, put a +1/+1 counter on it for each card in your hand. If you do, discard your hand.
+When Thought Gorger leaves the battlefield, draw a card for each +1/+1 counter on it.
+Rarity:	 Rare
+
+Name:	Vendetta
+Cost:	 B
+Type:	 Instant
+Rules Text:	 Destroy target nonblack creature. It can't be regenerated. You lose life equal to that creature's toughness.
+Rarity:	 Common
+
+Name:	Virulent Swipe
+Cost:	 B
+Type:	 Instant
+Rules Text:	 Target creature gets +2/+0 and gains deathtouch until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Rarity:	 Uncommon
+
+Name:	Zof Shade
+Cost:	 3B
+Type:	 Creature - Shade
+Pow/Tgh:	 2/2
+Rules Text:	 {2}{B}: Zof Shade gets +2/+2 until end of turn.
+Rarity:	 Common
+
+Name:	Zulaport Enforcer
+Cost:	 B
+Type:	 Creature - Human Warrior
+Pow/Tgh:	 1/1
+Rules Text:	 Level up {4}
+[Level 1-2] | 3/3
+[Level 3+] Zulaport Enforcer can't be blocked except by black creatures. | 5/5
+Rarity:	 Common
+Set Number:	 #133/248
+
+Name:	Akoum Boulderfoot
+Cost:	 4RR
+Type:	 Creature - Giant Warrior
+Pow/Tgh:	 4/5
+Rules Text:	 When Akoum Boulderfoot enters the battlefield, it deals 1 damage to target creature or player.
+Rarity:	 Uncommon
+
+Name:	Battle Rampart
+Cost:	 2R
+Type:	 Creature - Wall
+Pow/Tgh:	 1/3
+Rules Text:	 Defender
+{T}: Target creature gains haste until end of turn.
+Rarity:	 Common
+
+Name:	Battle-Rattle Shaman
+Cost:	 3R
+Type:	 Creature - Goblin Shaman
+Pow/Tgh:	 2/2
+Rules Text:	 At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.
+Rarity:	 Common
+
+Name:	Brimstone Mage
+Cost:	 2R
+Type:	 Creature - Human Shaman
+Pow/Tgh:	 2/2
+Rules Text:	 Level up {3}{R}
+[Level 1-2] {T}: Brimstone Mage deals 1 damage to target creature or player. | 2/3
+[Level 3+] {T}: Brimstone Mage deals 3 damage to target creature or player. | 2/4
+Illus.	 Volkan Baga
+Rarity:	 Uncommon
+
+Name:	Brood Birthing
+Cost:	 1R
+Type:	 Sorcery
+Rules Text:	 If you control at least one 0/1 Eldrazi Spawn creature token, put 3 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool." Otherwise, put one of those tokens onto the battlefield.
+Rarity:	 Common
+Set Number:	 #138/248
+
+Name:	Conquering Manticore
+Cost:	 4RR
+Type:	 Creature - Manticore
+Pow/Tgh:	 5/5
+Rules Text:	 Flying
+When Conquering Manticore enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+Flavor Text:	 It speaks no commands but is always obeyed.
+Illus.	 Chris Rahn
+Rarity:	 Rare
+
+Name:	Devastating Summons
+Cost:	 R
+Type:	 Sorcery
+Rules Text:	 As an additional cost to cast Devastating Summons, sacrifice X lands.
+Put two X/X red Elemental creature tokens onto the battlefield.
+Rarity:	 Rare
+
+Name:	Disaster Radius
+Cost:	 5RR
+Type:	 Sorcery
+Rules Text:	 As an additional cost to cast Disaster Radius, reveal a creature card from your hand.
+Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.
+Rarity:	 Rare
+
+Name:	Emrakul's Hatcher
+Cost:	 4R
+Type:	 Creature - Eldrazi Drone
+Pow/Tgh:	 3/3
+Rules Text:	 When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Rarity:	 Common
+
+Name:	Explosive Revelation
+Cost:	 3RR
+Type:	 Sorcery
+Rules Text:	 Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card's converted mana cost to that creature or player. Put that nonland card into your hand and the rest on the bottom of your library in any order.
+Rarity:	 Uncommon
+
+Name:	Fissure Vent
+Cost:	 3RR
+Type:	 Sorcery
+Rules Text:	 Choose one or both - Destroy target artifact; and/or destroy target nonbasic land.
+Rarity:	 Common
+
+Name:	Flame Slash
+Cost:	 R
+Type:	 Sorcery
+Rules Text:	 Flame Slash deals 4 damage to target creature.
+Rarity:	 Common
+
+Name:	Forked Bolt
+Cost:	 R
+Type:	 Sorcery
+Rules Text:	 Forked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.
+Rarity:	 Uncommon
+
+Name:	Goblin Arsonist
+Cost:	 R
+Type:	 Creature - Goblin Shaman
+Pow/Tgh:	 1/1
+Rules Text:	 When Goblin Arsonist is put into a graveyard from the battlefield, you may have it deal 1 damage to target creature or player.
+Flavor Text:	 With great power comes great risk of getting yourself killed.
+Rarity:	 Common
+
+Name:	Goblin Tunneler
+Cost:	 1R
+Type:	 Creature - Goblin Rogue
+Pow/Tgh:	 1/1
+Rules Text:	 {T}: Target creature with power 2 or less is unblockable this turn.
+Rarity:	 Common
+
+Name:	Grotag Siege-Runner
+Cost:	 1R
+Type:	 Creature - Goblin Rogue
+Pow/Tgh:	 2/1
+Rules Text:	 {R}, Sacrifice Grotag Siege-Runner: Destroy target creature with defender. Grotag Siege-Runner deals 2 damage to that creature's controller.
+Rarity:	 Common
+
+Name:	Heat Ray
+Cost:	 XR
+Type:	 Instant
+Rules Text:	 Heat Ray deals X damage to target creature.
+Rarity:	 Common
+
+Name:	Hellion Eruption
+Cost:	 5R
+Type:	 Sorcery
+Rules Text:	 Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.
+Rarity:	 Rare
+
+Name:	Kargan Dragonlord
+Cost:	 RR
+Type:	 Creature - Human Warrior
+Pow/Tgh:	 2/2
+Rules Text:	 Level up {R}
+[Level 4-7] Flying | 4/4
+[Level 8+] Flying, trample
+{R}: Kargan Dragonlord gets +1/+0 until end of turn. | 8/8
+Rarity:	 Mythic Rare
+
+Name:	Kiln Fiend
+Cost:	 1R
+Type:	 Creature - Elemental Beast
+Pow/Tgh:	 1/2
+Rules Text:	 Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.
+Rarity:	 Common
+
+Name:	Lagac Lizard
+Cost:	 3R
+Type:	 Creature - Lizard
+Pow/Tgh:	 3/3
+Flavor Text:	 "Everybody on the plane definitely knows the Lagac. As far as I know, everybody loves the Lagac, and if you don't love the Lagac, I'm gonna make you love the Lagac."
+Rarity:	 Common
+
+Name:	Lavafume Invoker
+Cost:	 2R
+Type:	 Creature - Goblin Shaman
+Pow/Tgh:	 2/2
+Rules Text:	 {8}: Creatures you control get +3/+0 until end of turn.
+Rarity:	 Common
+
+Name:	Lord of Shatterskull Pass
+Cost:	 3R
+Type:	 Creature - Minotaur Shaman
+Pow/Tgh:	 3/3
+Rules Text:	 Level up {1}{R}
+[Level 1-5] (6/6)
+[Level 6+] Whenever Lord of Shatterskull Pass attacks, it deals 6 damage to each creature defending player controls. (6/6)
+Rarity:	 Rare
+
+Name:	Lust for War
+Cost:	 2R
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Whenever enchanted creature becomes tapped, Lust for War deals 3 damage to that creature's controller.
+Enchanted creature attacks each turn if able.
+Rarity:	 Uncommon
+
+Name:	Magmaw
+Cost:	 3RR
+Type:	 Creature - Elemental
+Pow/Tgh:	 4/4
+Rules Text:	 {1}, Sacrifice a nonland permanent: Magmaw deals 1 damage to target creature or player.
+Illus.	 Karl Kopinski
+Rarity:	 Rare
+
+Name:	Ogre Sentry
+Cost:	 1R
+Type:	 Creature - Ogre Warrior
+Pow/Tgh:	 3/3
+Rules Text:	 Defender
+Rarity:	 Common
+
+Name:	Rage Nimbus
+Cost:	 2R
+Type:	 Creature - Elemental
+Pow/Tgh:	 5/3
+Rules Text:	 Defender, flying
+{1}{R}: Target creature attacks this turn if able.
+Flavor Text:	 Something something rat in a cage.
+Illus.	 Vincent Proce
+Rarity:	 Rare
+Set Number:	 #160/248
+
+Name:	Raid Bombardment
+Cost:	 2R
+Type:	 Enchantment
+Rules Text:	 Whenever a creature you control with power 2 or less attacks, Raid Bombardment deals 1 damage to defending player.
+Rarity:	 Common
+
+Name:	Rapacious One
+Cost:	 5R
+Type:	 Creature - Eldrazi Drone
+Pow/Tgh:	 5/4
+Rules Text:	 Trample
+Whenever Rapacious One deals combat damage to a player, put that many 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Rarity:	 Uncommon
+
+Name:	Soulsurge Elemental
+Cost:	 3R
+Type:	 Creature - Elemental
+Pow/Tgh:	 */1
+Rules Text:	 First strike
+Soulsurge Elemental's power is equal to the number of creatures you control.
+Rarity:	 Uncommon
+
+Name:	Spawning Breath
+Cost:	 1R
+Type:	 Instant
+Rules Text:	 Spawning Breath deals 1 damage to target creature or player. Put a 0/1 colorless Eldrazi Spawn creature token with "Sacrifice this creature: Add {1} to your mana pool" into play.
+Rarity:	 Common
+Set Number:	 #164/248
+
+Name:	Splinter Twin
+Cost:	 2RR
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature has "{T}: Put a token which is a copy of this creature onto the battlefield. That token has haste. Exile it at the beginning of the next end step."
+Rarity:	 Rare
+
+Name:	Staggershock
+Cost:	 2R
+Type:	 Instant
+Rules Text:	 Staggershock deals 2 damage to target creature or player.
+Rebound
+Rarity:	 Common
+
+Name:	Surreal Memoir
+Cost:	 3R
+Type:	 Sorcery
+Rules Text:	 Return an instant card at random from your graveyard to your hand.
+Rebound
+Rarity:	 Uncommon
+
+Name:	Traitorous Instinct
+Cost:	 3R
+Type:	 Sorcery
+Rules Text:	 Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets +2/+0 and gains haste.
+Rarity:	 Uncommon
+
+Name:	Tuktuk the Explorer
+Cost:	 2R
+Type:	 Legendary Creature - Goblin
+Pow/Tgh:	 1/1
+Rules Text:	 Haste
+When Tuktuk the Explorer is put into a graveyard from the battlefield, put a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned onto the battlefield.
+Rarity:	 Rare
+
+Name:	Valakut Fireboar
+Cost:	 4R
+Type:	 Creature - Elemental Boar
+Pow/Tgh:	 1/7
+Rules Text:	 Whenever Valakut Fireboar attacks,
+switch its power and toughness
+until end of turn.
+Rarity:	 Uncommon
+
+Name:	Vent Sentinel
+Cost:	 3R
+Type:	 Creature - Elemental
+Pow/Tgh:	 2/4
+Rules Text:	 Defender
+{1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.
+Illus.	 Chris Rahn
+Rarity:	 Common
+
+Name:	World at War
+Cost:	 3RR
+Type:	 Sorcery
+Rules Text:	 After the first postcombat main phase this turn, there's an additional combat phase followed by an additional main phase. At the beginning of that combat, untap all creatures that attacked this turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Rarity:	 Rare
+
+Name:	Wrap in Flames
+Cost:	 3R
+Type:	 Sorcery
+Rules Text:	 Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures canÃ¢Â€Â™t block this turn.
+Rarity:	 Common
+Set Number:	 #173/248
+
+Name:	Ancient Stirrings
+Cost:	 G
+Type:	 Sorcery
+Rules Text:	 Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order.
+Rarity:	 Common
+
+Name:	Aura Gnarlid
+Cost:	 2G
+Type:	 Creature - Beast
+Pow/Tgh:	 2/2
+Rules Text:	 Creatures with power less than Aura Gnarlid's power can't block it.
+Aura Gnarlid gets +1/+1 for each Aura on the battlefield.
+Rarity:	 Common
+
+Name:	Awakening Zone
+Cost:	 2G
+Type:	 Enchantment
+Rules Text:	 At the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Rarity:	 Rare
+
+Name:	Bear Umbra
+Cost:	 2GG
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +2/+2 and has "Whenever this creature attacks, untap all lands you control."
+Totem armor
+Rarity:	 Rare
+
+Name:	Beastbreaker of Bala Ged
+Cost:	 1G
+Type:	 Creature - Human Warrior
+Pow/Tgh:	 2/2
+Rules Text:	 Level up {2}{G} ({2}{G}: Put a Level counter on this. Level up only as a sorcery.)
+[Level 1-3] | 4/4
+[Level 4+] Trample | 6/6
+Rarity:	 Uncommon
+
+Name:	Boar Umbra
+Cost:	 2G
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +3/+3.
+Totem armor
+Rarity:	 Uncommon
+Set Number:	 #179/248
+
+Name:	Bramblesnap
+Cost:	 1G
+Type:	 Creature - Elemental
+Pow/Tgh:	 1/1
+Rules Text:	 Trample
+Tap an untapped creature you control: Bramblesnap gets +1/+1 until end of turn.
+Rarity:	 Uncommon
+Set Number:	 #180/248
+
+Name:	Broodwarden
+Cost:	 3GG
+Type:	 Creature - Eldrazi Drone
+Pow/Tgh:	 4/4
+Rules Text:	 Eldrazi Spawn creatures you control get +2/+1.
+Rarity:	 Uncommon
+
+Name:	Daggerback Basilisk
+Cost:	 2G
+Type:	 Creature - Basilisk
+Pow/Tgh:	 2/2
+Rules Text:	 Deathtouch
+Rarity:	 Common
+
+Name:	Gelatinous Genesis
+Cost:	 XXG
+Type:	 Sorcery
+Rules Text:	 Put X X/X green Ooze creature tokens onto the battlefield.
+Rarity:	 Rare
+
+Name:	Gigantomancer
+Cost:	 7G
+Type:	 Creature - Human Shaman
+Pow/Tgh:	 1/1
+Rules Text:	 {1}: Target creature you control becomes 7/7 until end of turn.
+Rarity:	 Rare
+
+Name:	Gravity Well
+Cost:	 1GG
+Type:	 Enchantment
+Rules Text:	 Whenever a creature with flying attacks, it loses flying until end of turn.
+Rarity:	 Uncommon
+
+Name:	Growth Spasm
+Cost:	 2G
+Type:	 Sorcery
+Rules Text:	 Search your library for a basic land card and put it into play tapped. Then shuffle your library.
+Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Rarity:	 Common
+
+Name:	Haze Frog
+Cost:	 3GG
+Type:	 Creature - Frog
+Pow/Tgh:	 2/1
+Rules Text:	 Flash
+When Haze Frog enters the battlefield, prevent all combat damage that other creatures would deal this turn.
+Rarity:	 Common
+
+Name:	Irresistible Prey
+Cost:	 G
+Type:	 Sorcery
+Rules Text:	 Target creature must be blocked this turn if able.
+Draw a card.
+Rarity:	 Uncommon
+Set Number:	 #188/248
+
+Name:	Jaddi Lifestrider
+Cost:	 4G
+Type:	 Creature Elemental
+Pow/Tgh:	 2/8
+Rules Text:	 When Jaddi Lifestrider enters the battlefield, you may tap any number of untapped creatures you control. You gain 2 life for each creature tapped this way.
+Rarity:	 Uncommon
+Set Number:	 #189/248
+
+Name:	Joraga Treespeaker
+Cost:	 G
+Type:	 Creature - Elf Druid
+Pow/Tgh:	 1/1
+Rules Text:	 Level up {1}{G}
+[Level 1-4] {T}: Add {G}{G} to your mana pool. | 1/2
+[Level 5+] Elves you control have "{T}: Add {G}{G} to your mana pool." | 1/4
+Illus.	 Cyril Van Der Haegen
+Rarity:	 Uncommon
+
+Name:	Kazandu Tuskcaller
+Cost:	 1G
+Type:	 Creature - Human Shaman
+Pow/Tgh:	 1/1
+Rules Text:	 Level up {1}{G}
+[Level 2-5] {T}: Put a 3/3 green Elephant creature token onto the battlefield. | 1/1
+[Level 6+] {T}: Put two 3/3 green Elephant creature tokens onto the battlefield. | 1/1
+Rarity:	 Rare
+Set Number:	 #191/248
+
+Name:	Khalni Hydra
+Cost:	 GGGGGGGG
+Type:	 Creature - Hydra
+Pow/Tgh:	 8/8
+Rules Text:	 Khalni Hydra costs {G} less to cast for each green creature you control.
+Trample
+Illus.	 Todd Lockwood
+Rarity:	 Mythic Rare
+Set Number:	 #192/248
+
+Name:	Kozilek's Predator
+Cost:	 3G
+Type:	 Creature - Eldrazi Drone
+Pow/Tgh:	 3/3
+Rules Text:	 When Kozilek's Predator enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+Flavor Text:	 It's difficult to outwit something that doesn't speak, strategize or even think.
+Illus.	 Steve Argyle
+Rarity:	 Common
+
+Name:	Leaf Arrow
+Cost:	 G
+Type:	 Instant
+Rules Text:	 Leaf Arrow deals 3 damage to target creature with flying.
+Rarity:	 Common
+Set Number:	 #194/248
+
+Name:	Living Destiny
+Cost:	 3G
+Type:	 Instant
+Rules Text:	 As an additional cost to cast Living Destiny, reveal a creature card from your hand.
+You gain life equal to the revealed card's converted mana cost.
+Rarity:	 Common
+
+Name:	Might of the Masses
+Cost:	 G
+Type:	 Instant
+Rules Text:	 Target creature gets +1/+1 until end of turn for each creature you control.
+Rarity:	 Common
+
+Name:	Momentous Fall
+Cost:	 2GG
+Type:	 Instant
+Rules Text:	 As an additional cost to cast Momentous Fall, sacrifice a creature.
+You draw cards equal to the sacrificed creature's power, then you gain life equal to its toughness.
+Flavor Text:	 It wasn't long until the elves had developed a use for every part of the Eldrazi.
+Rarity:	 Rare
+
+Name:	Mul Daya Channelers
+Cost:	 1GG
+Type:	 Creature - Elf Druid Shaman
+Pow/Tgh:	 2/2
+Rules Text:	 Play with the top card of your library revealed.
+As long as the top card of your library is a creature card, Mul Daya Channelers gets +3/+3.
+As long as the top card of your library is a land card, Mul Daya Channelers has "{T}: Add two mana of any one color to your mana pool."
+Rarity:	 Rare
+
+Name:	Naturalize
+Cost:	 1G
+Type:	 Instant
+Rules Text:	 Destroy target artifact or enchantment.
+Rarity:	 Common
+
+Name:	Nema Siltlurker
+Cost:	 4G
+Type:	 Creature - Lizard
+Pow/Tgh:	 3/5
+Rarity:	 Common
+
+Name:	Nest Invader
+Cost:	 1G
+Type:	 Creature - Eldrazi Drone
+Pow/Tgh:	 2/2
+Rules Text:	 When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+Rarity:	 Common
+
+Name:	Ondu Giant
+Cost:	 3G
+Type:	 Creature - Giant
+Pow/Tgh:	 2/4
+Rules Text:	 When Ondu Giant enters the battlefield, search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Rarity:	 Common
+
+Name:	Overgrown Battlement
+Cost:	 1G
+Type:	 Creature - Wall
+Pow/Tgh:	 0/4
+Rules Text:	 Defender
+{T}: Add {G} to your mana pool for each creature with defender you control.
+Rarity:	 Common
+
+Name:	Pelakka Wurm
+Cost:	 4GGG
+Type:	 Creature - Wurm
+Pow/Tgh:	 7/7
+Rules Text:	 Trample
+When Pelakka Wurm enters the battlefield, you gain 7 life.
+When Pelakka Wurm is put into a graveyard from the battlefield, draw a card.
+Rarity:	 Uncommon
+
+Name:	Prey's Vengeance
+Cost:	 G
+Type:	 Instant
+Rules Text:	 Target creature gets +2/+2 until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Rarity:	 Uncommon
+
+Name:	Realms Uncharted
+Cost:	 2G
+Type:	 Instant
+Rules Text:	 Search your library for four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into the graveyard and the rest into your hand. Then shuffle your library.
+Rarity:	 Rare
+Set Number:	 #206/248
+
+Name:	Snake Umbra
+Cost:	 2G
+Type:	 Enchantment - Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +1/+1 and has "Whenever this creature deals damage to an opponent, you may draw a card."
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)
+Rarity:	 Common
+
+Name:	Spider Umbra
+Cost:	 G
+Type:	 Enchantment - Aura
+Rules Text:	 Enchanted creature gets +1+1 and has reach.
+Totem armor
+Rarity:	 Common
+
+Name:	Sporecap Spider
+Cost:	 2G
+Type:	 Creature - Spider
+Pow/Tgh:	 1/5
+Rules Text:	 Reach
+Rarity:	 Common
+
+Name:	Stomper Cub
+Cost:	 3GG
+Type:	 Creature - Beast
+Pow/Tgh:	 5/3
+Rules Text:	 Trample
+Rarity:	 Common
+
+Name:	Tajuru Preserver
+Cost:	 1G
+Type:	 Creature - Elf Shaman
+Pow/Tgh:	 2/1
+Rules Text:	 Spells and abilities your opponents control can't cause you to sacrifice permanents.
+Flavor Text:	 "Time on this planet, taking nothing for granted
+I seen a caterpillar turn into a butterfly"
+Rarity:	 Rare
+
+Name:	Vengevine
+Cost:	 2GG
+Type:	 Creature - Elemental
+Pow/Tgh:	 4/3
+Rules Text:	 Haste
+Whenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from the graveyard to the battlefield.
+Illus.	 Raymond Swanland
+Rarity:	 Mythic Rare
+
+Name:	Wildheart Invoker
+Cost:	 2GG
+Type:	 Creature - Elf Shaman
+Pow/Tgh:	 4/3
+Rules Text:	 {8}: Target creature gets +5/+5 and gains trample until end of turn.
+Rarity:	 Common
+Set Number:	 #213/248
+
+Name:	Sarkhan the Mad
+Cost:	 3BR
+Type:	 Planeswalker - Sarkhan
+Pow/Tgh:	 7
+Rules Text:	 [0]: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card's converted mana cost.
+[-2]: Target creature's controller sacrifices it, then that player puts a 5/5 red Dragon creature token with flying onto the battlefield.
+[-4]: Each Dragon creature you control deals damage equal to its power to target player.
+Rarity:	 Mythic Rare
+
+Name:	Angelheart Vial
+Cost:	 5
+Type:	 Artifact
+Rules Text:	 Whenever you're dealt damage, you may put that many charge counters on Angelheart Vial.
+{2}, {T}, Remove four charge counters from Angelheart Vial: You gain 2 life and draw a card.
+Illus.	 Chippy
+Rarity:	 Rare
+Set Number:	 #215/248
+
+Name:	Dreamstone Hedron
+Cost:	 6
+Type:	 Artifact
+Rules Text:	 {T}: Add {3} to your mana pool.
+{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.
+Rarity:	 Uncommon
+
+Name:	Enatu Golem
+Cost:	 6
+Type:	 Artifact Creature - Golem
+Pow/Tgh:	 3/5
+Rules Text:	 When Enatu Golem is put into a graveyard from the battlefield, you gain 4 life.
+Rarity:	 Uncommon
+
+Name:	Hedron Matrix
+Cost:	 4
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature gets +X/+X, where X is its converted mana cost.
+Equip {4}
+Rarity:	 Rare
+
+Name:	Keening Stone
+Cost:	 6
+Type:	 Artifact
+Rules Text:	 {5}, {T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in that player's graveyard.
+Illus.	 Jung Park
+Rarity:	 Rare
+
+Name:	Ogre's Cleaver
+Cost:	 2
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature gets +5/+0
+Equip {5}
+Rarity:	 Uncommon
+
+Name:	Pennon Blade
+Cost:	 3
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature gets +1/+1 for each creature you control.
+Equip {4}
+Rarity:	 Uncommon
+
+Name:	Prophetic Prism
+Cost:	 2
+Type:	 Artifact
+Rules Text:	 When Prophetic Prism enters the battlefield, draw a card.
+{1}, {T}: Add one mana of any color to your mana pool.
+Rarity:	 Common
+Set Number:	 #222/248
+
+Name:	Reinforced Bulwark
+Cost:	 3
+Type:	 Artifact Creature - Wall
+Pow/Tgh:	 0/4
+Rules Text:	 Defender
+{T}: Prevent the next 1 damage that would be dealt to you this turn.
+Rarity:	 Common
+
+Name:	Runed Servitor
+Cost:	 2
+Type:	 Artifact Creature - Construct
+Pow/Tgh:	 2/2
+Rules Text:	 When Runed Servitor is put into a graveyard from the battlefield, each player draws a card.
+Rarity:	 Uncommon
+
+Name:	Sphinx-Bone Wand
+Cost:	 7
+Type:	 Artifact
+Rules Text:	 Whenever you cast an instant or sorcery spell, you may put a charge counter on Sphinx-Bone Wand. If you do, Sphinx-Bone Wand deals damage to target creature or player equal to the number of charge counters on it.
+Rarity:	 Rare
+
+Name:	Warmonger's Chariot
+Cost:	 2
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature gets +2/+2.
+As long as equipped creature has defender, it can attack as though it didn't have defender.
+Equip {3}
+Rarity:	 Uncommon
+
+Name:	Eldrazi Temple
+Type:	 Land
+Rules Text:	 {T}: Add {1} to your mana pool.
+{T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.
+Flavor Text:	 Each temple is a door to a horrible future.
+Illus.	 James Paick
+Rarity:	 Rare
+Set Number:	 #227/248
+
+Name:	Evolving Wilds
+Type:	 Land
+Rules Text:	 {T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Rarity:	 Common
+
+Name:	Plains
+Type:	 Basic Land - Plains
+Rarity:	 Basic Land
+Set Number:	 #229/248
+
+Name:	Plains
+Type:	 Basic Land - Plains
+Rarity:	 Basic Land
+Set Number:	 #230/248
+
+Name:	Plains
+Type:	 Basic Land - Plains
+Rarity:	 Basic Land
+Set Number:	 #231/248
+
+Name:	Plains
+Type:	 Basic Land - Plains
+Rarity:	 Basic Land
+Set Number:	 #232/248
+
+Name:	Island
+Type:	 Basic Land - Island
+Rarity:	 Basic Land
+Set Number:	 #233/248
+
+Name:	Island
+Type:	 Basic Land - Island
+Rarity:	 Basic Land
+Set Number:	 #234/248
+
+Name:	Island
+Type:	 Basic Land - Island
+Rarity:	 Basic Land
+Set Number:	 #235/248
+
+Name:	Island
+Type:	 Basic Land - Island
+Rarity:	 Basic Land
+Set Number:	 #236/248
+
+Name:	Swamp
+Type:	 Basic Land - Swamp
+Rarity:	 Basic Land
+Set Number:	 #237/248
+
+Name:	Swamp
+Type:	 Basic Land - Swamp
+Rarity:	 Basic Land
+Set Number:	 #238/248
+
+Name:	Swamp
+Type:	 Basic Land - Swamp
+Rarity:	 Basic Land
+Set Number:	 #239/248
+
+Name:	Swamp
+Type:	 Basic Land - Swamp
+Rarity:	 Basic Land
+Set Number:	 #240/248
+
+Name:	Mountain
+Type:	 Basic Land - Mountain
+Rarity:	 Basic Land
+Set Number:	 #241/248
+
+Name:	Mountain
+Type:	 Basic Land - Mountain
+Rarity:	 Basic Land
+Set Number:	 #242/248
+
+Name:	Mountain
+Type:	 Basic Land - Mountain
+Rarity:	 Basic Land
+Set Number:	 #243/248
+
+Name:	Mountain
+Type:	 Basic Land - Mountain
+Rarity:	 Basic Land
+Set Number:	 #244/248
+
+Name:	Forest
+Type:	 Basic Land - Forest
+Rarity:	 Basic Land
+Set Number:	 #245/248
+
+Name:	Forest
+Type:	 Basic Land - Forest
+Rarity:	 Basic Land
+Set Number:	 #246/248
+
+Name:	Forest
+Type:	 Basic Land - Forest
+Rarity:	 Basic Land
+Set Number:	 #247/248
+
+Name:	Forest
+Type:	 Basic Land - Forest
+Rarity:	 Basic Land
+Set Number:	 #248/248

@@ -2,8 +2,13 @@ class CollectedCardsController < ApplicationController
   respond_to :js
 
   def create
-    @collected_card = current_user.collected_cards.create(collected_card_params)
-    respond_with @collected_card
+    if @collected_card = current_user.collected_cards.find_by(collected_card_params)
+      @collected_card.destroy
+      render "uncollect"
+    else
+      @collected_card = current_user.collected_cards.create(collected_card_params)
+      respond_with @collected_card
+    end
   end
 
   private

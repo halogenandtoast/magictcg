@@ -1,0 +1,104 @@
+﻿<div>
+  <input id="search" type="text" placeholder="Search" />
+  <%= link_to "All", "#", class: "active", data: { showc: "*" } %>
+  <%= link_to "Artifact", "#", data: { showc: "A" } %>
+  <%= link_to "Black", "#", data: { showc: "B" } %>
+  <%= link_to "Blue", "#", data: { showc: "U" } %>
+  <%= link_to "Green", "#", data: { showc: "G" } %>
+  <%= link_to "Land", "#", data: { showc: "L" } %>
+  <%= link_to "Red", "#", data: { showc: "R" } %>
+  <%= link_to "White", "#", data: { showc: "W" } %>
+  -
+  <%= link_to "All", "#", class: "active", data: { showr: "*" } %>
+  <%= link_to "Common", "#", data: { showr: "Common" } %>
+  <%= link_to "Uncommon", "#", data: { showr: "Uncommon" } %>
+  <%= link_to "Rare", "#", data: { showr: "Rare" } %>
+  <%= link_to "Mythic", "#", data: { showr: "Mythic" } %>
+  -
+  <%= link_to "Advanced", "#", class: "advanced" %>
+</div>
+
+<div class="advanced_bar">
+
+</div>
+
+<% @card_versions.each do |card_version| %>
+  <%= div_for(card_version, class: (@collected_card_versions.include?(card_version) ? "collected" : "uncollected"), data: { name: card_version.name.downcase, color: card_version.color, rarity: card_version.rarity }) do %>
+    <%= button_to card_version_collected_cards_path(card_version), remote: true do %>
+      <%= image_tag card_version.scan_url, width: 223 %>
+    <% end %>
+  <% end %>
+<% end %>
+
+<script>
+  var showc = "*";
+  var showr = "*";
+  var advanced = false;
+
+  var filter_cards = function() {
+      if(showr == '*' && showc == '*') {
+        $(".card_version").css("display", "inline-block");
+        $(".card_version").animate({ opacity: 1, width: 223 }, function() {
+          $(this).removeClass("filtered");
+        });
+      } else {
+        filter = "";
+        if(showr != "*") {
+          filter += "[data-rarity~='"+showr+"']";
+        }
+        if(showc != "*") {
+          filter += "[data-color~='"+showc+"']";
+        }
+        $(".card_version"+filter).css("display", "inline-block");
+        $(".card_version"+filter).animate({ opacity: 1, width: 223 }, function() {
+          $(this).removeClass("fitered");
+        });
+        $(".card_version:not("+filter+")").animate({ opacity: 0, width: 0 }, function() {
+          $(this).addClass("filtered")
+          $(this).css("display", "none");
+        });
+      }
+  }
+  $(function() {
+    $("a[data-showc]").click(function(e) {
+      $("a[data-showc]").removeClass("active");
+      $(this).addClass("active")
+      e.stopPropagation();
+      showc = $(this).data('showc');
+      filter_cards();
+      return false;
+    });
+    $("a[data-showr]").click(function(e) {
+      $("a[data-showr]").removeClass("active");
+      $(this).addClass("active")
+      e.stopPropagation();
+      showr = $(this).data('showr');
+      filter_cards();
+      return false;
+    });
+    $("a.advanced").click(function(e) {
+      e.stopPropagation();
+      advanced = !advanced;
+      if(advanced) {
+        $(".card_version").css("display", "inline-block");
+        $(".card_version").addClass("advanced")
+      } else {
+        $(".card_version").removeClass("advanced")
+        $(".card_version.collected").css("display", "none");
+      }
+      return false;
+    });
+    $("#search").keyup(function(e) {
+      var search_term = $(this).val().toLowerCase();
+      if(search_term != "") {
+        $(".card_version[data-name*='"+search_term+"']:not(.filtered)").css("display", "inline-block");
+        $(".card_version[data-name*='"+search_term+"']:not(.filtered)").animate({ opacity: 1, width: 223 });
+        $(".card_version:visible:not([data-name*='"+search_term+"'])").animate({ opacity: 0, width: 0 }, function() {
+          $(this).css("display", "none");
+        });
+      } else {
+        filter_cards();
+      }
+    });
+  });
+</script>

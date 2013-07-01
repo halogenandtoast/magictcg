@@ -1,0 +1,1742 @@
+CardName:	Ad Nauseam
+Cost:	3BB
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost. You may repeat this process any number of times.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Agony Warp
+Cost:	UB
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target creature gets -3/-0 until end of turn. Target creature gets -0/-3 until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Ajani Vengeant
+Cost:	2RW
+Type:	Planeswalker - Ajani
+Pow/Tgh:	/3
+Rules Text:	+1: Target permanent doesn't untap during its controller's next untap step. -2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life. -7: Destroy all lands target player controls.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Akrasan Squire
+Cost:	W
+Type:	Creature - Human Soldier
+Pow/Tgh:	1/1
+Rules Text:	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Algae Gharial
+Cost:	3G
+Type:	Creature - Crocodile
+Pow/Tgh:	1/1
+Rules Text:	Shroud Whenever another creature is put into a graveyard from play, you may put a +1/+1 counter on Algae Gharial.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Angelic Benediction
+Cost:	3W
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) Whenever a creature you control attacks alone, you may tap target creature.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Angel's Herald
+Cost:	W
+Type:	Creature - Human Cleric
+Pow/Tgh:	1/1
+Rules Text:	2W, T, Sacrifice a green creature, a white creature, and a blue creature: Search your library for a card named Empyrial Archangel and put it into play. Then shuffle your library.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Angelsong
+Cost:	1W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Prevent all combat damage that would be dealt this turn. Cycling 2 (2, Discard this card: Draw a card.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Arcane Sanctum
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	Arcane Sanctum comes into play tapped. T Add W, U, or B to your mana pool.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Archdemon of Unx
+Cost:	5BB
+Type:	Creature - Demon
+Pow/Tgh:	6/6
+Rules Text:	Flying, trample At the beginning of your upkeep, sacrifice a non-Zombie creature, then put a 2/2 black Zombie creature token into play.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Banewasp Affliction
+Cost:	1B
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature When enchanted creature is put into a graveyard, that creature's controller loses life equal to its toughness.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Bant Battlemage
+Cost:	2W
+Type:	Creature - Human Wizard
+Pow/Tgh:	2/2
+Rules Text:	G, T Target creature gains trample until end of turn. U, T Target creature gains flying until end of turn.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Bant Charm
+Cost:	GWU
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Choose one - Destroy target artifact; or put target creature on the bottom of its owner's library; or counter target instant spell.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Bant Panorama
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. 1, T, Sacrifice Bant Panorama: Search your library for a basic Forest, Plains, or Island card and put it into play tapped. Then shuffle your library.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Battlegrace Angel
+Cost:	3WW
+Type:	Creature - Angel
+Pow/Tgh:	4/4
+Rules Text:	Flying Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) Whenever a creature you control attacks alone, it gains lifelink until end of turn.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Behemoth's Herald
+Cost:	G
+Type:	Creature - Elf Shaman
+Pow/Tgh:	1/1
+Rules Text:	2G, T, Sacrifice a red creature, a green creature, and a white creature: Search your library for a card named Godsire and put it into play. Then shuffle your library.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Blightning
+Cost:	1BR
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Blightning deals 3 damage to target player. That player discards two cards.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Blister Beetle
+Cost:	1B
+Type:	Creature - Insect
+Pow/Tgh:	1/1
+Rules Text:	When Blister Beetle comes into play, target creature gets -1/-1 until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Blood Cultist
+Cost:	1BR
+Type:	Creature - Human Wizard
+Pow/Tgh:	1/1
+Rules Text:	T Blood Cultist deals 1 damage to target creature. Whenever a creature dealt damage by Blood Cultist this turn is put into a graveyard, put a +1/+1 counter on Blood Cultist.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Bloodpyre Elemental
+Cost:	4R
+Type:	Creature - Elemental
+Pow/Tgh:	4/1
+Rules Text:	Sacrifice Bloodpyre Elemental: Bloodpyre Elemental deals 4 damage to target creature. Play this ability only any time you could play a sorcery.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Bloodthorn Taunter
+Cost:	1R
+Type:	Creature - Human Scout
+Pow/Tgh:	1/1
+Rules Text:	Haste T Target creature with power 5 or greater gains haste until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Bone Splinters
+Cost:	B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	As an additional cost to play Bone Splinters, sacrifice a creature. Destroy target creature.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Branching Bolt
+Cost:	1RG
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Choose one or both - Branching Bolt deals 3 damage to target creature with flying; and/or Branching Bolt deals 3 damage to target creature without flying.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Brilliant Ultimatum
+Cost:	WWUUUBB
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Remove the top five cards of your library from the game. An opponent separates those cards into two piles. You may play any number of cards from one of those piles without paying their mana costs.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Broodmate Dragon
+Cost:	3BRG
+Type:	Creature - Dragon
+Pow/Tgh:	4/4
+Rules Text:	Flying When Broodmate Dragon comes into play, put a 4/4 red Dragon creature token with flying into play.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Bull Cerodon
+Cost:	4RW
+Type:	Creature - Beast
+Pow/Tgh:	5/5
+Rules Text:	Vigilance, haste
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Caldera Hellion
+Cost:	3RR
+Type:	Creature - Hellion
+Pow/Tgh:	3/3
+Rules Text:	Devour 1 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with that many +1/+1 counters on it.) When Caldera Hellion comes into play, it deals 3 damage to each creature.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Call to Heel
+Cost:	1U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Return target creature to its owner's hand. Its controller draws a card.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Cancel
+Cost:	1UU
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Counter target spell.
+Set/Rarity:	Shards of Alara Common, Tenth Edition Common, Time Spiral Common
+
+CardName:	Carrion Thrash
+Cost:	2BRG
+Type:	Creature - Viashino Warrior
+Pow/Tgh:	4/4
+Rules Text:	When Carrion Thrash is put into a graveyard from play, you may pay 2. If you do, return another target creature card from your graveyard to your hand.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Cathartic Adept
+Cost:	U
+Type:	Creature - Human Wizard
+Pow/Tgh:	1/1
+Rules Text:	T Target player puts the top card of his or her library into his or her graveyard.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Cavern Thoctar
+Cost:	5G
+Type:	Creature - Beast
+Pow/Tgh:	5/5
+Rules Text:	1R: Cavern Thoctar gets +1/+0 until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Clarion Ultimatum
+Cost:	GGWWWUU
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Choose five permanents you control. For each of those permanents, you may search your library for a card with the same name as that permanent. Put those cards into play tapped, then shuffle your library.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Cloudheath Drake
+Cost:	4U
+Type:	Artifact Creature - Drake
+Pow/Tgh:	3/3
+Rules Text:	Flying 1W: Cloudheath Drake gains vigilance until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Coma Veil
+Cost:	4U
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant artifact or creature Enchanted permanent doesn't untap during its controller's untap step.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Corpse Connoisseur
+Cost:	4B
+Type:	Creature - Zombie Wizard
+Pow/Tgh:	3/3
+Rules Text:	When Corpse Connoisseur comes into play, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library. Unearth 3B (3B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Courier's Capsule
+Cost:	1U
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	1U, T, Sacrifice Courier's Capsule: Draw two cards.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Court Archers
+Cost:	2G
+Type:	Creature - Human Archer
+Pow/Tgh:	1/3
+Rules Text:	Reach (This can block creatures with flying.) Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Covenant of Minds
+Cost:	4U
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Reveal the top three cards of your library. Target opponent may choose to put those cards into your hand. If he or she doesn't, put those cards into your graveyard and draw five cards.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Cradle of Vitality
+Cost:	3W
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Whenever you gain life, you may pay 1W. If you do, put a +1/+1 counter on target creature for each 1 life you gained.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Crucible of Fire
+Cost:	3R
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Dragon creatures you control get +3/+3.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Cruel Ultimatum
+Cost:	UUBBBRR
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Crumbling Necropolis
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	Crumbling Necropolis comes into play tapped. T Add U, B, or R to your mana pool.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Cunning Lethemancer
+Cost:	2B
+Type:	Creature - Human Wizard
+Pow/Tgh:	2/2
+Rules Text:	At the beginning of your upkeep, each player discards a card.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Cylian Elf
+Cost:	1G
+Type:	Creature - Elf Scout
+Pow/Tgh:	2/2
+Rules Text:
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Dawnray Archer
+Cost:	2U
+Type:	Creature - Human Archer
+Pow/Tgh:	1/1
+Rules Text:	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) W, T Dawnray Archer deals 1 damage to target attacking or blocking creature.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Death Baron
+Cost:	1BB
+Type:	Creature - Zombie Wizard
+Pow/Tgh:	2/2
+Rules Text:	Skeleton creatures you control and other Zombie creatures you control get +1/+1 and have deathtouch.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Deathgreeter
+Cost:	B
+Type:	Creature - Human Shaman
+Pow/Tgh:	1/1
+Rules Text:	Whenever another creature is put into a graveyard from play, you may gain 1 life.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Deft Duelist
+Cost:	WU
+Type:	Creature - Human Rogue
+Pow/Tgh:	2/1
+Rules Text:	First strike Shroud (This creature can't be the target of spells or abilities.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Demon's Herald
+Cost:	B
+Type:	Creature - Human Wizard
+Pow/Tgh:	1/1
+Rules Text:	2B, T, Sacrifice a blue creature, a black creature, and a red creature: Search your library for a card named Prince of Thralls and put it into play. Then shuffle your library.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Dispeller's Capsule
+Cost:	W
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	2W, T, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Dragon Fodder
+Cost:	1R
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Put two 1/1 red Goblin creature tokens into play.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Dragon's Herald
+Cost:	R
+Type:	Creature - Goblin Shaman
+Pow/Tgh:	1/1
+Rules Text:	2R, T, Sacrifice a black creature, a red creature, and a green creature: Search your library for a card named Hellkite Overlord and put it into play. Then shuffle your library.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Dreg Reaver
+Cost:	4B
+Type:	Creature - Zombie Beast
+Pow/Tgh:	4/3
+Rules Text:
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Dregscape Zombie
+Cost:	1B
+Type:	Creature - Zombie
+Pow/Tgh:	2/1
+Rules Text:	Unearth B (B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Druid of the Anima
+Cost:	1G
+Type:	Creature - Elf Druid
+Pow/Tgh:	1/1
+Rules Text:	T Add R, G, or W to your mana pool.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Drumhunter
+Cost:	3G
+Type:	Creature - Human Druid Warrior
+Pow/Tgh:	2/2
+Rules Text:	At the end of your turn, if you control a creature with power 5 or greater, you may draw a card. T Add 1 to your mana pool.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Elspeth, Knight-Errant
+Cost:	2WW
+Type:	Planeswalker - Elspeth
+Pow/Tgh:	/4
+Rules Text:	+1: Put a 1/1 white Soldier creature token into play. +1: Target creature gets +3/+3 and gains flying until end of turn. -8: For the rest of the game, artifacts, creatures, enchantments, and lands you control are indestructible.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Elvish Visionary
+Cost:	1G
+Type:	Creature - Elf Shaman
+Pow/Tgh:	1/1
+Rules Text:	When Elvish Visionary comes into play, draw a card.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Empyrial Archangel
+Cost:	4GWWU
+Type:	Creature - Angel
+Pow/Tgh:	5/8
+Rules Text:	Flying, shroud All damage that would be dealt to you is dealt to Empyrial Archangel instead.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Esper Battlemage
+Cost:	2U
+Type:	Artifact Creature - Human Wizard
+Pow/Tgh:	2/2
+Rules Text:	W, T Prevent the next 2 damage that would be dealt to you this turn. B, T Target creature gets -1/-1 until end of turn.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Esper Charm
+Cost:	WUB
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Choose one - Destroy target enchantment; or draw two cards; or target player discards two cards.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Esper Panorama
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. 1, T, Sacrifice Esper Panorama: Search your library for a basic Plains, Island, or Swamp card and put it into play tapped. Then shuffle your library.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Etherium Astrolabe
+Cost:	2U
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	Flash B, T, Sacrifice an artifact: Draw a card.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Etherium Sculptor
+Cost:	1U
+Type:	Artifact Creature - Vedalken Artificer
+Pow/Tgh:	1/2
+Rules Text:	Artifact spells you play cost 1 less to play.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Ethersworn Canonist
+Cost:	1W
+Type:	Artifact Creature - Human Cleric
+Pow/Tgh:	2/2
+Rules Text:	Each player who has played a nonartifact spell this turn can't play additional nonartifact spells.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Excommunicate
+Cost:	2W
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Put target creature on top of its owner's library.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Executioner's Capsule
+Cost:	B
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	1B, T, Sacrifice Executioner's Capsule: Destroy target nonblack creature.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Exuberant Firestoker
+Cost:	2R
+Type:	Creature - Human Druid Shaman
+Pow/Tgh:	1/1
+Rules Text:	At the end of your turn, if you control a creature with power 5 or greater, you may have Exuberant Firestoker deal 2 damage to target player. T Add 1 to your mana pool.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Fatestitcher
+Cost:	3U
+Type:	Creature - Zombie Wizard
+Pow/Tgh:	1/2
+Rules Text:	T You may tap or untap another target permanent. Unearth U (U: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Feral Hydra
+Cost:	XG
+Type:	Creature - Hydra Beast
+Pow/Tgh:	0/0
+Rules Text:	Feral Hydra comes into play with X +1/+1 counters on it. 3: Put a +1/+1 counter on Feral Hydra. Any player may play this ability.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Filigree Sages
+Cost:	3U
+Type:	Artifact Creature - Vedalken Wizard
+Pow/Tgh:	2/3
+Rules Text:	2U: Untap target artifact.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Fire-Field Ogre
+Cost:	1UBR
+Type:	Creature - Ogre Mutant
+Pow/Tgh:	4/2
+Rules Text:	First strike Unearth UBR (UBR: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Flameblast Dragon
+Cost:	4RR
+Type:	Creature - Dragon
+Pow/Tgh:	5/5
+Rules Text:	Flying Whenever Flameblast Dragon attacks, you may pay XR. If you do, Flameblast Dragon deals X damage to target creature or player.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Fleshbag Marauder
+Cost:	2B
+Type:	Creature - Zombie Warrior
+Pow/Tgh:	3/1
+Rules Text:	When Fleshbag Marauder comes into play, each player sacrifices a creature.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Forest
+Cost:
+Type:	Basic Land - Forest
+Pow/Tgh:	/
+Rules Text:	[G]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Forest
+Cost:
+Type:	Basic Land - Forest
+Pow/Tgh:	/
+Rules Text:	[G]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Forest
+Cost:
+Type:	Basic Land - Forest
+Pow/Tgh:	/
+Rules Text:	[G]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Forest
+Cost:
+Type:	Basic Land - Forest
+Pow/Tgh:	/
+Rules Text:	[G]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Gather Specimens
+Cost:	3UUU
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	If a creature would come into play under an opponent's control this turn, it comes into play under your control instead.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Gift of the Gargantuan
+Cost:	2G
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Look at the top four cards of your library. You may reveal a creature card and/or a land card from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Glaze Fiend
+Cost:	1B
+Type:	Artifact Creature - Illusion
+Pow/Tgh:	0/1
+Rules Text:	Flying Whenever another artifact comes into play under your control, Glaze Fiend gets +2/+2 until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Goblin Assault
+Cost:	2R
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	At the beginning of your upkeep, put a 1/1 red Goblin creature token with haste into play. Goblin creatures attack each turn if able.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Goblin Deathraiders
+Cost:	BR
+Type:	Creature - Goblin Warrior
+Pow/Tgh:	3/1
+Rules Text:	Trample
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Goblin Mountaineer
+Cost:	R
+Type:	Creature - Goblin Scout
+Pow/Tgh:	1/1
+Rules Text:	Mountainwalk
+Set/Rarity:	Shards of Alara Common, Ninth Edition Common, Starter 1999 Common, Portal Second Age Common
+
+CardName:	Godsire
+Cost:	4RGGW
+Type:	Creature - Beast
+Pow/Tgh:	8/8
+Rules Text:	Vigilance T Put an 8/8 Beast creature token into play that's red, green, and white.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Godtoucher
+Cost:	3G
+Type:	Creature - Elf Cleric
+Pow/Tgh:	2/2
+Rules Text:	1W, T Prevent all damage that would be dealt to target creature with power 5 or greater this turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Grixis Battlemage
+Cost:	2B
+Type:	Creature - Human Wizard
+Pow/Tgh:	2/2
+Rules Text:	U, T Draw a card, then discard a card. R, T Target creature can't block this turn.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Grixis Charm
+Cost:	UBR
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Choose one - Return target permanent to its owner's hand; or target creature gets -4/-4 until end of turn; or creatures you control get +2/+0 until end of turn.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Grixis Panorama
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. 1, T, Sacrifice Grixis Panorama: Search your library for a basic Island, Swamp, or Mountain card and put it into play tapped. Then shuffle your library.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Guardians of Akrasa
+Cost:	2W
+Type:	Creature - Human Soldier
+Pow/Tgh:	0/4
+Rules Text:	Defender Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Gustrider Exuberant
+Cost:	2W
+Type:	Creature - Human Wizard
+Pow/Tgh:	1/2
+Rules Text:	Flying Sacrifice Gustrider Exuberant: Creatures you control with power 5 or greater gain flying until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Hellkite Overlord
+Cost:	4BRRG
+Type:	Creature - Dragon
+Pow/Tgh:	8/8
+Rules Text:	Flying, trample, haste R: Hellkite Overlord gets +1/+0 until end of turn. BG: Regenerate Hellkite Overlord.
+Set/Rarity:	Shards of Alara MythicRare, From the Vault: Dragons Rare
+
+CardName:	Hell's Thunder
+Cost:	1RR
+Type:	Creature - Elemental
+Pow/Tgh:	4/4
+Rules Text:	Flying, haste At end of turn, sacrifice Hell's Thunder. Unearth 4R (4R: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Hindering Light
+Cost:	WU
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Counter target spell that targets you or a permanent you control. Draw a card.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Hissing Iguanar
+Cost:	2R
+Type:	Creature - Lizard
+Pow/Tgh:	3/1
+Rules Text:	Whenever another creature is put into a graveyard from play, you may have Hissing Iguanar deal 1 damage to target player.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Immortal Coil
+Cost:	2BB
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	T, Remove two cards in your graveyard from the game: Draw a card. If damage would be dealt to you, prevent that damage. Remove a card in your graveyard from the game for each 1 damage prevented this way. When there are no cards in your graveyard, you lose the game.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Incurable Ogre
+Cost:	3R
+Type:	Creature - Ogre Mutant
+Pow/Tgh:	5/1
+Rules Text:
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Infest
+Cost:	1BB
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	All creatures get -2/-2 until end of turn.
+Set/Rarity:	Shards of Alara Uncommon, Onslaught Uncommon
+
+CardName:	Invincible Hymn
+Cost:	6WW
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Count the number of cards in your library. Your life total becomes that number.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Island
+Cost:
+Type:	Basic Land - Island
+Pow/Tgh:	/
+Rules Text:	[U]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Island
+Cost:
+Type:	Basic Land - Island
+Pow/Tgh:	/
+Rules Text:	[U]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Island
+Cost:
+Type:	Basic Land - Island
+Pow/Tgh:	/
+Rules Text:	[U]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Island
+Cost:
+Type:	Basic Land - Island
+Pow/Tgh:	/
+Rules Text:	[U]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Jhessian Infiltrator
+Cost:	GU
+Type:	Creature - Human Rogue
+Pow/Tgh:	2/2
+Rules Text:	Jhessian Infiltrator is unblockable.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Jhessian Lookout
+Cost:	1U
+Type:	Creature - Human Scout
+Pow/Tgh:	2/1
+Rules Text:
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Jund Battlemage
+Cost:	2R
+Type:	Creature - Human Shaman
+Pow/Tgh:	2/2
+Rules Text:	B, T Target player loses 1 life. G, T Put a 1/1 green Saproling creature token into play.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Jund Charm
+Cost:	BRG
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Choose one - Remove target player's graveyard from the game; or Jund Charm deals 2 damage to each creature; or put two +1/+1 counters on target creature.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Jund Panorama
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. 1, T, Sacrifice Jund Panorama: Search your library for a basic Swamp, Mountain, or Forest card and put it into play tapped. Then shuffle your library.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Jungle Shrine
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	Jungle Shrine comes into play tapped. T Add R, G, or W to your mana pool.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Jungle Weaver
+Cost:	5GG
+Type:	Creature - Spider
+Pow/Tgh:	5/6
+Rules Text:	Reach (This can block creatures with flying.) Cycling 2 (2, Discard this card: Draw a card.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Kathari Screecher
+Cost:	2U
+Type:	Creature - Bird Soldier
+Pow/Tgh:	2/2
+Rules Text:	Flying Unearth 2U (2U: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Kederekt Creeper
+Cost:	UBR
+Type:	Creature - Horror
+Pow/Tgh:	2/3
+Rules Text:	Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.) Kederekt Creeper can't be blocked except by two or more creatures.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Kederekt Leviathan
+Cost:	6UU
+Type:	Creature - Leviathan
+Pow/Tgh:	5/5
+Rules Text:	When Kederekt Leviathan comes into play, return all other nonland permanents to their owners' hands. Unearth 6U (6U: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Keeper of Progenitus
+Cost:	3G
+Type:	Creature - Elf Druid
+Pow/Tgh:	1/3
+Rules Text:	Whenever a player taps a Mountain, Forest, or Plains for mana, that player adds one mana to his or her mana pool of any type that land produced.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Kiss of the Amesha
+Cost:	4WU
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target player gains 7 life and draws two cards.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Knight of the Skyward Eye
+Cost:	1W
+Type:	Creature - Human Knight
+Pow/Tgh:	2/2
+Rules Text:	3G: Knight of the Skyward Eye gets +3/+3 until end of turn. Play this ability only once each turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Knight of the White Orchid
+Cost:	WW
+Type:	Creature - Human Knight
+Pow/Tgh:	2/2
+Rules Text:	First strike When Knight of the White Orchid comes into play, if an opponent controls more lands than you, you may search your library for a Plains card, put it into play, then shuffle your library.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Knight-Captain of Eos
+Cost:	4W
+Type:	Creature - Human Knight
+Pow/Tgh:	2/2
+Rules Text:	When Knight-Captain of Eos comes into play, put two 1/1 white Soldier creature tokens into play. W, Sacrifice a Soldier: Prevent all combat damage that would be dealt this turn.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Kresh the Bloodbraided
+Cost:	2BRG
+Type:	Legendary Creature - Human Warrior
+Pow/Tgh:	3/3
+Rules Text:	Whenever another creature is put into a graveyard from play, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Lich's Mirror
+Cost:	5
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	If you would lose the game, instead shuffle your hand, your graveyard, and all permanents you own into your library, then draw seven cards and your life total becomes 20.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Lightning Talons
+Cost:	2R
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature Enchanted creature gets +3/+0 and has first strike.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Lush Growth
+Cost:	G
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant land Enchanted land is a Mountain, Forest, and Plains.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Magma Spray
+Cost:	R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Magma Spray deals 2 damage to target creature. If that creature would be put into a graveyard this turn, remove it from the game instead.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Manaplasm
+Cost:	2G
+Type:	Creature - Ooze
+Pow/Tgh:	1/1
+Rules Text:	Whenever you play a spell, Manaplasm gets +X/+X until end of turn, where X is that spell's converted mana cost.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Marble Chalice
+Cost:	2W
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	T You gain 1 life.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Master of Etherium
+Cost:	2U
+Type:	Artifact Creature - Vedalken Wizard
+Pow/Tgh:	*/*
+Rules Text:	Master of Etherium's power and toughness are each equal to the number of artifacts you control. Other artifact creatures you control get +1/+1.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Mayael the Anima
+Cost:	RGW
+Type:	Legendary Creature - Elf Shaman
+Pow/Tgh:	2/3
+Rules Text:	3RGW, T Look at the top five cards of your library. You may put a creature card with power 5 or greater from among them into play. Put the rest on the bottom of your library in any order.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Memory Erosion
+Cost:	1UU
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Whenever an opponent plays a spell, that player puts the top two cards of his or her library into his or her graveyard.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Metallurgeon
+Cost:	1W
+Type:	Artifact Creature - Human Artificer
+Pow/Tgh:	1/2
+Rules Text:	W, T Regenerate target artifact.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Mighty Emergence
+Cost:	2G
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Whenever a creature with power 5 or greater comes into play under your control, you may put two +1/+1 counters on it.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Mindlock Orb
+Cost:	3U
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	Players can't search libraries.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Minion Reflector
+Cost:	5
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	Whenever a nontoken creature comes into play under your control, you may pay 2. If you do, put a token into play that's a copy of that creature. That token has haste and "At end of turn, sacrifice this permanent."
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Mosstodon
+Cost:	4G
+Type:	Creature - Plant Elephant
+Pow/Tgh:	5/3
+Rules Text:	1: Target creature with power 5 or greater gains trample until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Mountain
+Cost:
+Type:	Basic Land - Mountain
+Pow/Tgh:	/
+Rules Text:	[R]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Arabian Nights Common, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Mountain
+Cost:
+Type:	Basic Land - Mountain
+Pow/Tgh:	/
+Rules Text:	[R]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Arabian Nights Common, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Mountain
+Cost:
+Type:	Basic Land - Mountain
+Pow/Tgh:	/
+Rules Text:	[R]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Arabian Nights Common, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Mountain
+Cost:
+Type:	Basic Land - Mountain
+Pow/Tgh:	/
+Rules Text:	[R]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Elves vs Goblins box set BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Arabian Nights Common, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Mycoloth
+Cost:	3GG
+Type:	Creature - Fungus
+Pow/Tgh:	4/4
+Rules Text:	Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.) At the beginning of your upkeep, put a 1/1 green Saproling creature token into play for each +1/+1 counter on Mycoloth.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Naturalize
+Cost:	1G
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Destroy target artifact or enchantment.
+Set/Rarity:	Shards of Alara Common, Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common
+
+CardName:	Naya Battlemage
+Cost:	2G
+Type:	Creature - Human Shaman
+Pow/Tgh:	2/2
+Rules Text:	R, T Target creature gets +2/+0 until end of turn. W, T Tap target creature.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Naya Charm
+Cost:	RGW
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Choose one - Naya Charm deals 3 damage to target creature; or return target card in a graveyard to its owner's hand; or tap all creatures target player controls.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Naya Panorama
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. 1, T, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card and put it into play tapped. Then shuffle your library.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Necrogenesis
+Cost:	BG
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	2: Remove target creature card in a graveyard from the game. Put a 1/1 green Saproling creature token into play.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Obelisk of Bant
+Cost:	3
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	T Add G, W, or U to your mana pool.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Obelisk of Esper
+Cost:	3
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	T Add W, U, or B to your mana pool.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Obelisk of Grixis
+Cost:	3
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	T Add U, B, or R to your mana pool.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Obelisk of Jund
+Cost:	3
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	T Add B, R, or G to your mana pool.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Obelisk of Naya
+Cost:	3
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	T Add R, G, or W to your mana pool.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Oblivion Ring
+Cost:	2W
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	When Oblivion Ring comes into play, remove another target nonland permanent from the game. When Oblivion Ring leaves play, return the removed card to play under its owner's control.
+Set/Rarity:	Shards of Alara Common, Lorwyn Common
+
+CardName:	Onyx Goblet
+Cost:	2B
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	T Target player loses 1 life.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Ooze Garden
+Cost:	1G
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	1G, Sacrifice a non-Ooze creature: Put an X/X green Ooze creature token into play, where X is the sacrificed creature's power. Play this ability only any time you could play a sorcery.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Outrider of Jhess
+Cost:	3U
+Type:	Creature - Human Knight
+Pow/Tgh:	2/2
+Rules Text:	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Plains
+Cost:
+Type:	Basic Land - Plains
+Pow/Tgh:	/
+Rules Text:	[W]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Plains
+Cost:
+Type:	Basic Land - Plains
+Pow/Tgh:	/
+Rules Text:	[W]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Plains
+Cost:
+Type:	Basic Land - Plains
+Pow/Tgh:	/
+Rules Text:	[W]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Plains
+Cost:
+Type:	Basic Land - Plains
+Pow/Tgh:	/
+Rules Text:	[W]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Predator Dragon
+Cost:	3RRR
+Type:	Creature - Dragon
+Pow/Tgh:	4/4
+Rules Text:	Flying, haste Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.)
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Prince of Thralls
+Cost:	4UBBR
+Type:	Creature - Demon
+Pow/Tgh:	7/7
+Rules Text:	Whenever a permanent an opponent controls is put into a graveyard, put that card into play under your control unless that opponent pays 3 life.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Protomatter Powder
+Cost:	2U
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	4W, T, Sacrifice Protomatter Powder: Return target artifact card from your graveyard to play.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Punish Ignorance
+Cost:	WUUB
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Counter target spell. Its controller loses 3 life and you gain 3 life.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Puppet Conjurer
+Cost:	1B
+Type:	Artifact Creature - Human Wizard
+Pow/Tgh:	1/2
+Rules Text:	U, T Put a 0/1 blue Homunculus artifact creature token into play. At the beginning of your upkeep, sacrifice a Homunculus.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Qasali Ambusher
+Cost:	1GW
+Type:	Creature - Cat Warrior
+Pow/Tgh:	2/3
+Rules Text:	Reach If a creature is attacking you and you control a Forest and a Plains, you may play Qasali Ambusher without paying its mana cost and as though it had flash.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Quietus Spike
+Cost:	3
+Type:	Artifact - Equipment
+Pow/Tgh:	/
+Rules Text:	Equipped creature has deathtouch. Whenever equipped creature deals combat damage to a player, that player loses half his or her life, rounded up. Equip 3
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Rafiq of the Many
+Cost:	1GWU
+Type:	Legendary Creature - Human Knight
+Pow/Tgh:	3/3
+Rules Text:	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) Whenever a creature you control attacks alone, it gains double strike until end of turn.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Rakeclaw Gargantuan
+Cost:	2RGW
+Type:	Creature - Beast
+Pow/Tgh:	5/3
+Rules Text:	1: Target creature with power 5 or greater gains first strike until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Ranger of Eos
+Cost:	3W
+Type:	Creature - Human Soldier
+Pow/Tgh:	3/2
+Rules Text:	When Ranger of Eos comes into play, you may search your library for up to two creature cards with converted mana cost 1 or less, reveal them, and put them into your hand. If you do, shuffle your library.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Realm Razer
+Cost:	3RGW
+Type:	Creature - Beast
+Pow/Tgh:	4/2
+Rules Text:	When Realm Razer comes into play, remove all lands from the game. When Realm Razer leaves play, return the removed cards to play tapped under their owners' control.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Relic of Progenitus
+Cost:	1
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	T Target player removes a card in his or her graveyard from the game. 1, Remove Relic of Progenitus from the game: Remove all graveyards from the game. Draw a card.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Resounding Roar
+Cost:	1G
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target creature gets +3/+3 until end of turn. Cycling 5RGW (5RGW, Discard this card: Draw a card.) When you cycle Resounding Roar, target creature gets +6/+6 until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Resounding Scream
+Cost:	2B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target player discards a card at random. Cycling 5UBR (5UBR, Discard this card: Draw a card.) When you cycle Resounding Scream, target player discards two cards at random.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Resounding Silence
+Cost:	3W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Remove target attacking creature from the game. Cycling 5GWU (5GWU, Discard this card: Draw a card.) When you cycle Resounding Silence, remove up to two target attacking creatures from the game.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Resounding Thunder
+Cost:	2R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Resounding Thunder deals 3 damage to target creature or player. Cycling 5BRG (5BRG, Discard this card: Draw a card.) When you cycle Resounding Thunder, it deals 6 damage to target creature or player.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Resounding Wave
+Cost:	2U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Return target permanent to its owner's hand. Cycling 5WUB (5WUB, Discard this card: Draw a card.) When you cycle Resounding Wave, return two target permanents to their owners' hands.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Rhox Charger
+Cost:	3G
+Type:	Creature - Rhino Soldier
+Pow/Tgh:	3/3
+Rules Text:	Trample Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Rhox War Monk
+Cost:	GWU
+Type:	Creature - Rhino Monk
+Pow/Tgh:	3/4
+Rules Text:	Lifelink
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Ridge Rannet
+Cost:	5RR
+Type:	Creature - Beast
+Pow/Tgh:	6/4
+Rules Text:	Cycling 2 (2, Discard this card: Draw a card.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Rip-Clan Crasher
+Cost:	RG
+Type:	Creature - Human Warrior
+Pow/Tgh:	2/2
+Rules Text:	Haste
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Rockcaster Platoon
+Cost:	5WW
+Type:	Creature - Rhino Soldier
+Pow/Tgh:	5/7
+Rules Text:	4G: Rockcaster Platoon deals 2 damage to each creature with flying and each player.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Rockslide Elemental
+Cost:	2R
+Type:	Creature - Elemental
+Pow/Tgh:	1/1
+Rules Text:	First strike Whenever another creature is put into a graveyard from play, you may put a +1/+1 counter on Rockslide Elemental.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Sacellum Godspeaker
+Cost:	2G
+Type:	Creature - Elf Druid
+Pow/Tgh:	2/2
+Rules Text:	T Reveal any number of creature cards with power 5 or greater from your hand. Add G to your mana pool for each card revealed this way.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Salvage Titan
+Cost:	4BB
+Type:	Artifact Creature - Golem
+Pow/Tgh:	6/4
+Rules Text:	You may sacrifice three artifacts rather than pay Salvage Titan's mana cost. Remove three artifact cards in your graveyard from the game: Return Salvage Titan from your graveyard to your hand.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Sanctum Gargoyle
+Cost:	3W
+Type:	Artifact Creature - Gargoyle
+Pow/Tgh:	2/3
+Rules Text:	Flying When Sanctum Gargoyle comes into play, you may return target artifact card from your graveyard to your hand.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Sangrite Surge
+Cost:	4RG
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target creature gets +3/+3 and gains double strike until end of turn.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Sarkhan Vol
+Cost:	2RG
+Type:	Planeswalker - Sarkhan
+Pow/Tgh:	/4
+Rules Text:	+1: Creatures you control get +1/+1 and gain haste until end of turn. -2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. -6: Put five 4/4 red Dragon creature tokens with flying into play.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Savage Hunger
+Cost:	2G
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature Enchanted creature gets +1/+0 and has trample. Cycling 2 (2, Discard this card: Draw a card.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Savage Lands
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	Savage Lands comes into play tapped. T Add B, R, or G to your mana pool.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Scavenger Drake
+Cost:	3B
+Type:	Creature - Drake
+Pow/Tgh:	1/1
+Rules Text:	Flying Whenever another creature is put into a graveyard from play, you may put a +1/+1 counter on Scavenger Drake.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Scourge Devil
+Cost:	4R
+Type:	Creature - Devil
+Pow/Tgh:	3/3
+Rules Text:	When Scourge Devil comes into play, creatures you control get +1/+0 until end of turn. Unearth 2R (2R: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Scourglass
+Cost:	3WW
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	T, Sacrifice Scourglass: Destroy all permanents except for artifacts and lands. Play this ability only during your upkeep.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Seaside Citadel
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	Seaside Citadel comes into play tapped. T Add G, W, or U to your mana pool.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Sedraxis Specter
+Cost:	UBR
+Type:	Creature - Specter
+Pow/Tgh:	3/2
+Rules Text:	Flying Whenever Sedraxis Specter deals combat damage to a player, that player discards a card. Unearth 1B (1B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Sedris, the Traitor King
+Cost:	3UBR
+Type:	Legendary Creature - Zombie Warrior
+Pow/Tgh:	5/5
+Rules Text:	Each creature card in your graveyard has unearth 2B. (2B: Return the card to play. The creature gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Shadowfeed
+Cost:	B
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Remove target card in a graveyard from the game. You gain 3 life.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Sharding Sphinx
+Cost:	4UU
+Type:	Artifact Creature - Sphinx
+Pow/Tgh:	4/4
+Rules Text:	Flying Whenever an artifact creature you control deals combat damage to a player, you may put a 1/1 blue Thopter artifact creature token with flying into play.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Sharuum the Hegemon
+Cost:	3WUB
+Type:	Legendary Artifact Creature - Sphinx
+Pow/Tgh:	5/5
+Rules Text:	Flying When Sharuum the Hegemon comes into play, you may return target artifact card from your graveyard to play.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Shore Snapper
+Cost:	2B
+Type:	Creature - Beast
+Pow/Tgh:	2/2
+Rules Text:	U: Shore Snapper gains islandwalk until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Sighted-Caste Sorcerer
+Cost:	1W
+Type:	Creature - Human Wizard
+Pow/Tgh:	1/1
+Rules Text:	Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.) U: Sighted-Caste Sorcerer gains shroud until end of turn. (It can't be the target of spells or abilities.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Sigil Blessing
+Cost:	GW
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Until end of turn, target creature you control gets +3/+3 and other creatures you control get +1/+1.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Sigil of Distinction
+Cost:	X
+Type:	Artifact - Equipment
+Pow/Tgh:	/
+Rules Text:	Sigil of Distinction comes into play with X charge counters on it. Equipped creature gets +1/+1 for each charge counter on Sigil of Distinction. Equip-Remove a charge counter from Sigil of Distinction.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Sigiled Paladin
+Cost:	WW
+Type:	Creature - Human Knight
+Pow/Tgh:	2/2
+Rules Text:	First strike Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Skeletal Kathari
+Cost:	4B
+Type:	Creature - Bird Skeleton
+Pow/Tgh:	3/2
+Rules Text:	Flying B, Sacrifice a creature: Regenerate Skeletal Kathari.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Skeletonize
+Cost:	4R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Skeletonize deals 3 damage to target creature. When a creature dealt damage this way is put into a graveyard this turn, put a 1/1 black Skeleton creature token into play with "B: Regenerate this creature."
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Skill Borrower
+Cost:	2U
+Type:	Artifact Creature - Human Wizard
+Pow/Tgh:	1/3
+Rules Text:	Play with the top card of your library revealed. As long as the top card of your library is an artifact or creature card, Skill Borrower has all activated abilities of that card. (If any of the abilities use that card's name, use this creature's name instead.)
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Skullmulcher
+Cost:	4G
+Type:	Creature - Elemental
+Pow/Tgh:	3/3
+Rules Text:	Devour 1 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with that many +1/+1 counters on it.) When Skullmulcher comes into play, draw a card for each creature it devoured.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Soul's Fire
+Cost:	2R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target creature you control in play deals damage equal to its power to target creature or player.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Soul's Grace
+Cost:	1W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	You gain life equal to target creature's power.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Soul's Might
+Cost:	4G
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Put X +1/+1 counters on target creature, where X is that creature's power.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Spearbreaker Behemoth
+Cost:	5GG
+Type:	Creature - Beast
+Pow/Tgh:	5/5
+Rules Text:	Spearbreaker Behemoth is indestructible. 1: Target creature with power 5 or greater is indestructible this turn.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Spell Snip
+Cost:	2U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Counter target spell unless its controller pays 1. Cycling 2 (2, Discard this card: Draw a card.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Sphinx Sovereign
+Cost:	4WUUB
+Type:	Artifact Creature - Sphinx
+Pow/Tgh:	6/6
+Rules Text:	Flying At the end of your turn, you gain 3 life if Sphinx Sovereign is untapped. Otherwise, each opponent loses 3 life.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Sphinx's Herald
+Cost:	U
+Type:	Artifact Creature - Vedalken Wizard
+Pow/Tgh:	1/1
+Rules Text:	2U, T, Sacrifice a white creature, a blue creature, and a black creature: Search your library for a card named Sphinx Sovereign and put it into play. Then shuffle your library.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Sprouting Thrinax
+Cost:	BRG
+Type:	Creature - Lizard
+Pow/Tgh:	3/3
+Rules Text:	When Sprouting Thrinax is put into a graveyard from play, put three 1/1 green Saproling creature tokens into play.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Steelclad Serpent
+Cost:	5U
+Type:	Artifact Creature - Serpent
+Pow/Tgh:	4/5
+Rules Text:	Steelclad Serpent can't attack unless you control another artifact.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Steward of Valeron
+Cost:	GW
+Type:	Creature - Human Druid Knight
+Pow/Tgh:	2/2
+Rules Text:	Vigilance T Add G to your mana pool.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Stoic Angel
+Cost:	1GWU
+Type:	Creature - Angel
+Pow/Tgh:	3/4
+Rules Text:	Flying, vigilance Players can't untap more than one creature during their untap steps.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Sunseed Nurturer
+Cost:	2W
+Type:	Creature - Human Druid Wizard
+Pow/Tgh:	1/1
+Rules Text:	At the end of your turn, if you control a creature with power 5 or greater, you may gain 2 life. T Add 1 to your mana pool.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Swamp
+Cost:
+Type:	Basic Land - Swamp
+Pow/Tgh:	/
+Rules Text:	[B]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Swamp
+Cost:
+Type:	Basic Land - Swamp
+Pow/Tgh:	/
+Rules Text:	[B]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Swamp
+Cost:
+Type:	Basic Land - Swamp
+Pow/Tgh:	/
+Rules Text:	[B]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Swamp
+Cost:
+Type:	Basic Land - Swamp
+Pow/Tgh:	/
+Rules Text:	[B]
+Set/Rarity:	Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shards of Alara BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Shadowmoor BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Lorwyn BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Masters Edition (Magic Online only) BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Swerve
+Cost:	UR
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Change the target of target spell with a single target.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Tar Fiend
+Cost:	5B
+Type:	Creature - Elemental
+Pow/Tgh:	4/4
+Rules Text:	Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.) When Tar Fiend comes into play, target player discards a card for each creature it devoured.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Tezzeret the Seeker
+Cost:	3UU
+Type:	Planeswalker - Tezzeret
+Pow/Tgh:	/4
+Rules Text:	+1: Untap up to two target artifacts. -X: Search your library for an artifact card with converted mana cost X or less and put it into play. Then shuffle your library. -5: Artifacts you control become 5/5 artifact creatures until end of turn.
+Set/Rarity:	Shards of Alara MythicRare
+
+CardName:	Thorn-Thrash Viashino
+Cost:	3R
+Type:	Creature - Viashino Warrior
+Pow/Tgh:	2/2
+Rules Text:	Devour 2 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with twice that many +1/+1 counters on it.) G: Thorn-Thrash Viashino gains trample until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Thoughtcutter Agent
+Cost:	UB
+Type:	Artifact Creature - Human Rogue
+Pow/Tgh:	1/1
+Rules Text:	UB, T Target player loses 1 life and reveals his or her hand.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Thunder-Thrash Elder
+Cost:	2R
+Type:	Creature - Viashino Warrior
+Pow/Tgh:	1/1
+Rules Text:	Devour 3 (As this comes into play, you may sacrifice any number of creatures. This creature comes into play with three times that many +1/+1 counters on it.)
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Tidehollow Sculler
+Cost:	WB
+Type:	Artifact Creature - Zombie
+Pow/Tgh:	2/2
+Rules Text:	When Tidehollow Sculler comes into play, target opponent reveals his or her hand and you choose a nonland card from it. Remove that card from the game. When Tidehollow Sculler leaves play, return the removed card to its owner's hand.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Tidehollow Strix
+Cost:	UB
+Type:	Artifact Creature - Bird
+Pow/Tgh:	2/1
+Rules Text:	Flying Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Titanic Ultimatum
+Cost:	RRGGGWW
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Until end of turn, creatures you control get +5/+5 and gain first strike, lifelink, and trample.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Topan Ascetic
+Cost:	2G
+Type:	Creature - Human Monk
+Pow/Tgh:	2/2
+Rules Text:	Tap an untapped creature you control: Topan Ascetic gets +1/+1 until end of turn.
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Tortoise Formation
+Cost:	3U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Tower Gargoyle
+Cost:	1WUB
+Type:	Artifact Creature - Gargoyle
+Pow/Tgh:	4/4
+Rules Text:	Flying
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Undead Leotau
+Cost:	5B
+Type:	Creature - Zombie Cat
+Pow/Tgh:	3/4
+Rules Text:	R: Undead Leotau gets +1/-1 until end of turn. Unearth 2B (2B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Vectis Silencers
+Cost:	2U
+Type:	Artifact Creature - Human Rogue
+Pow/Tgh:	1/2
+Rules Text:	2B: Vectis Silencers gains deathtouch until end of turn. (Whenever it deals damage to a creature, destroy that creature.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Vein Drinker
+Cost:	4BB
+Type:	Creature - Vampire
+Pow/Tgh:	4/4
+Rules Text:	Flying R, T Vein Drinker deals damage equal to its power to target creature. That creature deals damage equal to its power to Vein Drinker. Whenever a creature dealt damage by Vein Drinker this turn is put into a graveyard, put a +1/+1 counter on Vein Drinker.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Viashino Skeleton
+Cost:	3R
+Type:	Creature - Viashino Skeleton
+Pow/Tgh:	2/1
+Rules Text:	1B, Discard a card: Regenerate Viashino Skeleton.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Vicious Shadows
+Cost:	6R
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Whenever a creature is put into a graveyard from play, you may have Vicious Shadows deal damage to target player equal to the number of cards in that player's hand.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Violent Ultimatum
+Cost:	BBRRRGG
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Destroy three target permanents.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Viscera Dragger
+Cost:	3B
+Type:	Creature - Zombie Ogre Warrior
+Pow/Tgh:	3/3
+Rules Text:	Cycling 2 (2, Discard this card: Draw a card.) Unearth 1B (1B: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Vithian Stinger
+Cost:	2R
+Type:	Creature - Human Shaman
+Pow/Tgh:	0/1
+Rules Text:	T Vithian Stinger deals 1 damage to target creature or player. Unearth 1R (1R: Return this card from your graveyard to play. It gains haste. Remove it from the game at end of turn or if it would leave play. Unearth only as a sorcery.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Volcanic Submersion
+Cost:	4R
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Destroy target artifact or land. Cycling 2 (2, Discard this card: Draw a card.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Waveskimmer Aven
+Cost:	2GWU
+Type:	Creature - Bird Soldier
+Pow/Tgh:	2/4
+Rules Text:	Flying Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Welkin Guide
+Cost:	4W
+Type:	Creature - Bird Cleric
+Pow/Tgh:	2/2
+Rules Text:	Flying When Welkin Guide comes into play, target creature gets +2/+2 and gains flying until end of turn.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Where Ancients Tread
+Cost:	4R
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Whenever a creature with power 5 or greater comes into play under your control, you may have Where Ancients Tread deal 5 damage to target creature or player.
+Set/Rarity:	Shards of Alara Rare
+
+CardName:	Wild Nacatl
+Cost:	G
+Type:	Creature - Cat Warrior
+Pow/Tgh:	1/1
+Rules Text:	Wild Nacatl gets +1/+1 as long as you control a Mountain. Wild Nacatl gets +1/+1 as long as you control a Plains.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Windwright Mage
+Cost:	WUB
+Type:	Artifact Creature - Human Wizard
+Pow/Tgh:	2/2
+Rules Text:	Lifelink (Whenever this creature deals damage, you gain that much life.) Windwright Mage has flying as long as an artifact card is in your graveyard.
+Set/Rarity:	Shards of Alara Common
+
+CardName:	Woolly Thoctar
+Cost:	RGW
+Type:	Creature - Beast
+Pow/Tgh:	5/4
+Rules Text:
+Set/Rarity:	Shards of Alara Uncommon
+
+CardName:	Yoked Plowbeast
+Cost:	5WW
+Type:	Creature - Beast
+Pow/Tgh:	5/5
+Rules Text:	Cycling 2 (2, Discard this card: Draw a card.)
+Set/Rarity:	Shards of Alara Common

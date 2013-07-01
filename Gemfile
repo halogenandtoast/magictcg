@@ -19,4 +19,5 @@ end
 
 group :test, :development do
   gem 'rspec-rails', '2.14.0.rc1'
+  gem 'pry'
 end

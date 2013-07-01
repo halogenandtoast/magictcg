@@ -1,0 +1,1892 @@
+Name:	Adarkar Valkyrie
+Cost:	 4WW
+Type:	 Snow Creature â€” Angel
+Pow/Tgh:	 4/5
+Rules Text:	 Flying, vigilance
+{T}: When target creature other than Adarkar Valkyrie dies this turn, return that card to the battlefield under your control.
+Rarity:	 Rare
+Set Number:	 #1/229
+
+Name:	Amrou Scout
+Cost:	 1w
+Type:	 Creature â€” Kithkin Rebel Scout
+Pow/Tgh:	 2/1
+Rules Text:	 {4}, {t}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+Flavor Text:	 The people of Amrou were scattered by war and driven into hiding. Scouts maintain the beacon fires that signal "return" and "home"
+Illus.	 Quinton Hoover
+Rarity:	 Common
+Set Number:	 #2/229
+
+Name:	Amrou Seekers
+Cost:	 2W
+Type:	 Creature â€” Kithkin Rebel
+Pow/Tgh:	 2/2
+Rules Text:	 Amrou Seekers can't be blocked except by artifact creatures and/or white creatures.
+Rarity:	 Common
+
+Name:	Angel's Grace
+Cost:	 W
+Type:	 Instant
+Rules Text:	 Split second
+You can't lose the game this turn and your opponents can't win the game this turn. Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.
+Rarity:	 Rare
+
+Name:	Auriok Salvagers
+Cost:	 3W
+Type:	 Creature â€” Human Soldier
+Pow/Tgh:	 2/4
+Rules Text:	 {1}{W}: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+Flavor Text:	 "Memnarch or the vedalken salvage most of the large machines, leaving us only scraps. Scraps are enough."
+Illus.	 Randy Gallegos
+Rarity:	 Rare
+Set Number:	 #5/229
+
+Name:	Avian Changeling
+Cost:	 2w
+Type:	 Creature â€” Shapeshifter
+Pow/Tgh:	 2/2
+Rules Text:	 Changeling
+Flying
+Flavor Text:	 Today it flies with the flock. Tomorrow it may wake to find them gone, its body in an unfamiliar form.
+Illus.	 Heather Hudson
+Rarity:	 Common
+Set Number:	 #6/229
+
+Name:	Blinding Beam
+Cost:	 2w
+Type:	 Instant
+Rules Text:	 Choose one - Tap two target creatures; or creatures don't untap during target player's next untap step.
+Entwine {1}
+Illus.	 Doug Chaffee
+Rarity:	 Common
+
+Name:	Bound in Silence
+Cost:	 2w
+Type:	 Tribal Enchantment - Rebel Aura
+Rules Text:	 Enchant creature
+Enchanted creature can't attack or block.
+Flavor Text:	 A fight put off forever is already won.
+Illus.	 William Simpson
+Rarity:	 Common
+
+Name:	Cenn's Enlistment
+Cost:	 3w
+Type:	 Sorcery
+Rules Text:	 Put two 1/1 white Kithkin Soldier creature tokens onto the battlfield.
+Retrace
+Flavor Text:	 The more the scarier.
+Illus.	 Matt Cavotta
+Rarity:	 Common
+
+Name:	Cloudgoat Ranger
+Cost:	 3WW
+Type:	 Creature â€” Giant Warrior
+Pow/Tgh:	 3/3
+Rules Text:	 When Cloudgoat Ranger enters the battlefield, put three 1/1 white Kithkin Soldier creature tokens onto the battlefield.
+Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains flying until end of turn.
+Illus.	 Adam Rex
+Rarity:	 Uncommon
+Set Number:	 #10/229
+
+Name:	Court Homunculus
+Cost:	 {W}
+Type:	 Artifact Creature â€” Homunculus
+Pow/Tgh:	 1/1
+Rules Text:	 Court Homunculus gets +1/+1 as long as you control another artifact.
+Rarity:	 Common
+
+Name:	Dispeller's Capsule
+Cost:	 {W}
+Type:	 Artifact
+Rules Text:	 {2}{W},{T}, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment.
+Rarity:	 Common
+
+Name:	Elspeth, Knight-Errant
+Cost:	 2{W}{W}
+Type:	 Planeswalker â€” Elspeth
+Pow/Tgh:	 4
+Rules Text:	 +1: Put a 1/1 white Soldier creature token onto the battlefield.
++1: Target creature gets +3/+3 and gains flying until end of turn.
+-8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control are indestructible."
+Rarity:	 Mythic Rare
+Set Number:	 #13/229
+
+Name:	Ethersworn Canonist
+Cost:	 1W
+Type:	 Artifact Creature â€” Human Cleric
+Pow/Tgh:	 2/2
+Rules Text:	 Each player who has cast a nonartifact spell this turn can't cast additional nonartifact spells.
+Rarity:	 Rare
+Set Number:	 #14/229
+
+Name:	Feudkiller's Verdict
+Cost:	 4WW
+Type:	 Tribal Sorcery â€” Giant
+Rules Text:	 You gain 10 life. Then if you have more life than an opponent, put a 5/5 white Giant Warrior creature token onto the battlefield.
+Flavor Text:	 "There are all kinds of strengths, but if you have strength of soul, the others will follow."
+â€”Galanda Feudkiller
+Illus.	 Dan Scott
+Rarity:	 Uncommon
+Set Number:	 #15/229
+
+Name:	Flickerwisp
+Cost:	 1WW
+Type:	 Creature â€” Elemental
+Pow/Tgh:	 3/1
+Rules Text:	 Flying
+When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+Rarity:	 Uncommon
+
+Name:	Gleam of Resistance
+Cost:	 4w
+Type:	 Instant
+Rules Text:	 Creatures you control get +1/+2 until end of turn. Untap those creatures.
+Basic landcycling {1}{w}
+Illus.	 Matt Stewart
+Rarity:	 Common
+
+Name:	Hillcomber Giant
+Cost:	 2WW
+Type:	 Creature â€” Giant Scout
+Pow/Tgh:	 3/3
+Rules Text:	 Mountainwalk
+Rarity:	 Common
+
+Name:	Ivory Giant
+Cost:	 5ww
+Type:	 Creature - Giant
+Pow/Tgh:	 3/4
+Rules Text:	 When Ivory Giant enters the battlefield, tap all nonwhite creatures.
+Suspend 5-{w}
+Illus.	 Zack Stella
+Rarity:	 Common
+
+Name:	Kataki, War's Wage
+Cost:	 1{W}
+Type:	 Legendary Creature â€” Spirit
+Pow/Tgh:	 2/1
+Rules Text:	 All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {1}."
+Rarity:	 Rare
+
+Name:	Kithkin Greatheart
+Cost:	 1W
+Type:	 Creature â€” Kithkin Soldier
+Pow/Tgh:	 2/1
+Rules Text:	 As long as you control a Giant, Kithkin Greatheart gets +1/+1 and has first strike.
+Flavor Text:	 Sometimes a curious giant singles out a "little one" to follow for a few days, never realizing the effect it will have on the little one's life.
+Illus.	 Greg Staples
+Rarity:	 Common
+Set Number:	 #21/229
+
+Name:	Meadowboon
+Cost:	 2WW
+Type:	 Creature â€” Elemental
+Pow/Tgh:	 3/3
+Rules Text:	 When Meadowboon leaves the battlefield, put a +1/+1 counter on each creature target player controls.
+Evoke {3}{W}
+Rarity:	 Uncommon
+
+Name:	Otherworldly Journey
+Cost:	 1w
+Type:	 Instant - Arcane
+Rules Text:	 Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.
+Flavor Text:	 "The landscape shimmered and I felt a chill breeze. When my vision cleared, I found myself alone among the corpses of my fallen friends."
+-Journal found in Numai
+Illus.	 Vance Kovacs
+Rarity:	 Common
+
+Name:	Pallid Mycoderm
+Cost:	 3w
+Type:	 Creature - Fungus
+Pow/Tgh:	 2/4
+Rules Text:	 At the beginning of your upkeep, put a spore counter on Pallid Mycoderm.
+Remove three spore counters from Pallid Mycoderm: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: Each creature you control that's a Fungus or a Saproling gets +1/+1 until end of turn.
+Illus.	 Jim Nelson
+Rarity:	 Common
+
+Name:	Path to Exile
+Cost:	 {W}
+Type:	 Instant
+Rules Text:	 Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+Rarity:	 Uncommon
+Set Number:	 #25/229
+
+Name:	Reveillark
+Cost:	 4W
+Type:	 Creature â€” Elemental
+Pow/Tgh:	 4/3
+Rules Text:	 Flying
+When Reveillark leaves the battlefield, return up to two target creature cards with power 2 or less from your graveyard to the battlefield.
+Evoke {5}{W}
+Rarity:	 Rare
+Set Number:	 #26/229
+
+Name:	Saltfield Recluse
+Cost:	 2{W}
+Type:	 Creature â€” Human Rebel Cleric
+Pow/Tgh:	 1/2
+Rules Text:	 {t}: Target creature gets -2/-0 until end of turn.
+Rarity:	 Common
+
+Name:	Sanctum Gargoyle
+Cost:	 3W
+Type:	 Artifact Creature â€” Gargoyle
+Pow/Tgh:	 2/3
+Rules Text:	 Flying
+When Sanctum Gargoyle enters the battlefield, you may return target artifact card from your graveyard to your hand.
+Flavor Text:	 As their supplies of etherium dwindled, mechanists sent gargoyles farther and farther afield in search of salvage.
+Illus.	 Shelley Wan
+Rarity:	 Common
+Set Number:	 #28/229
+
+Name:	Sandsower
+Cost:	 3W
+Type:	 Creature â€” Spirit
+Pow/Tgh:	 1/3
+Rules Text:	 Tap three untapped creatures you control: Tap target creature.
+Rarity:	 Uncommon
+
+Name:	Stir the Pride
+Cost:	 4w
+Type:	 Instant
+Rules Text:	 Choose one â€” Creatures you control get +2/+2 until end of turn; or until end of turn, creatures you control gain "Whenever this creature deals damage, you gain that much life."
+Entwine {1}{w}
+Illus.	 Matt Cavotta
+Rarity:	 Uncommon
+
+Name:	Stonehewer Giant
+Cost:	 3ww
+Type:	 Creature â€” Giant Warrior
+Pow/Tgh:	 4/4
+Rules Text:	 Vigilance
+{1}{W}, {T}: Search your library for an Equipment card and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library.
+Rarity:	 Rare
+
+Name:	Terashi's Grasp
+Cost:	 2W
+Type:	 Sorcery â€” Arcande
+Rules Text:	 Destroy target artifact or enchantment. You gain life equal to its converted mana cost.
+Rarity:	 Uncommon
+
+Name:	Test of Faith
+Cost:	 1w
+Type:	 Instant
+Rules Text:	 Prevent the next 3 damage that would be dealt to target creature this turn, and put a +1/+1 counter on that creature for each 1 damage prevented this way.
+Flavor Text:	 Those who survive the test bear a mark of power anyone can recognize.
+Illus.	 Vance Kovacs
+Rarity:	 Common
+
+Name:	Veteran Armorer
+Cost:	 1W
+Type:	 Creature â€” Human Soldier
+Pow/Tgh:	 2/2
+Rules Text:	 Other creatures you control get +0/+1.
+Rarity:	 Common
+
+Name:	Yosei, the Morning Star
+Cost:	 4ww
+Type:	 Legendary Creature â€” Dragon Spirit
+Pow/Tgh:	 5/5
+Rules Text:	 Flying
+When Yosei, the Morning Star dies, target player skips his or her next untap step. Tap up to five target permanents that player controls.
+Illus.	 Hiro Izawa
+Rarity:	 Mythic Rare
+
+Name:	Aethersnipe
+Cost:	 5{U}
+Type:	 Creature â€” Elemental
+Pow/Tgh:	 4/4
+Rules Text:	 When Ã†thersnipe enters the battlefield, return target nonland permanent to its owner's hand.
+Evoke {1}{U}{U}
+Illus.	 Zoltan Boros & Gabor Szikszai
+Rarity:	 Common
+Set Number:	 #36/229
+
+Name:	Careful Consideration
+Cost:	 2UU
+Type:	 Instant
+Rules Text:	 Target player draws four cards, then discards three cards. If you cast this spell during your main phase, instead that player draws four cards, then discards two cards.
+Rarity:	 Uncommon
+
+Name:	Cryptic Command
+Cost:	 1uuu
+Type:	 Instant
+Rules Text:	 Choose two â€” Counter target spell; or return target permanent to its owner's hand; or tap all creatures your opponents control; or draw a card.
+Rarity:	 Rare
+
+Name:	Dampen Thought
+Cost:	 1u
+Type:	 Instant â€” Arcane
+Rules Text:	 Target player puts the top four cards of his or her library into his or her graveyard.
+Splice onto Arcane {1}{U}
+Illus.	 Arnie Swekel
+Rarity:	 Common
+Set Number:	 #39/229
+
+Name:	Echoing Truth
+Cost:	 1{u}
+Type:	 Instant
+Rules Text:	 Return target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.
+Rarity:	 Common
+
+Name:	Errant Ephemeron
+Cost:	 6u
+Type:	 Creature - Illusion
+Pow/Tgh:	 4/4
+Rules Text:	 Flying
+Suspend 4-{1}{u}
+Illus.	 Luca Zontini
+Rarity:	 Common
+
+Name:	Erratic Mutation
+Cost:	 2U
+Type:	 Instant
+Rules Text:	 Choose target creature. Reveal cards from the top of your library until you reveal a nonland card. That creature gets +X/-X until end of turn, where X is that card's converted mana cost. Put all cards revealed this way on the bottom of your library in any order.
+Rarity:	 Common
+
+Name:	Esperzoa
+Cost:	 2U
+Type:	 Artifact Creature â€” Jellyfish
+Pow/Tgh:	 4/3
+Rules Text:	 Flying
+At the beginning of your upkeep, return an artifact you control to its owner's hand.
+Rarity:	 Uncommon
+
+Name:	Etherium Sculptor
+Cost:	 1U
+Type:	 Artifact Creature â€” Vedalken Artificer
+Pow/Tgh:	 1/2
+Rules Text:	 Artifact spells you cast cost {1} less to cast.
+Flavor Text:	 The greatest masters of the craft abandon tools altogether, shaping metal with hand and mind alone.
+Illus.	 Steven Belledin
+Rarity:	 Common
+
+Name:	Faerie Mechanist
+Cost:	 3u
+Type:	 Artifact Creature â€” Faerie Artificer
+Pow/Tgh:	 2/2
+Rules Text:	 Flying
+When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+Illus.	 Matt Cavotta
+Rarity:	 Common
+Set Number:	 #45/229
+
+Name:	Gifts Ungiven
+Cost:	 3u
+Type:	 Instant
+Rules Text:	 Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.
+Rarity:	 Rare
+
+Name:	Glen Elendra Archmage
+Cost:	 3{U}
+Type:	 Creature â€” Faerie Wizard
+Pow/Tgh:	 2/2
+Rules Text:	 Flying
+{U}, Sacrifice Glen Elendra Archmage: Counter target noncreature spell.
+Persist
+Illus.	 Warren Mahy
+Rarity:	 Rare
+Set Number:	 #47/229
+
+Name:	Keiga, the Tide Star
+Cost:	 5U
+Type:	 Legendary Creature â€” Dragon Spirit
+Pow/Tgh:	 5/5
+Rules Text:	 Flying
+When Keiga, the Tide Star dies, gain control of target creature.
+Illus.	 Ittoku
+Rarity:	 Mythic Rare
+
+Name:	Kira, Great Glass-Spinner
+Cost:	 1uu
+Type:	 Legendary Creature â€” Spirit
+Pow/Tgh:	 2/2
+Rules Text:	 Flying
+Creatures you control have "Whenever this creature becomes the target of a spell or ability for the first time in a turn, counter that spell or ability."
+Rarity:	 Rare
+
+Name:	Latchkey Faerie
+Cost:	 3U
+Type:	 Creature â€” Faerie Rogue
+Pow/Tgh:	 3/1
+Rules Text:	 Flying
+Prowl {2}{U}
+When Latchkey Faerie enters the battlefield, if its prowl cost was paid, draw a card.
+Illus.	 Warren Mahy
+Rarity:	 Common
+Set Number:	 #50/229
+
+Name:	Logic Knot
+Cost:	 {X}{U}{U}
+Type:	 Instant
+Rules Text:	 Delve (You may exile any number of cards from your graveyard as you cast this spell. It costs less to cast for each card exiled this way.)
+Counter target spell unless its controller pays {X}.
+Rarity:	 Common
+
+Name:	Meloku the Clouded Mirror
+Cost:	 4u
+Type:	 Legendary Creature â€” Moonfolk Wizard
+Pow/Tgh:	 2/4
+Rules Text:	 Flying
+{1}, Return a land you control to its owner's hand: Put a 1/1 blue Illusion creature token with flying onto the battlefield.
+Rarity:	 Rare
+
+Name:	Mothdust Changeling
+Cost:	 u
+Type:	 Creature - Shapeshifter
+Pow/Tgh:	 1/1
+Rules Text:	 Changeling
+Tap an untapped creature you control: Mothdust Changeling gains flying until end of turn.
+Flavor Text:	 "Ever seen a changeling fly into a lantern?"
+-Calydd, kithkin farmer
+Illus.	 Shelly Wan
+Rarity:	 Common
+
+Name:	Mulldrifter
+Cost:	 4{U}
+Type:	 Creature â€” Elemental
+Pow/Tgh:	 2/2
+Rules Text:	 Flying
+When Mulldrifter enters the battlefield, draw two cards.
+Evoke {2}{U}
+Illus.	 Eric Fortune
+Rarity:	 Uncommon
+Set Number:	 #54/229
+
+Name:	Narcomoeba
+Cost:	 1{U}
+Type:	 Creature â€” Illusion
+Pow/Tgh:	 1/1
+Rules Text:	 Flying
+When Narcomoeba is put into your graveyard from your library, you may put it onto the battlefield.
+Rarity:	 Uncommon
+
+Name:	Pact of Negation
+Cost:	 0
+Type:	 Instant
+Rules Text:	 Counter target spell.
+At the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the game.
+Rarity:	 Rare
+
+Name:	Peer Through Depths
+Cost:	 1u
+Type:	 Instant - Arcane
+Rules Text:	 Look at the top five cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+Illus.	 Anthony S. Waters
+Rarity:	 Common
+
+Name:	Perilous Research
+Cost:	 1u
+Type:	 Instant
+Rules Text:	 Draw two cards, then sacrifice a permanent.
+Flavor Text:	 When the School of the Unseen fell, so many magical treasures lay abandoned that no amount of death could deter the stream of thieves and desperate scholars.
+Illus.	 Donato Giancola
+Rarity:	 Common
+Set Number:	 #58/229
+
+Name:	Pestermite
+Cost:	 2{U}
+Type:	 Creature â€” Faerie Rogue
+Pow/Tgh:	 2/1
+Rules Text:	 Flash
+Flying
+When Pestermite enters the battlefield, you may tap or untap target permanent.
+Rarity:	 Common
+
+Name:	Petals of Insight
+Cost:	 4{U}
+Type:	 Sorcery â€” Arcane
+Rules Text:	 Look at the top three cards of your library. You may put those cards on the bottom of your library in any order. If you do, return Petals of Insight to its owner's hand. Otherwise, draw three cards.
+Illus.	 Anthony S. Waters
+Rarity:	 Common
+Set Number:	 #60/229
+
+Name:	Reach Through Mists
+Cost:	 U
+Type:	 Instant â€” Arcane
+Rules Text:	 Draw a card.
+Rarity:	 Common
+
+Name:	Riftwing Cloudskate
+Cost:	 3uu
+Type:	 Creature - Illusion
+Pow/Tgh:	 2/2
+Rules Text:	 Flying
+When Riftwing Cloudskate enters the battlefield, return target permanent to its owner's hand.
+Suspend 3-{1}{U}
+Illus.	 Carl Critchlow
+Rarity:	 Uncommon
+
+Name:	Scion of Oona
+Cost:	 2u
+Type:	 Creature â€” Faerie Soldier
+Pow/Tgh:	 1/1
+Rules Text:	 Flash
+Flying
+Other Faerie creatures you control get +1/+1.
+Other Faeries you control have shroud.
+Rarity:	 Rare
+
+Name:	Spell Snare
+Cost:	 U
+Type:	 Instant
+Rules Text:	 Counter target spell with converted mana cost 2.
+Rarity:	 Uncommon
+
+Name:	Spellstutter Sprite
+Cost:	 1{U}
+Type:	 Creature â€” Faerie Wizard
+Pow/Tgh:	 1/1
+Rules Text:	 Flash
+Flying
+When Spellstutter Sprite enters the battlefield, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.
+Rarity:	 Common
+
+Name:	Take Possession
+Cost:	 5UU
+Type:	 Enchantment â€” Aura
+Rules Text:	 Split second
+Enchant permanent
+You control enchanted permanent.
+Rarity:	 Uncommon
+
+Name:	Thirst for Knowledge
+Cost:	 2U
+Type:	 Instant
+Rules Text:	 Draw three cards. Then discard two cards unless you discard an artifact card.
+Rarity:	 Uncommon
+
+Name:	Traumatic Visions
+Cost:	 3uu
+Type:	 Instant
+Rules Text:	 Counter target spell.
+Basic landcycling {1}{u}
+Illus.	 Cyril Van Der Haegen
+Rarity:	 Common
+
+Name:	Vedalken Dismisser
+Cost:	 5u
+Type:	 Creature - Vedalken Wizard
+Pow/Tgh:	 2/2
+Rules Text:	 When Vedalken Dismisser enters the battlefield, put target creature on top of its owner's library.
+Flavor Text:	 "I crept up on him, quiet as a guttermouse. And then suddenly, I found myself facedown in a latrine pit behind Tin Street Market."
+-Sirislav, Dimir spy
+Illus.	 Dan Scott
+Rarity:	 Common
+
+Name:	Vendilion Clique
+Cost:	 1uu
+Type:	 Legendary Creature â€” Faerie Wizard
+Pow/Tgh:	 3/1
+Rules Text:	 Flash
+Flying
+When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of his or her library, then draws a card.
+Illus.	 Michael Sutfin
+Rarity:	 Mythic Rare
+
+Name:	Absorb Vis
+Cost:	 6b
+Type:	 Sorcery
+Rules Text:	 Target player loses 4 life and you gain 4 life.
+Basic landcycling {1}{b}
+Illus.	 Brandon kitkowski
+Rarity:	 Common
+
+Name:	Auntie's Snitch
+Cost:	 2b
+Type:	 Creature - Goblin Rogue
+Pow/Tgh:	 3/1
+Rules Text:	 Auntie's Snitch can't block.
+Prowl {1}{b}
+Whenever a Goblin or Rogue you control deals combat damage to a player, if Auntie's Snitch is in your graveyard, you may return Auntie's Snitch to your hand.
+Illus.	 Warren Mahy
+Rarity:	 Uncommon
+
+Name:	Bridge from Below
+Cost:	 BBB
+Type:	 Enchantment
+Rules Text:	 Whenever a nontoken creature is put into your graveyard from the battlefield, if Bridge from Below is in your graveyard, put a 2/2 black Zombie creature token onto the battlefield.
+When a creature is put into an opponent's graveyard from the battlefield, if Bridge from Below is in your graveyard, exile Bridge from Below.
+Illus.	 Daarken
+Rarity:	 Rare
+Set Number:	 #74/229
+
+Name:	Blightspeaker
+Cost:	 1b
+Type:	 Creature â€” Human Rebel Cleric
+Pow/Tgh:	 1/1
+Rules Text:	 {t}: Target player loses 1 life.
+{4}, {t}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+Flavor Text:	 One croaked sermon spreads propaganda and plague.
+Illus.	 Ron Spears
+Rarity:	 Common
+Set Number:	 #74/229
+
+Name:	Dark Confidant
+Cost:	 1{B}
+Type:	 Creature â€” Human Wizard
+Pow/Tgh:	 2/1
+Rules Text:	 At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.
+Flavor Text:	 Greatness, at any cost.
+Illus.	 Scott M. Fisher
+Rarity:	 Mythic Rare
+Set Number:	 #74/229
+
+Name:	Death Cloud
+Cost:	 xbbb
+Type:	 Sorcery
+Rules Text:	 Each player loses X life, discards X cards, sacrifices X creatures, then sacrifices X lands.
+Rarity:	 Rare
+
+Name:	Death Denied
+Cost:	 xbb
+Type:	 Instant - Arcane
+Rules Text:	 Return X target creature cards from your graveyard to your hand.
+Flavor Text:	 Takenuma was filled with a chorus of moans, shrieks, and wails. Some came from the living, some from the dying, and some, most horribly, from the dead.
+Illus.	 James Paick
+Rarity:	 Common
+
+Name:	Death Rattle
+Cost:	 5B
+Type:	 Instant
+Rules Text:	 Delve 
+Destroy target nongreen creature. It can't be regenerated.
+Rarity:	 Uncommon
+
+Name:	Deepcavern Imp
+Cost:	 2{B}
+Type:	 Creature â€” Imp Rebel
+Pow/Tgh:	 2/2
+Rules Text:	 Flying, haste
+Echoâ€”Discard a card. (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Rarity:	 Common
+
+Name:	Drag Down
+Cost:	 2b
+Type:	 Instant
+Rules Text:	Domain - Target creature gets -1/-1 until end of turn for each basic land type among lands you control.
+Flavor Text:	 The barbarians of Jund believe the bottomless tar pits extend forever into other, darker worlds.
+Illus.	 Trevor Claxton
+Rarity:	 Common
+
+Name:	Dreamspoiler Witches
+Cost:	 3b
+Type:	 Creature â€” Faerie Wizard
+Pow/Tgh:	 2/2
+Rules Text:	 Flying
+Whenever you cast a spell during an opponent's turn, you may have target creature get -1/-1 until end of turn.
+Flavor Text:	 At night, the faeries steal dreamstuff for their queen. At daybreak, countless creatures wake weak and hollow.
+Illus.	 Jeff Easley
+Rarity:	 Common
+Set Number:	 #81/229
+
+Name:	Earwig Squad
+Cost:	 3BB
+Type:	 Creature â€” Goblin Rogue
+Pow/Tgh:	 5/3
+Rules Text:	 Prowl {2}{B}
+When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles his or her library.
+Rarity:	 Rare
+
+Name:	Executioner's Capsule
+Cost:	 {B}
+Type:	 Artifact
+Rules Text:	 {1}{B},{T},Sacrifice Executioner's Capsule: Destroy target nonblack creature.
+Rarity:	 Uncommon
+
+Name:	Extirpate
+Cost:	 b
+Type:	 Instant
+Rules Text:	 Split second
+Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.
+Rarity:	 Rare
+
+Name:	Facevaulter
+Cost:	 b
+Type:	 Creature â€” Goblin Warrior
+Pow/Tgh:	 1/1
+Rules Text:	 {B}, Sacrifice a Goblin: Facevaulter gets +2/+2 until end of turn.
+Flavor Text:	 Boggarts get so excited when they find something new to smash that they really don't notice who gets underfoot.
+Illus.	 Wayne Reynolds
+Rarity:	 Common
+
+Name:	Faerie Macabre
+Cost:	 1bb
+Type:	 Creature - Faerie Rogue
+Pow/Tgh:	 2/2
+Rules Text:	 Flying
+Discard Faerie Macabre: Exile up to two target cards from graveyards.
+Flavor Text:	 The line between dream and death is gauzy and fragile. She leads those too near it from one side to the other.
+Illus.	 rk post
+Rarity:	 Common
+
+Name:	Festering Goblin
+Cost:	 {B}
+Type:	 Creature â€” Zombie Goblin
+Pow/Tgh:	 1/1
+Rules Text:	 When Festering Goblin dies, target creature gets -1/-1 until end of turn.
+Rarity:	 Common
+
+Name:	Horobi's Whisper
+Cost:	 1BB
+Type:	 Instant â€” Arcane
+Rules Text:	 If you control a Swamp, destroy target nonblack creature.
+Splice onto Arcaneâ€”Exile four cards from your graveyard.
+Rarity:	 Uncommon
+
+Name:	Kokusho, the Evening Star
+Cost:	 4bb
+Type:	 Legendary Creature â€” Dragon Spirit
+Pow/Tgh:	 5/5
+Rules Text:	 Flying
+When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.
+Illus.	 Tsutomu Kawade
+Rarity:	 Mythic Rare
+
+Name:	Mad Auntie
+Cost:	 2b
+Type:	 Creature â€” Goblin Shaman
+Pow/Tgh:	 2/2
+Rules Text:	 Other Goblin creatures you control get +1/+1.
+{t}: Regenerate another target Goblin.
+Flavor Text:	 One part cunning, one part wise, and many, many parts demented.
+Illus.	 Wayne Reynolds
+Rarity:	 Uncommon
+
+Name:	Marsh Flitter
+Cost:	 3B
+Type:	 Creature â€” Faerie Rogue
+Pow/Tgh:	 1/1
+Rules Text:	 Flying
+When Marsh Flitter enters the battlefield, put two 1/1 black Goblin Rogue creature tokens onto the battlefield.
+Sacrifice a Goblin: Marsh Flitter becomes 3/3 until end of turn.
+Rarity:	 Uncommon
+Set Number:	 #91/229
+
+Name:	Peppersmoke
+Cost:	 {B}
+Type:	 Tribal Instant â€” Faerie
+Rules Text:	 Target creature gets -1/-1 until end of turn. If you control a Faerie, draw a card.
+Rarity:	 Common
+
+Name:	Phthisis
+Cost:	 3{B}{B}{B}{B}
+Type:	 Sorcery
+Rules Text:	 Destroy target creature. Its controller loses life equal to its power plus its toughness.
+Suspend 5â€”{1}{B}
+Rarity:	 Uncommon
+
+Name:	Rathi Trapper
+Cost:	 1b
+Type:	 Creature â€” Human Rebel Rogue
+Pow/Tgh:	 1/2
+Rules Text:	 {b}, {t}: Tap target creature.
+Flavor Text:	 Tangling vines, fetid murk, paralyzing poisons, and crawling dead. The swamp is nature's trap waiting to be exploited by unnatural minds.
+Illus.	 Pete Venters
+Rarity:	 Common
+Set Number:	 #94/229
+
+Name:	Raven's Crime
+Cost:	 B
+Type:	 Sorcery
+Rules Text:	 Target player discards a card.
+Retrace
+Rarity:	 Common
+
+Name:	Skeletal Vampire
+Cost:	 4bb
+Type:	 Creature â€” Vampire Skeleton
+Pow/Tgh:	 3/3
+Rules Text:	 Flying
+When Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens with flying onto the battlefield.
+{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.
+Sacrifice a Bat: Regenerate Skeletal Vampire.
+Rarity:	 Rare
+
+Name:	Slaughter Pact
+Cost:	 0
+Type:	 Instant
+Rules Text:	 Destroy target nonblack creature.
+At the beginning of your next upkeep, pay {2}{b}. If you don't, you lose the game.
+Flavor Text:	 Death is only the beginning of the end.
+Illus.	 Kev Walker
+Rarity:	 Rare
+
+Name:	Stinkweed Imp
+Cost:	 2B
+Type:	 Creature â€” Imp
+Pow/Tgh:	 1/2
+Rules Text:	 Flying
+Whenever Stinkweed Imp deals combat damage to a creature, destroy that creature.
+Dredge 5
+Illus.	 Nils Hamm
+Rarity:	 Common
+
+Name:	Street Wraith
+Cost:	 3bb
+Type:	 Creature â€” Wraith
+Pow/Tgh:	 3/4
+Rules Text:	 Swampwalk
+Cyclingâ€”Pay 2 life.
+Flavor Text:	 The lamps on Wyndmoor street snuff themselves at midnight and refuse to relight, afraid to illuminate what lies in the darkness.
+Illus.	 Cyril Van Der Haegen
+Rarity:	 Common
+Set Number:	 #99/229
+
+Name:	Syphon Life
+Cost:	 1bb
+Type:	 Sorcery
+Rules Text:	 Target player loses 2 life and you gain 2 life.
+Retrace
+Flavor Text:	 Leeches never tire of feeding.
+Illus.	 Dan Seagrave
+Rarity:	 Common
+
+Name:	Thieving Sprite
+Cost:	 2B
+Type:	 Creature â€” Faerie Rogue
+Pow/Tgh:	 1/1
+Rules Text:	 Flying
+When Thieving Sprite enters the battlefield, target player reveals X cards from his or her hand, where X is the number of Faeries you control. You choose one of those cards. That player discards that card.
+Rarity:	 Common
+
+Name:	Tombstalker
+Cost:	 6BB
+Type:	 Creature â€” Demon
+Pow/Tgh:	 5/5
+Rules Text:	 Flying
+Delve (You may exile any number of cards from your graveyard as you cast this spell. It costs less to cast for each card exiled this way.)
+Rarity:	 Rare
+
+Name:	Warren Pilferers
+Cost:	 4b
+Type:	 Creature - Goblin Rogue
+Pow/Tgh:	 3/3
+Rules Text:	 When Warren Pilferers enters the battlefield, return target creature card from your graveyard to your hand. If that card is a Goblin card, Warren Pilferers gains haste until end of turn.
+Flavor Text:	 "What do they need all this stuff for? They're dead. We're alive. Simple enough."
+Illus.	 Wayne Reynolds
+Rarity:	 Common
+
+Name:	Warren Weirding
+Cost:	 1b
+Type:	 Tribal Sorcery - Goblin
+Rules Text:	 Target player sacrifices a creature. If a Goblin is sacrificed this way, that player puts two 1/1 black Goblin Rogue creature tokens onto the battlefield, and those tokens gain haste until end of turn.
+Flavor Text:	 "And that's when it was discovered that boggarts have just half a brain."
+-The Book of Other Folk
+Illus.	 Matt Cavotta
+Rarity:	 Common
+
+Name:	Blind-Spot Giant
+Cost:	 2{R}
+Type:	 Creature â€” Giant Warrior
+Pow/Tgh:	 4/3
+Rules Text:	 Blind-Spot Giant can't attack or block unless you control another Giant.
+Rarity:	 Common
+
+Name:	Blood Moon
+Cost:	 2r
+Type:	 Enchantment
+Rules Text:	 Nonbasic lands are Mountains.
+Rarity:	 Rare
+
+Name:	Brute Force
+Cost:	 r
+Type:	 Instant
+Rules Text:	 Target creature gets +3/+3 until end of turn.
+Flavor Text:	 Blood, bone, and sinew are magnified, as is the rage that drives them. The brain, however, remains unchanged-a little bean, swinging by a strand in a cavernous, raving head.
+Illus.	 Wayne Reynolds
+Rarity:	 Common
+
+Name:	Countryside Crusher
+Cost:	 1RR
+Type:	 Creature â€” Giant Warrior
+Pow/Tgh:	 3/3
+Rules Text:	 At the beginning of your upkeep, reveal the top card of your library. If it's a land card, put it into your graveyard and repeat this process.
+Whenever a land card is put into your graveyard from anywhere, put a +1/+1 counter on Countryside Crusher.
+Illus.	 Volkan Baga
+Rarity:	 Rare
+
+Name:	Crush Underfoot
+Cost:	 1{R}
+Type:	 Tribal Instant â€” Giant
+Rules Text:	 Choose a Giant creature you control. It deals damage equal to its power to target creature.
+Rarity:	 Common
+
+Name:	Desperate Ritual
+Cost:	 1{R}
+Type:	 Instant â€” Arcane
+Rules Text:	 Add {R}{R}{R} to your mana pool.
+Splice onto Arcane {1}{R}
+Rarity:	 Uncommon
+
+Name:	Dragonstorm
+Cost:	 8r
+Type:	 Sorcery
+Rules Text:	 Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library.
+Storm
+Rarity:	 Rare
+
+Name:	Empty the Warrens
+Cost:	 3{R}
+Type:	 Sorcery
+Rules Text:	 Put two 1/1 red Goblin creature tokens onto the battlefield.
+Storm
+Rarity:	 Common
+
+Name:	Fiery Fall
+Cost:	 5r
+Type:	 Instant
+Rules Text:	 Fiery Fall deals 5 damage to target creature.
+Basic landcycling {1}{r}
+Flavor Text:	 Jund feasts on the unprepared
+Illus.	 Daarken
+Rarity:	 Common
+
+Name:	Fury Charm
+Cost:	 1r
+Type:	 Instant
+Rules Text:	 Choose one - Destroy target artifact; or target creature gets +1/+1 and gains trample until end of turn; or remove two time counters from target permanent or suspended card.
+Illus.	 John Avon
+Rarity:	 Common
+
+Name:	Glacial Ray
+Cost:	 1R
+Type:	 Instant â€” Arcane
+Rules Text:	 Glacial Ray deals 2 damage to target creature or player.
+Splice onto Arcane {1}{R}
+Rarity:	 Common
+
+Name:	Grapeshot
+Cost:	 1r
+Type:	 Sorcery
+Rules Text:	 Grapeshot deals 1 damage to target creature or player.
+Storm
+Flavor Text:	 Mages often seek to emulate the powerful relics lost to time and apocalypse.
+Illus.	 Clint Cearley
+Rarity:	 Common
+Set Number:	 #116/229
+
+Name:	Greater Gargadon
+Cost:	 9r
+Type:	 Creature â€” Beast
+Pow/Tgh:	 9/7
+Rules Text:	 Suspend 10â€”{R}
+Sacrifice an artifact, creature, or land: Remove a time counter from Greater Gargadon. Activate this ability only if Greater Gargadon is suspended.
+Rarity:	 Rare
+
+Name:	Grinning Ignus
+Cost:	 2R
+Type:	 Creature â€” Elemental
+Pow/Tgh:	 2/2
+Rules Text:	 {R}, Return Grinning Ignus to its owner's hand: Add {2}{R} to your mana pool. Activate this ability only any time you could cast a sorcery.
+Rarity:	 Uncommon
+
+Name:	Hammerheim Deadeye
+Cost:	 3R
+Type:	 Creature â€” Giant Warrior
+Pow/Tgh:	 3/3
+Rules Text:	 Echo {5}{R}
+When Hammerheim Deadeye enters the battlefield, destroy target creature with flying.
+Rarity:	 Common
+
+Name:	Kiki-Jiki, Mirror Breaker
+Cost:	 2rrr
+Type:	 Legendary Creature â€” Goblin Shaman
+Pow/Tgh:	 2/2
+Rules Text:	 Haste
+{T}: Put a token that's a copy of target nonlegendary creature you control onto the battlefield. That token has haste. Sacrifice it at the beginning of the next end step.
+Illus.	 Steven Belledin
+Rarity:	 Mythic Rare
+
+Name:	Lava Spike
+Cost:	 r
+Type:	 Sorcery â€” Arcane
+Rules Text:	 Lava Spike deals 3 damage to target player.
+Rarity:	 Common
+
+Name:	Mogg War Marshal
+Cost:	 1r
+Type:	 Creature - Goblin Warrior
+Pow/Tgh:	 1/1
+Rules Text:	 Echo {1}{R}
+When Mogg War Marshal enters the battlefield or dies, put a 1/1 red Goblin creature token onto the battlefield.
+Illus.	 Wayne England
+Rarity:	 Common
+
+Name:	Molten Disaster
+Cost:	 XRR
+Type:	 Sorcery
+Rules Text:	 Kicker {R}
+If Molten Disaster was kicked, it has split second.
+Molten Disaster deals X damage to each creature without flying and each player.
+Rarity:	 Rare
+
+Name:	Pardic Dragon
+Cost:	 4{R}{R}
+Type:	 Creature â€” Dragon
+Pow/Tgh:	 4/4
+Rules Text:	 Flying
+{R}: Pardic Dragon gets +1/+0 until end of turn.
+Suspend 2â€”{R}{R}
+Whenever an opponent casts a spell, if Pardic Dragon is suspended, that player may put a time counter on Pardic Dragon.
+Rarity:	 Uncommon
+
+Name:	Pyromancer's Swath
+Cost:	 2r
+Type:	 Enchantment
+Rules Text:	 If an instant or sorcery source you control would deal damage to a creature or player, it deals that much damage plus 2 to that creature or player instead.
+At the beginning of each end step, discard your hand.
+Rarity:	 Rare
+
+Name:	Rift Bolt
+Cost:	 2r
+Type:	 Sorcery
+Rules Text:	 Rift Bolt deals 3 damage to target creature or player.
+Suspend 1â€”{R}
+Rarity:	 Common
+
+Name:	Rift Elemental
+Cost:	 r
+Type:	 Creature - Elemental
+Pow/Tgh:	 1/1
+Rules Text:	 {1}{r}, Remove a time counter from a permanent you control or suspended card you own: Rift Elemental gets +2/+0 until end of turn.
+Flavor Text:	 "It's difficult to heal a rift after it begins wandering about on its own."
+-Teferi
+Illus.	 Ron Spears
+Rarity:	 Common
+
+Name:	Ryusei, the Falling Star
+Cost:	 5{R}
+Type:	 Legendary Creature â€” Dragon Spirit
+Pow/Tgh:	 5/5
+Rules Text:	 Flying
+When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.
+Illus.	 Nottsuo
+Rarity:	 Mythic Rare
+
+Name:	Shrapnel Blast
+Cost:	 1R
+Type:	 Instant
+Rules Text:	 As an additional cost to cast Shrapnel Blast, sacrifice an artifact.
+Shrapnel Blast deals 5 damage to target creature or player.
+Rarity:	 Uncommon
+
+Name:	Squee, Goblin Nabob
+Cost:	 2R
+Type:	 Legendary Creature â€” Goblin
+Pow/Tgh:	 1/1
+Rules Text:	 At the beginning of your upkeep, you may return Squee, Goblin Nabob from your graveyard to your hand.
+Rarity:	 Rare
+
+Name:	Stingscourger
+Cost:	 1r
+Type:	 Creature - Goblin Warrior
+Pow/Tgh:	 2/2
+Rules Text:	 Echo {3}{r}
+When Stingscourger enters the battlefield, return target creature an opponent controls to its owner's hand.
+Illus.	 Wayne Reynolds
+Rarity:	 Common
+
+Name:	Stinkdrinker Daredevil
+Cost:	 2r
+Type:	 Creature - Goblin Rogue
+Pow/Tgh:	 1/3
+Rules Text:	 Giant spells you cast cost {2} less to cast.
+Flavor Text:	 Boggarts constantly strive to outdo each other with the thing they bring back to the warren, each hoping the exploit will become as well-known as those of Auntie Grub.
+Illus.	 Pete Venters
+Rarity:	 Common
+
+Name:	Sudden Shock
+Cost:	 1R
+Type:	 Instant
+Rules Text:	 Split second 
+Sudden Shock deals 2 damage to target creature or player.
+Rarity:	 Uncommon
+
+Name:	Tar Pitcher
+Cost:	 3R
+Type:	 Creature â€” Goblin Shaman
+Pow/Tgh:	 2/2
+Rules Text:	 {T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to target creature or player.
+Rarity:	 Uncommon
+
+Name:	Thundercloud Shaman
+Cost:	 3RR
+Type:	 Creature â€” Giant Shaman
+Pow/Tgh:	 4/4
+Rules Text:	 When Thundercloud Shaman enters the battlefield, it deals damage equal to the number of Giants you control to each non-Giant creature.
+Flavor Text:	 He cares not for the disasters his storm brings as long as his path ahead is clear.
+Illus.	 Greg Staples
+Rarity:	 Uncommon
+
+Name:	Thundering Giant
+Cost:	 3RR
+Type:	 Creature â€” Giant
+Pow/Tgh:	 4/3
+Rules Text:	 Haste
+Rarity:	 Common
+
+Name:	Torrent of Stone
+Cost:	 3r
+Type:	 Instant - Arcane
+Rules Text:	 Torrent of Stone deals 4 damage to target creature.
+Splice onto Arcane-Sacrifice two Mountains.
+Illus.	 Greg Staples
+Rarity:	 Common
+
+Name:	Tribal Flames
+Cost:	 1{R}
+Type:	 Sorcery
+Rules Text:	 Domain â€” Tribal Flames deals X damage to target creature or player, where X is the number of basic land types among lands you control.
+Rarity:	 Uncommon
+
+Name:	War-Spike Changeling
+Cost:	 3r
+Type:	 Creature - Shapeshifter
+Pow/Tgh:	 3/3
+Rules Text:	 Changeling
+{R}: War-Spike Changeling gains first strike until end of turn.
+Flavor Text:	 "Aren't there boggarts enough in Lorwyn? Couldn't it turn into a sheep? Or a sunflower?"
+-Olly of Goldmeadow
+Illus.	 Mark Poole
+Rarity:	 Common
+
+Name:	Citanul Woodreaders
+Cost:	 2g
+Type:	 Creature - Human Druid
+Pow/Tgh:	 1/4
+Rules Text:	 Kicker {2}{g}
+When Citanul Woodreaders enters the battlefield, if it was kicked, draw two cards.
+Flavor Text:	 They seek out living trees to glean age-old secrets from sap and wood.
+Illus.	 Steven Belledin
+Rarity:	 Common
+
+Name:	Doubling Season
+Cost:	 4g
+Type:	 Enchantment
+Rules Text:	 If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.
+If an effect would place one or more counters on a permanent you control, it places twice that many of those counters on that permanent instead.
+Rarity:	 Rare
+
+Name:	Durkwood Baloth
+Cost:	 4gg
+Type:	 Creature â€” Beast
+Pow/Tgh:	 5/5
+Rules Text:	 Suspend 5â€”{G}
+Illus.	 Dan Frazier
+Rarity:	 Common
+Set Number:	 #142/229
+
+Name:	Echoing Courage
+Cost:	 1{g}
+Type:	 Instant
+Rules Text:	 Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.
+Rarity:	 Common
+
+Name:	Eternal Witness
+Cost:	 1GG
+Type:	 Creature â€” Human Shaman
+Pow/Tgh:	 2/1
+Rules Text:	 When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.
+Illus.	 Terese Nielsen
+Rarity:	 Uncommon
+
+Name:	Giant Dustwasp
+Cost:	 3GG
+Type:	 Creature â€” Insect
+Pow/Tgh:	 3/3
+Rules Text:	 Flying
+Suspend 4â€”{1}{G}
+Rarity:	 Common
+
+Name:	Greater Mossdog
+Cost:	 3G
+Type:	 Creature â€” Plant Hound
+Pow/Tgh:	 3/3
+Rules Text:	 Dredge 3
+Rarity:	 Common
+
+Name:	Hana Kami
+Cost:	 g
+Type:	 Creature - Spirit
+Pow/Tgh:	 1/1
+Rules Text:	 {1}{G}, Sacrifice Hana Kami: Return target Arcane card from your graveyard to your hand.
+Flavor Text:	 It grew in lands lit by pride and watered by tears.
+Illus.	 Rebecca Guay
+Rarity:	 Common
+
+Name:	Imperiosaur
+Cost:	 2gg
+Type:	 Creature â€” Lizard
+Pow/Tgh:	 5/5
+Rules Text:	 Spend only mana produced by basic lands to cast Imperiosaur.
+Flavor Text:	 "An ancient, powerful force has overtaken the valley. I sympathize for its former inhabitants, but I rejoice for the land itself."
+â€”Olanti, Muraganda druid
+Illus.	 Lars Grant-West
+Rarity:	 Common
+Set Number:	 #145/229
+
+Name:	Incremental Growth
+Cost:	 3GG
+Type:	 Sorcery
+Rules Text:	 Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.
+Rarity:	 Uncommon
+
+Name:	Jugan, The Rising Star
+Cost:	 3GGG
+Type:	 Legendary Creature â€” Dragon Spirit
+Pow/Tgh:	 5/5
+Rules Text:	 Flying
+When Jugan, the Rising Star dies, you may distribute five +1/+1 counters among any number of target creatures.
+Illus.	 Shishizaru
+Rarity:	 Mythic Rare
+
+Name:	Kodama's Reach
+Cost:	 2{G}
+Type:	 Sorcery â€” Arcane
+Rules Text:	 Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+Flavor Text:	 "The land grows only where the kami will it."
+â€”Dosan the Falling Leaf
+Illus.	 Heather Hudson
+Rarity:	 Common
+Set Number:	 #151/229
+
+Name:	Krosan Grip
+Cost:	 2G
+Type:	 Instant
+Rules Text:	 Split second
+Destroy target artifact or enchantment.
+Rarity:	 Uncommon
+
+Name:	Life from the Loam
+Cost:	 1g
+Type:	 Sorcery
+Rules Text:	 Return up to three target land cards from your graveyard to your hand.
+Dredge 3
+Rarity:	 Rare
+
+Name:	Masked Admirers
+Cost:	 2GG
+Type:	 Creature â€” Elf Shaman
+Pow/Tgh:	 3/2
+Rules Text:	 When Masked Admirers enters the battlefield, draw a card.
+Whenever you cast a creature spell, you may pay {G}{G}. If you do, return Masked Admirers from your graveyard to your hand.
+Flavor Text:	 "Beauty determines value, and we determine beauty."
+Illus.	 Eric Fortune
+Rarity:	 Uncommon
+
+Name:	Moldervine Cloak
+Cost:	 2g
+Type:	 Enchantment â€” Aura
+Rules Text:	 Enchant creature
+Enchanted creature gets +3/+3.
+Dredge 2
+Illus.	 Wayne England
+Rarity:	 Common
+Set Number:	 #155/229
+
+Name:	Nantuko Shaman
+Cost:	 2g
+Type:	 Creature - Insect Shaman
+Pow/Tgh:	 3/2
+Rules Text:	 When Nantuko Shaman enters the battlefield, if you control no tapped lands, draw a card.
+Suspend 1-{2}{G}{G}
+Illus.	 Daren Bader
+Rarity:	 Common
+
+Name:	Penumbra Spider
+Cost:	 2gg
+Type:	 Creature â€” Spider
+Pow/Tgh:	 2/4
+Rules Text:	 Reach
+When Penumbra Spider dies, put a 2/4 black Spider creature token with reach onto the battlefield.
+Rarity:	 Common
+
+Name:	Reach of Branches
+Cost:	 4g
+Type:	 Tribal Instant â€” Treefolk
+Rules Text:	 Put a 2/5 green Treefolk Shaman creature token onto the battlefield.
+Whenever a Forest enters the battlefield under your control, you may return Reach of Branches from your graveyard to your hand.
+Rarity:	 Uncommon
+
+Name:	Riftsweeper
+Cost:	 1G
+Type:	 Creature â€” Elf Shaman
+Pow/Tgh:	 2/2
+Rules Text:	 When Riftsweeper enters the battlefield, choose target face-up exiled card. Its owner shuffles it into his or her library.
+Rarity:	 Uncommon
+
+Name:	Rude Awakening
+Cost:	 4g
+Type:	 Sorcery
+Rules Text:	 Choose one â€” Untap all lands you control; or until end of turn, lands you control become 2/2 creatures that are still lands.
+Entwine {2}{G}
+Rarity:	 Rare
+
+Name:	Search for Tomorrow
+Cost:	 2g
+Type:	 Sorcery
+Rules Text:	 Search your library for a basic land card and put it onto the battlefield. Then shuffle your library.
+Suspend 2â€”{G}
+Rarity:	 Common
+
+Name:	Sporesower Thallid
+Cost:	 2GG
+Type:	 Creature â€” Fungus
+Pow/Tgh:	 4/4
+Rules Text:	 At the beginning of your upkeep, put a spore counter on each Fungus you control.
+Remove three spore counters from Sporesower Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+Rarity:	 Uncommon
+
+Name:	Sporoloth Ancient
+Cost:	 3GG
+Type:	 Creature â€” Fungus
+Pow/Tgh:	 4/4
+Rules Text:	 At the beginning of your upkeep, put a spore counter on Sporoloth Ancient.
+Creatures you control have "Remove two spore counters from this creature: Put a 1/1 green Saproling creature token onto the battlefield."
+Rarity:	 Common
+
+Name:	Summoner's Pact
+Cost:	 0
+Type:	 Instant
+Rules Text:	 Search your library for a green creature card, reveal it, and put it into your hand. Then shuffle your library.
+At the beginning of your next upkeep, pay {2}{G}{G}. If you don't, you lose the game.
+Illus.	 Chippy
+Rarity:	 Rare
+Set Number:	 #164/229
+
+Name:	Sylvan Bounty
+Cost:	 5g
+Type:	 Instant
+Rules Text:	 Target player gains 8 life.
+Basic landcycling {1}{G}
+Flavor Text:	 Some who scouted new lands chose to stay.
+Illus.	 Chris Rahn
+Rarity:	 Common
+
+Name:	Tarmogoyf
+Cost:	 1G
+Type:	 Creature â€” Lhurgoyf
+Pow/Tgh:	 */1+*
+Rules Text:	 Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.
+Flavor Text:	 What doesn't grow, dies. And what dies grows the tarmogoyf.
+Illus.	 Ryan Barger
+Rarity:	 Mythic Rare
+Set Number:	 #166/229
+
+Name:	Thallid
+Cost:	 G
+Type:	 Creature â€” Fungus
+Pow/Tgh:	 1/1
+Rules Text:	 At the beginning of your upkeep, put a spore counter on Thallid.
+Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+Illus.	 Trevor Claxton
+Rarity:	 Common
+
+Name:	Thallid Germinator
+Cost:	 2G
+Type:	 Creature â€” Fungus
+Pow/Tgh:	 2/2
+Rules Text:	 At the beginning of your upkeep, put a spore counter on Thallid Germinator.
+Remove three spore counters from Thallid Germinator: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: Target creature gets +1/+1 until end of turn.
+Illus.	 Marco Nelor
+Rarity:	 Common
+
+Name:	Thallid Shell-Dweller
+Cost:	 1g
+Type:	 Creature - Fungus
+Pow/Tgh:	 0/5
+Rules Text:	 Defender
+At the beginning of your upkeep, put a spore counter on Thallid Shell-Dweller.
+Remove three spore counters from Thallid Shell-Dweller: Put a 1/1 green Saproling creature token onto the battlefield.
+Illus.	 Carl Critchlow
+Rarity:	 Common
+
+Name:	Tooth and Nail
+Cost:	 5{G}{G}
+Type:	 Sorcery
+Rules Text:	 Choose one â€” Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle your library; or put up to two creature cards from your hand onto the battlefield.
+Entwine {2}
+Illus.	 Jesper Ejsing
+Rarity:	 Rare
+
+Name:	Tromp the Domains
+Cost:	 5{G}
+Type:	 Sorcery
+Rules Text:	 Domain â€” Until end of turn, creatures you control gain trample and get +1/+1 for each basic land type among lands you control.
+Flavor Text:	 Ground into the footprints of the ravaging herd were clumps of salt from Benalia, moss from Llanowar, dust from Hurloon, and ash from as far as Urborg.
+Illus.	 Mike Dringenberg
+Rarity:	 Uncommon
+Set Number:	 #171/229
+
+Name:	Verdeloth the Ancient
+Cost:	 4gg
+Type:	 Legendary Creature â€” Treefolk
+Pow/Tgh:	 4/7
+Rules Text:	 Kicker {X}
+Saproling creatures and other Treefolk creatures get +1/+1.
+When Verdeloth the Ancient enters the battlefield, if it was kicked, put X 1/1 green Saproling creature tokens onto the battlefield.
+Rarity:	 Rare
+
+Name:	Walker of the Grove
+Cost:	 6gg
+Type:	 Creature - Elemental
+Pow/Tgh:	 7/7
+Rules Text:	 When Walker of the Grove leaves the battlefield, put a 4/4 green Elemental creature token onto the battlefield.
+Evoke {4}{G}
+Illus.	 Todd Lockwood
+Rarity:	 Common
+
+Name:	Woodfall Primus
+Cost:	 5{G}{G}{G}
+Type:	 Creature â€” Treefolk Shaman
+Pow/Tgh:	 6/6
+Rules Text:	 Trample
+When Woodfall Primus enters the battlefield, destroy target noncreature permanent.
+Persist
+Illus.	 Adam Rex
+Rarity:	 Rare
+Set Number:	 #174/229
+
+Name:	Electrolyze
+Cost:	 1ur
+Type:	 Instant
+Rules Text:	 Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.
+Draw a card.
+Rarity:	 Uncommon
+
+Name:	Grand Arbiter Augustin IV
+Cost:	 2WU
+Type:	 Legendary Creature â€” Human Advisor
+Rules Text:	 White spells you cast cost {1} less to cast.
+Blue spells you cast cost {1} less to cast.
+Spells your opponents cast cost {1} more to cast.
+Rarity:	 Rare
+
+Name:	Jhoira of the Ghitu
+Cost:	 1UR
+Type:	 Legendary Creature â€” Human Wizard
+Pow/Tgh:	 2/2
+Rules Text:	 {2}, Exile a nonland card from your hand: Put four time counters on the exiled card. If it doesn't have suspend, it gains suspend.
+Illus.	 Kev Walker
+Rarity:	 Rare
+
+Name:	Knight of the Reliquary
+Cost:	 1{G}{W}
+Type:	 Creature â€” Human Knight
+Pow/Tgh:	 2/2
+Rules Text:	 Knight of the Reliquary gets +1/+1 for each land card in your graveyard.
+{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+Illus.	 Michael Komark
+Rarity:	 Rare
+
+Name:	Lightning Helix
+Cost:	 RW
+Type:	 Instant
+Rules Text:	 Lightning Helix deals 3 damage to target creature or player and you gain 3 life.
+Rarity:	 Uncommon
+
+Name:	Maelstrom Pulse
+Cost:	 1BG
+Type:	 Sorcery
+Rules Text:	 Destroy target nonland permanent and all other permanents with the same name as that permanent.
+Illus.	 John Avon
+Rarity:	 Rare
+
+Name:	Mind Funeral
+Cost:	 1ub
+Type:	 Sorcery
+Rules Text:	 Target opponent reveals cards from the top of his or her library until four land cards are revealed. That player puts all cards revealed this way into his or her graveyard.
+Rarity:	 Uncommon
+
+Name:	Progenitus
+Cost:	 wwuubbrrgg
+Type:	 Legendary Creature â€” Hydra Avatar
+Pow/Tgh:	 10/10
+Rules Text:	 Protection from everything
+If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.
+Illus.	 Jaime Jones
+Rarity:	 Mythic Rare
+
+Name:	Sarkhan Vol
+Cost:	 2RG
+Type:	 Planeswalker â€” Sarkhan
+Pow/Tgh:	 4
+Rules Text:	 +1: Creatures you control get +1/+1 and gain haste until end of turn.
+-2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+-6: Put five 4/4 red Dragon creature tokens with flying onto the battlefield.
+Illus.	 Daarken
+Rarity:	 Mythic Rare
+
+Name:	Tidehollow Sculler
+Cost:	 {W}{B}
+Type:	 Artifact Creature â€” Zombie
+Pow/Tgh:	 2/2
+Rules Text:	 When Tidehollow Sculler enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.
+When Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.
+Rarity:	 Uncommon
+
+Name:	Trygon Predator
+Cost:	 1{G}{U}
+Type:	 Creature â€” Beast
+Pow/Tgh:	 2/3
+Rules Text:	 Flying
+Whenever Trygon Predator deals combat damage to a player, you may destroy target artifact or enchantment that player controls.
+Flavor Text:	 Held aloft by metabolized magic, trygons are ravenous for sources of mystic fuel.
+Rarity:	 Uncommon
+
+Name:	Cold-Eyed Selkie
+Cost:	 1{gu}{gu}
+Type:	 Creature â€” Merfolk Rogue
+Pow/Tgh:	 1/1
+Rules Text:	 Islandwalk
+Whenever Cold-Eyed Selkie deals combat damage to a player, you may draw that many cards.
+Rarity:	 Rare
+
+Name:	Demigod of Revenge
+Cost:	 {br}{br}{br}{br}{br}
+Type:	 Creature â€” Spirit Avatar
+Pow/Tgh:	 5/4
+Rules Text:	 Flying, haste
+When you cast Demigod of Revenge, return all cards named Demigod of Revenge from your graveyard to the battlefield.
+Rarity:	 Rare
+
+Name:	Divinity of Pride
+Cost:	 {wb}{wb}{wb}{wb}{wb}
+Type:	 Creature â€” Spirit Avatar
+Pow/Tgh:	 4/4
+Rules Text:	 Flying, lifelink
+Divinity of Pride gets +4/+4 as long as you have 25 or more life.
+Rarity:	 Rare
+
+Name:	Figure of Destiny
+Cost:	 {rw}
+Type:	 Creature â€” Kithkin
+Pow/Tgh:	 1/1
+Rules Text:	 {RW}: Figure of Destiny becomes a 2/2 Kithkin Spirit.
+{RW}{RW}{RW}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.
+{RW}{RW}{RW}{RW}{RW}{RW}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.
+Illus.	 Scott M. Fisher
+Rarity:	 Rare
+Set Number:	 #189/229
+
+Name:	Kitchen Finks
+Cost:	 1{gw}{gw}
+Type:	 Creature â€” Ouphe
+Pow/Tgh:	 3/2
+Rules Text:	 When Kitchen Finks enters the battlefield, you gain 2 life.
+Persist
+Rarity:	 Uncommon
+
+Name:	Manamorphose
+Cost:	 1{rg}
+Type:	 Instant
+Rules Text:	 Add two mana in any combination of colors to your mana pool.
+Draw a card.
+Rarity:	 Uncommon
+
+Name:	Murderous Redcap
+Cost:	 2{br}{br}
+Type:	 Creature â€” Goblin Assassin
+Pow/Tgh:	 2/2
+Rules Text:	 When Murderous Redcap enters the battlefield, it deals damage equal to its power to target creature or player.
+Persist
+Rarity:	 Uncommon
+
+Name:	Oona, Queen of the Fae
+Cost:	 3{ub}{ub}{ub}
+Type:	 Legendary Creature â€” Faerie Wizard
+Pow/Tgh:	 5/5
+Rules Text:	 Flying
+{X}{UB}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.
+Rarity:	 Rare
+
+Name:	Plumeveil
+Cost:	 {wu}{wu}{wu}
+Type:	 Creature â€” Elemental
+Pow/Tgh:	 4/4
+Rules Text:	 Flash
+Defender, flying
+Rarity:	 Uncommon
+
+Name:	Worm Harvest
+Cost:	 2{bg}{bg}{bg}
+Type:	 Sorcery
+Rules Text:	 Put a 1/1 black and green Worm creature token onto the battlefield for each land card in your graveyard.
+Retrace
+Rarity:	 Uncommon
+
+Name:	Aether Spellbomb
+Cost:	 1
+Type:	 Artifact
+Rules Text:	 {u}, Sacrifice Aether Spellbomb: Return target creature to its owner's hand.
+{1}, Sacrifice Aether Spellbomb: Draw a card.
+Flavor Text:	 "Release that which was never caged."
+â€”Spellbomb inscription
+Illus.	 Jim Nelson
+Rarity:	 Common
+Set Number:	 #196/229
+
+Name:	Aether Vial
+Cost:	 1
+Type:	 Artifact
+Rules Text:	 At the beginning of your upkeep, you may put a charge counter on Ã†ther Vial.
+{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Ã†ther Vial from your hand onto the battlefield.
+Rarity:	 Rare
+
+Name:	Arcbound Ravager
+Cost:	 2
+Type:	 Artifact Creature â€” Beast
+Pow/Tgh:	 0/0
+Rules Text:	 Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
+Modular 1
+Illus.	 Kev Walker
+Rarity:	 Rare
+
+Name:	Arcbound Stinger
+Cost:	 2
+Type:	 Artifact Creature - Insect
+Pow/Tgh:	 0/0
+Rules Text:	 Flying
+Modular 1
+Illus.	 Darrell Riche
+Rarity:	 Common
+
+Name:	Arcbound Wanderer
+Cost:	 6
+Type:	 Artifact Creature - Golem
+Pow/Tgh:	 0/0
+Rules Text:	 Modular-Sunburst
+Illus.	 Christpher Moeller
+Rarity:	 Common
+
+Name:	Arcbound Worker
+Cost:	 1
+Type:	 Artifact Creature - Construct
+Pow/Tgh:	 0/0
+Rules Text:	 Modular 1
+Flavor Text:	 The parts are as strong as the whole.
+Illus.	 Darrell Riche
+Rarity:	 Common
+
+Name:	Bonesplitter
+Cost:	 1
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature gets +2/+0.
+Equip {1}
+Flavor Text:	 "It puts an end to what ails you."
+-Jeorg, Valla battlemaster
+Illus.	 Darrell Riche
+Rarity:	 Common
+
+Name:	Chalice of the Void
+Cost:	 XX
+Type:	 Artifact
+Rules Text:	 Chalice of the Void enters the battlefield with X charge counters on it.
+Whenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.
+Illus.	 Mark Zug
+Rarity:	 Rare
+
+Name:	Engineered Explosives
+Cost:	 X
+Type:	 Artifact
+Rules Text:	 Sunburst
+{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.
+Rarity:	 Rare
+
+Name:	Epochrasite
+Cost:	 2
+Type:	 Artifact Creature - Construct
+Pow/Tgh:	 1/1
+Rules Text:	 Epochrasite enters the battlefield with three +1/+1 counters on it if you didn't cast it from your hand.
+When Epochrasite dies, exile it with three time counters on it and it gains suspend.
+Illus.	 Michael Bruinsma
+Rarity:	 Uncommon
+
+Name:	Etched Oracle
+Cost:	 4
+Type:	 Artifact Creature â€” Wizard
+Pow/Tgh:	 0/0
+Rules Text:	 Sunburst
+{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.
+Illus.	 Matt Cavotta
+Rarity:	 Uncommon
+Set Number:	 #206/229
+
+Name:	Frogmite
+Cost:	 {4}
+Type:	 Artifact Creature â€” Frog
+Pow/Tgh:	 2/2
+Rules Text:	 Affinity for artifacts
+Rarity:	 Common
+
+Name:	Lotus Bloom
+Type:	 Artifact
+Rules Text:	 Suspend 3â€”{0}
+{T}, Sacrifice Lotus Bloom: Add three mana of any one color to your mana pool.
+Rarity:	 Rare
+
+Name:	Myr Enforcer
+Cost:	 7
+Type:	 Artifact Creature â€” Myr
+Pow/Tgh:	 4/4
+Rules Text:	 Affinity for artifacts
+Flavor Text:	 Most myr monitor other species. Some myr monitor other myr.
+Illus.	 Jim Murray
+Rarity:	 Common
+
+Name:	Myr Retriever
+Cost:	 2
+Type:	 Artifact Creature - Myr
+Pow/Tgh:	 1/1
+Rules Text:	 When Myr Retriever dies, return another target artifact card from your graveyard to your hand.
+Flavor Text:	 Mephidross gives up treasure easily . . . as long as you take its place.
+Illus.	 Trevor Hairsine
+Rarity:	 Uncommon
+
+Name:	Paradise Mantle
+Cost:	 0
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature has "{T}: Add one mana of any color to your mana pool."
+Equip {1}
+Flavor Text:	 "It contains the wisdom of generations of our people. We permit only a chosen few to don the raiment."
+-Imran, Viridian elder
+Illus.	 Greg Hildebrandt
+Rarity:	 Uncommon
+
+Name:	Pyrite Spellbomb
+Cost:	 1
+Type:	 Artifact
+Rules Text:	 {r}, Sacrifice Pyrite Spellbomb: Pyrite Spellbomb deals 2 damage to target creature or player.
+{1}, Sacrifice Pyrite Spellbomb: Draw a card.
+Flavor Text:	 "Melt that which was never frozen."
+-Spellbomb inscription
+Illus.	 Jim Nelson
+Rarity:	 Common
+
+Name:	Relic of Progenitus
+Cost:	 1
+Type:	 Artifact
+Rules Text:	 {T}: Target player exiles a card from his or her graveyard.
+{1}, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.
+Rarity:	 Uncommon
+
+Name:	Runed Stalactite
+Cost:	 1
+Type:	 Artifact - Equipment
+Rules Text:	 Equipped creature gets +1/+1 and is ever creature type.
+Equip {2}
+Flavor Text:	 When a changeling adopts a form no other changeling has taken, a rune appears in the caverns of Velis Vel to mark the event.
+Illus.	 Jim Pavelec
+Rarity:	 Common
+
+Name:	Skyreach Manta
+Cost:	 5
+Type:	 Artifact Creature - Fish
+Pow/Tgh:	 0/0
+Rules Text:	 Sunburst
+Flying
+Flavor Text:	 As the dawns break, the manta soars.
+Illus.	 Christopher Moeller
+Rarity:	 Common
+
+Name:	Sword of Fire and Ice
+Cost:	 3
+Type:	 Artifact â€” Equipment
+Rules Text:	 Equipped creature gets +2/+2 and has protection from red and from blue.
+Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.
+Equip {2}
+Rarity:	 Mythic Rare
+
+Name:	Sword of Light and Shadow
+Cost:	 3
+Type:	 Artifact â€” Equipment
+Rules Text:	 Equipped creature gets +2/+2 and has protection from white and from black.
+Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.
+Equip {2}
+Rarity:	 Mythic Rare
+
+Name:	Vedalken Shackles
+Cost:	 {3}
+Type:	 Artifact
+Rules Text:	 You may choose not to untap Vedalken Shackles during your untap step.
+{2}, {T}: Gain control of target creature with power less than or equal to the number of Islands you control for as long as Vedalken Shackles remains tapped.
+Rarity:	 Mythic Rare
+
+Name:	Academy Ruins
+Type:	 Legendary Land
+Rules Text:	 {T}: Add {1} to your mana pool.
+{1}{U}, {T}: Put target artifact card from your graveyard on top of your library.
+Rarity:	 Rare
+
+Name:	Blinkmoth Nexus
+Type:	 Land
+Rules Text:	 {T}: Add {1} to your mana pool.
+{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.
+{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.
+Rarity:	 Rare
+
+Name:	City of Brass
+Type:	 Land
+Rules Text:	 Whenever City of Brass becomes tapped, it deals 1 damage to you.
+{t}: Add one mana of any color to your mana pool.
+Flavor Text:	 "There is much to learn here, but few can endure the ringing of the spires."
+â€”Nulakam the Archivist
+Illus.	 Jung Park
+Rarity:	 Rare
+Set Number:	 #221/229
+
+Name:	Dakmor Salvage
+Type:	 Land
+Rules Text:	 Dakmor Salvage enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+Dredge 2
+Rarity:	 Uncommon
+
+Name:	Glimmervoid
+Type:	 Land
+Rules Text:	 At the beginning of the end step, if you control no artifacts, sacrifice Glimmervoid.
+{T}: Add one mana of any color to your mana pool.
+Rarity:	 Rare
+
+Name:	Terramorphic Expanse
+Type:	 Land
+Rules Text:	 {T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Rarity:	 Common
+
+Name:	Vivid Crag
+Type:	 Land
+Rules Text:	 Vivid Crag enters the battlefield tapped with two charge counters on it.
+{T}: Add {R} to your mana pool.
+{T}, Remove a charge counter from Vivid Crag: Add one mana of any color to your mana pool.
+Rarity:	 Uncommon
+
+Name:	Vivid Creek
+Type:	 Land
+Rules Text:	 Vivid Creek enters the battlefield tapped with two charge counters on it.
+{T}: Add {U} to your mana pool.
+{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.
+Rarity:	 Uncommon
+
+Name:	Vivid Grove
+Type:	 Land
+Rules Text:	 Vivid Grove enters the battlefield tapped with two charge counters on it.
+{T}: Add {G} to your mana pool.
+{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.
+Rarity:	 Uncommon
+
+Name:	Vivid Marsh
+Type:	 Land
+Rules Text:	 Vivid Marsh enters the battlefield tapped with two charge counters on it.
+{T}: Add {B} to your mana pool.
+{T}, Remove a charge counter from Vivid Marsh: Add one mana of any color to your mana pool.
+Rarity:	 Uncommon
+
+Name:	Vivid Meadow
+Type:	 Land
+Rules Text:	 Vivid Meadow enters the battlefield tapped with two charge counters on it.
+{T}: Add {W} to your mana pool.
+{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color to your mana pool.
+Rarity:	 Uncommon

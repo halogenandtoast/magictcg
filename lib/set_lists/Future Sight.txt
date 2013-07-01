@@ -1,0 +1,1259 @@
+CardName: Akroma's Memorial
+Cost: 7
+Type: Legendary Artifact
+Pow/Tgh: /
+Rules Text: Creatures you control have flying, first strike, vigilance, trample, haste, protection from black, and protection from red.
+Set/Rarity: Future Sight Rare
+
+CardName: Angel of Salvation
+Cost: 6WW
+Type: Creature - Angel
+Pow/Tgh: 5/5
+Rules Text: Flash; convoke (Each creature you tap while playing this spell reduces its cost by 1 or by one mana of that creature's color.) Flying When Angel of Salvation comes into play, prevent the next 5 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.
+Set/Rarity: Future Sight Rare
+
+CardName: Arc Blade
+Cost: 3RR
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Arc Blade deals 2 damage to target creature or player. Remove Arc Blade from the game with three time counters on it. Suspend 3-2R (Rather than play this card from your hand, you may pay 2R and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Arcanum Wings
+Cost: 1U
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Enchant creature Enchanted creature has flying. Aura swap 2U (2U: Exchange this Aura with an Aura card in your hand.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Augur il-Vec
+Cost: 1W
+Type: Creature - Human Cleric
+Pow/Tgh: 1/3
+Rules Text: Shadow (This creature can block or be blocked by only creatures with shadow.) Sacrifice Augur il-Vec: You gain 4 life. Play this ability only during your upkeep.
+Set/Rarity: Future Sight Common
+
+CardName: Augur of Skulls
+Cost: 1B
+Type: Creature - Skeleton Wizard
+Pow/Tgh: 1/1
+Rules Text: 1B: Regenerate Augur of Skulls. Sacrifice Augur of Skulls: Target player discards two cards. Play this ability only during your upkeep.
+Set/Rarity: Future Sight Common
+
+CardName: Aven Augur
+Cost: 3U
+Type: Creature - Bird Wizard
+Pow/Tgh: 2/2
+Rules Text: Flying Sacrifice Aven Augur: Return up to two target creatures to their owners' hands. Play this ability only during your upkeep.
+Set/Rarity: Future Sight Common
+
+CardName: Aven Mindcensor
+Cost: 2W
+Type: Creature - Bird Wizard
+Pow/Tgh: 2/1
+Rules Text: Flash (You may play this spell any time you could play an instant.) Flying If an opponent would search a library, that player searches the top four cards of that library instead.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Barren Glory
+Cost: 4WW
+Type: Enchantment
+Pow/Tgh: /
+Rules Text: At the beginning of your upkeep, if you control no permanents other than Barren Glory and have no cards in hand, you win the game.
+Set/Rarity: Future Sight Rare
+
+CardName: Baru, Fist of Krosa
+Cost: 3GG
+Type: Legendary Creature - Human Druid
+Pow/Tgh: 4/4
+Rules Text: Whenever a Forest comes into play, green creatures you control get +1/+1 and gain trample until end of turn. Grandeur - Discard another card named Baru, Fist of Krosa: Put an X/X green Wurm creature token into play, where X is the number of lands you control.
+Set/Rarity: Future Sight Rare
+
+CardName: Bitter Ordeal
+Cost: 2B
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Search target player's library for a card and remove that card from the game. Then that player shuffles his or her library. Gravestorm (When you play this spell, copy it for each permanent put into a graveyard this turn. You may choose new targets for the copies.)
+Set/Rarity: Future Sight Rare
+
+CardName: Blade of the Sixth Pride
+Cost: 1W
+Type: Creature - Cat Rebel
+Pow/Tgh: 3/1
+Rules Text:
+Set/Rarity: Future Sight Common
+
+CardName: Blind Phantasm
+Cost: 2U
+Type: Creature - Illusion
+Pow/Tgh: 2/3
+Rules Text:
+Set/Rarity: Future Sight Common
+
+CardName: Bloodshot Trainee
+Cost: 3R
+Type: Creature - Goblin Warrior
+Pow/Tgh: 2/3
+Rules Text: T Bloodshot Trainee deals 4 damage to target creature. Play this ability only if Bloodshot Trainee's power is 4 or greater.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Bogardan Lancer
+Cost: 1R
+Type: Creature - Human Knight
+Pow/Tgh: 1/1
+Rules Text: Bloodthirst 1 (If an opponent was dealt damage this turn, this creature comes into play with a +1/+1 counter on it.) Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Set/Rarity: Future Sight Common
+
+CardName: Boldwyr Intimidator
+Cost: 5RR
+Type: Creature - Giant Warrior
+Pow/Tgh: 5/5
+Rules Text: Cowards can't block Warriors. R: Target creature's type becomes Coward until end of turn. 2R: Target creature's type becomes Warrior until end of turn.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Bonded Fetch
+Cost: 2U
+Type: Creature - Homunculus
+Pow/Tgh: 0/2
+Rules Text: Defender, haste T Draw a card, then discard a card.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Bound in Silence
+Cost: 2W
+Type: Tribal Enchantment - Rebel Aura
+Pow/Tgh: /
+Rules Text: Enchant creature Enchanted creature can't attack or block.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Bridge from Below
+Cost: BBB
+Type: Enchantment
+Pow/Tgh: /
+Rules Text: Whenever a nontoken creature is put into your graveyard from play, if Bridge from Below is in your graveyard, put a 2/2 black Zombie creature token into play. When a creature is put into an opponent's graveyard from play, if Bridge from Below is in your graveyard, remove Bridge from Below from the game.
+Set/Rarity: Future Sight Rare
+
+CardName: Centaur Omenreader
+Cost: 3G
+Type: Snow Creature - Centaur Shaman
+Pow/Tgh: 3/3
+Rules Text: As long as Centaur Omenreader is tapped, creature spells you play cost 2 less to play.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Char-Rumbler
+Cost: 2RR
+Type: Creature - Elemental
+Pow/Tgh: -1/3
+Rules Text: Double strike R: Char-Rumbler gets +1/+0 until end of turn.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Chronomantic Escape
+Cost: 4WW
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Until your next turn, creatures can't attack you. Remove Chronomantic Escape from the game with three time counters on it. Suspend 3-2W (Rather than play this card from your hand, you may pay 2W and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Cloud Key
+Cost: 3
+Type: Artifact
+Pow/Tgh: /
+Rules Text: As Cloud Key comes into play, choose artifact, creature, enchantment, instant, or sorcery. Spells you play of the chosen type cost 1 less to play.
+Set/Rarity: Future Sight Rare
+
+CardName: Cloudseeder
+Cost: 1U
+Type: Creature - Faerie Spellshaper
+Pow/Tgh: 1/1
+Rules Text: Flying U, T, Discard a card: Put a 1/1 blue Faerie creature token named Cloud Sprite into play with flying and "Cloud Sprite can block only creatures with flying."
+Set/Rarity: Future Sight Uncommon
+
+CardName: Coalition Relic
+Cost: 3
+Type: Artifact
+Pow/Tgh: /
+Rules Text: T Add one mana of any color to your mana pool. T Put a charge counter on Coalition Relic. At the beginning of your precombat main phase, remove all charge counters from Coalition Relic. Add one mana of any color to your mana pool for each counter removed this way.
+Set/Rarity: Future Sight Rare
+
+CardName: Cryptic Annelid
+Cost: 3U
+Type: Creature - Beast
+Pow/Tgh: 1/4
+Rules Text: When Cryptic Annelid comes into play, scry 1, then scry 2, then scry 3. (To scry X, look at the top X cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Cutthroat il-Dal
+Cost: 3B
+Type: Creature - Human Rogue
+Pow/Tgh: 4/1
+Rules Text: Hellbent - Cutthroat il-Dal has shadow as long as you have no cards in hand. (It can block or be blocked by only creatures with shadow.)
+Set/Rarity: Future Sight Common
+
+CardName: Cyclical Evolution
+Cost: 3GG
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Target creature gets +3/+3 until end of turn. Remove Cyclical Evolution from the game with three time counters on it. Suspend 3-2G (Rather than play this card from your hand, you may pay 2G and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Dakmor Salvage
+Cost:
+Type: Land
+Pow/Tgh: /
+Rules Text: Dakmor Salvage comes into play tapped. T Add B to your mana pool. Dredge 2 (If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Darksteel Garrison
+Cost: 2
+Type: Artifact - Fortification
+Pow/Tgh: /
+Rules Text: Fortified land is indestructible. Whenever fortified land becomes tapped, target creature gets +1/+1 until end of turn. Fortify 3 (3: Attach to target land you control. Fortify only as a sorcery. This card comes into play unattached and stays in play if the land leaves play.)
+Set/Rarity: Future Sight Rare
+
+CardName: Daybreak Coronet
+Cost: WW
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Enchant creature with another Aura attached to it Enchanted creature gets +3/+3 and has first strike, vigilance, and lifelink. (Whenever it deals damage, its controller gains that much life.)
+Set/Rarity: Future Sight Rare
+
+CardName: Death Rattle
+Cost: 5B
+Type: Instant
+Pow/Tgh: /
+Rules Text: Delve (You may remove any number of cards in your graveyard from the game as you play this spell. It costs 1 less to play for each card removed this way.) Destroy target nongreen creature. It can't be regenerated.
+Set/Rarity: Future Sight Common
+
+CardName: Deepcavern Imp
+Cost: 2B
+Type: Creature - Imp Rebel
+Pow/Tgh: 2/2
+Rules Text: Flying, haste Echo-Discard a card. (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Set/Rarity: Future Sight Common
+
+CardName: Delay
+Cost: 1U
+Type: Instant
+Pow/Tgh: /
+Rules Text: Counter target spell. If the spell is countered this way, remove it from the game with three time counters on it instead of putting it into its owner's graveyard. If it doesn't have suspend, it gains suspend. (At the beginning of its owner's upkeep, remove a counter from that card. When the last is removed, the player plays it without paying its mana cost. If it's a creature, it has haste.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Dryad Arbor
+Cost:
+Type: Land Creature - Forest Dryad
+Pow/Tgh: 1/1
+Rules Text: (Dryad Arbor isn't a spell, it's affected by summoning sickness, and it has "T Add G to your mana pool.") Dryad Arbor is green.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Dust of Moments
+Cost: 2W
+Type: Instant
+Pow/Tgh: /
+Rules Text: Choose one - Remove two time counters from each permanent and each suspended card; or put two time counters on each permanent with a time counter on it and each suspended card.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Edge of Autumn
+Cost: 1G
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: If you control four or fewer lands, search your library for a basic land card, put it into play tapped, then shuffle your library. Cycling-Sacrifice a land. (Sacrifice a land, Discard this card: Draw a card.)
+Set/Rarity: Future Sight Common
+
+CardName: Emberwilde Augur
+Cost: 1R
+Type: Creature - Goblin Shaman
+Pow/Tgh: 2/1
+Rules Text: Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Play this ability only during your upkeep.
+Set/Rarity: Future Sight Common
+
+CardName: Emblem of the Warmind
+Cost: 1R
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Enchant creature you control Creatures you control have haste.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Epochrasite
+Cost: 2
+Type: Artifact Creature - Construct
+Pow/Tgh: 1/1
+Rules Text: Epochrasite comes into play with three +1/+1 counters on it if you didn't play it from your hand. When Epochrasite is put into a graveyard from play, remove it from the game with three time counters on it and it gains suspend.
+Set/Rarity: Future Sight Rare
+
+CardName: Even the Odds
+Cost: 2W
+Type: Instant
+Pow/Tgh: /
+Rules Text: Play Even the Odds only if you control fewer creatures than each opponent. Put three 1/1 white Soldier creature tokens into play.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Fatal Attraction
+Cost: 2R
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Enchant creature When Fatal Attraction comes into play, it deals 2 damage to enchanted creature. At the beginning of your upkeep, Fatal Attraction deals 4 damage to enchanted creature.
+Set/Rarity: Future Sight Common
+
+CardName: Festering March
+Cost: 3BB
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Creatures your opponents control get -1/-1 until end of turn. Remove Festering March from the game with three time counters on it. Suspend 3-2B (Rather than play this card from your hand, you may pay 2B and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Fleshwrither
+Cost: 2BB
+Type: Creature - Horror
+Pow/Tgh: 3/3
+Rules Text: Transfigure 1BB (1BB, Sacrifice this creature: Search your library for a creature card with the same converted mana cost as this creature and put that card into play. Then shuffle your library. Play only as a sorcery.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Flowstone Embrace
+Cost: 1R
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Enchant creature T Enchanted creature gets +2/-2 until end of turn.
+Set/Rarity: Future Sight Common
+
+CardName: Fomori Nomad
+Cost: 4R
+Type: Creature - Nomad Giant
+Pow/Tgh: 4/4
+Rules Text:
+Set/Rarity: Future Sight Common
+
+CardName: Force of Savagery
+Cost: 2G
+Type: Creature - Elemental
+Pow/Tgh: 8/0
+Rules Text: Trample
+Set/Rarity: Future Sight Rare
+
+CardName: Foresee
+Cost: 3U
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Scry 4, then draw two cards. (To scry 4, look at the top four cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity: Future Sight Common
+
+CardName: Frenzy Sliver
+Cost: 1B
+Type: Creature - Sliver
+Pow/Tgh: 1/1
+Rules Text: All Sliver creatures have frenzy 1. (Whenever a Sliver attacks and isn't blocked, it gets +1/+0 until end of turn.)
+Set/Rarity: Future Sight Common
+
+CardName: Gathan Raiders
+Cost: 3RR
+Type: Creature - Human Warrior
+Pow/Tgh: 3/3
+Rules Text: Hellbent - Gathan Raiders gets +2/+2 if you have no cards in hand. Morph-Discard a card. (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+Set/Rarity: Future Sight Common
+
+CardName: Ghostfire
+Cost: 2R
+Type: Instant
+Pow/Tgh: /
+Rules Text: Ghostfire is colorless. Ghostfire deals 3 damage to target creature or player.
+Set/Rarity: Future Sight Common
+
+CardName: Gibbering Descent
+Cost: 4BB
+Type: Enchantment
+Pow/Tgh: /
+Rules Text: At the beginning of each player's upkeep, that player loses 1 life and discards a card. Hellbent - Skip your upkeep step if you have no cards in hand. Madness 2BB (If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)
+Set/Rarity: Future Sight Rare
+
+CardName: Gift of Granite
+Cost: W
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Flash (You may play this spell any time you could play an instant.) Enchant creature Enchanted creature gets +0/+2.
+Set/Rarity: Future Sight Common
+
+CardName: Glittering Wish
+Cost: GW
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: You may choose a multicolored card you own from outside the game, reveal that card, and put it into your hand. Remove Glittering Wish from the game.
+Set/Rarity: Future Sight Rare
+
+CardName: Goldmeadow Lookout
+Cost: 3W
+Type: Creature - Kithkin Spellshaper
+Pow/Tgh: 2/2
+Rules Text: W, T, Discard a card: Put a 1/1 white Kithkin Soldier creature token named Goldmeadow Harrier into play with "W, T Tap target creature."
+Set/Rarity: Future Sight Uncommon
+
+CardName: Grave Peril
+Cost: 1B
+Type: Enchantment
+Pow/Tgh: /
+Rules Text: When a nonblack creature comes into play, sacrifice Grave Peril. If you do, destroy that creature.
+Set/Rarity: Future Sight Common
+
+CardName: Grave Scrabbler
+Cost: 3B
+Type: Creature - Zombie
+Pow/Tgh: 2/2
+Rules Text: Madness 1B (If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.) When Grave Scrabbler comes into play, if its madness cost was paid, you may return target creature card in a graveyard to its owner's hand.
+Set/Rarity: Future Sight Common
+
+CardName: Graven Cairns
+Cost:
+Type: Land
+Pow/Tgh: /
+Rules Text: T Add 1 to your mana pool. o(b/r), T Add BB, BR, or RR to your mana pool.
+Set/Rarity: Future Sight Rare
+
+CardName: Grinning Ignus
+Cost: 2R
+Type: Creature - Elemental
+Pow/Tgh: 2/2
+Rules Text: R, Return Grinning Ignus to its owner's hand: Add 2R to your mana pool. Play this ability only any time you could play a sorcery.
+Set/Rarity: Future Sight Common
+
+CardName: Grove of the Burnwillows
+Cost:
+Type: Land
+Pow/Tgh: /
+Rules Text: T Add 1 to your mana pool. T Add R or G to your mana pool. Each opponent gains 1 life.
+Set/Rarity: Future Sight Rare
+
+CardName: Haze of Rage
+Cost: 1R
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Buyback 2 (You may pay an additional 2 as you play this spell. If you do, put this card into your hand as it resolves.) Creatures you control get +1/+0 until end of turn. Storm (When you play this spell, copy it for each spell played before it this turn.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Heartwood Storyteller
+Cost: 1GG
+Type: Creature - Treefolk
+Pow/Tgh: 2/3
+Rules Text: Whenever a player plays a noncreature spell, each of that player's opponents may draw a card.
+Set/Rarity: Future Sight Rare
+
+CardName: Henchfiend of Ukor
+Cost: 3R
+Type: Creature - Ogre
+Pow/Tgh: 3/2
+Rules Text: Haste Echo 1B (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice this permanent unless you pay its echo cost.) o(b/r): Henchfiend of Ukor gets +1/+0 until end of turn.
+Set/Rarity: Future Sight Common
+
+CardName: Homing Sliver
+Cost: 2R
+Type: Creature - Sliver
+Pow/Tgh: 2/2
+Rules Text: Each Sliver card in each player's hand has slivercycling 3. Slivercycling 3 (3, Discard this card: Search your library for a Sliver card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity: Future Sight Common
+
+CardName: Horizon Canopy
+Cost:
+Type: Land
+Pow/Tgh: /
+Rules Text: T, Pay 1 life: Add G or W to your mana pool. 1, T, Sacrifice Horizon Canopy: Draw a card.
+Set/Rarity: Future Sight Rare
+
+CardName: Ichor Slick
+Cost: 2B
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Target creature gets -3/-3 until end of turn. Cycling 2 (2, Discard this card: Draw a card.) Madness 3B (If you discard this card, you may play it for its madness cost instead of putting it into your graveyard.)
+Set/Rarity: Future Sight Common
+
+CardName: Imperial Mask
+Cost: 4W
+Type: Enchantment
+Pow/Tgh: /
+Rules Text: When Imperial Mask comes into play, if it's not a token, each of your teammates puts a token into play that's a copy of Imperial Mask. You can't be the target of spells or abilities your opponents control.
+Set/Rarity: Future Sight Rare
+
+CardName: Imperiosaur
+Cost: 2GG
+Type: Creature - Lizard
+Pow/Tgh: 5/5
+Rules Text: Spend only mana produced by basic lands to play Imperiosaur.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Infiltrator il-Kor
+Cost: 4U
+Type: Creature - Kor Rogue
+Pow/Tgh: 3/1
+Rules Text: Shadow (This creature can block or be blocked by only creatures with shadow.) Suspend 2-1U (Rather than play this card from your hand, you may pay 1U and remove it from the game with two time counters on it. At the beginning of your upkeep, remove a time counter. When you remove the last, play it without paying its mana cost. It has haste.)
+Set/Rarity: Future Sight Common
+
+CardName: Intervention Pact
+Cost: 0
+Type: Instant
+Pow/Tgh: /
+Rules Text: Intervention Pact is white. The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way. At the beginning of your next upkeep, pay 1WW. If you don't, you lose the game.
+Set/Rarity: Future Sight Rare
+
+CardName: Jhoira of the Ghitu
+Cost: 1UR
+Type: Legendary Creature - Human Wizard
+Pow/Tgh: 2/2
+Rules Text: 2, Remove a nonland card in your hand from the game: Put four time counters on the removed card. If it doesn't have suspend, it gains suspend. (At the beginning of your upkeep, remove a time counter from that card. When the last is removed, play it without paying its mana cost. If it's a creature, it has haste.)
+Set/Rarity: Future Sight Rare
+
+CardName: Judge Unworthy
+Cost: 1W
+Type: Instant
+Pow/Tgh: /
+Rules Text: Choose target attacking or blocking creature. Scry 3, then reveal the top card of your library. Judge Unworthy deals damage equal to that card's converted mana cost to that creature. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity: Future Sight Common
+
+CardName: Kavu Primarch
+Cost: 3G
+Type: Creature - Kavu
+Pow/Tgh: 3/3
+Rules Text: Convoke (Each creature you tap while playing this spell reduces its total cost by 1 or by one mana of that creature's color.) Kicker 4 (You may pay an additional 4 as you play this spell.) If the kicker cost was paid, Kavu Primarch comes into play with four +1/+1 counters on it.
+Set/Rarity: Future Sight Common
+
+CardName: Keldon Megaliths
+Cost:
+Type: Land
+Pow/Tgh: /
+Rules Text: Keldon Megaliths comes into play tapped. T Add R to your mana pool. Hellbent - 1R, T Keldon Megaliths deals 1 damage to target creature or player. Play this ability only if you have no cards in hand.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Knight of Sursi
+Cost: 3W
+Type: Creature - Human Knight
+Pow/Tgh: 2/2
+Rules Text: Flying, flanking Suspend 3-W (Rather than play this card from your hand, you may pay W and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost. It has haste.)
+Set/Rarity: Future Sight Common
+
+CardName: Korlash, Heir to Blackblade
+Cost: 2BB
+Type: Legendary Creature - Zombie Warrior
+Pow/Tgh: */*
+Rules Text: Korlash, Heir to Blackblade's power and toughness are each equal to the number of Swamps you control. 1B: Regenerate Korlash. Grandeur - Discard another card named Korlash, Heir to Blackblade: Search your library for up to two Swamp cards, put them into play tapped, then shuffle your library.
+Set/Rarity: Future Sight Rare
+
+CardName: Leaden Fists
+Cost: 2U
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Flash (You may play this spell any time you could play an instant.) Enchant creature Enchanted creature gets +3/+3 and doesn't untap during its controller's untap step.
+Set/Rarity: Future Sight Common
+
+CardName: Linessa, Zephyr Mage
+Cost: 3U
+Type: Legendary Creature - Human Wizard
+Pow/Tgh: 3/3
+Rules Text: XUU, T Return target creature with converted mana cost X to its owner's hand. Grandeur - Discard another card named Linessa, Zephyr Mage: Target player returns a creature he or she controls to its owner's hand, then repeats this process for an artifact, an enchantment, and a land.
+Set/Rarity: Future Sight Rare
+
+CardName: Llanowar Augur
+Cost: G
+Type: Creature - Elf Shaman
+Pow/Tgh: 0/3
+Rules Text: Sacrifice Llanowar Augur: Target creature gets +3/+3 and gains trample until end of turn. Play this ability only during your upkeep.
+Set/Rarity: Future Sight Common
+
+CardName: Llanowar Empath
+Cost: 3G
+Type: Creature - Elf Shaman
+Pow/Tgh: 2/2
+Rules Text: When Llanowar Empath comes into play, scry 2, then reveal the top card of your library. If it's a creature card, put it into your hand. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity: Future Sight Common
+
+CardName: Llanowar Mentor
+Cost: G
+Type: Creature - Elf Spellshaper
+Pow/Tgh: 1/1
+Rules Text: G, T, Discard a card: Put a 1/1 green Elf Druid creature token named Llanowar Elves into play with "T Add G to your mana pool."
+Set/Rarity: Future Sight Uncommon
+
+CardName: Llanowar Reborn
+Cost:
+Type: Land
+Pow/Tgh: /
+Rules Text: Llanowar Reborn comes into play tapped. T Add G to your mana pool. Graft 1 (This land comes into play with a +1/+1 counter on it. Whenever a creature comes into play, you may move a +1/+1 counter from this land onto it.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Logic Knot
+Cost: XUU
+Type: Instant
+Pow/Tgh: /
+Rules Text: Delve (You may remove any number of cards in your graveyard from the game as you play this spell. It costs 1 less to play for each card removed this way.) Counter target spell unless its controller pays X.
+Set/Rarity: Future Sight Common
+
+CardName: Lost Auramancers
+Cost: 2WW
+Type: Creature - Human Wizard
+Pow/Tgh: 3/3
+Rules Text: Vanishing 3 (This permanent comes into play with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.) When Lost Auramancers is put into a graveyard from play, if it had no time counters on it, you may search your library for an enchantment card and put it into play. If you do, shuffle your library.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Lost Hours
+Cost: 1B
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Target player reveals his or her hand. Choose a nonland card from it. That player puts that card into his or her library third from the top.
+Set/Rarity: Future Sight Common
+
+CardName: Lucent Liminid
+Cost: 3WW
+Type: Enchantment Creature - Elemental
+Pow/Tgh: 3/3
+Rules Text: Flying
+Set/Rarity: Future Sight Common
+
+CardName: Lumithread Field
+Cost: 1W
+Type: Enchantment
+Pow/Tgh: /
+Rules Text: Creatures you control get +0/+1. Morph 1W (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+Set/Rarity: Future Sight Common
+
+CardName: Lymph Sliver
+Cost: 4W
+Type: Creature - Sliver
+Pow/Tgh: 3/3
+Rules Text: All Sliver creatures have absorb 1. (If a source would deal damage to a Sliver, prevent 1 of that damage.)
+Set/Rarity: Future Sight Common
+
+CardName: Maelstrom Djinn
+Cost: 7U
+Type: Creature - Djinn
+Pow/Tgh: 5/6
+Rules Text: Flying Morph 2U When Maelstrom Djinn is turned face up, put two time counters on it and it gains vanishing. (At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+Set/Rarity: Future Sight Rare
+
+CardName: Magus of the Abyss
+Cost: 3B
+Type: Creature - Human Wizard
+Pow/Tgh: 4/3
+Rules Text: At the beginning of each player's upkeep, destroy target nonartifact creature that player controls of his or her choice. It can't be regenerated.
+Set/Rarity: Future Sight Rare
+
+CardName: Magus of the Future
+Cost: 2UUU
+Type: Creature - Human Wizard
+Pow/Tgh: 2/3
+Rules Text: Play with the top card of your library revealed. You may play the top card of your library.
+Set/Rarity: Future Sight Rare
+
+CardName: Magus of the Moat
+Cost: 2WW
+Type: Creature - Human Wizard
+Pow/Tgh: 0/3
+Rules Text: Creatures without flying can't attack.
+Set/Rarity: Future Sight Rare
+
+CardName: Magus of the Moon
+Cost: 2R
+Type: Creature - Human Wizard
+Pow/Tgh: 2/2
+Rules Text: Nonbasic lands are Mountains.
+Set/Rarity: Future Sight Rare
+
+CardName: Magus of the Vineyard
+Cost: G
+Type: Creature - Human Wizard
+Pow/Tgh: 1/1
+Rules Text: At the beginning of each player's precombat main phase, add GG to that player's mana pool.
+Set/Rarity: Future Sight Rare
+
+CardName: Marshaling Cry
+Cost: 1WW
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Creatures you control get +1/+1 and gain vigilance until end of turn. Cycling 2 (2, Discard this card: Draw a card.) Flashback 3W (You may play this card from your graveyard for its flashback cost. Then remove it from the game.)
+Set/Rarity: Future Sight Common
+
+CardName: Mass of Ghouls
+Cost: 3BB
+Type: Creature - Zombie Warrior
+Pow/Tgh: 5/3
+Rules Text:
+Set/Rarity: Future Sight Common
+
+CardName: Mesmeric Sliver
+Cost: 3U
+Type: Creature - Sliver
+Pow/Tgh: 2/2
+Rules Text: All Slivers have "When this permanent comes into play, you may fateseal 1." (Its controller looks at the top card of an opponent's library, then he or she may put that card on the bottom of that library.)
+Set/Rarity: Future Sight Common
+
+CardName: Minions' Murmurs
+Cost: 2BB
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: You draw X cards and you lose X life, where X is the number of creatures you control.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Mistmeadow Skulk
+Cost: 1W
+Type: Creature - Kithkin Rogue
+Pow/Tgh: 1/1
+Rules Text: Protection from converted mana cost 3 or greater Lifelink (Whenever this creature deals damage, you gain that much life.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Molten Disaster
+Cost: XRR
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Kicker R (You may pay an additional R as you play this spell.) If the kicker cost was paid, Molten Disaster has split second. (As long as this spell is on the stack, players can't play spells or activated abilities that aren't mana abilities.) Molten Disaster deals X damage to each creature without flying and each player.
+Set/Rarity: Future Sight Rare
+
+CardName: Muraganda Petroglyphs
+Cost: 3G
+Type: Enchantment
+Pow/Tgh: /
+Rules Text: Creatures with no abilities get +2/+2.
+Set/Rarity: Future Sight Rare
+
+CardName: Mystic Speculation
+Cost: U
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Buyback 2 (You may pay an additional 2 as you play this spell. If you do, put this card into your hand as it resolves.) Scry 3. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Nacatl War-Pride
+Cost: 3GGG
+Type: Creature - Cat Warrior
+Pow/Tgh: 3/3
+Rules Text: Nacatl War-Pride must be blocked by exactly one creature if able. Whenever Nacatl War-Pride attacks, put X tokens into play tapped and attacking that are copies of Nacatl War-Pride, where X is the number of creatures defending player controls. Remove the tokens from the game at end of turn.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Narcomoeba
+Cost: 1U
+Type: Creature - Illusion
+Pow/Tgh: 1/1
+Rules Text: Flying When Narcomoeba is put into your graveyard from your library, you may put it into play.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Nessian Courser
+Cost: 2G
+Type: Creature - Centaur Warrior
+Pow/Tgh: 3/3
+Rules Text:
+Set/Rarity: Future Sight Common
+
+CardName: New Benalia
+Cost:
+Type: Land
+Pow/Tgh: /
+Rules Text: New Benalia comes into play tapped. When New Benalia comes into play, scry 1. (Look at the top card of your library, then you may put that card on the bottom of your library.) T Add W to your mana pool.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Nihilith
+Cost: 4BB
+Type: Creature - Horror
+Pow/Tgh: 4/4
+Rules Text: Fear Suspend 7-1B Whenever a card is put into an opponent's graveyard from anywhere, if Nihilith is suspended, you may remove a time counter from Nihilith.
+Set/Rarity: Future Sight Rare
+
+CardName: Nimbus Maze
+Cost:
+Type: Land
+Pow/Tgh: /
+Rules Text: T Add 1 to your mana pool. T Add W to your mana pool. Play this ability only if you control an Island. T Add U to your mana pool. Play this ability only if you control a Plains.
+Set/Rarity: Future Sight Rare
+
+CardName: Nix
+Cost: U
+Type: Instant
+Pow/Tgh: /
+Rules Text: Counter target spell if no mana was spent to play it.
+Set/Rarity: Future Sight Rare
+
+CardName: Oblivion Crown
+Cost: 1B
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Flash (You may play this spell any time you could play an instant.) Enchant creature Enchanted creature has "Discard a card: This creature gets +1/+1 until end of turn."
+Set/Rarity: Future Sight Common
+
+CardName: Oriss, Samite Guardian
+Cost: 1WW
+Type: Legendary Creature - Human Cleric
+Pow/Tgh: 1/3
+Rules Text: T Prevent all damage that would be dealt to target creature this turn. Grandeur - Discard another card named Oriss, Samite Guardian: Target player can't play spells this turn, and creatures that player controls can't attack this turn.
+Set/Rarity: Future Sight Rare
+
+CardName: Pact of Negation
+Cost: 0
+Type: Instant
+Pow/Tgh: /
+Rules Text: Pact of Negation is blue. Counter target spell. At the beginning of your next upkeep, pay 3UU. If you don't, you lose the game.
+Set/Rarity: Future Sight Rare
+
+CardName: Pact of the Titan
+Cost: 0
+Type: Instant
+Pow/Tgh: /
+Rules Text: Pact of the Titan is red. Put a 4/4 red Giant creature token into play. At the beginning of your next upkeep, pay 4R. If you don't, you lose the game.
+Set/Rarity: Future Sight Rare
+
+CardName: Patrician's Scorn
+Cost: 3W
+Type: Instant
+Pow/Tgh: /
+Rules Text: If you played another white spell this turn, you may play Patrician's Scorn without paying its mana cost. Destroy all enchantments.
+Set/Rarity: Future Sight Common
+
+CardName: Petrified Plating
+Cost: 2G
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Enchant creature Enchanted creature gets +2/+2. Suspend 2-G (Rather than play this card from your hand, you may pay G and remove it from the game with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)
+Set/Rarity: Future Sight Common
+
+CardName: Phosphorescent Feast
+Cost: 2GGG
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Reveal any number of cards in your hand. You gain 2 life for each green mana symbol in those cards' mana costs.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Pooling Venom
+Cost: 1B
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Enchant land Whenever enchanted land becomes tapped, its controller loses 2 life. 3B: Destroy enchanted land.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Putrid Cyclops
+Cost: 2B
+Type: Creature - Zombie Cyclops
+Pow/Tgh: 3/3
+Rules Text: When Putrid Cyclops comes into play, scry 1, then reveal the top card of your library. Putrid Cyclops gets -X/-X until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)
+Set/Rarity: Future Sight Common
+
+CardName: Pyromancer's Swath
+Cost: 2R
+Type: Enchantment
+Pow/Tgh: /
+Rules Text: If an instant or sorcery source you control would deal damage to a creature or player, it deals that much damage plus 2 to that creature or player instead. At end of turn, discard your hand.
+Set/Rarity: Future Sight Rare
+
+CardName: Quagnoth
+Cost: 5G
+Type: Creature - Beast
+Pow/Tgh: 4/5
+Rules Text: Split second (As long as this spell is on the stack, players can't play spells or activated abilities that aren't mana abilities.) Shroud (This permanent can't be the target of spells or abilities.) When a spell or ability an opponent controls causes you to discard Quagnoth, return it to your hand.
+Set/Rarity: Future Sight Rare
+
+CardName: Quiet Disrepair
+Cost: 1G
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Enchant artifact or enchantment At the beginning of your upkeep, choose one - Destroy enchanted permanent; or you gain 2 life.
+Set/Rarity: Future Sight Common
+
+CardName: Ramosian Revivalist
+Cost: 3W
+Type: Creature - Human Rebel Cleric
+Pow/Tgh: 2/2
+Rules Text: 6, T Return target Rebel permanent card with converted mana cost 5 or less from your graveyard to play.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Ravaging Riftwurm
+Cost: 1GG
+Type: Creature - Wurm
+Pow/Tgh: 6/6
+Rules Text: Kicker 4 (You may pay an additional 4 as you play this spell.) Vanishing 2 (This permanent comes into play with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.) If the kicker cost was paid, Ravaging Riftwurm comes into play with three additional time counters on it.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Reality Strobe
+Cost: 4UU
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Return target permanent to its owner's hand. Remove Reality Strobe from the game with three time counters on it. Suspend 3-2U (Rather than play this card from your hand, you may pay 2U and remove it from the game with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, play it without paying its mana cost.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Riddle of Lightning
+Cost: 3RR
+Type: Instant
+Pow/Tgh: /
+Rules Text: Choose target creature or player. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's converted mana cost to that creature or player. (To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity: Future Sight Common
+
+CardName: Rift Elemental
+Cost: R
+Type: Creature - Elemental
+Pow/Tgh: 1/1
+Rules Text: 1R, Remove a time counter from a permanent you control or suspended card you own: Rift Elemental gets +2/+0 until end of turn.
+Set/Rarity: Future Sight Common
+
+CardName: Riftsweeper
+Cost: 1G
+Type: Creature - Elf Shaman
+Pow/Tgh: 2/2
+Rules Text: When Riftsweeper comes into play, choose target face-up card that's removed from the game. Its owner shuffles it into his or her library.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Rites of Flourishing
+Cost: 2G
+Type: Enchantment
+Pow/Tgh: /
+Rules Text: At the beginning of each player's draw step, that player draws a card. Each player may play an additional land on each of his or her turns.
+Set/Rarity: Future Sight Rare
+
+CardName: River of Tears
+Cost:
+Type: Land
+Pow/Tgh: /
+Rules Text: T Add U to your mana pool. If you played a land this turn, add B to your mana pool instead.
+Set/Rarity: Future Sight Rare
+
+CardName: Saltskitter
+Cost: 3W
+Type: Creature - Wurm
+Pow/Tgh: 3/4
+Rules Text: Whenever another creature comes into play, remove Saltskitter from the game. Return Saltskitter to play under its owner's control at end of turn.
+Set/Rarity: Future Sight Common
+
+CardName: Samite Censer-Bearer
+Cost: W
+Type: Creature - Human Rebel Cleric
+Pow/Tgh: 1/1
+Rules Text: W, Sacrifice Samite Censer-Bearer: Prevent the next 1 damage that would be dealt to each creature you control this turn.
+Set/Rarity: Future Sight Common
+
+CardName: Sarcomite Myr
+Cost: 2U
+Type: Artifact Creature - Myr
+Pow/Tgh: 2/1
+Rules Text: 2: Sarcomite Myr gains flying until end of turn. 2, Sacrifice Sarcomite Myr: Draw a card.
+Set/Rarity: Future Sight Common
+
+CardName: Scourge of Kher Ridges
+Cost: 6RR
+Type: Creature - Dragon
+Pow/Tgh: 6/6
+Rules Text: Flying 1R: Scourge of Kher Ridges deals 2 damage to each creature without flying. 5R: Scourge of Kher Ridges deals 6 damage to each other creature with flying.
+Set/Rarity: Future Sight Rare
+
+CardName: Scout's Warning
+Cost: W
+Type: Instant
+Pow/Tgh: /
+Rules Text: The next creature card you play this turn can be played as though it had flash. Draw a card.
+Set/Rarity: Future Sight Rare
+
+CardName: Second Wind
+Cost: 2U
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Enchant creature T Tap enchanted creature. T Untap enchanted creature.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Seht's Tiger
+Cost: 2WW
+Type: Creature - Cat
+Pow/Tgh: 3/3
+Rules Text: Flash (You may play this spell any time you could play an instant.) When Seht's Tiger comes into play, you gain protection from the color of your choice until end of turn. (You can't be targeted, dealt damage, or enchanted by anything of the chosen color.)
+Set/Rarity: Future Sight Rare
+
+CardName: Shah of Naar Isle
+Cost: 3R
+Type: Creature - Efreet
+Pow/Tgh: 6/6
+Rules Text: Trample Echo 0 (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.) When Shah of Naar Isle's echo cost is paid, each opponent may draw up to three cards.
+Set/Rarity: Future Sight Rare
+
+CardName: Shapeshifter's Marrow
+Cost: 2UU
+Type: Enchantment
+Pow/Tgh: /
+Rules Text: At the beginning of each opponent's upkeep, that player reveals the top card of his or her library. If it's a creature card, the player puts the card into his or her graveyard and Shapeshifter's Marrow becomes a copy of that card. (If it does, it loses this ability.)
+Set/Rarity: Future Sight Rare
+
+CardName: Shimian Specter
+Cost: 2BB
+Type: Creature - Specter
+Pow/Tgh: 2/2
+Rules Text: Flying Whenever Shimian Specter deals combat damage to a player, that player reveals his or her hand. Choose a nonland card from it. Search that player's graveyard, hand, and library for all cards with the same name as that card and remove them from the game. Then that player shuffles his or her library.
+Set/Rarity: Future Sight Rare
+
+CardName: Shivan Sand-Mage
+Cost: 2RR
+Type: Creature - Viashino Shaman
+Pow/Tgh: 3/2
+Rules Text: When Shivan Sand-Mage comes into play, choose one - Remove two time counters from target permanent or suspended card; or put two time counters on target permanent with a time counter on it or suspended card. Suspend 4-R
+Set/Rarity: Future Sight Uncommon
+
+CardName: Skirk Ridge Exhumer
+Cost: 1B
+Type: Creature - Zombie Spellshaper
+Pow/Tgh: 1/1
+Rules Text: B, T, Discard a card: Put a 1/1 black Zombie Goblin creature token named Festering Goblin into play with "When Festering Goblin is put into a graveyard from play, target creature gets -1/-1 until end of turn."
+Set/Rarity: Future Sight Uncommon
+
+CardName: Skizzik Surger
+Cost: 4RR
+Type: Creature - Elemental
+Pow/Tgh: 6/4
+Rules Text: Haste Echo-Sacrifice two lands. (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Slaughter Pact
+Cost: 0
+Type: Instant
+Pow/Tgh: /
+Rules Text: Slaughter Pact is black. Destroy target nonblack creature. At the beginning of your next upkeep, pay 2B. If you don't, you lose the game.
+Set/Rarity: Future Sight Rare
+
+CardName: Sliver Legion
+Cost: WUBRG
+Type: Legendary Creature - Sliver
+Pow/Tgh: 7/7
+Rules Text: All Sliver creatures get +1/+1 for each other Sliver in play.
+Set/Rarity: Future Sight Rare
+
+CardName: Sliversmith
+Cost: 2
+Type: Artifact Creature - Spellshaper
+Pow/Tgh: 1/1
+Rules Text: 1, T, Discard a card: Put a 1/1 Sliver artifact creature token named Metallic Sliver into play.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Snake Cult Initiation
+Cost: 3B
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Enchant creature Enchanted creature has poisonous 3. (Whenever it deals combat damage to a player, that player gets three poison counters. A player with ten or more poison counters loses the game.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Soultether Golem
+Cost: 2
+Type: Artifact Creature - Golem
+Pow/Tgh: 3/3
+Rules Text: Vanishing 1 (This permanent comes into play with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.) Whenever another creature comes into play under your control, put a time counter on Soultether Golem.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Sparkspitter
+Cost: 2R
+Type: Creature - Elemental Spellshaper
+Pow/Tgh: 1/3
+Rules Text: R, T, Discard a card: Put a 3/1 red Elemental creature token named Spark Elemental into play with trample, haste, and "At end of turn, sacrifice Spark Elemental."
+Set/Rarity: Future Sight Uncommon
+
+CardName: Spellweaver Volute
+Cost: 3UU
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Enchant instant card in a graveyard Whenever you play a sorcery spell, copy the enchanted instant card. You may play the copy without paying its mana cost. If you do, remove the enchanted card from the game and attach Spellweaver Volute to another instant card in a graveyard.
+Set/Rarity: Future Sight Rare
+
+CardName: Spellwild Ouphe
+Cost: 1G
+Type: Creature - Ouphe
+Pow/Tgh: 1/3
+Rules Text: Spells that target Spellwild Ouphe cost 2 less to play.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Spin into Myth
+Cost: 4U
+Type: Instant
+Pow/Tgh: /
+Rules Text: Put target creature on top of its owner's library, then fateseal 2. (Look at the top two cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Spirit en-Dal
+Cost: 2W
+Type: Creature - Spirit
+Pow/Tgh: 2/1
+Rules Text: Shadow (This creature can block or be blocked by only creatures with shadow.) Forecast - 1W, Reveal Spirit en-Dal from your hand: Target creature gains shadow until end of turn. (Play this ability only during your upkeep and only once each turn.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Sporoloth Ancient
+Cost: 3GG
+Type: Creature - Fungus
+Pow/Tgh: 4/4
+Rules Text: At the beginning of your upkeep, put a spore counter on Sporoloth Ancient. Creatures you control have "Remove two spore counters from this creature: Put a 1/1 green Saproling creature token into play."
+Set/Rarity: Future Sight Common
+
+CardName: Sprout Swarm
+Cost: 1G
+Type: Instant
+Pow/Tgh: /
+Rules Text: Convoke (Each creature you tap while playing this spell reduces its total cost by 1 or by one mana of that creature's color.) Buyback 3 (You may pay an additional 3 as you play this spell. If you do, put this card into your hand as it resolves.) Put a 1/1 green Saproling creature token into play.
+Set/Rarity: Future Sight Common
+
+CardName: Steamflogger Boss
+Cost: 3R
+Type: Creature - Goblin Rigger
+Pow/Tgh: 3/3
+Rules Text: Other Rigger creatures you control get +1/+0 and have haste. If a Rigger you control would assemble a Contraption, it assembles two Contraptions instead.
+Set/Rarity: Future Sight Rare
+
+CardName: Storm Entity
+Cost: 1R
+Type: Creature - Elemental
+Pow/Tgh: 1/1
+Rules Text: Haste Storm Entity comes into play with a +1/+1 counter on it for each other spell played this turn.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Street Wraith
+Cost: 3BB
+Type: Creature - Wraith
+Pow/Tgh: 3/4
+Rules Text: Swampwalk Cycling-Pay 2 life. (Pay 2 life, Discard this card: Draw a card.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Stronghold Rats
+Cost: 2B
+Type: Creature - Rat
+Pow/Tgh: 2/1
+Rules Text: Shadow (This creature can block or be blocked by only creatures with shadow.) Whenever Stronghold Rats deals combat damage to a player, each player discards a card.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Summoner's Pact
+Cost: 0
+Type: Instant
+Pow/Tgh: /
+Rules Text: Summoner's Pact is green. Search your library for a green creature card, reveal it, and put it into your hand. Then shuffle your library. At the beginning of your next upkeep, pay 2GG. If you don't, you lose the game.
+Set/Rarity: Future Sight Rare
+
+CardName: Sword of the Meek
+Cost: 2
+Type: Artifact - Equipment
+Pow/Tgh: /
+Rules Text: Equipped creature gets +1/+2. Equip 2 Whenever a 1/1 creature comes into play under your control, you may return Sword of the Meek from your graveyard to play, then attach it to that creature.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Take Possession
+Cost: 5UU
+Type: Enchantment - Aura
+Pow/Tgh: /
+Rules Text: Split second (As long as this spell is on the stack, players can't play spells or activated abilities that aren't mana abilities.) Enchant permanent You control enchanted permanent.
+Set/Rarity: Future Sight Rare
+
+CardName: Tarmogoyf
+Cost: 1G
+Type: Creature - Lhurgoyf
+Pow/Tgh: */1+*
+Rules Text: Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1. (The card types are artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal.)
+Set/Rarity: Future Sight Rare
+
+CardName: Tarox Bladewing
+Cost: 2RRR
+Type: Legendary Creature - Dragon
+Pow/Tgh: 4/3
+Rules Text: Flying, haste Grandeur - Discard another card named Tarox Bladewing: Tarox Bladewing gets +X/+X until end of turn, where X is its power.
+Set/Rarity: Future Sight Rare
+
+CardName: Thornweald Archer
+Cost: 1G
+Type: Creature - Elf Archer
+Pow/Tgh: 2/1
+Rules Text: Reach (This creature can block creatures with flying.) Deathtouch (Whenever this creature deals damage to a creature, destroy that creature.)
+Set/Rarity: Future Sight Common
+
+CardName: Thunderblade Charge
+Cost: 1RR
+Type: Sorcery
+Pow/Tgh: /
+Rules Text: Thunderblade Charge deals 3 damage to target creature or player. Whenever one or more creatures you control deal combat damage to a player, if Thunderblade Charge is in your graveyard, you may pay 2RRR. If you do, you may play it without paying its mana cost.
+Set/Rarity: Future Sight Rare
+
+CardName: Tolaria West
+Cost:
+Type: Land
+Pow/Tgh: /
+Rules Text: Tolaria West comes into play tapped. T Add U to your mana pool. Transmute 1UU (1UU, Discard this card: Search your library for a card with converted mana cost 0, reveal it, and put it into your hand. Then shuffle your library. Play only as a sorcery.)
+Set/Rarity: Future Sight Uncommon
+
+CardName: Tombstalker
+Cost: 6BB
+Type: Creature - Demon
+Pow/Tgh: 5/5
+Rules Text: Flying Delve (You may remove any number of cards in your graveyard from the game as you play this spell. It costs 1 less to play for each card removed this way.)
+Set/Rarity: Future Sight Rare
+
+CardName: Unblinking Bleb
+Cost: 3U
+Type: Creature - Illusion
+Pow/Tgh: 1/3
+Rules Text: Morph 2U (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.) Whenever Unblinking Bleb or another permanent is turned face up, you may scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Set/Rarity: Future Sight Common
+
+CardName: Utopia Mycon
+Cost: G
+Type: Creature - Fungus
+Pow/Tgh: 0/2
+Rules Text: At the beginning of your upkeep, put a spore counter on Utopia Mycon. Remove three spore counters from Utopia Mycon: Put a 1/1 green Saproling creature token into play. Sacrifice a Saproling: Add one mana of any color to your mana pool.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Vedalken AEthermage
+Cost: 1U
+Type: Creature - Vedalken Wizard
+Pow/Tgh: 1/2
+Rules Text: Flash (You may play this spell any time you could play an instant.) When Vedalken AEthermage comes into play, return target Sliver to its owner's hand. Wizardcycling 3 (3, Discard this card: Search your library for a Wizard card, reveal it, and put it into your hand. Then shuffle your library.)
+Set/Rarity: Future Sight Common
+
+CardName: Veilstone Amulet
+Cost: 3
+Type: Artifact
+Pow/Tgh: /
+Rules Text: Whenever you play a spell, creatures you control can't be the targets of spells or abilities your opponents control this turn.
+Set/Rarity: Future Sight Rare
+
+CardName: Venser, Shaper Savant
+Cost: 2UU
+Type: Legendary Creature - Human Wizard
+Pow/Tgh: 2/2
+Rules Text: Flash (You may play this spell any time you could play an instant.) When Venser, Shaper Savant comes into play, return target spell or permanent to its owner's hand.
+Set/Rarity: Future Sight Rare
+
+CardName: Venser's Diffusion
+Cost: 2U
+Type: Instant
+Pow/Tgh: /
+Rules Text: Return target nonland permanent or suspended card to its owner's hand.
+Set/Rarity: Future Sight Common
+
+CardName: Virulent Sliver
+Cost: G
+Type: Creature - Sliver
+Pow/Tgh: 1/1
+Rules Text: All Sliver creatures have poisonous 1. (Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)
+Set/Rarity: Future Sight Common
+
+CardName: Whetwheel
+Cost: 4
+Type: Artifact
+Pow/Tgh: /
+Rules Text: XX, T Target player puts the top X cards of his or her library into his or her graveyard. Morph 3 (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+Set/Rarity: Future Sight Rare
+
+CardName: Whip-Spine Drake
+Cost: 3UU
+Type: Creature - Drake
+Pow/Tgh: 3/3
+Rules Text: Flying Morph 2W (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+Set/Rarity: Future Sight Common
+
+CardName: Witch's Mist
+Cost: 2B
+Type: Enchantment
+Pow/Tgh: /
+Rules Text: 2B, T Destroy target creature that was dealt damage this turn.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Wrap in Vigor
+Cost: 1G
+Type: Instant
+Pow/Tgh: /
+Rules Text: Regenerate each creature you control.
+Set/Rarity: Future Sight Common
+
+CardName: Yixlid Jailer
+Cost: 1B
+Type: Creature - Zombie Wizard
+Pow/Tgh: 2/1
+Rules Text: Cards in graveyards lose all abilities.
+Set/Rarity: Future Sight Uncommon
+
+CardName: Zoetic Cavern
+Cost:
+Type: Land
+Pow/Tgh: /
+Rules Text: T Add 1 to your mana pool. Morph 2 (You may play this face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)
+Set/Rarity: Future Sight Uncommon

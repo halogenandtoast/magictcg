@@ -1,0 +1,3261 @@
+Card Name: Adarkar Wastes
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add W or U to your mana pool. Adarkar Wastes deals 
+             1 damage to you. 
+ Set/Rarity: Fifth Edition rare, Classic Sixth Edition rare, Seventh 
+             Edition rare, Ice Age rare, Ninth Edition rare 
+
+  Card Name: Air Elemental
+       Cost: 3UU
+       Type: Creature  Elemental
+    Pow/Tgh: 4/4
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Revised Edition 
+             uncommon, Fourth Edition uncommon, Fifth Edition uncommon, 
+             Classic Sixth Edition uncommon, Seventh Edition uncommon, 
+             Eighth Edition uncommon, Portal Second Age uncommon, 
+             Starter 1999 uncommon, Battle Royale Box Set uncommon, 
+             Beatdown Box Set uncommon, Ninth Edition uncommon 
+
+  Card Name: Aladdin's Ring
+       Cost: 8
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 8, T: Aladdin's Ring deals 4 damage to target creature 
+             or player. 
+ Set/Rarity: Revised Edition rare, Fourth Edition rare, Fifth Edition 
+             rare, Classic Sixth Edition rare, Seventh Edition rare, 
+             Eighth Edition rare, Arabian Nights rare, Ninth Edition 
+             rare 
+
+  Card Name: Anaba Shaman
+       Cost: 3R
+       Type: Creature  Minotaur Shaman
+    Pow/Tgh: 2/2
+ Rules Text: R, T: Anaba Shaman deals 1 damage to target creature 
+             or player. 
+ Set/Rarity: Classic Sixth Edition common, Eighth Edition common, 
+             Homelands common, Homelands common, Ninth Edition common 
+
+  Card Name: Anaconda
+       Cost: 3G
+       Type: Creature  Snake
+    Pow/Tgh: 3/3
+ Rules Text: Swampwalk (This creature is unblockable as long as 
+             defending player controls a Swamp.) 
+ Set/Rarity: Seventh Edition uncommon, Portal uncommon, Portal uncommon, 
+             Urza's Saga uncommon, Ninth Edition uncommon 
+
+  Card Name: Anarchist
+       Cost: 4R
+       Type: Creature  Human Wizard
+    Pow/Tgh: 2/2
+ Rules Text: When Anarchist comes into play, you may return target 
+             sorcery card from your graveyard to your hand. 
+ Set/Rarity: Exodus common, Odyssey common, Ninth Edition uncommon 
+
+  Card Name: Ancient Silverback
+       Cost: 4GG
+       Type: Creature  Ape
+    Pow/Tgh: 6/5
+ Rules Text: G: Regenerate Ancient Silverback. (The next time this 
+             creature would be destroyed this turn, it isn't. Instead 
+             tap it, remove all damage from it, and remove it from 
+             combat.) 
+ Set/Rarity: Seventh Edition rare, Urza's Destiny rare, Ninth Edition 
+             rare 
+
+  Card Name: Angel of Mercy
+       Cost: 4W
+       Type: Creature  Angel
+    Pow/Tgh: 3/3
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             When Angel of Mercy comes into play, you gain 3 life. 
+ Set/Rarity: Eighth Edition uncommon, Portal Second Age uncommon, 
+             Starter 1999 uncommon, Invasion uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Angel's Feather
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever a player plays a white spell, you may gain 
+             1 life. 
+ Set/Rarity: Darksteel uncommon, Ninth Edition uncommon 
+
+  Card Name: Angelic Blessing
+       Cost: 2W
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target creature gets +3/+3 and gains flying until end 
+             of turn. (It can't be blocked except by creatures with 
+             flying.) 
+ Set/Rarity: Portal common, Portal Second Age common, Starter 1999 
+             common, Starter 2000 common, Exodus common, Ninth Edition 
+             common 
+
+  Card Name: Annex
+       Cost: 2UU
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant land (Target a land as you play this. This 
+             card comes into play attached to that land.) 
+             You control enchanted land. 
+ Set/Rarity: Onslaught uncommon, Ninth Edition uncommon 
+
+  Card Name: Archivist
+       Cost: 2UU
+       Type: Creature  Human Wizard
+    Pow/Tgh: 1/1
+ Rules Text: T: Draw a card. 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Urza's Legacy 
+             rare, Ninth Edition rare 
+
+  Card Name: Aven Cloudchaser
+       Cost: 3W
+       Type: Creature  Bird Soldier
+    Pow/Tgh: 2/2
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             When Aven Cloudchaser comes into play, destroy target 
+             enchantment. 
+ Set/Rarity: Eighth Edition common, Odyssey common, Ninth Edition 
+             common 
+
+  Card Name: Aven Fisher
+       Cost: 3U
+       Type: Creature  Bird Soldier
+    Pow/Tgh: 2/2
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             When Aven Fisher is put into a graveyard from play, 
+             you may draw a card. 
+ Set/Rarity: Eighth Edition common, Odyssey common, Ninth Edition 
+             common 
+
+  Card Name: Aven Flock
+       Cost: 4W
+       Type: Creature  Bird Soldier
+    Pow/Tgh: 2/3
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             W: Aven Flock gets +0/+1 until end of turn. 
+ Set/Rarity: Eighth Edition common, Odyssey common, Ninth Edition 
+             common 
+
+  Card Name: Aven Windreader
+       Cost: 3UU
+       Type: Creature  Bird Soldier Wizard
+    Pow/Tgh: 3/3
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             1U: Target player reveals the top card of his or her 
+             library. 
+ Set/Rarity: Odyssey common, Ninth Edition common 
+
+  Card Name: Azure Drake
+       Cost: 3U
+       Type: Creature  Drake
+    Pow/Tgh: 2/4
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+ Set/Rarity: Fifth Edition uncommon, Chronicles uncommon, Legends 
+             uncommon, Battle Royale Box Set uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Balduvian Barbarians
+       Cost: 1RR
+       Type: Creature  Human Barbarian
+    Pow/Tgh: 3/2
+ Rules Text: 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Eighth Edition common, Ice Age common, Ninth Edition 
+             common 
+
+  Card Name: Baleful Stare
+       Cost: 2U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target opponent reveals his or her hand. You draw a 
+             card for each Mountain and red card in it. 
+ Set/Rarity: Seventh Edition uncommon, Portal uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Ballista Squad
+       Cost: 3W
+       Type: Creature  Human Rebel
+    Pow/Tgh: 2/2
+ Rules Text: XW, T: Ballista Squad deals X damage to target attacking 
+             or blocking creature. 
+ Set/Rarity: Mercadian Masques uncommon, Ninth Edition uncommon 
+
+  Card Name: Battle of Wits
+       Cost: 3UU
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: At the beginning of your upkeep, if you have 200 or 
+             more cards in your library, you win the game. 
+ Set/Rarity: Odyssey rare, Ninth Edition rare 
+
+  Card Name: Battlefield Forge
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add R or W to your mana pool. Battlefield Forge 
+             deals 1 damage to you. 
+ Set/Rarity: Apocalypse rare, Ninth Edition rare 
+
+  Card Name: Beast of Burden
+       Cost: 6
+       Type: Artifact Creature  Golem
+    Pow/Tgh: */*
+ Rules Text: Beast of Burden's power and toughness are each equal 
+             to the number of creatures in play. 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Magic Miscellaneous 
+             rare, Magic Miscellaneous rare, Urza's Legacy rare, 
+             Ninth Edition rare 
+
+  Card Name: Biorhythm
+       Cost: 6GG
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Each player's life total becomes the number of creatures 
+             he or she controls. 
+ Set/Rarity: Onslaught rare, Ninth Edition rare 
+
+  Card Name: Blackmail
+       Cost: B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player reveals three cards from his or her hand 
+             and you choose one of them. That player discards that 
+             card. 
+ Set/Rarity: Onslaught uncommon, Ninth Edition uncommon 
+
+  Card Name: Blanchwood Armor
+       Cost: 2G
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Enchanted creature gets +1/+1 for each Forest you control. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Urza's Saga uncommon, Ninth Edition uncommon 
+
+  Card Name: Blaze
+       Cost: XR
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Blaze deals X damage to target creature or player. 
+ Set/Rarity: Classic Sixth Edition uncommon, Seventh Edition uncommon, 
+             Eighth Edition uncommon, Portal uncommon, Portal uncommon, 
+             Portal Second Age uncommon, Portal Three Kingdoms uncommon, 
+             Ninth Edition uncommon 
+
+  Card Name: Blessed Orator
+       Cost: 3W
+       Type: Creature  Human Cleric
+    Pow/Tgh: 1/4
+ Rules Text: Other creatures you control get +0/+1. 
+ Set/Rarity: Odyssey uncommon, Ninth Edition uncommon 
+
+  Card Name: Blinding Angel
+       Cost: 3WW
+       Type: Creature  Angel
+    Pow/Tgh: 2/4
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             Whenever Blinding Angel deals combat damage to a player, 
+             that player skips his or her next combat phase. 
+ Set/Rarity: Eighth Edition rare, Nemesis rare, Ninth Edition rare 
+
+  Card Name: Blinking Spirit
+       Cost: 3W
+       Type: Creature  Spirit
+    Pow/Tgh: 2/2
+ Rules Text: 0: Return Blinking Spirit to its owner's hand. 
+ Set/Rarity: Fifth Edition rare, Ice Age rare, Battle Royale Box 
+             Set rare, Ninth Edition rare 
+
+  Card Name: Blood Moon
+       Cost: 2R
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Nonbasic lands are Mountains. 
+ Set/Rarity: Eighth Edition rare, Chronicles rare, The Dark rare, 
+             Ninth Edition rare 
+
+  Card Name: Bloodfire Colossus
+       Cost: 6RR
+       Type: Creature  Giant
+    Pow/Tgh: 6/6
+ Rules Text: R, Sacrifice Bloodfire Colossus: Bloodfire Colossus 
+             deals 6 damage to each creature and each player. 
+ Set/Rarity: Apocalypse rare, Ninth Edition rare 
+
+  Card Name: Bog Imp
+       Cost: 1B
+       Type: Creature  Imp
+    Pow/Tgh: 1/1
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+ Set/Rarity: Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Portal common, Starter 1999 common, 
+             Starter 2000 common, The Dark common, Ninth Edition 
+             common 
+
+  Card Name: Bog Wraith
+       Cost: 3B
+       Type: Creature  Wraith
+    Pow/Tgh: 3/3
+ Rules Text: Swampwalk (This creature is unblockable as long as 
+             defending player controls a Swamp.) 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Revised Edition 
+             uncommon, Fourth Edition uncommon, Fifth Edition uncommon, 
+             Classic Sixth Edition uncommon, Seventh Edition uncommon, 
+             Eighth Edition uncommon, Portal uncommon, Starter 1999 
+             uncommon, Ninth Edition uncommon 
+
+  Card Name: Boiling Seas
+       Cost: 3R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy all Islands. 
+ Set/Rarity: Portal uncommon, Ninth Edition uncommon 
+
+  Card Name: Booby Trap
+       Cost: 6
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: As Booby Trap comes into play, name a card other than 
+             a basic land card and choose an opponent. 
+             The chosen player reveals each card he or she draws. 
+             When the chosen player draws the named card, sacrifice 
+             Booby Trap. If you do, Booby Trap deals 10 damage to 
+             that player. 
+ Set/Rarity: Tempest rare, Ninth Edition rare 
+
+  Card Name: Boomerang
+       Cost: UU
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Return target permanent to its owner's hand. 
+ Set/Rarity: Fifth Edition common, Classic Sixth Edition common, 
+             Seventh Edition common, Eighth Edition common, Chronicles 
+             common, Legends common, Mirage common, Ninth Edition 
+             common 
+
+  Card Name: Bottle Gnomes
+       Cost: 3
+       Type: Artifact Creature  Gnome
+    Pow/Tgh: 1/3
+ Rules Text: Sacrifice Bottle Gnomes: You gain 3 life. 
+ Set/Rarity: Tempest uncommon, Mirrodin uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Brushland
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add G or W to your mana pool. Brushland deals 1 
+             damage to you. 
+ Set/Rarity: Fifth Edition rare, Classic Sixth Edition rare, Seventh 
+             Edition rare, Ice Age rare, Ninth Edition rare 
+
+  Card Name: Caves of Koilos
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add W or B to your mana pool. Caves of Koilos deals 
+             1 damage to you. 
+ Set/Rarity: Apocalypse rare, Ninth Edition rare 
+
+  Card Name: Chastise
+       Cost: 3W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy target attacking creature. You gain life equal 
+             to its power. 
+ Set/Rarity: Eighth Edition uncommon, Judgment uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Circle of Protection: Black
+       Cost: 1W
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: 1: The next time a black source of your choice would 
+             deal damage to you this turn, prevent that damage. 
+ Set/Rarity: Limited Edition Beta common, Unlimited Edition common, 
+             Revised Edition common, Fourth Edition common, Fifth 
+             Edition common, Classic Sixth Edition common, Seventh 
+             Edition common, Eighth Edition uncommon, Ice Age common, 
+             Tempest common, Ninth Edition uncommon 
+
+  Card Name: Circle of Protection: Red
+       Cost: 1W
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: 1: The next time a red source of your choice would 
+             deal damage to you this turn, prevent that damage. 
+ Set/Rarity: Limited Edition Beta common, Unlimited Edition common, 
+             Revised Edition common, Fourth Edition common, Fifth 
+             Edition common, Classic Sixth Edition common, Seventh 
+             Edition common, Eighth Edition uncommon, Ice Age common, 
+             Tempest common, Ninth Edition uncommon 
+
+  Card Name: Clone
+       Cost: 3U
+       Type: Creature  Shapeshifter
+    Pow/Tgh: 0/0
+ Rules Text: As Clone comes into play, you may choose a creature 
+             in play. If you do, Clone comes into play as a copy 
+             of that creature. 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Revised Edition 
+             uncommon, Onslaught rare, Ninth Edition rare 
+
+  Card Name: Coat of Arms
+       Cost: 5
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Each creature gets +1/+1 for each other creature in 
+             play that shares a creature type with it. (For example, 
+             if a Goblin Warrior, a Goblin Scout, and a Zombie Goblin 
+             are in play, each gets +2/+2.) 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Exodus rare, 
+             Ninth Edition rare 
+
+  Card Name: Coercion
+       Cost: 2B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target opponent reveals his or her hand. Choose a card 
+             from it. That player discards that card. 
+ Set/Rarity: Classic Sixth Edition common, Eighth Edition common, 
+             Portal Second Age uncommon, Portal Three Kingdoms uncommon, 
+             Starter 1999 uncommon, Starter 2000 common, Visions 
+             common, Tempest common, Beatdown Box Set common, Ninth 
+             Edition common 
+
+  Card Name: Confiscate
+       Cost: 4UU
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant permanent (Target a permanent as you play this. 
+             This card comes into play attached to that permanent.) 
+             You control enchanted permanent. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Urza's Saga uncommon, Ninth Edition uncommon 
+
+  Card Name: Consume Spirit
+       Cost: X1B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Spend only black mana on X. 
+             Consume Spirit deals X damage to target creature or 
+             player. You gain X life. 
+ Set/Rarity: Mirrodin common, Ninth Edition uncommon 
+
+  Card Name: Contaminated Bond
+       Cost: 1B
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Whenever enchanted creature attacks or blocks, its 
+             controller loses 3 life. 
+ Set/Rarity: Mirrodin common, Ninth Edition common 
+
+  Card Name: Coral Eel
+       Cost: 1U
+       Type: Creature  Eel
+    Pow/Tgh: 2/1
+ Rules Text: 
+ Set/Rarity: Eighth Edition common, Portal common, Starter 1999 
+             common, Ninth Edition common 
+
+  Card Name: Counsel of the Soratami
+       Cost: 2U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Draw two cards. 
+ Set/Rarity: Champions of Kamigawa common, Ninth Edition common 
+
+  Card Name: Cowardice
+       Cost: 3UU
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever a creature becomes the target of a spell or 
+             ability, return that creature to its owner's hand. 
+             (It won't be affected by the spell or ability.) 
+ Set/Rarity: Eighth Edition rare, Mercadian Masques rare, Ninth 
+             Edition rare 
+
+  Card Name: Crafty Pathmage
+       Cost: 2U
+       Type: Creature  Human Wizard
+    Pow/Tgh: 1/1
+ Rules Text: T: Target creature with power 2 or less is unblockable 
+             this turn. 
+ Set/Rarity: Onslaught common, Ninth Edition common 
+
+  Card Name: Craw Wurm
+       Cost: 4GG
+       Type: Creature  Wurm
+    Pow/Tgh: 6/4
+ Rules Text: 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Eighth 
+             Edition common, Ninth Edition common 
+
+  Card Name: Creeping Mold
+       Cost: 2GG
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy target artifact, enchantment, or land. 
+ Set/Rarity: Classic Sixth Edition uncommon, Seventh Edition uncommon, 
+             Eighth Edition uncommon, Visions uncommon, Mirrodin 
+             uncommon, Ninth Edition uncommon 
+
+  Card Name: Crossbow Infantry
+       Cost: 1W
+       Type: Creature  Human Soldier
+    Pow/Tgh: 1/1
+ Rules Text: T: Crossbow Infantry deals 1 damage to target attacking 
+             or blocking creature. 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Mercadian 
+             Masques common, Ninth Edition common 
+
+  Card Name: Cruel Edict
+       Cost: 1B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target opponent sacrifices a creature. 
+ Set/Rarity: Portal Second Age common, Ninth Edition uncommon 
+
+  Card Name: Dancing Scimitar
+       Cost: 4
+       Type: Artifact Creature  Spirit
+    Pow/Tgh: 1/5
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+ Set/Rarity: Revised Edition rare, Fourth Edition rare, Fifth Edition 
+             rare, Classic Sixth Edition rare, Arabian Nights rare, 
+             Ninth Edition uncommon 
+
+  Card Name: Daring Apprentice
+       Cost: 1UU
+       Type: Creature  Human Wizard
+    Pow/Tgh: 1/1
+ Rules Text: T, Sacrifice Daring Apprentice: Counter target spell. 
+ Set/Rarity: Classic Sixth Edition rare, Seventh Edition rare, Eighth 
+             Edition rare, Mirage rare, Ninth Edition rare 
+
+  Card Name: Dark Banishing
+       Cost: 2B
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy target nonblack creature. It can't be regenerated. 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Ice 
+             Age common, Mirage common, Tempest common, Ninth Edition 
+             common 
+
+  Card Name: Death Pits of Rath
+       Cost: 3BB
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever a creature is dealt damage, destroy it. It 
+             can't be regenerated. 
+ Set/Rarity: Eighth Edition rare, Magic Miscellaneous rare, Tempest 
+             rare, Ninth Edition rare 
+
+  Card Name: Deathgazer
+       Cost: 3B
+       Type: Creature  Lizard
+    Pow/Tgh: 2/2
+ Rules Text: Whenever Deathgazer blocks or becomes blocked by a 
+             nonblack creature, destroy that creature at end of 
+             combat. 
+ Set/Rarity: Eighth Edition uncommon, Mercadian Masques uncommon, 
+             Ninth Edition uncommon 
+
+  Card Name: Defense Grid
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: During each player's turn, each other player's spells 
+             cost 3 more to play. 
+ Set/Rarity: Eighth Edition rare, Urza's Legacy rare, Ninth Edition 
+             rare 
+
+  Card Name: Dehydration
+       Cost: 3U
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Enchanted creature doesn't untap during its controller's 
+             untap step. 
+ Set/Rarity: Eighth Edition common, Mercadian Masques common, Ninth 
+             Edition common 
+
+  Card Name: Demolish
+       Cost: 3R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy target artifact or land. 
+ Set/Rarity: Eighth Edition uncommon, Odyssey uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Demon's Horn
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever a player plays a black spell, you may gain 
+             1 life. 
+ Set/Rarity: Darksteel uncommon, Ninth Edition uncommon 
+
+  Card Name: Demystify
+       Cost: W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy target enchantment. 
+ Set/Rarity: Eighth Edition common, Onslaught common, Ninth Edition 
+             common 
+
+  Card Name: Diabolic Tutor
+       Cost: 2BB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Search your library for a card and put that card into 
+             your hand. Then shuffle your library. 
+ Set/Rarity: Eighth Edition uncommon, Odyssey uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Disrupting Scepter
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 3, T: Target player discards a card. Play this ability 
+             only during your turn. 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Fifth Edition rare, Classic Sixth Edition 
+             rare, Seventh Edition rare, Eighth Edition rare, Ninth 
+             Edition rare 
+
+  Card Name: Dragon's Claw
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever a player plays a red spell, you may gain 1 
+             life. 
+ Set/Rarity: Darksteel uncommon, Ninth Edition uncommon 
+
+  Card Name: Dream Prowler
+       Cost: 2UU
+       Type: Creature  Illusion
+    Pow/Tgh: 1/5
+ Rules Text: Dream Prowler is unblockable as long as it's attacking 
+             alone. 
+ Set/Rarity: Stronghold common, Ninth Edition uncommon 
+
+  Card Name: Drudge Skeletons
+       Cost: 1B
+       Type: Creature  Skeleton
+    Pow/Tgh: 1/1
+ Rules Text: B: Regenerate Drudge Skeletons. (The next time this 
+             creature would be destroyed this turn, it isn't. Instead 
+             tap it, remove all damage from it, and remove it from 
+             combat.) 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Starter 2000 common, Ninth Edition 
+             uncommon 
+
+  Card Name: Eager Cadet
+       Cost: W
+       Type: Creature  Human Soldier
+    Pow/Tgh: 1/1
+ Rules Text: 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Starter 
+             1999 , Starter 2000 common, Ninth Edition common 
+
+  Card Name: Early Harvest
+       Cost: 1GG
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target player untaps all basic lands he or she controls. 
+ Set/Rarity: Classic Sixth Edition rare, Seventh Edition rare, Mirage 
+             rare, Ninth Edition rare 
+
+  Card Name: Elvish Bard
+       Cost: 3GG
+       Type: Creature  Elf Shaman
+    Pow/Tgh: 2/4
+ Rules Text: All creatures able to block Elvish Bard do so. 
+ Set/Rarity: Alliances uncommon, Ninth Edition uncommon 
+
+  Card Name: Elvish Berserker
+       Cost: G
+       Type: Creature  Elf Berserker
+    Pow/Tgh: 1/1
+ Rules Text: Whenever Elvish Berserker becomes blocked, it gets 
+             +1/+1 until end of turn for each creature blocking 
+             it. 
+ Set/Rarity: Exodus common, Ninth Edition common 
+
+  Card Name: Elvish Champion
+       Cost: 1GG
+       Type: Creature  Elf Lord
+    Pow/Tgh: 2/2
+ Rules Text: Other Elves get +1/+1 and have forestwalk. (They're 
+             unblockable as long as defending player controls a 
+             Forest.) 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Invasion 
+             rare, Ninth Edition rare 
+
+  Card Name: Elvish Piper
+       Cost: 3G
+       Type: Creature  Elf Shaman
+    Pow/Tgh: 1/1
+ Rules Text: G, T: Put a creature card from your hand into play. 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Urza's Destiny 
+             rare, Ninth Edition rare 
+
+  Card Name: Elvish Warrior
+       Cost: GG
+       Type: Creature  Elf Warrior
+    Pow/Tgh: 2/3
+ Rules Text: 
+ Set/Rarity: Onslaught common, Ninth Edition common 
+
+  Card Name: Emperor Crocodile
+       Cost: 3G
+       Type: Creature  Crocodile
+    Pow/Tgh: 5/5
+ Rules Text: When you control no other creatures, sacrifice Emperor 
+             Crocodile. 
+ Set/Rarity: Eighth Edition rare, Urza's Destiny rare, Ninth Edition 
+             rare 
+
+  Card Name: Enfeeblement
+       Cost: BB
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Enchanted creature gets -2/-2. 
+ Set/Rarity: Classic Sixth Edition common, Mirage common, Tempest 
+             common, Ninth Edition common 
+
+  Card Name: Enormous Baloth
+       Cost: 6G
+       Type: Creature  Beast
+    Pow/Tgh: 7/7
+ Rules Text: 
+ Set/Rarity: Eighth Edition uncommon, Legions uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Enrage
+       Cost: XR
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target creature gets +X/+0 until end of turn. 
+ Set/Rarity: Eighth Edition uncommon, Scourge uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Evacuation
+       Cost: 3UU
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Return all creatures to their owners' hands. 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Stronghold 
+             rare, Ninth Edition rare 
+
+  Card Name: Execute
+       Cost: 2B
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy target white creature. It can't be regenerated. 
+             Draw a card. 
+ Set/Rarity: Eighth Edition uncommon, Odyssey uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Exhaustion
+       Cost: 2U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Creatures and lands target opponent controls don't 
+             untap during his or her next untap step. 
+ Set/Rarity: Portal rare, Portal Second Age rare, Portal Three Kingdoms 
+             rare, Starter 1999 uncommon, Urza's Saga uncommon, 
+             Ninth Edition uncommon 
+
+  Card Name: Fear
+       Cost: BB
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Enchanted creature has fear. (It can't be blocked except 
+             by artifact creatures and/or black creatures.) 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Ice Age common, Ninth Edition common 
+
+  Card Name: Fellwar Stone
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: T: Add to your mana pool one mana of any color that 
+             a land an opponent controls could produce. 
+ Set/Rarity: Fourth Edition uncommon, Fifth Edition uncommon, The 
+             Dark uncommon, Ninth Edition uncommon 
+
+  Card Name: Festering Goblin
+       Cost: B
+       Type: Creature  Zombie Goblin
+    Pow/Tgh: 1/1
+ Rules Text: When Festering Goblin is put into a graveyard from 
+             play, target creature gets -1/-1 until end of turn. 
+ Set/Rarity: Onslaught common, Ninth Edition common 
+
+  Card Name: Final Punishment
+       Cost: 3BB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player loses life equal to the damage already 
+             dealt to him or her this turn. 
+ Set/Rarity: Scourge rare, Ninth Edition rare 
+
+  Card Name: Firebreathing
+       Cost: R
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             R: Enchanted creature gets +1/+0 until end of turn. 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Mirage common, Ninth Edition 
+             common 
+
+  Card Name: Fishliver Oil
+       Cost: 1U
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Enchanted creature has islandwalk. (This creature is 
+             unblockable as long as defending player controls an 
+             Island.) 
+ Set/Rarity: Chronicles common, Arabian Nights common, Arabian Nights 
+             common, Ninth Edition common 
+
+  Card Name: Flame Wave
+       Cost: 3RRRR
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Flame Wave deals 4 damage to target player and each 
+             creature he or she controls. 
+ Set/Rarity: Stronghold uncommon, Ninth Edition uncommon 
+
+  Card Name: Flashfires
+       Cost: 3R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy all Plains. 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Revised Edition 
+             uncommon, Fourth Edition uncommon, Fifth Edition uncommon, 
+             Classic Sixth Edition uncommon, Eighth Edition uncommon, 
+             Portal uncommon, Ninth Edition uncommon 
+
+  Card Name: Fleeting Image
+       Cost: 2U
+       Type: Creature  Illusion
+    Pow/Tgh: 2/1
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             1U: Return Fleeting Image to its owner's hand. 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Urza's Legacy 
+             rare, Ninth Edition rare 
+
+  Card Name: Flight
+       Cost: U
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Enchanted creature has flying. (It can't be blocked 
+             except by creatures with flying.) 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Starter 2000 common, Ninth Edition 
+             common 
+
+  Card Name: Flowstone Crusher
+       Cost: 3RR
+       Type: Creature  Beast
+    Pow/Tgh: 4/4
+ Rules Text: R: Flowstone Crusher gets +1/-1 until end of turn. 
+ Set/Rarity: Nemesis common, Ninth Edition uncommon 
+
+  Card Name: Flowstone Shambler
+       Cost: 2R
+       Type: Creature  Beast
+    Pow/Tgh: 2/2
+ Rules Text: R: Flowstone Shambler gets +1/-1 until end of turn. 
+ Set/Rarity: Stronghold common, Ninth Edition common 
+
+  Card Name: Flowstone Slide
+       Cost: X2RR
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: All creatures get +X/-X until end of turn. 
+ Set/Rarity: Nemesis rare, Ninth Edition rare 
+
+  Card Name: Foot Soldiers
+       Cost: 3W
+       Type: Creature  Human Soldier
+    Pow/Tgh: 2/4
+ Rules Text: 
+ Set/Rarity: Portal common, Starter 1999 common, Ninth Edition common 
+
+  Card Name: Force of Nature
+       Cost: 2GGGG
+       Type: Creature  Elemental
+    Pow/Tgh: 8/8
+ Rules Text: Trample (If this creature would deal enough combat 
+             damage to its blockers to destroy them, you may have 
+             it deal the rest of its damage to defending player.) 
+             At the beginning of your upkeep, Force of Nature deals 
+             8 damage to you unless you pay GGGG. 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Fifth Edition rare, Beatdown Box Set 
+             rare, Ninth Edition rare 
+
+  Card Name: Forest
+       Cost: 
+       Type: Basic Land  Forest
+    Pow/Tgh: 
+ Rules Text: [G] 
+ Set/Rarity: Basic land 
+
+  Card Name: Form of the Dragon
+       Cost: 4RRR
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: At the beginning of your upkeep, Form of the Dragon 
+             deals 5 damage to target creature or player. 
+             At the end of each turn, your life total becomes 5. 
+             Creatures without flying can't attack you. 
+ Set/Rarity: Scourge rare, Ninth Edition rare 
+
+  Card Name: Foul Imp
+       Cost: BB
+       Type: Creature  Imp
+    Pow/Tgh: 2/2
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             When Foul Imp comes into play, you lose 2 life. 
+ Set/Rarity: Seventh Edition uncommon, Stronghold common, Ninth 
+             Edition common 
+
+  Card Name: Fugitive Wizard
+       Cost: U
+       Type: Creature  Human Wizard
+    Pow/Tgh: 1/1
+ Rules Text: 
+ Set/Rarity: Eighth Edition common, Legions common, Ninth Edition 
+             common 
+
+  Card Name: Furnace of Rath
+       Cost: 1RRR
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: If a source would deal damage to a creature or player, 
+             it deals double that damage to that creature or player 
+             instead. 
+ Set/Rarity: Eighth Edition rare, Tempest rare, Ninth Edition rare 
+
+  Card Name: Giant Cockroach
+       Cost: 3B
+       Type: Creature  Insect
+    Pow/Tgh: 4/2
+ Rules Text: 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Urza's 
+             Legacy common, Ninth Edition common 
+
+  Card Name: Giant Growth
+       Cost: G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target creature gets +3/+3 until end of turn. 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Starter 2000 common, Ice Age common, 
+             Battle Royale Box Set common, Beatdown Box Set common, 
+             Ninth Edition common 
+
+  Card Name: Giant Octopus
+       Cost: 3U
+       Type: Creature  Octopus
+    Pow/Tgh: 3/3
+ Rules Text: 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Portal 
+             common, Starter 1999 common, Starter 2000 common, Ninth 
+             Edition common 
+
+  Card Name: Giant Spider
+       Cost: 3G
+       Type: Creature  Spider
+    Pow/Tgh: 2/4
+ Rules Text: Giant Spider can block as though it had flying. 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Portal common, Ninth Edition common 
+
+  Card Name: Gift of Estates
+       Cost: 1W
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: If an opponent has more lands than you, search your 
+             library for up to three Plains cards, reveal them, 
+             and put them into your hand. Then shuffle your library. 
+ Set/Rarity: Portal rare, Ninth Edition uncommon 
+
+  Card Name: Glorious Anthem
+       Cost: 1WW
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Creatures you control get +1/+1. 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Urza's Saga 
+             rare, Ninth Edition rare 
+
+  Card Name: Glory Seeker
+       Cost: 1W
+       Type: Creature  Human Soldier
+    Pow/Tgh: 2/2
+ Rules Text: 
+ Set/Rarity: Eighth Edition common, Onslaught common, Ninth Edition 
+             common 
+
+  Card Name: Gluttonous Zombie
+       Cost: 4B
+       Type: Creature  Zombie
+    Pow/Tgh: 3/3
+ Rules Text: Fear (This creature can't be blocked except by artifact 
+             creatures and/or black creatures.) 
+ Set/Rarity: Eighth Edition uncommon, Onslaught uncommon, Ninth 
+             Edition uncommon 
+
+  Card Name: Goblin Balloon Brigade
+       Cost: R
+       Type: Creature  Goblin Warrior
+    Pow/Tgh: 1/1
+ Rules Text: R: Goblin Balloon Brigade gains flying until end of 
+             turn. (It can't be blocked except by creatures with 
+             flying.) 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Revised Edition 
+             uncommon, Fourth Edition uncommon, Ninth Edition uncommon 
+
+  Card Name: Goblin Brigand
+       Cost: 1R
+       Type: Creature  Goblin Warrior
+    Pow/Tgh: 2/2
+ Rules Text: Goblin Brigand attacks each turn if able. 
+ Set/Rarity: Scourge common, Ninth Edition common 
+
+  Card Name: Goblin Chariot
+       Cost: 2R
+       Type: Creature  Goblin Warrior
+    Pow/Tgh: 2/2
+ Rules Text: Haste (This creature can attack the turn it comes under 
+             your control.) 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Starter 
+             1999 common, Ninth Edition common 
+
+  Card Name: Goblin King
+       Cost: 1RR
+       Type: Creature  Goblin Lord
+    Pow/Tgh: 2/2
+ Rules Text: Other Goblins get +1/+1 and have mountainwalk. (They're 
+             unblockable as long as defending player controls a 
+             Mountain.) 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Fifth Edition rare, Classic Sixth Edition 
+             rare, Seventh Edition rare, Eighth Edition rare, Ninth 
+             Edition rare 
+
+  Card Name: Goblin Mountaineer
+       Cost: R
+       Type: Creature  Goblin Scout
+    Pow/Tgh: 1/1
+ Rules Text: Mountainwalk (This creature is unblockable as long 
+             as defending player controls a Mountain.) 
+ Set/Rarity: Portal Second Age common, Starter 1999 common, Ninth 
+             Edition common 
+
+  Card Name: Goblin Piker
+       Cost: 1R
+       Type: Creature  Goblin Warrior
+    Pow/Tgh: 2/1
+ Rules Text: 
+ Set/Rarity: Portal Second Age common, Ninth Edition common 
+
+  Card Name: Goblin Raider
+       Cost: 1R
+       Type: Creature  Goblin Warrior
+    Pow/Tgh: 2/2
+ Rules Text: Goblin Raider can't block. 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Portal 
+             Second Age common, Urza's Saga common, Ninth Edition 
+             common 
+
+  Card Name: Goblin Sky Raider
+       Cost: 2R
+       Type: Creature  Goblin Warrior
+    Pow/Tgh: 1/2
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+ Set/Rarity: Onslaught common, Ninth Edition common 
+
+  Card Name: Grave Pact
+       Cost: 1BBB
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever a creature you control is put into a graveyard 
+             from play, each other player sacrifices a creature. 
+ Set/Rarity: Eighth Edition rare, Stronghold rare, Ninth Edition 
+             rare 
+
+  Card Name: Gravedigger
+       Cost: 3B
+       Type: Creature  Zombie
+    Pow/Tgh: 2/2
+ Rules Text: When Gravedigger comes into play, you may return target 
+             creature card from your graveyard to your hand. 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Eighth Edition common, Portal uncommon, Starter 1999 
+             uncommon, Tempest common, Odyssey common, Beatdown 
+             Box Set common, Ninth Edition common 
+
+  Card Name: Greater Good
+       Cost: 2GG
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Sacrifice a creature: Draw cards equal to the sacrificed 
+             creature's power, then discard three cards. 
+ Set/Rarity: Urza's Saga rare, Ninth Edition rare 
+
+  Card Name: Grizzly Bears
+       Cost: 1G
+       Type: Creature  Bear
+    Pow/Tgh: 2/2
+ Rules Text: 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Portal common, Starter 1999 common, 
+             Ninth Edition common 
+
+  Card Name: Groundskeeper
+       Cost: G
+       Type: Creature  Human Druid
+    Pow/Tgh: 1/1
+ Rules Text: 1G: Return target basic land card from your graveyard 
+             to your hand. 
+ Set/Rarity: Mercadian Masques uncommon, Ninth Edition uncommon 
+
+  Card Name: Guerrilla Tactics
+       Cost: 1R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Guerrilla Tactics deals 2 damage to target creature 
+             or player. 
+             When a spell or ability an opponent controls causes 
+             you to discard Guerrilla Tactics, Guerrilla Tactics 
+             deals 4 damage to target creature or player. 
+ Set/Rarity: Eighth Edition uncommon, Alliances common, Alliances 
+             common, Ninth Edition uncommon 
+
+  Card Name: Hell's Caretaker
+       Cost: 3B
+       Type: Creature  Horror
+    Pow/Tgh: 1/1
+ Rules Text: T, Sacrifice a creature: Return target creature card 
+             from your graveyard to play. Play this ability only 
+             during your upkeep. 
+ Set/Rarity: Chronicles rare, Legends rare, Ninth Edition rare 
+
+  Card Name: Highway Robber
+       Cost: 2BB
+       Type: Creature  Human Mercenary
+    Pow/Tgh: 2/2
+ Rules Text: When Highway Robber comes into play, you gain 2 life 
+             and target opponent loses 2 life. 
+ Set/Rarity: Mercadian Masques common, Ninth Edition common 
+
+  Card Name: Hill Giant
+       Cost: 3R
+       Type: Creature  Giant
+    Pow/Tgh: 3/3
+ Rules Text: 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Seventh 
+             Edition common, Eighth Edition common, Portal common, 
+             Ninth Edition common 
+
+  Card Name: Hollow Dogs
+       Cost: 4B
+       Type: Creature  Hound
+    Pow/Tgh: 3/3
+ Rules Text: Whenever Hollow Dogs attacks, it gets +2/+0 until end 
+             of turn. 
+ Set/Rarity: Seventh Edition common, Starter 1999 common, Urza's 
+             Saga common, Beatdown Box Set common, Ninth Edition 
+             common 
+
+  Card Name: Holy Day
+       Cost: W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Prevent all combat damage that would be dealt this 
+             turn. 
+ Set/Rarity: Eighth Edition common, Legends common, Invasion common, 
+             Ninth Edition common 
+
+  Card Name: Holy Strength
+       Cost: W
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Enchanted creature gets +1/+2. 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Seventh 
+             Edition common, Eighth Edition common, Ninth Edition 
+             common 
+
+  Card Name: Honor Guard
+       Cost: W
+       Type: Creature  Human Soldier
+    Pow/Tgh: 1/1
+ Rules Text: W: Honor Guard gets +0/+1 until end of turn. 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Stronghold 
+             common, Ninth Edition common 
+
+  Card Name: Horned Turtle
+       Cost: 2U
+       Type: Creature  Turtle
+    Pow/Tgh: 1/4
+ Rules Text: 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Eighth Edition common, Portal common, Tempest common, 
+             Ninth Edition common 
+
+  Card Name: Horror of Horrors
+       Cost: 3BB
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Sacrifice a Swamp: Regenerate target black creature. 
+             (The next time that creature would be destroyed this 
+             turn, it isn't. Instead tap it, remove all damage from 
+             it, and remove it from combat.) 
+ Set/Rarity: Legends uncommon, Ninth Edition uncommon 
+
+  Card Name: Howling Mine
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: At the beginning of each player's draw step, if Howling 
+             Mine is untapped, that player draws a card. 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Fifth Edition rare, Classic Sixth Edition 
+             rare, Seventh Edition rare, Eighth Edition rare, Ninth 
+             Edition rare 
+
+  Card Name: Hunted Wumpus
+       Cost: 3G
+       Type: Creature  Beast
+    Pow/Tgh: 6/6
+ Rules Text: When Hunted Wumpus comes into play, each other player 
+             may put a creature card from his or her hand into play. 
+ Set/Rarity: Eighth Edition uncommon, Mercadian Masques uncommon, 
+             Ninth Edition uncommon 
+
+  Card Name: Hypnotic Specter
+       Cost: 1BB
+       Type: Creature  Specter
+    Pow/Tgh: 2/2
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             Whenever Hypnotic Specter deals damage to an opponent, 
+             that player discards a card at random. 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Revised Edition 
+             uncommon, Fourth Edition uncommon, Ninth Edition rare 
+
+  Card Name: Icy Manipulator
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 1, T: Tap target artifact, creature, or land. 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Ice Age uncommon, 
+             Mirrodin uncommon, Ninth Edition uncommon 
+
+  Card Name: Imaginary Pet
+       Cost: 1U
+       Type: Creature  Illusion
+    Pow/Tgh: 4/4
+ Rules Text: At the beginning of your upkeep, if you have a card 
+             in hand, return Imaginary Pet to its owner's hand. 
+ Set/Rarity: Urza's Saga rare, Ninth Edition rare 
+
+  Card Name: Index
+       Cost: U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Look at the top five cards of your library, then put 
+             them back in any order. 
+ Set/Rarity: Eighth Edition common, Apocalypse common, Ninth Edition 
+             common 
+
+  Card Name: Infantry Veteran
+       Cost: W
+       Type: Creature  Human Soldier
+    Pow/Tgh: 1/1
+ Rules Text: T: Target attacking creature gets +1/+1 until end of 
+             turn. 
+ Set/Rarity: Classic Sixth Edition common, Visions common, Battle 
+             Royale Box Set common, Ninth Edition common 
+
+  Card Name: Inspirit
+       Cost: 2W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Untap target creature. It gets +2/+4 until end of turn. 
+ Set/Rarity: Onslaught uncommon, Ninth Edition uncommon 
+
+  Card Name: Island
+       Cost: 
+       Type: Basic Land  Island
+    Pow/Tgh: 
+ Rules Text: [U] 
+ Set/Rarity: Basic land 
+
+  Card Name: Ivory Mask
+       Cost: 2WW
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: You can't be the target of spells or abilities. 
+ Set/Rarity: Eighth Edition rare, Mercadian Masques rare, Ninth 
+             Edition rare 
+
+  Card Name: Jade Statue
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 2: Jade Statue becomes a 3/6 artifact creature until 
+             end of combat. Play this ability only during combat. 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Ninth Edition 
+             rare 
+
+  Card Name: Jester's Cap
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 2, T, Sacrifice Jester's Cap: Search target player's 
+             library for three cards and remove them from the game. 
+             Then that player shuffles his or her library. 
+ Set/Rarity: Fifth Edition rare, Ice Age rare, Ninth Edition rare 
+
+  Card Name: Kami of Old Stone
+       Cost: 3W
+       Type: Creature  Spirit
+    Pow/Tgh: 1/7
+ Rules Text: 
+ Set/Rarity: Champions of Kamigawa uncommon, Ninth Edition uncommon 
+
+  Card Name: Karplusan Forest
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add R or G to your mana pool. Karplusan Forest deals 
+             1 damage to you. 
+ Set/Rarity: Fifth Edition rare, Classic Sixth Edition rare, Seventh 
+             Edition rare, Ice Age rare, Ninth Edition rare 
+
+  Card Name: Karplusan Yeti
+       Cost: 3RR
+       Type: Creature  Yeti
+    Pow/Tgh: 3/3
+ Rules Text: T: Karplusan Yeti deals damage equal to its power to 
+             target creature. That creature deals damage equal to 
+             its power to Karplusan Yeti. 
+ Set/Rarity: Ice Age rare, Ninth Edition rare 
+
+  Card Name: Kavu Climber
+       Cost: 3GG
+       Type: Creature  Kavu
+    Pow/Tgh: 3/3
+ Rules Text: When Kavu Climber comes into play, draw a card. 
+ Set/Rarity: Invasion common, Ninth Edition common 
+
+  Card Name: King Cheetah
+       Cost: 3G
+       Type: Creature  Cat
+    Pow/Tgh: 3/2
+ Rules Text: You may play King Cheetah any time you could play an 
+             instant. 
+ Set/Rarity: Visions common, Ninth Edition uncommon 
+
+  Card Name: Kird Ape
+       Cost: R
+       Type: Creature  Ape
+    Pow/Tgh: 1/1
+ Rules Text: Kird Ape gets +1/+2 as long as you control a Forest. 
+ Set/Rarity: Revised Edition common, Arabian Nights common, Beatdown 
+             Box Set common, Ninth Edition uncommon 
+
+  Card Name: Kraken's Eye
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever a player plays a blue spell, you may gain 
+             1 life. 
+ Set/Rarity: Darksteel uncommon, Ninth Edition uncommon 
+
+  Card Name: Lava Axe
+       Cost: 4R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Lava Axe deals 5 damage to target player. 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Portal 
+             common, Portal Second Age common, Starter 1999 common, 
+             Starter 2000 common, Urza's Legacy common, Beatdown 
+             Box Set common, Ninth Edition common 
+
+  Card Name: Leonin Skyhunter
+       Cost: WW
+       Type: Creature  Cat Knight
+    Pow/Tgh: 2/2
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+ Set/Rarity: Mirrodin uncommon, Ninth Edition uncommon 
+
+  Card Name: Levitation
+       Cost: 2UU
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Creatures you control have flying. (They can't be blocked 
+             except by creatures with flying.) 
+ Set/Rarity: Seventh Edition uncommon, Urza's Legacy uncommon, Ninth 
+             Edition uncommon 
+
+  Card Name: Ley Druid
+       Cost: 2G
+       Type: Creature  Human Druid
+    Pow/Tgh: 1/1
+ Rules Text: T: Untap target land. 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Revised Edition 
+             uncommon, Fourth Edition uncommon, Fifth Edition common, 
+             Ninth Edition uncommon 
+
+  Card Name: Lightning Elemental
+       Cost: 3R
+       Type: Creature  Elemental
+    Pow/Tgh: 4/1
+ Rules Text: Haste (This creature can attack the turn it comes under 
+             your control.) 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Tempest 
+             common, Battle Royale Box Set common, Ninth Edition 
+             common 
+
+  Card Name: Llanowar Behemoth
+       Cost: 3GG
+       Type: Creature  Elemental
+    Pow/Tgh: 4/4
+ Rules Text: Tap an untapped creature you control: Llanowar Behemoth 
+             gets +1/+1 until end of turn. 
+ Set/Rarity: Eighth Edition uncommon, Weatherlight uncommon, Ninth 
+             Edition uncommon 
+
+  Card Name: Llanowar Elves
+       Cost: G
+       Type: Creature  Elf Druid
+    Pow/Tgh: 1/1
+ Rules Text: T: Add G to your mana pool. 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Starter 
+             2000 common, Battle Royale Box Set common, Beatdown 
+             Box Set common, Ninth Edition common 
+
+  Card Name: Llanowar Wastes
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add B or G to your mana pool. Llanowar Wastes deals 
+             1 damage to you. 
+ Set/Rarity: Apocalypse rare, Ninth Edition rare 
+
+  Card Name: Looming Shade
+       Cost: 2B
+       Type: Creature  Shade
+    Pow/Tgh: 1/1
+ Rules Text: B: Looming Shade gets +1/+1 until end of turn. 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Urza's 
+             Saga common, Ninth Edition common 
+
+  Card Name: Lord of the Undead
+       Cost: 1BB
+       Type: Creature  Zombie Lord
+    Pow/Tgh: 2/2
+ Rules Text: Other Zombies get +1/+1. 
+             1B, T: Return target Zombie card from your graveyard 
+             to your hand. 
+ Set/Rarity: Eighth Edition rare, Planeshift rare, Ninth Edition 
+             rare 
+
+  Card Name: Loxodon Warhammer
+       Cost: 3
+       Type: Artifact  Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +3/+0, has trample, and has 
+             Whenever this creature deals damage, you gain that 
+             much life. 
+             Equip 3 (3: Attach to target creature you control. 
+             Equip only as a sorcery.) 
+ Set/Rarity: Mirrodin uncommon, Ninth Edition rare 
+
+  Card Name: Lumengrid Warden
+       Cost: 1U
+       Type: Creature  Human Wizard
+    Pow/Tgh: 1/3
+ Rules Text: 
+ Set/Rarity: Mirrodin common, Ninth Edition common 
+
+  Card Name: Magnivore
+       Cost: 2RR
+       Type: Creature  Lhurgoyf
+    Pow/Tgh: */*
+ Rules Text: Haste (This creature can attack the turn it comes under 
+             your control.) 
+             Magnivore's power and toughness are each equal to the 
+             number of sorcery cards in all graveyards. 
+ Set/Rarity: Odyssey rare, Ninth Edition rare 
+
+  Card Name: Mahamoti Djinn
+       Cost: 4UU
+       Type: Creature  Djinn
+    Pow/Tgh: 5/6
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Seventh Edition rare, Eighth Edition 
+             rare, Beatdown Box Set rare, Beatdown Box Set rare, 
+             Ninth Edition rare 
+
+  Card Name: Mana Clash
+       Cost: R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: You and target opponent each flip a coin. Mana Clash 
+             deals 1 damage to each player whose coin comes up tails. 
+             Repeat this process until both players' coins come 
+             up heads on the same flip. 
+ Set/Rarity: Fourth Edition rare, Fifth Edition rare, Seventh Edition 
+             rare, Eighth Edition rare, The Dark rare, Ninth Edition 
+             rare 
+
+  Card Name: Mana Leak
+       Cost: 1U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Counter target spell unless its controller pays 3. 
+ Set/Rarity: Eighth Edition common, Stronghold common, Battle Royale 
+             Box Set common, Ninth Edition common 
+
+  Card Name: Marble Titan
+       Cost: 3W
+       Type: Creature  Giant
+    Pow/Tgh: 3/3
+ Rules Text: Creatures with power 3 or greater don't untap during 
+             their controllers' untap steps. 
+ Set/Rarity: Tempest rare, Ninth Edition rare 
+
+  Card Name: Maro
+       Cost: 2GG
+       Type: Creature  Elemental
+    Pow/Tgh: */*
+ Rules Text: Maro's power and toughness are each equal to the number 
+             of cards in your hand. 
+ Set/Rarity: Classic Sixth Edition rare, Seventh Edition rare, Eighth 
+             Edition rare, Mirage rare, Ninth Edition rare 
+
+  Card Name: Master Decoy
+       Cost: 1W
+       Type: Creature  Human Soldier
+    Pow/Tgh: 1/2
+ Rules Text: W, T: Tap target creature. 
+ Set/Rarity: Eighth Edition common, Tempest common, Battle Royale 
+             Box Set common, Ninth Edition common 
+
+  Card Name: Master Healer
+       Cost: 4W
+       Type: Creature  Human Cleric
+    Pow/Tgh: 1/4
+ Rules Text: T: Prevent the next 4 damage that would be dealt to 
+             target creature or player this turn. 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Urza's Destiny 
+             rare, Ninth Edition rare 
+
+  Card Name: Megrim
+       Cost: 2B
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever an opponent discards a card, Megrim deals 
+             2 damage to that player. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Stronghold uncommon, Ninth Edition uncommon 
+
+  Card Name: Mending Hands
+       Cost: W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Prevent the next 4 damage that would be dealt to target 
+             creature or player this turn. 
+ Set/Rarity: Betrayers of Kamigawa common, Ninth Edition common 
+
+  Card Name: Might of Oaks
+       Cost: 3G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target creature gets +7/+7 until end of turn. 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Urza's Legacy 
+             rare, Ninth Edition rare 
+
+  Card Name: Millstone
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 2, T: Target player puts the top two cards of his or 
+             her library into his or her graveyard. 
+ Set/Rarity: Revised Edition rare, Fourth Edition rare, Fifth Edition 
+             rare, Classic Sixth Edition rare, Seventh Edition rare, 
+             Eighth Edition rare, Antiquities uncommon, Ninth Edition 
+             rare 
+
+  Card Name: Mind Bend
+       Cost: U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Change the text of target permanent by replacing all 
+             instances of one color word with another or one basic 
+             land type with another. (For example, you may change 
+             nonblack creature to nongreen creature or forestwalk 
+             to plainswalk. This effect doesn't end at end of 
+             turn.) 
+ Set/Rarity: Eighth Edition rare, Mirage uncommon, Ninth Edition 
+             rare 
+
+  Card Name: Mind Rot
+       Cost: 2B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player discards two cards. 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Portal 
+             common, Portal Second Age common, Starter 1999 common, 
+             Ninth Edition common 
+
+  Card Name: Mindslicer
+       Cost: 2BB
+       Type: Creature  Horror
+    Pow/Tgh: 4/3
+ Rules Text: When Mindslicer is put into a graveyard from play, 
+             each player discards his or her hand. 
+ Set/Rarity: Odyssey rare, Ninth Edition rare 
+
+  Card Name: Mogg Sentry
+       Cost: R
+       Type: Creature  Goblin Warrior
+    Pow/Tgh: 1/1
+ Rules Text: Whenever an opponent plays a spell, Mogg Sentry gets 
+             +2/+2 until end of turn. 
+ Set/Rarity: Eighth Edition rare, Planeshift rare, Ninth Edition 
+             rare 
+
+  Card Name: Mortivore
+       Cost: 2BB
+       Type: Creature  Lhurgoyf
+    Pow/Tgh: */*
+ Rules Text: Mortivore's power and toughness are each equal to the 
+             number of creature cards in all graveyards. 
+             B: Regenerate Mortivore. (The next time this creature 
+             would be destroyed this turn, it isn't. Instead tap 
+             it, remove all damage from it, and remove it from combat.) 
+ Set/Rarity: Odyssey rare, Ninth Edition rare 
+
+  Card Name: Mountain
+       Cost: 
+       Type: Basic Land  Mountain
+    Pow/Tgh: 
+ Rules Text: [R] 
+ Set/Rarity: Basic land 
+
+  Card Name: Nantuko Husk
+       Cost: 2B
+       Type: Creature  Zombie Insect
+    Pow/Tgh: 2/2
+ Rules Text: Sacrifice a creature: Nantuko Husk gets +2/+2 until 
+             end of turn. 
+ Set/Rarity: Onslaught common, Ninth Edition uncommon 
+
+  Card Name: Natural Affinity
+       Cost: 2G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Until end of turn, all lands become 2/2 creatures that 
+             are still lands. 
+ Set/Rarity: Eighth Edition rare, Mercadian Masques rare, Ninth 
+             Edition rare 
+
+  Card Name: Natural Spring
+       Cost: 3GG
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player gains 8 life. 
+ Set/Rarity: Portal uncommon, Portal Second Age common, Starter 
+             1999 uncommon, Tempest common, Ninth Edition common 
+
+  Card Name: Naturalize
+       Cost: 1G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy target artifact or enchantment. 
+ Set/Rarity: Eighth Edition common, Onslaught common, Ninth Edition 
+             common 
+
+  Card Name: Needle Storm
+       Cost: 2G
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Needle Storm deals 4 damage to each creature with flying. 
+ Set/Rarity: Portal uncommon, Tempest uncommon, Ninth Edition uncommon 
+
+  Card Name: Nekrataal
+       Cost: 2BB
+       Type: Creature  Human Assassin
+    Pow/Tgh: 2/1
+ Rules Text: First strike (This creature deals combat damage before 
+             creatures without first strike.) 
+             When Nekrataal comes into play, destroy target nonartifact, 
+             nonblack creature. That creature can't be regenerated. 
+ Set/Rarity: Eighth Edition uncommon, Visions uncommon, Battle Royale 
+             Box Set uncommon, Ninth Edition uncommon 
+
+  Card Name: Nightmare
+       Cost: 5B
+       Type: Creature  Nightmare
+    Pow/Tgh: */*
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             Nightmare's power and toughness are each equal to the 
+             number of Swamps you control. 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Fifth Edition rare, Classic Sixth Edition 
+             rare, Seventh Edition rare, Eighth Edition rare, Ninth 
+             Edition rare 
+
+  Card Name: Norwood Ranger
+       Cost: G
+       Type: Creature  Elf Scout
+    Pow/Tgh: 1/2
+ Rules Text: 
+ Set/Rarity: Eighth Edition common, Portal Second Age common, Starter 
+             1999 common, Ninth Edition common 
+
+  Card Name: Ogre Taskmaster
+       Cost: 3R
+       Type: Creature  Ogre
+    Pow/Tgh: 4/3
+ Rules Text: Ogre Taskmaster can't block. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Portal Second Age uncommon, Mercadian Masques uncommon, 
+             Ninth Edition uncommon 
+
+  Card Name: Oracle's Attendants
+       Cost: 3W
+       Type: Creature  Human Soldier
+    Pow/Tgh: 1/5
+ Rules Text: T: All damage that would be dealt to target creature 
+             this turn by a source of your choice is dealt to Oracle's 
+             Attendants instead. 
+ Set/Rarity: Eighth Edition rare, Nemesis rare, Ninth Edition rare 
+
+  Card Name: Orcish Artillery
+       Cost: 1RR
+       Type: Creature  Orc Warrior
+    Pow/Tgh: 1/3
+ Rules Text: T: Orcish Artillery deals 2 damage to target creature 
+             or player and 3 damage to you. 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Revised Edition 
+             uncommon, Fourth Edition uncommon, Fifth Edition uncommon, 
+             Classic Sixth Edition uncommon, Seventh Edition uncommon, 
+             Eighth Edition uncommon, Ninth Edition uncommon 
+
+  Card Name: Order of the Sacred Bell
+       Cost: 3G
+       Type: Creature  Human Monk
+    Pow/Tgh: 4/3
+ Rules Text: 
+ Set/Rarity: Champions of Kamigawa common, Ninth Edition common 
+
+  Card Name: Ornithopter
+       Cost: 0
+       Type: Artifact Creature  Thopter
+    Pow/Tgh: 0/2
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+ Set/Rarity: Revised Edition uncommon, Fourth Edition uncommon, 
+             Fifth Edition uncommon, Classic Sixth Edition uncommon, 
+             Antiquities common, Mirrodin uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Overgrowth
+       Cost: 2G
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant land (Target a land as you play this. This 
+             card comes into play attached to that land.) 
+             Whenever enchanted land is tapped for mana, its controller 
+             adds GG to his or her mana pool. 
+ Set/Rarity: Stronghold common, Ninth Edition common 
+
+  Card Name: Pacifism
+       Cost: 1W
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Enchanted creature can't attack or block. 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Eighth Edition common, Mirage common, Tempest common, 
+             Urza's Saga common, Onslaught common, Battle Royale 
+             Box Set common, Ninth Edition common 
+
+  Card Name: Paladin en-Vec
+       Cost: 1WW
+       Type: Creature  Human Knight
+    Pow/Tgh: 2/2
+ Rules Text: First strike (This creature deals combat damage before 
+             creatures without first strike.)  
+             Protection from black, protection from red (This creature 
+             can't be blocked, targeted, dealt damage, or enchanted 
+             by anything black or red.) 
+ Set/Rarity: Exodus rare, Ninth Edition rare 
+
+  Card Name: Panic Attack
+       Cost: 2R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Up to three target creatures can't block this turn. 
+ Set/Rarity: Eighth Edition common, Prophecy common, Ninth Edition 
+             common 
+
+  Card Name: Peace of Mind
+       Cost: 1W
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: W, Discard a card: You gain 3 life. 
+ Set/Rarity: Exodus uncommon, Ninth Edition uncommon 
+
+  Card Name: Pegasus Charger
+       Cost: 2W
+       Type: Creature  Pegasus
+    Pow/Tgh: 2/1
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             First strike (This creature deals combat damage before 
+             creatures without first strike.) 
+ Set/Rarity: Urza's Saga common, Ninth Edition common 
+
+  Card Name: Persecute
+       Cost: 2BB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Choose a color. Target player reveals his or her hand 
+             and discards all cards of that color. 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Urza's Saga 
+             rare, Ninth Edition rare 
+
+  Card Name: Phantom Warrior
+       Cost: 1UU
+       Type: Creature  Illusion
+    Pow/Tgh: 2/2
+ Rules Text: Phantom Warrior is unblockable. 
+ Set/Rarity: Classic Sixth Edition uncommon, Seventh Edition uncommon, 
+             Eighth Edition uncommon, Portal rare, Starter 1999 
+             rare, Weatherlight uncommon, Ninth Edition uncommon 
+
+  Card Name: Phyrexian Arena
+       Cost: 1BB
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: At the beginning of your upkeep, you draw a card and 
+             you lose 1 life. 
+ Set/Rarity: Eighth Edition rare, Apocalypse rare, Ninth Edition 
+             rare 
+
+  Card Name: Phyrexian Gargantua
+       Cost: 4BB
+       Type: Creature  Horror
+    Pow/Tgh: 4/4
+ Rules Text: When Phyrexian Gargantua comes into play, you draw 
+             two cards and you lose 2 life. 
+ Set/Rarity: Apocalypse uncommon, Ninth Edition uncommon 
+
+  Card Name: Phyrexian Hulk
+       Cost: 6
+       Type: Artifact Creature  Golem
+    Pow/Tgh: 5/4
+ Rules Text: 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Tempest uncommon, Ninth Edition uncommon 
+
+  Card Name: Plagiarize
+       Cost: 3U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Until end of turn, if target player would draw a card, 
+             instead that player skips that draw and you draw a 
+             card. 
+ Set/Rarity: Torment rare, Ninth Edition rare 
+
+  Card Name: Plague Beetle
+       Cost: B
+       Type: Creature  Insect
+    Pow/Tgh: 1/1
+ Rules Text: Swampwalk (This creature is unblockable as long as 
+             defending player controls a Swamp.) 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Urza's 
+             Legacy common, Ninth Edition common 
+
+  Card Name: Plague Wind
+       Cost: 7BB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy all creatures you don't control. They can't 
+             be regenerated. 
+ Set/Rarity: Eighth Edition rare, Prophecy rare, Ninth Edition rare 
+
+  Card Name: Plains
+       Cost: 
+       Type: Basic Land  Plains
+    Pow/Tgh: 
+ Rules Text: [W] 
+ Set/Rarity: Basic land 
+
+  Card Name: Polymorph
+       Cost: 3U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy target creature. It can't be regenerated. Its 
+             controller reveals cards from the top of his or her 
+             library until he or she reveals a creature card. The 
+             player puts that card into play and shuffles all other 
+             cards revealed this way into his or her library. 
+ Set/Rarity: Classic Sixth Edition rare, Mirage rare, Ninth Edition 
+             rare 
+
+  Card Name: Puppeteer
+       Cost: 2U
+       Type: Creature  Human Wizard
+    Pow/Tgh: 1/2
+ Rules Text: U, T: Tap or untap target creature. 
+ Set/Rarity: Eighth Edition uncommon, Odyssey uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Pyroclasm
+       Cost: 1R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Pyroclasm deals 2 damage to each creature. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Portal rare, Ice Age uncommon, Ninth Edition uncommon 
+
+  Card Name: Quicksand
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T, Sacrifice Quicksand: Target attacking creature without 
+             flying gets -1/-2 until end of turn. 
+ Set/Rarity: Visions uncommon, Ninth Edition uncommon 
+
+  Card Name: Raging Goblin
+       Cost: R
+       Type: Creature  Goblin Berserker
+    Pow/Tgh: 1/1
+ Rules Text: Haste (This creature can attack the turn it comes under 
+             your control.) 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Eighth Edition common, Portal common, Portal common, 
+             Portal Second Age common, Starter 1999 common, Exodus 
+             common, Battle Royale Box Set common, Beatdown Box 
+             Set common, Ninth Edition common 
+
+  Card Name: Raise Dead
+       Cost: B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Return target creature card from your graveyard to 
+             your hand. 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Portal common, Portal Second Age common, 
+             Starter 1999 common, Ninth Edition common 
+
+  Card Name: Rampant Growth
+       Cost: 1G
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Search your library for a basic land card and put that 
+             card into play tapped. Then shuffle your library. 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Eighth Edition common, Mirage common, Tempest common, 
+             Beatdown Box Set common, Ninth Edition common 
+
+  Card Name: Rathi Dragon
+       Cost: 2RR
+       Type: Creature  Dragon
+    Pow/Tgh: 5/5
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             When Rathi Dragon comes into play, sacrifice it unless 
+             you sacrifice two Mountains. 
+ Set/Rarity: Tempest rare, Ninth Edition rare 
+
+  Card Name: Ravenous Rats
+       Cost: 1B
+       Type: Creature  Rat
+    Pow/Tgh: 1/1
+ Rules Text: When Ravenous Rats comes into play, target opponent 
+             discards a card. 
+ Set/Rarity: Eighth Edition common, Portal Second Age common, Starter 
+             1999 uncommon, Urza's Destiny common, Invasion common, 
+             Ninth Edition common 
+
+  Card Name: Razortooth Rats
+       Cost: 2B
+       Type: Creature  Rat
+    Pow/Tgh: 2/1
+ Rules Text: Fear (This creature can't be blocked except by artifact 
+             creatures and/or black creatures.) 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Weatherlight common, Ninth Edition common 
+
+  Card Name: Reclaim
+       Cost: G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Put target card from your graveyard on top of your 
+             library. 
+ Set/Rarity: Seventh Edition common, Exodus common, Ninth Edition 
+             common 
+
+  Card Name: Reflexes
+       Cost: R
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Enchanted creature has first strike. (It deals combat 
+             damage before creatures without first strike.) 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Urza's 
+             Saga common, Ninth Edition common 
+
+  Card Name: Regeneration
+       Cost: 1G
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             G: Regenerate enchanted creature. (The next time that 
+             creature would be destroyed this turn, it isn't. Instead 
+             tap it, remove all damage from it, and remove it from 
+             combat.) 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Ice Age common, Mirage common, Ninth 
+             Edition uncommon 
+
+  Card Name: Relentless Assault
+       Cost: 2RR
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Untap all creatures that attacked this turn. After 
+             this main phase, there is an additional combat phase 
+             followed by an additional main phase. 
+ Set/Rarity: Classic Sixth Edition rare, Seventh Edition rare, Eighth 
+             Edition rare, Portal Second Age rare, Portal Three 
+             Kingdoms rare, Starter 1999 rare, Visions rare, Ninth 
+             Edition rare 
+
+  Card Name: Reminisce
+       Cost: 2U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player shuffles his or her graveyard into his 
+             or her library. 
+ Set/Rarity: Onslaught uncommon, Ninth Edition uncommon 
+
+  Card Name: Remove Soul
+       Cost: 1U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Counter target creature spell. 
+ Set/Rarity: Fifth Edition common, Classic Sixth Edition common, 
+             Seventh Edition common, Eighth Edition common, Starter 
+             1999 common, Chronicles common, Legends common, Ninth 
+             Edition common 
+
+  Card Name: Reverse Damage
+       Cost: 1WW
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: The next time a source of your choice would deal damage 
+             to you this turn, prevent that damage. You gain that 
+             much life. 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Fifth Edition rare, Classic Sixth Edition 
+             rare, Seventh Edition rare, Ninth Edition rare 
+
+  Card Name: Rewind
+       Cost: 2UU
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Counter target spell, then untap up to four lands. 
+ Set/Rarity: Eighth Edition uncommon, Urza's Saga common, Ninth 
+             Edition uncommon 
+
+  Card Name: Righteousness
+       Cost: W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target blocking creature gets +7/+7 until end of turn. 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Fifth Edition rare, Ninth Edition rare 
+
+  Card Name: River Bear
+       Cost: 3G
+       Type: Creature  Bear
+    Pow/Tgh: 3/3
+ Rules Text: Islandwalk (This creature is unblockable as long as 
+             defending player controls an Island.) 
+ Set/Rarity: Portal Second Age uncommon, Ninth Edition uncommon 
+
+  Card Name: Rod of Ruin
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 3, T: Rod of Ruin deals 1 damage to target creature 
+             or player. 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Revised Edition 
+             uncommon, Fourth Edition uncommon, Fifth Edition uncommon, 
+             Classic Sixth Edition uncommon, Seventh Edition uncommon, 
+             Eighth Edition uncommon, Starter 2000 uncommon, Ninth 
+             Edition uncommon 
+
+  Card Name: Rogue Kavu
+       Cost: 1R
+       Type: Creature  Kavu
+    Pow/Tgh: 1/1
+ Rules Text: Whenever Rogue Kavu attacks alone, it gets +2/+0 until 
+             end of turn. 
+ Set/Rarity: Invasion common, Ninth Edition common 
+
+  Card Name: Rootbreaker Wurm
+       Cost: 5GG
+       Type: Creature  Wurm
+    Pow/Tgh: 6/6
+ Rules Text: Trample (If this creature would deal enough combat 
+             damage to its blockers to destroy them, you may have 
+             it deal the rest of its damage to defending player.) 
+ Set/Rarity: Tempest common, Ninth Edition uncommon 
+
+  Card Name: Rootwalla
+       Cost: 2G
+       Type: Creature  Lizard
+    Pow/Tgh: 2/2
+ Rules Text: 1G: Rootwalla gets +2/+2 until end of turn. Play this 
+             ability only once each turn. 
+ Set/Rarity: Tempest common, Ninth Edition common 
+
+  Card Name: Royal Assassin
+       Cost: 1BB
+       Type: Creature  Human Assassin
+    Pow/Tgh: 1/1
+ Rules Text: T: Destroy target tapped creature. 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Eighth Edition rare, Ninth Edition rare 
+
+  Card Name: Rukh Egg
+       Cost: 3R
+       Type: Creature  Egg
+    Pow/Tgh: 0/3
+ Rules Text: When Rukh Egg is put into a graveyard from play, put 
+             a 4/4 red Bird creature token with flying into play 
+             at end of turn. 
+ Set/Rarity: Eighth Edition rare, Magic Miscellaneous rare, Arabian 
+             Nights common, Arabian Nights common, Ninth Edition 
+             rare 
+
+  Card Name: Sacred Ground
+       Cost: 1W
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever a spell or ability an opponent controls causes 
+             a land to be put into your graveyard from play, return 
+             that land to play. 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Stronghold 
+             rare, Ninth Edition rare 
+
+  Card Name: Sacred Nectar
+       Cost: 1W
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: You gain 4 life. 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Portal 
+             common, Starter 1999 common, Ninth Edition common 
+
+  Card Name: Sage Aven
+       Cost: 3U
+       Type: Creature  Bird Wizard
+    Pow/Tgh: 1/3
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             When Sage Aven comes into play, look at the top four 
+             cards of your library, then put them back in any order. 
+ Set/Rarity: Onslaught common, Ninth Edition common 
+
+  Card Name: Samite Healer
+       Cost: 1W
+       Type: Creature  Human Cleric
+    Pow/Tgh: 1/1
+ Rules Text: T: Prevent the next 1 damage that would be dealt to 
+             target creature or player this turn. 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Starter 2000 common, Ninth Edition 
+             common 
+
+  Card Name: Sanctum Guardian
+       Cost: 1WW
+       Type: Creature  Human Cleric
+    Pow/Tgh: 1/4
+ Rules Text: Sacrifice Sanctum Guardian: The next time a source 
+             of your choice would deal damage to target creature 
+             or player this turn, prevent that damage. 
+ Set/Rarity: Urza's Saga uncommon, Battle Royale Box Set uncommon, 
+             Ninth Edition uncommon 
+
+  Card Name: Sandstone Warrior
+       Cost: 2RR
+       Type: Creature  Human Soldier
+    Pow/Tgh: 1/3
+ Rules Text: First strike (This creature deals combat damage before 
+             creatures without first strike.) 
+             R: Sandstone Warrior gets +1/+0 until end of turn. 
+ Set/Rarity: Tempest common, Ninth Edition common 
+
+  Card Name: Savannah Lions
+       Cost: W
+       Type: Creature  Cat
+    Pow/Tgh: 2/1
+ Rules Text: 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Eighth Edition rare, Ninth Edition rare 
+
+  Card Name: Scaled Wurm
+       Cost: 7G
+       Type: Creature  Wurm
+    Pow/Tgh: 7/6
+ Rules Text: 
+ Set/Rarity: Fifth Edition common, Classic Sixth Edition common, 
+             Ice Age common, Battle Royale Box Set common, Beatdown 
+             Box Set common, Ninth Edition common 
+
+  Card Name: Scathe Zombies
+       Cost: 2B
+       Type: Creature  Zombie
+    Pow/Tgh: 2/2
+ Rules Text: 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Starter 1999 , Starter 2000 common, 
+             Ninth Edition common 
+
+  Card Name: Sea Monster
+       Cost: 4UU
+       Type: Creature  Serpent
+    Pow/Tgh: 6/6
+ Rules Text: Sea Monster can't attack unless defending player controls 
+             an Island. 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Eighth Edition common, Tempest common, Ninth Edition 
+             common 
+
+  Card Name: Sea's Claim
+       Cost: U
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant land (Target a land as you play this. This 
+             card comes into play attached to that land.) 
+             Enchanted land is an Island. 
+ Set/Rarity: Onslaught common, Ninth Edition common 
+
+  Card Name: Seasoned Marshal
+       Cost: 2WW
+       Type: Creature  Human Soldier
+    Pow/Tgh: 2/2
+ Rules Text: Whenever Seasoned Marshal attacks, you may tap target 
+             creature. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Portal uncommon, Urza's Saga uncommon, Battle Royale 
+             Box Set uncommon, Ninth Edition uncommon 
+
+  Card Name: Seedborn Muse
+       Cost: 3GG
+       Type: Creature  Spirit
+    Pow/Tgh: 2/4
+ Rules Text: Untap all permanents you control during each other 
+             player's untap step. 
+ Set/Rarity: Legions rare, Ninth Edition rare 
+
+  Card Name: Seething Song
+       Cost: 2R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Add RRRRR to your mana pool. 
+ Set/Rarity: Mirrodin common, Ninth Edition common 
+
+  Card Name: Sengir Vampire
+       Cost: 3BB
+       Type: Creature  Vampire
+    Pow/Tgh: 4/4
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             Whenever a creature dealt damage by Sengir Vampire 
+             this turn is put into a graveyard, put a +1/+1 counter 
+             on Sengir Vampire. 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Revised Edition 
+             uncommon, Fourth Edition uncommon, Torment rare, Battle 
+             Royale Box Set uncommon, Beatdown Box Set uncommon, 
+             Ninth Edition rare 
+
+  Card Name: Serpent Warrior
+       Cost: 2B
+       Type: Creature  Snake Warrior
+    Pow/Tgh: 3/3
+ Rules Text: When Serpent Warrior comes into play, you lose 3 life. 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Portal 
+             common, Starter 1999 common, Stronghold common, Ninth 
+             Edition common 
+
+  Card Name: Serra Angel
+       Cost: 3WW
+       Type: Creature  Angel
+    Pow/Tgh: 4/4
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             Vigilance (Attacking doesn't cause this creature to 
+             tap.) 
+ Set/Rarity: Limited Edition Alpha uncommon, Limited Edition Beta 
+             uncommon, Unlimited Edition uncommon, Revised Edition 
+             uncommon, Fourth Edition uncommon, Seventh Edition 
+             rare, Eighth Edition rare, Ninth Edition rare 
+
+  Card Name: Serra's Blessing
+       Cost: 1W
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Creatures you control have vigilance. (Attacking doesn't 
+             cause them to tap.) 
+ Set/Rarity: Classic Sixth Edition uncommon, Weatherlight uncommon, 
+             Ninth Edition uncommon 
+
+  Card Name: Shard Phoenix
+       Cost: 4R
+       Type: Creature  Phoenix
+    Pow/Tgh: 2/2
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             Sacrifice Shard Phoenix: Shard Phoenix deals 2 damage 
+             to each creature without flying. 
+             RRR: Return Shard Phoenix from your graveyard to your 
+             hand. Play this ability only during your upkeep. 
+ Set/Rarity: Stronghold rare, Ninth Edition rare 
+
+  Card Name: Shatter
+       Cost: 1R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy target artifact. 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Ice Age common, Tempest common, Mirrodin 
+             common, Ninth Edition common 
+
+  Card Name: Shivan Dragon
+       Cost: 4RR
+       Type: Creature  Dragon
+    Pow/Tgh: 5/5
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             R: Shivan Dragon gets +1/+0 until end of turn. 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Fifth Edition rare, Seventh Edition rare, 
+             Eighth Edition rare, Beatdown Box Set rare, Ninth Edition 
+             rare 
+
+  Card Name: Shivan Reef
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add U or R to your mana pool. Shivan Reef deals 
+             1 damage to you. 
+ Set/Rarity: Apocalypse rare, Ninth Edition rare 
+
+  Card Name: Shock
+       Cost: R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Shock deals 2 damage to target creature or player. 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Eighth Edition common, Starter 2000 common, Stronghold 
+             common, Onslaught common, Beatdown Box Set common, 
+             Ninth Edition common 
+
+  Card Name: Sift
+       Cost: 3U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Draw three cards, then discard a card. 
+ Set/Rarity: Stronghold common, Ninth Edition common 
+
+  Card Name: Silklash Spider
+       Cost: 3GG
+       Type: Creature  Spider
+    Pow/Tgh: 2/7
+ Rules Text: Silklash Spider can block as though it had flying. 
+             XGG: Silklash Spider deals X damage to each creature 
+             with flying. 
+ Set/Rarity: Onslaught rare, Ninth Edition rare 
+
+  Card Name: Skyhunter Prowler
+       Cost: 2W
+       Type: Creature  Cat Knight
+    Pow/Tgh: 1/3
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.)  
+             Vigilance (Attacking doesn't cause this creature to 
+             tap.) 
+ Set/Rarity: Fifth Dawn common, Ninth Edition common 
+
+  Card Name: Slate of Ancestry
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 4, T, Discard your hand: Draw a card for each creature 
+             you control. 
+ Set/Rarity: Onslaught rare, Ninth Edition rare 
+
+  Card Name: Slay
+       Cost: 2B
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy target green creature. It can't be regenerated. 
+             Draw a card. 
+ Set/Rarity: Eighth Edition uncommon, Planeshift uncommon, Ninth 
+             Edition uncommon 
+
+  Card Name: Sleight of Hand
+       Cost: U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Look at the top two cards of your library. Put one 
+             of them into your hand and the other on the bottom 
+             of your library. 
+ Set/Rarity: Seventh Edition common, Portal Second Age common, Starter 
+             1999 common, Ninth Edition common 
+
+  Card Name: Soul Feast
+       Cost: 3BB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player loses 4 life and you gain 4 life. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Starter 1999 uncommon, Urza's Destiny uncommon, Ninth 
+             Edition uncommon 
+
+  Card Name: Soul Warden
+       Cost: W
+       Type: Creature  Human Cleric
+    Pow/Tgh: 1/1
+ Rules Text: Whenever another creature comes into play, you gain 
+             1 life. 
+ Set/Rarity: Exodus common, Battle Royale Box Set common, Ninth 
+             Edition uncommon 
+
+  Card Name: Spellbook
+       Cost: 0
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: You have no maximum hand size. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Exodus uncommon, Ninth Edition uncommon 
+
+  Card Name: Spined Wurm
+       Cost: 4G
+       Type: Creature  Wurm
+    Pow/Tgh: 5/4
+ Rules Text: 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Portal 
+             common, Starter 2000 common, Stronghold common, Ninth 
+             Edition common 
+
+  Card Name: Spineless Thug
+       Cost: 1B
+       Type: Creature  Zombie Mercenary
+    Pow/Tgh: 2/2
+ Rules Text: Spineless Thug can't block. 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Nemesis 
+             common, Ninth Edition common 
+
+  Card Name: Spirit Link
+       Cost: W
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Whenever enchanted creature deals damage, you gain 
+             that much life. 
+ Set/Rarity: Fourth Edition uncommon, Fifth Edition uncommon, Classic 
+             Sixth Edition uncommon, Seventh Edition uncommon, Eighth 
+             Edition uncommon, Legends uncommon, Ninth Edition uncommon 
+
+  Card Name: Stone Rain
+       Cost: 2R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy target land. 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition common, Portal common, Portal Second Age common, 
+             Portal Three Kingdoms common, Starter 1999 common, 
+             Starter 2000 common, Ice Age common, Mirage common, 
+             Tempest common, Mercadian Masques common, Champions 
+             of Kamigawa common, Ninth Edition common 
+
+  Card Name: Storage Matrix
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: As long as Storage Matrix is untapped, each player 
+             chooses artifact, creature, or land during his or her 
+             untap step. That player can untap only permanents of 
+             the chosen type this step. 
+ Set/Rarity: Urza's Destiny rare, Ninth Edition rare 
+
+  Card Name: Storm Crow
+       Cost: 1U
+       Type: Creature  Bird
+    Pow/Tgh: 1/2
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Eighth Edition common, Portal common, Starter 1999 
+             common, Alliances common, Alliances common, Ninth Edition 
+             common 
+
+  Card Name: Story Circle
+       Cost: 1WW
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: As Story Circle comes into play, choose a color. 
+             W: The next time a source of your choice of the chosen 
+             color would deal damage to you this turn, prevent that 
+             damage. 
+ Set/Rarity: Eighth Edition rare, Mercadian Masques uncommon, Ninth 
+             Edition rare 
+
+  Card Name: Stream of Life
+       Cost: XG
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player gains X life. 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Classic 
+             Sixth Edition common, Seventh Edition common, Eighth 
+             Edition uncommon, Ninth Edition uncommon 
+
+  Card Name: Sudden Impact
+       Cost: 3R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Sudden Impact deals damage equal to the number of cards 
+             in target player's hand to that player. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Tempest uncommon, Ninth Edition uncommon 
+
+  Card Name: Sulfurous Springs
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add B or R to your mana pool. Sulfurous Springs 
+             deals 1 damage to you. 
+ Set/Rarity: Fifth Edition rare, Classic Sixth Edition rare, Seventh 
+             Edition rare, Ice Age rare, Ninth Edition rare 
+
+  Card Name: Summer Bloom
+       Cost: 1G
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: You may play up to three additional lands this turn. 
+ Set/Rarity: Classic Sixth Edition uncommon, Portal rare, Starter 
+             1999 rare, Visions uncommon, Ninth Edition uncommon 
+
+  Card Name: Suntail Hawk
+       Cost: W
+       Type: Creature  Bird
+    Pow/Tgh: 1/1
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+ Set/Rarity: Eighth Edition common, Judgment common, Ninth Edition 
+             common 
+
+  Card Name: Swamp
+       Cost: 
+       Type: Basic Land  Swamp
+    Pow/Tgh: 
+ Rules Text: [B] 
+ Set/Rarity: Basic land 
+
+  Card Name: Swarm of Rats
+       Cost: 1B
+       Type: Creature  Rat
+    Pow/Tgh: */1
+ Rules Text: Swarm of Rats's power is equal to the number of Rats 
+             you control. 
+ Set/Rarity: Eighth Edition uncommon, Portal Second Age common, 
+             Ninth Edition uncommon 
+
+  Card Name: Tanglebloom
+       Cost: 1
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 1, T: You gain 1 life. 
+ Set/Rarity: Mirrodin common, Ninth Edition uncommon 
+
+  Card Name: Teferi's Puzzle Box
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: At the beginning of each player's draw step, that player 
+             puts the cards in his or her hand on the bottom of 
+             his or her library in any order, then draws that many 
+             cards. 
+ Set/Rarity: Classic Sixth Edition rare, Seventh Edition rare, Eighth 
+             Edition rare, Visions rare, Ninth Edition rare 
+
+  Card Name: Telepathy
+       Cost: U
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Your opponents play with their hands revealed. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Urza's Saga uncommon, Ninth Edition uncommon 
+
+  Card Name: Tempest of Light
+       Cost: 2W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy all enchantments. 
+ Set/Rarity: Mirrodin uncommon, Ninth Edition uncommon 
+
+  Card Name: Temporal Adept
+       Cost: 1UU
+       Type: Creature  Human Wizard
+    Pow/Tgh: 1/1
+ Rules Text: UUU, T: Return target permanent to its owner's hand. 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Urza's Destiny 
+             rare, Ninth Edition rare 
+
+  Card Name: Thieving Magpie
+       Cost: 2UU
+       Type: Creature  Bird
+    Pow/Tgh: 1/3
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             Whenever Thieving Magpie deals damage to an opponent, 
+             you draw a card. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Urza's Destiny uncommon, Ninth Edition uncommon 
+
+  Card Name: Thought Courier
+       Cost: 1U
+       Type: Creature  Human Wizard
+    Pow/Tgh: 1/1
+ Rules Text: T: Draw a card, then discard a card. 
+ Set/Rarity: Fifth Dawn common, Ninth Edition uncommon 
+
+  Card Name: Thran Golem
+       Cost: 5
+       Type: Artifact Creature  Golem
+    Pow/Tgh: 3/3
+ Rules Text: As long as Thran Golem is enchanted, it gets +2/+2 
+             and has flying, first strike, and trample. 
+ Set/Rarity: Urza's Destiny rare, Ninth Edition rare 
+
+  Card Name: Threaten
+       Cost: 2R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Untap target creature and gain control of it until 
+             end of turn. That creature gains haste until end of 
+             turn. (It can attack this turn.) 
+ Set/Rarity: Onslaught uncommon, Ninth Edition uncommon 
+
+  Card Name: Thundermare
+       Cost: 5R
+       Type: Creature  Thundermare
+    Pow/Tgh: 5/5
+ Rules Text: Haste (This creature can attack the turn it comes under 
+             your control.) 
+             When Thundermare comes into play, tap all other creatures. 
+ Set/Rarity: Portal rare, Weatherlight rare, Ninth Edition rare 
+
+  Card Name: Tidal Kraken
+       Cost: 5UUU
+       Type: Creature  Kraken
+    Pow/Tgh: 6/6
+ Rules Text: Tidal Kraken is unblockable. 
+ Set/Rarity: Eighth Edition rare, Mercadian Masques rare, Ninth 
+             Edition rare 
+
+  Card Name: Tidings
+       Cost: 3UU
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Draw four cards. 
+ Set/Rarity: Starter 1999 uncommon, Ninth Edition uncommon 
+
+  Card Name: Time Ebb
+       Cost: 2U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Put target creature on top of its owner's library. 
+ Set/Rarity: Portal common, Portal Second Age common, Starter 1999 
+             common, Starter 2000 common, Tempest common, Ninth 
+             Edition common 
+
+  Card Name: Trade Routes
+       Cost: 1U
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: 1: Return target land you control to its owner's hand. 
+             1, Discard a land card: Draw a card. 
+ Set/Rarity: Eighth Edition rare, Mercadian Masques rare, Ninth 
+             Edition rare 
+
+  Card Name: Trained Armodon
+       Cost: 1GG
+       Type: Creature  Elephant
+    Pow/Tgh: 3/3
+ Rules Text: 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Eighth Edition common, Tempest common, Ninth Edition 
+             common 
+
+  Card Name: Traumatize
+       Cost: 3UU
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player puts the top half of his or her library, 
+             rounded down, into his or her graveyard. 
+ Set/Rarity: Odyssey rare, Ninth Edition rare 
+
+  Card Name: Treasure Trove
+       Cost: 2UU
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: 2UU: Draw a card. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Exodus uncommon, Ninth Edition uncommon 
+
+  Card Name: Tree Monkey
+       Cost: G
+       Type: Creature  Ape
+    Pow/Tgh: 1/1
+ Rules Text: Tree Monkey can block as though it had flying. 
+ Set/Rarity: Portal Second Age common, Ninth Edition common 
+
+  Card Name: Treetop Bracers
+       Cost: 1G
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Enchanted creature gets +1/+1 and can't be blocked 
+             except by creatures with flying. 
+ Set/Rarity: Nemesis common, Ninth Edition common 
+
+  Card Name: Underground River
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add U or B to your mana pool. Underground River 
+             deals 1 damage to you. 
+ Set/Rarity: Fifth Edition rare, Classic Sixth Edition rare, Seventh 
+             Edition rare, Ice Age rare, Ninth Edition rare 
+
+  Card Name: Underworld Dreams
+       Cost: BBB
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever an opponent draws a card, Underworld Dreams 
+             deals 1 damage to him or her. 
+ Set/Rarity: Eighth Edition rare, Legends uncommon, Ninth Edition 
+             rare 
+
+  Card Name: Unholy Strength
+       Cost: B
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Enchanted creature gets +2/+1. 
+ Set/Rarity: Limited Edition Alpha common, Limited Edition Beta 
+             common, Unlimited Edition common, Revised Edition common, 
+             Fourth Edition common, Fifth Edition common, Seventh 
+             Edition common, Eighth Edition common, Ninth Edition 
+             common 
+
+  Card Name: Ur-Golem's Eye
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: T: Add 2 to your mana pool. 
+ Set/Rarity: Darksteel common, Ninth Edition uncommon 
+
+  Card Name: Urza's Mine
+       Cost: 
+       Type: Land  Urza's Mine
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. If you control an Urza's 
+             Power-Plant and an Urza's Tower, add 2 to your mana 
+             pool instead. 
+ Set/Rarity: Fifth Edition common, Eighth Edition uncommon, Chronicles 
+             uncommon, Chronicles uncommon, Chronicles uncommon, 
+             Chronicles uncommon, Antiquities common, Antiquities 
+             uncommon, Antiquities common, Antiquities uncommon, 
+             Ninth Edition uncommon 
+
+  Card Name: Urza's Power Plant
+       Cost: 
+       Type: Land  Urza's Power-Plant
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. If you control an Urza's 
+             Mine and an Urza's Tower, add 2 to your mana pool instead. 
+ Set/Rarity: Fifth Edition common, Eighth Edition uncommon, Chronicles 
+             uncommon, Chronicles uncommon, Chronicles uncommon, 
+             Chronicles uncommon, Antiquities uncommon, Antiquities 
+             common, Antiquities common, Antiquities uncommon, Ninth 
+             Edition uncommon 
+
+  Card Name: Urza's Tower
+       Cost: 
+       Type: Land  Urza's Tower
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. If you control an Urza's 
+             Mine and an Urza's Power-Plant, add 3 to your mana 
+             pool instead. 
+ Set/Rarity: Fifth Edition common, Eighth Edition uncommon, Chronicles 
+             uncommon, Chronicles uncommon, Chronicles uncommon, 
+             Chronicles uncommon, Antiquities uncommon, Antiquities 
+             uncommon, Antiquities common, Antiquities uncommon, 
+             Ninth Edition uncommon 
+
+  Card Name: Utopia Tree
+       Cost: 1G
+       Type: Creature  Plant
+    Pow/Tgh: 0/2
+ Rules Text: T: Add one mana of any color to your mana pool. 
+ Set/Rarity: Invasion rare, Ninth Edition rare 
+
+  Card Name: Venerable Monk
+       Cost: 2W
+       Type: Creature  Human Monk Cleric
+    Pow/Tgh: 2/2
+ Rules Text: When Venerable Monk comes into play, you gain 2 life. 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Eighth Edition common, Portal uncommon, Starter 1999 
+             common, Starter 2000 common, Stronghold common, Ninth 
+             Edition common 
+
+  Card Name: Vengeance
+       Cost: 3W
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy target tapped creature. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Portal uncommon, Portal Second Age uncommon, Portal 
+             Three Kingdoms uncommon, Starter 1999 uncommon, Ninth 
+             Edition uncommon 
+
+  Card Name: Verdant Force
+       Cost: 5GGG
+       Type: Creature  Elemental
+    Pow/Tgh: 7/7
+ Rules Text: At the beginning of each player's upkeep, put a 1/1 
+             green Saproling creature token into play under your 
+             control. 
+ Set/Rarity: Tempest rare, Ninth Edition rare 
+
+  Card Name: Verduran Enchantress
+       Cost: 1GG
+       Type: Creature  Human Druid
+    Pow/Tgh: 0/2
+ Rules Text: Whenever you play an enchantment spell, you may draw 
+             a card. 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Fifth Edition rare, Classic Sixth Edition 
+             rare, Seventh Edition rare, Eighth Edition rare, Ninth 
+             Edition rare 
+
+  Card Name: Veteran Cavalier
+       Cost: WW
+       Type: Creature  Human Knight
+    Pow/Tgh: 2/2
+ Rules Text: Vigilance (Attacking doesn't cause this creature to 
+             tap.) 
+ Set/Rarity: Starter 1999 uncommon, Ninth Edition common 
+
+  Card Name: Viashino Sandstalker
+       Cost: 1RR
+       Type: Creature  Viashino Warrior
+    Pow/Tgh: 4/2
+ Rules Text: Haste (This creature can attack the turn it comes under 
+             your control.) 
+             At end of turn, return Viashino Sandstalker to its 
+             owner's hand. (Return it only if it's in play.) 
+ Set/Rarity: Eighth Edition uncommon, Visions uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Viridian Shaman
+       Cost: 2G
+       Type: Creature  Elf Shaman
+    Pow/Tgh: 2/2
+ Rules Text: When Viridian Shaman comes into play, destroy target 
+             artifact. 
+ Set/Rarity: Mirrodin uncommon, Ninth Edition uncommon 
+
+  Card Name: Vizzerdrix
+       Cost: 6U
+       Type: Creature  Beast
+    Pow/Tgh: 6/6
+ Rules Text: 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Starter 
+             1999 rare, Starter 2000 rare, Ninth Edition rare 
+
+  Card Name: Volcanic Hammer
+       Cost: 1R
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Volcanic Hammer deals 3 damage to target creature or 
+             player. 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Portal 
+             common, Portal Second Age common, Starter 1999 common, 
+             Magic Miscellaneous common, Magic Miscellaneous common, 
+             Ninth Edition common 
+
+  Card Name: Vulshok Morningstar
+       Cost: 2
+       Type: Artifact  Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +2/+2. 
+             Equip 2 (2: Attach to target creature you control. 
+             Equip only as a sorcery.) 
+ Set/Rarity: Darksteel common, Ninth Edition uncommon 
+
+  Card Name: Wanderguard Sentry
+       Cost: 4U
+       Type: Creature  Drone
+    Pow/Tgh: 3/3
+ Rules Text: When Wanderguard Sentry comes into play, look at target 
+             opponent's hand. 
+ Set/Rarity: Mirrodin common, Ninth Edition common 
+
+  Card Name: Warrior's Honor
+       Cost: 2W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Creatures you control get +1/+1 until end of turn. 
+ Set/Rarity: Classic Sixth Edition common, Visions common, Ninth 
+             Edition common 
+
+  Card Name: Weathered Wayfarer
+       Cost: W
+       Type: Creature  Human Nomad Cleric
+    Pow/Tgh: 1/1
+ Rules Text: W, T: Search your library for a land card, reveal it, 
+             and put it into your hand. Then shuffle your library. 
+             Play this ability only if an opponent controls more 
+             lands than you. 
+ Set/Rarity: Onslaught rare, Ninth Edition rare 
+
+  Card Name: Web
+       Cost: G
+       Type: Enchantment  Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature (Target a creature as you play this. 
+             This card comes into play attached to that creature.) 
+             Enchanted creature gets +0/+2 and can block as though 
+             it had flying. 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Ninth Edition uncommon 
+
+  Card Name: Weird Harvest
+       Cost: XGG
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Each player may search his or her library for up to 
+             X creature cards, reveal those cards, and put them 
+             into his or her hand. Then each player who searched 
+             his or her library this way shuffles it. 
+ Set/Rarity: Onslaught rare, Ninth Edition rare 
+
+  Card Name: Whip Sergeant
+       Cost: 2R
+       Type: Creature  Human Soldier
+    Pow/Tgh: 2/1
+ Rules Text: R: Target creature gains haste until end of turn. (It 
+             can attack this turn.) 
+ Set/Rarity: Prophecy uncommon, Ninth Edition uncommon 
+
+  Card Name: Wildfire
+       Cost: 4RR
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Each player sacrifices four lands. Wildfire deals 4 
+             damage to each creature. 
+ Set/Rarity: Seventh Edition rare, Portal Second Age rare, Urza's 
+             Saga rare, Ninth Edition rare 
+
+  Card Name: Will-o'-the-Wisp
+       Cost: B
+       Type: Creature  Spirit
+    Pow/Tgh: 0/1
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             B: Regenerate Will-o'-the-Wisp. (The next time this 
+             creature would be destroyed this turn, it isn't. Instead 
+             tap it, remove all damage from it, and remove it from 
+             combat.) 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Ninth Edition rare 
+
+  Card Name: Wind Drake
+       Cost: 2U
+       Type: Creature  Drake
+    Pow/Tgh: 2/2
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+ Set/Rarity: Classic Sixth Edition common, Seventh Edition common, 
+             Eighth Edition common, Portal common, Starter 1999 
+             common, Starter 2000 common, Tempest common, Battle 
+             Royale Box Set common, Ninth Edition common 
+
+  Card Name: Withering Gaze
+       Cost: 2U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target opponent reveals his or her hand. You draw a 
+             card for each Forest and green card in it. 
+ Set/Rarity: Portal uncommon, Ninth Edition uncommon 
+
+  Card Name: Wood Elves
+       Cost: 2G
+       Type: Creature  Elf Scout
+    Pow/Tgh: 1/1
+ Rules Text: When Wood Elves comes into play, search your library 
+             for a Forest card and put that card into play. Then 
+             shuffle your library. 
+ Set/Rarity: Seventh Edition common, Eighth Edition common, Portal 
+             rare, Starter 1999 uncommon, Exodus common, Ninth Edition 
+             common 
+
+  Card Name: Worship
+       Cost: 3W
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: If you control a creature, damage that would reduce 
+             your life total to less than 1 reduces it to 1 instead. 
+ Set/Rarity: Seventh Edition rare, Eighth Edition rare, Urza's Saga 
+             rare, Ninth Edition rare 
+
+  Card Name: Wrath of God
+       Cost: 2WW
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy all creatures. They can't be regenerated. 
+ Set/Rarity: Limited Edition Alpha rare, Limited Edition Beta rare, 
+             Unlimited Edition rare, Revised Edition rare, Fourth 
+             Edition rare, Fifth Edition rare, Classic Sixth Edition 
+             rare, Seventh Edition rare, Eighth Edition rare, Portal 
+             rare, Battle Royale Box Set rare, Ninth Edition rare 
+
+  Card Name: Wurm's Tooth
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: Whenever a player plays a green spell, you may gain 
+             1 life. 
+ Set/Rarity: Darksteel uncommon, Ninth Edition uncommon 
+
+  Card Name: Yavimaya Coast
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T: Add G or U to your mana pool. Yavimaya Coast deals 
+             1 damage to you. 
+ Set/Rarity: Apocalypse rare, Ninth Edition rare 
+
+  Card Name: Yavimaya Enchantress
+       Cost: 2G
+       Type: Creature  Human Druid
+    Pow/Tgh: 2/2
+ Rules Text: Yavimaya Enchantress gets +1/+1 for each enchantment 
+             in play. 
+ Set/Rarity: Seventh Edition uncommon, Eighth Edition uncommon, 
+             Urza's Destiny uncommon, Ninth Edition uncommon 
+
+  Card Name: Yawgmoth Demon
+       Cost: 4BB
+       Type: Creature  Demon
+    Pow/Tgh: 6/6
+ Rules Text: Flying (This creature can't be blocked except by creatures 
+             with flying.) 
+             First strike (This creature deals combat damage before 
+             creatures without first strike.) 
+             At the beginning of your upkeep, you may sacrifice 
+             an artifact. If you don't, tap Yawgmoth Demon and it 
+             deals 2 damage to you. 
+ Set/Rarity: Chronicles rare, Antiquities rare, Ninth Edition rare 
+
+  Card Name: Zealous Inquisitor
+       Cost: 2W
+       Type: Creature  Human Cleric
+    Pow/Tgh: 2/2
+ Rules Text: 1W: The next 1 damage that would be dealt to Zealous 
+             Inquisitor this turn is dealt to target creature instead. 
+ Set/Rarity: Scourge common, Ninth Edition uncommon 
+
+  Card Name: Zodiac Monkey
+       Cost: 1G
+       Type: Creature  Ape
+    Pow/Tgh: 2/1
+ Rules Text: Forestwalk (This creature is unblockable as long as 
+             defending player controls a Forest.) 
+ Set/Rarity: Portal Three Kingdoms common, Ninth Edition common 
+
+  Card Name: Zombify
+       Cost: 3B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Return target creature card from your graveyard to 
+             play. 
+ Set/Rarity: Eighth Edition uncommon, Odyssey uncommon, Ninth Edition 
+             uncommon 
+
+  Card Name: Zur's Weirding
+       Cost: 3U
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Players play with their hands revealed. 
+             If a player would draw a card, he or she reveals it 
+             instead. Then any other player may pay 2 life. If a 
+             player does, put that card into its owner's graveyard. 
+             Otherwise, that player draws the card. 
+ Set/Rarity: Fifth Edition rare, Classic Sixth Edition rare, Eighth 
+             Edition rare, Ice Age rare, Ninth Edition rare 

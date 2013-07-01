@@ -11,13 +11,58 @@ task import: :environment do
     end
     xml.search("cards card").each do |card_node|
       name = card_node.at("name").content
-      card = Card.find_or_create_by(name: name)
+      colors = card_node.search("color").map do |color|
+        color.content
+      end
+      type = card_node.at("type").content
+      if type =~ /Artifact/i
+        colors << "A"
+      end
+      if type =~ /Land/i
+        colors << "L"
+      end
+      card = Card.find_or_create_by(name: name, color: colors.join(" "))
 
       card_node.search("set").each do |card_set_node|
         url = card_set_node['picURL']
         card_set = card_set_hash[card_set_node.content.strip]
         CardVersion.find_or_create_by(card: card, card_set: card_set, image_url: url)
       end
+    end
+  end
+end
+
+task import_rarity: :environment do
+  set_abbreviation = ENV['SETABBR']
+  set = CardSet.find_by(abbreviation: set_abbreviation)
+  set_name = ENV['SET']
+  rare_string = /#{ENV['RARE'] || 'Rare'}/
+  data = File.read(Rails.root.join("lib", "set_lists", "#{set_name}.txt"))
+  cards = data.split("\r\n\r\n")
+  cards.each do |card|
+    card_details = card.lines
+    title = card_details.first.split(/:\s+/, 2).last.strip
+    rarity_string = card_details.last.split(/:\s+/, 2).last.strip
+    rarity = if rarity_string =~ rare_string
+               "Rare"
+             elsif rarity_string =~ /Uncommon/
+               "Uncommon"
+             else
+               "Common"
+             end
+    puts title
+    begin
+      title = if title =~ /, The$/
+                title = "The #{title.gsub(/, The$/, '')}"
+              else
+                title
+              end
+      card = Card.where("name ILIKE ?", title.gsub(/\s+/, ' ')).first!
+      card_version = set.card_versions.find_by(card_id: card)
+      card_version.update(rarity: rarity)
+    rescue
+      puts card_details.inspect
+      raise
     end
   end
 end

@@ -1,7 +1,0 @@
-<% @uncollected_card_versions.each do |card_version| %>
-  <%= div_for(card_version) do %>
-    <%= button_to card_version_collected_cards_path(card_version), remote: true do %>
-      <%= image_tag card_version.image_url %>
-    <% end %>
-  <% end %>
-<% end %>

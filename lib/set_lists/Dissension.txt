@@ -1,0 +1,1935 @@
+Card Name: AEthermage's Touch
+       Cost: 2WU
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Reveal the top four cards of your library. You may 
+             put a creature card from among them into play with 
+             "At the end of your turn, return this creature to its 
+             owner's hand." Then put the rest of the cards revealed 
+             this way on the bottom of your library in any order. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Anthem of Rakdos
+       Cost: 2BRR
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever a creature you control attacks, it gets +2/+0 
+             until end of turn and Anthem of Rakdos deals 1 damage 
+             to you. 
+             Hellbent - As long as you have no cards in hand, if 
+             a source you control would deal damage to a creature 
+             or player, it deals double that damage to that creature 
+             or player instead. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Aquastrand Spider
+       Cost: 1G
+       Type: Creature - Spider Mutant
+    Pow/Tgh: 0/0
+ Rules Text: Graft 2 (This creature comes into play with two +1/+1 
+             counters on it. Whenever another creature comes into 
+             play, you may move a +1/+1 counter from this creature 
+             onto it.) 
+             G: Target creature with a +1/+1 counter on it can block 
+             as though it had flying this turn. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Assault Zeppelid
+       Cost: 2GU
+       Type: Creature - Beast
+    Pow/Tgh: 3/3
+ Rules Text: Flying, trample 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Aurora Eidolon
+       Cost: 3W
+       Type: Creature - Spirit
+    Pow/Tgh: 2/2
+ Rules Text: W, Sacrifice Aurora Eidolon: Prevent the next 3 damage 
+             that would be dealt to target creature or player this 
+             turn. 
+             Whenever you play a multicolored spell, you may return 
+             Aurora Eidolon from your graveyard to your hand. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Avatar of Discord
+       Cost: (b/r)(b/r)(b/r)
+       Type: Creature - Avatar
+    Pow/Tgh: 5/3
+ Rules Text: ((B/R) can be paid with either B or R.) 
+             Flying 
+             When Avatar of Discord comes into play, sacrifice it 
+             unless you discard two cards. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Azorius AEthermage
+       Cost: 1WU
+       Type: Creature - Human Wizard
+    Pow/Tgh: 1/1
+ Rules Text: Whenever a permanent is returned to your hand, you 
+             may pay 1. If you do, draw a card. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Azorius Chancery
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: Azorius Chancery comes into play tapped. 
+             When Azorius Chancery comes into play, return a land 
+             you control to its owner's hand. 
+             T: Add WU to your mana pool. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Azorius First-Wing
+       Cost: WU
+       Type: Creature - Griffin
+    Pow/Tgh: 2/2
+ Rules Text: Flying, protection from enchantments 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Azorius Guildmage
+       Cost: (w/u)(w/u)
+       Type: Creature - Vedalken Wizard
+    Pow/Tgh: 2/2
+ Rules Text: ((W/U) can be paid with either W or U.) 
+             2W: Tap target creature. 
+             2U: Counter target activated ability. (Mana abilities 
+             can't be targeted.) 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Azorius Herald
+       Cost: 2W
+       Type: Creature - Spirit
+    Pow/Tgh: 2/1
+ Rules Text: Azorius Herald is unblockable. 
+             When Azorius Herald comes into play, you gain 4 life. 
+             When Azorius Herald comes into play, sacrifice it unless 
+             U was spent to play it. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Azorius Ploy
+       Cost: 1WWU
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Prevent all combat damage target creature would deal 
+             this turn. 
+             Prevent all combat damage that would be dealt to target 
+             creature this turn. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Azorius Signet
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 1, T: Add WU to your mana pool. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Beacon Hawk
+       Cost: 1W
+       Type: Creature - Bird
+    Pow/Tgh: 1/1
+ Rules Text: Flying 
+             Whenever Beacon Hawk deals combat damage to a player, 
+             you may untap target creature. 
+             W: Beacon Hawk gets +0/+1 until end of turn. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Biomantic Mastery
+       Cost: 4(g/u)(g/u)(g/u)
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: ((G/U) can be paid with either G or U.) 
+             Draw a card for each creature target player controls, 
+             then draw a card for each creature another target player 
+             controls. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Blessing of the Nephilim
+       Cost: W
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature 
+             Enchanted creature gets +1/+1 for each of its colors. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Blood Crypt
+       Cost: 
+       Type: Land - Swamp Mountain
+    Pow/Tgh: 
+ Rules Text: (T: Add B or R to your mana pool.) 
+             As Blood Crypt comes into play, you may pay 2 life. 
+             If you don't, Blood Crypt comes into play tapped instead. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Bond of Agony
+       Cost: XB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: As an additional cost to play Bond of Agony, pay X 
+             life. 
+             Each other player loses X life. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Bound // Determined
+       Cost: 3BG // GU
+       Type: Instant // Instant 
+    Pow/Tgh: 
+ Rules Text: Sacrifice a creature. Return up to X cards from your 
+             graveyard to your hand, where X is the number of colors 
+             that creature was. Then remove this card from the game. 
+             // 
+             Other spells you control can't be countered by spells 
+             or abilities this turn. 
+             Draw a card. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Brace for Impact
+       Cost: 4W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Prevent all damage that would be dealt to target multicolored 
+             creature this turn. For each 1 damage prevented this 
+             way, put a +1/+1 counter on that creature. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Brain Pry
+       Cost: 1B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Name a nonland card. Target player reveals his or her 
+             hand. That player discards a card with that name. If 
+             he or she can't, you draw a card. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Breeding Pool
+       Cost: 
+       Type: Land - Forest Island
+    Pow/Tgh: 
+ Rules Text: (T: Add G or U to your mana pool.) 
+             As Breeding Pool comes into play, you may pay 2 life. 
+             If you don't, Breeding Pool comes into play tapped 
+             instead. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Bronze Bombshell
+       Cost: 4
+       Type: Artifact Creature - Construct
+    Pow/Tgh: 4/1
+ Rules Text: When a player other than Bronze Bombshell's owner controls 
+             it, that player sacrifices it. If the player does, 
+             Bronze Bombshell deals 7 damage to him or her. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Cackling Flames
+       Cost: 3R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Cackling Flames deals 3 damage to target creature or 
+             player. 
+             Hellbent - Cackling Flames deals 5 damage to that creature 
+             or player instead if you have no cards in hand. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Carom
+       Cost: 1W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: The next 1 damage that would be dealt to target creature 
+             this turn is dealt to another target creature instead. 
+             Draw a card. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Celestial Ancient
+       Cost: 3WW
+       Type: Creature - Elemental
+    Pow/Tgh: 3/3
+ Rules Text: Flying 
+             Whenever you play an enchantment spell, put a +1/+1 
+             counter on each creature you control. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Coiling Oracle
+       Cost: GU
+       Type: Creature - Snake Elf Druid
+    Pow/Tgh: 1/1
+ Rules Text: When Coiling Oracle comes into play, reveal the top 
+             card of your library. If it's a land card, put it into 
+             play. Otherwise, put that card into your hand. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Condemn
+       Cost: W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Put target attacking creature on the bottom of its 
+             owner's library. Its controller gains life equal to 
+             its toughness. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Court Hussar
+       Cost: 2U
+       Type: Creature - Vedalken Knight
+    Pow/Tgh: 1/3
+ Rules Text: Vigilance 
+             When Court Hussar comes into play, look at the top 
+             three cards of your library, then put one of them into 
+             your hand and the rest on the bottom of your library 
+             in any order. 
+             When Court Hussar comes into play, sacrifice it unless 
+             W was spent to play it. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Crime // Punishment
+       Cost: 3WB // XBG
+       Type: Sorcery // Sorcery 
+    Pow/Tgh: 
+ Rules Text: Put target creature or enchantment card in an opponent's 
+             graveyard into play under your control. 
+             // 
+             Destroy each artifact, creature, and enchantment with 
+             converted mana cost X. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Crypt Champion
+       Cost: 3B
+       Type: Creature - Zombie
+    Pow/Tgh: 2/2
+ Rules Text: Double strike 
+             When Crypt Champion comes into play, each player puts 
+             a creature card with converted mana cost 3 or less 
+             from his or her graveyard into play. 
+             When Crypt Champion comes into play, sacrifice it unless 
+             R was spent to play it. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Cytoplast Manipulator
+       Cost: 2UU
+       Type: Creature - Human Wizard Mutant
+    Pow/Tgh: 0/0
+ Rules Text: Graft 2 (This creature comes into play with two +1/+1 
+             counters on it. Whenever another creature comes into 
+             play, you may move a +1/+1 counter from this creature 
+             onto it.) 
+             U, T: Gain control of target creature with a +1/+1 
+             counter on it as long as Cytoplast Manipulator remains 
+             in play. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Cytoplast Root-Kin
+       Cost: 2GG
+       Type: Creature - Elemental Mutant
+    Pow/Tgh: 0/0
+ Rules Text: Graft 4 (This creature comes into play with four +1/+1 
+             counters on it. Whenever another creature comes into 
+             play, you may move a +1/+1 counter from this creature 
+             onto it.) 
+             When Cytoplast Root-Kin comes into play, put a +1/+1 
+             counter on each other creature you control that has 
+             a +1/+1 counter on it. 
+             2: Move a +1/+1 counter from target creature you control 
+             onto Cytoplast Root-Kin. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Cytoshape
+       Cost: 1GU
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Choose a nonlegendary creature in play. Target creature 
+             becomes a copy of that creature until end of turn. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Cytospawn Shambler
+       Cost: 6G
+       Type: Creature - Elemental Mutant
+    Pow/Tgh: 0/0
+ Rules Text: Graft 6 (This creature comes into play with six +1/+1 
+             counters on it. Whenever another creature comes into 
+             play, you may move a +1/+1 counter from this creature 
+             onto it.) 
+             G: Target creature with a +1/+1 counter on it gains 
+             trample until end of turn. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Delirium Skeins
+       Cost: 2B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Each player discards three cards. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Demon's Jester
+       Cost: 3B
+       Type: Creature - Imp
+    Pow/Tgh: 2/2
+ Rules Text: Flying 
+             Hellbent - Demon's Jester gets +2/+1 as long as you 
+             have no cards in hand. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Demonfire
+       Cost: XR
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Demonfire deals X damage to target creature or player. 
+             If a creature dealt damage this way would be put into 
+             a graveyard this turn, remove it from the game instead. 
+             Hellbent - If you have no cards in hand, Demonfire 
+             can't be countered by spells or abilities and the damage 
+             can't be prevented. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Dovescape
+       Cost: 3(w/u)(w/u)(w/u)
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: ((W/U) can be paid with either W or U.) 
+             Whenever a player plays a noncreature spell, counter 
+             that spell. That player puts X 1/1 white and blue Bird 
+             creature tokens with flying into play, where X is the 
+             spell's converted mana cost. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Dread Slag
+       Cost: 3BR
+       Type: Creature - Horror
+    Pow/Tgh: 9/9
+ Rules Text: Trample 
+             Dread Slag gets -4/-4 for each card in your hand. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Drekavac
+       Cost: 1B
+       Type: Creature - Beast
+    Pow/Tgh: 3/3
+ Rules Text: When Drekavac comes into play, sacrifice it unless 
+             you discard a noncreature card. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Elemental Resonance
+       Cost: 2GG
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: Enchant permanent 
+             At the beginning of your precombat main phase, add 
+             mana equal to enchanted permanent's mana cost to your 
+             mana pool. (Mana cost includes color. If a mana symbol 
+             has multiple colors, choose one.) 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Enemy of the Guildpact
+       Cost: 4B
+       Type: Creature - Spirit
+    Pow/Tgh: 4/2
+ Rules Text: Protection from multicolored 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Enigma Eidolon
+       Cost: 3U
+       Type: Creature - Spirit
+    Pow/Tgh: 2/2
+ Rules Text: U, Sacrifice Enigma Eidolon: Target player puts the 
+             top three cards of his or her library into his or her 
+             graveyard. 
+             Whenever you play a multicolored spell, you may return 
+             Enigma Eidolon from your graveyard to your hand. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Entropic Eidolon
+       Cost: 3B
+       Type: Creature - Spirit
+    Pow/Tgh: 2/2
+ Rules Text: B, Sacrifice Entropic Eidolon: Target player loses 
+             1 life and you gain 1 life. 
+             Whenever you play a multicolored spell, you may return 
+             Entropic Eidolon from your graveyard to your hand. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Evolution Vat
+       Cost: 3
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 3, T: Tap target creature and put a +1/+1 counter on 
+             it. Until end of turn, that creature gains "2GU: Double 
+             the number of +1/+1 counters on this creature." 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Experiment Kraj
+       Cost: 2GGUU
+       Type: Legendary Creature - Ooze Mutant
+    Pow/Tgh: 4/6
+ Rules Text: Experiment Kraj has all activated abilities of each 
+             other creature with a +1/+1 counter on it. 
+             T: Put a +1/+1 counter on target creature. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Fertile Imagination
+       Cost: 2GG
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Choose a card type. Target opponent reveals his or 
+             her hand. Put two 1/1 green Saproling creature tokens 
+             into play for each card of the chosen type revealed 
+             this way. (The card types are artifact, creature, enchantment, 
+             instant, land, and sorcery.) 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Flame-Kin War Scout
+       Cost: 3R
+       Type: Creature - Elemental Scout
+    Pow/Tgh: 2/4
+ Rules Text: When another creature comes into play, sacrifice Flame-Kin 
+             War Scout. If you do, Flame-Kin War Scout deals 4 damage 
+             to that creature. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Flaring Flame-Kin
+       Cost: 2R
+       Type: Creature - Elemental Warrior
+    Pow/Tgh: 2/2
+ Rules Text: As long as Flaring Flame-Kin is enchanted, it gets 
+             +2/+2, has trample, and has "R: Flaring Flame-Kin gets 
+             +1/+0 until end of turn." 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Flash Foliage
+       Cost: 2G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Put a 1/1 green Saproling creature token into play 
+             blocking target creature attacking you. 
+             Draw a card. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Freewind Equenaut
+       Cost: 2W
+       Type: Creature - Human Archer
+    Pow/Tgh: 2/2
+ Rules Text: Flying 
+             As long as Freewind Equenaut is enchanted, it has "T: 
+             Freewind Equenaut deals 2 damage to target attacking 
+             or blocking creature." 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Ghost Quarter
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             T, Sacrifice Ghost Quarter: Destroy target land. Its 
+             controller may search his or her library for a basic 
+             land card, put it into play, then shuffle his or her 
+             library. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Gnat Alley Creeper
+       Cost: 2R
+       Type: Creature - Human Rogue
+    Pow/Tgh: 3/1
+ Rules Text: Gnat Alley Creeper can't be blocked by creatures with 
+             flying. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Gobhobbler Rats
+       Cost: BR
+       Type: Creature - Rat
+    Pow/Tgh: 2/2
+ Rules Text: Hellbent - Gobhobbler Rats gets +1/+0 and has "B: Regenerate 
+             Gobhobbler Rats" as long as you have no cards in hand. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Govern the Guildless
+       Cost: 5U
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Gain control of target monocolored creature. 
+             Forecast - 1U, Reveal Govern the Guildless from your 
+             hand: Target creature becomes the color or colors of 
+             your choice until end of turn. (Play this ability only 
+             during your upkeep and only once each turn.) 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Grand Arbiter Augustin IV
+       Cost: 2WU
+       Type: Legendary Creature - Human Advisor
+    Pow/Tgh: 2/3
+ Rules Text: White spells you play cost 1 less to play. 
+             Blue spells you play cost 1 less to play. 
+             Spells your opponents play cost 1 more to play. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Guardian of the Guildpact
+       Cost: 3W
+       Type: Creature - Spirit
+    Pow/Tgh: 2/3
+ Rules Text: Protection from monocolored 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Haazda Exonerator
+       Cost: W
+       Type: Creature - Human Cleric
+    Pow/Tgh: 1/1
+ Rules Text: T, Sacrifice Haazda Exonerator: Destroy target Aura. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Haazda Shield Mate
+       Cost: 2W
+       Type: Creature - Human Soldier
+    Pow/Tgh: 1/1
+ Rules Text: At the beginning of your upkeep, sacrifice Haazda Shield 
+             Mate unless you pay WW. 
+             W: The next time a source of your choice would deal 
+             damage to you this turn, prevent that damage. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Hallowed Fountain
+       Cost: 
+       Type: Land - Plains Island
+    Pow/Tgh: 
+ Rules Text: (T: Add W or U to your mana pool.) 
+             As Hallowed Fountain comes into play, you may pay 2 
+             life. If you don't, Hallowed Fountain comes into play 
+             tapped instead. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Helium Squirter
+       Cost: 4U
+       Type: Creature - Beast Mutant
+    Pow/Tgh: 0/0
+ Rules Text: Graft 3 (This creature comes into play with three +1/+1 
+             counters on it. Whenever another creature comes into 
+             play, you may move a +1/+1 counter from this creature 
+             onto it.) 
+             1: Target creature with a +1/+1 counter on it gains 
+             flying until end of turn. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Hellhole Rats
+       Cost: 2BR
+       Type: Creature - Rat
+    Pow/Tgh: 2/2
+ Rules Text: Haste 
+             When Hellhole Rats comes into play, target player discards 
+             a card. Hellhole Rats deals damage to that player equal 
+             to that card's converted mana cost. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Hide // Seek
+       Cost: RW // WB
+       Type: Instant // Instant 
+    Pow/Tgh: 
+ Rules Text: Put target artifact or enchantment on the bottom of 
+             its owner's library. 
+             // 
+             Search target opponent's library for a card and remove 
+             that card from the game. You gain life equal to its 
+             converted mana cost. Then that player shuffles his 
+             or her library. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Hit // Run
+       Cost: 1BR // 3RG
+       Type: Instant // Instant 
+    Pow/Tgh: 
+ Rules Text: Target player sacrifices an artifact or creature. Hit 
+             deals damage to that player equal to that permanent's 
+             converted mana cost. 
+             // 
+             Attacking creatures you control get +1/+0 until end 
+             of turn for each other attacking creature. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Ignorant Bliss
+       Cost: 1R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Remove all cards in your hand from the game face down. 
+             At end of turn, return those cards to your hand, then 
+             draw a card. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Indrik Stomphowler
+       Cost: 4G
+       Type: Creature - Beast
+    Pow/Tgh: 4/4
+ Rules Text: When Indrik Stomphowler comes into play, destroy target 
+             artifact or enchantment. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Infernal Tutor
+       Cost: 1B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Reveal a card from your hand. Search your library for 
+             a card with the same name as that card, reveal it, 
+             put it into your hand, then shuffle your library. 
+             Hellbent - If you have no cards in hand, instead search 
+             your library for a card, put it into your hand, then 
+             shuffle your library. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Isperia the Inscrutable
+       Cost: 1WWUU
+       Type: Legendary Creature - Sphinx
+    Pow/Tgh: 3/6
+ Rules Text: Flying 
+             Whenever Isperia the Inscrutable deals combat damage 
+             to a player, name a card. That player reveals his or 
+             her hand. If he or she reveals the named card, search 
+             your library for a creature card with flying, reveal 
+             it, put it into your hand, then shuffle your library. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Jagged Poppet
+       Cost: 1BR
+       Type: Creature - Ogre Warrior
+    Pow/Tgh: 3/4
+ Rules Text: Whenever Jagged Poppet is dealt damage, discard that 
+             many cards. 
+             Hellbent - Whenever Jagged Poppet deals combat damage 
+             to a player, if you have no cards in hand, that player 
+             discards cards equal to the damage. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Kill-Suit Cultist
+       Cost: R
+       Type: Creature - Goblin Berserker
+    Pow/Tgh: 1/1
+ Rules Text: Kill-Suit Cultist attacks each turn if able. 
+             B, Sacrifice Kill-Suit Cultist: The next time damage 
+             would be dealt to target creature this turn, destroy 
+             that creature instead. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Kindle the Carnage
+       Cost: 1RR
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Discard a card at random. If you do, Kindle the Carnage 
+             deals damage equal to that card's converted mana cost 
+             to each creature. You may repeat this process any number 
+             of times. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Leafdrake Roost
+       Cost: 3GU
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: Enchant land 
+             Enchanted land has "GU, T: Put a 2/2 green and blue 
+             Drake creature token with flying into play." 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Loaming Shaman
+       Cost: 2G
+       Type: Creature - Centaur Shaman
+    Pow/Tgh: 3/2
+ Rules Text: When Loaming Shaman comes into play, target player 
+             shuffles any number of target cards from his or her 
+             graveyard into his or her library. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Lyzolda, the Blood Witch
+       Cost: 1BR
+       Type: Legendary Creature - Human Cleric
+    Pow/Tgh: 3/1
+ Rules Text: 2, Sacrifice a creature: Lyzolda, the Blood Witch deals 
+             2 damage to target creature or player if the sacrificed 
+             creature was red. Draw a card if the sacrificed creature 
+             was black. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Macabre Waltz
+       Cost: 1B
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Return up to two target creature cards from your graveyard 
+             to your hand, then discard a card. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Magewright's Stone
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 1, T: Untap target creature that has an activated ability 
+             with T in its cost. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Might of the Nephilim
+       Cost: 1G
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target creature gets +2/+2 until end of turn for each 
+             of its colors. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Minister of Impediments
+       Cost: 2(w/u)
+       Type: Creature - Human Advisor
+    Pow/Tgh: 1/1
+ Rules Text: ((W/U) can be paid with either W or U.) 
+             T: Tap target creature. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Mistral Charger
+       Cost: 1W
+       Type: Creature - Pegasus
+    Pow/Tgh: 2/1
+ Rules Text: Flying 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Momir Vig, Simic Visionary
+       Cost: 3GU
+       Type: Legendary Creature - Elf Wizard
+    Pow/Tgh: 2/2
+ Rules Text: Whenever you play a green creature spell, you may search 
+             your library for a creature card and reveal it. If 
+             you do, shuffle your library and put that card on top 
+             of it. 
+             Whenever you play a blue creature spell, reveal the 
+             top card of your library. If it's a creature card, 
+             put that card into your hand. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Muse Vessel
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 3, T: Target player removes a card in his or her hand 
+             from the game. Play this ability only any time you 
+             could play a sorcery. 
+             1: Choose a card removed from the game with Muse Vessel. 
+             You may play that card this turn. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Nettling Curse
+       Cost: 2B
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature 
+             Whenever enchanted creature attacks or blocks, its 
+             controller loses 3 life. 
+             1R: Enchanted creature attacks this turn if able. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Nightcreep
+       Cost: BB
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Until end of turn, all creatures become black and all 
+             lands become Swamps. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Nihilistic Glee
+       Cost: 2BB
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: 2B, Discard a card: Target opponent loses 1 life and 
+             you gain 1 life. 
+             Hellbent - 1, Pay 2 life: Draw a card. Play this ability 
+             only if you have no cards in hand. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Novijen Sages
+       Cost: 4UU
+       Type: Creature - Human Advisor Mutant
+    Pow/Tgh: 0/0
+ Rules Text: Graft 4 (This creature comes into play with four +1/+1 
+             counters on it. Whenever another creature comes into 
+             play, you may move a +1/+1 counter from this creature 
+             onto it.) 
+             1, Remove two +1/+1 counters from among creatures you 
+             control: Draw a card. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Novijen, Heart of Progress
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             GU, T: Put a +1/+1 counter on each creature that came 
+             into play this turn. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Ocular Halo
+       Cost: 3U
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature 
+             Enchanted creature has "T: Draw a card." 
+             W: Enchanted creature gains vigilance until end of 
+             turn. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Odds // Ends
+       Cost: UR // 3RW
+       Type: Instant // Instant 
+    Pow/Tgh: 
+ Rules Text: Flip a coin. If it comes up heads, counter target instant 
+             or sorcery spell. If it comes up tails, copy that spell 
+             and you may choose new targets for the copy. 
+             // 
+             Target player sacrifices two attacking creatures. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Ogre Gatecrasher
+       Cost: 3R
+       Type: Creature - Ogre Rogue
+    Pow/Tgh: 3/3
+ Rules Text: When Ogre Gatecrasher comes into play, destroy target 
+             creature with defender. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Omnibian
+       Cost: 1GGU
+       Type: Creature - Frog
+    Pow/Tgh: 3/3
+ Rules Text: T: Target creature becomes a 3/3 Frog until end of 
+             turn. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Overrule
+       Cost: XWU
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Counter target spell unless its controller pays X. 
+             You gain X life. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Pain Magnification
+       Cost: 1BR
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever an opponent is dealt 3 or more damage by a 
+             single source, that player discards a card. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Paladin of Prahv
+       Cost: 4WW
+       Type: Creature - Human Knight
+    Pow/Tgh: 3/4
+ Rules Text: Whenever Paladin of Prahv deals damage, you gain that 
+             much life. 
+             Forecast - 1W, Reveal Paladin of Prahv from your hand: 
+             Whenever target creature deals damage this turn, you 
+             gain that much life. (Play this ability only during 
+             your upkeep and only once each turn.) 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Palliation Accord
+       Cost: 3WU
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever a creature an opponent controls becomes tapped, 
+             put a shield counter on Palliation Accord. 
+             Remove a shield counter from Palliation Accord: Prevent 
+             the next 1 damage that would be dealt to you this turn. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Patagia Viper
+       Cost: 3G
+       Type: Creature - Snake
+    Pow/Tgh: 2/1
+ Rules Text: Flying 
+             When Patagia Viper comes into play, put two 1/1 green 
+             and blue Snake creature tokens into play. 
+             When Patagia Viper comes into play, sacrifice it unless 
+             U was spent to play it. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Pillar of the Paruns
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add one mana of any color to your mana pool. Spend 
+             this mana only to play a multicolored spell. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Plaxcaster Frogling
+       Cost: 1GU
+       Type: Creature - Frog Mutant
+    Pow/Tgh: 0/0
+ Rules Text: Graft 3 (This creature comes into play with three +1/+1 
+             counters on it. Whenever another creature comes into 
+             play, you may move a +1/+1 counter from this creature 
+             onto it.) 
+             2: Target creature with a +1/+1 counter on it can't 
+             be the target of spells or abilities this turn. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Plaxmanta
+       Cost: 1U
+       Type: Creature - Beast
+    Pow/Tgh: 2/2
+ Rules Text: You may play Plaxmanta any time you could play an instant. 
+             When Plaxmanta comes into play, creatures you control 
+             can't be the targets of spells or abilities this turn. 
+             When Plaxmanta comes into play, sacrifice it unless 
+             G was spent to play it. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Plumes of Peace
+       Cost: 1WU
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature 
+             Enchanted creature doesn't untap during its controller's 
+             untap step. 
+             Forecast - WU, Reveal Plumes of Peace from your hand: 
+             Tap target creature. (Play this ability only during 
+             your upkeep and only once each turn.) 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Prahv, Spires of Order
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             4WU, T: Prevent all damage a source of your choice 
+             would deal this turn. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Pride of the Clouds
+       Cost: WU
+       Type: Creature - Elemental Cat
+    Pow/Tgh: 1/1
+ Rules Text: Flying 
+             Pride of the Clouds gets +1/+1 for each other creature 
+             in play with flying. 
+             Forecast - 2WU, Reveal Pride of the Clouds from your 
+             hand: Put a 1/1 white and blue Bird creature token 
+             with flying into play. (Play this ability only during 
+             your upkeep and only once each turn.) 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Proclamation of Rebirth
+       Cost: 2W
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Return up to three target creature cards with converted 
+             mana cost 1 or less from your graveyard to play. 
+             Forecast - 5W, Reveal Proclamation of Rebirth from 
+             your hand: Return target creature card with converted 
+             mana cost 1 or less from your graveyard to play. (Play 
+             this ability only during your upkeep and only once 
+             each turn.) 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Proper Burial
+       Cost: 3W
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever a creature you control is put into a graveyard 
+             from play, you gain life equal to that creature's toughness. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Protean Hulk
+       Cost: 5GG
+       Type: Creature - Beast
+    Pow/Tgh: 6/6
+ Rules Text: When Protean Hulk is put into a graveyard from play, 
+             search your library for any number of creature cards 
+             with total converted mana cost 6 or less and put them 
+             into play. Then shuffle your library. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Psychic Possession
+       Cost: 2UU
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: Enchant opponent 
+             Skip your draw step. 
+             Whenever enchanted opponent draws a card, you may draw 
+             a card. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Psychotic Fury
+       Cost: 1R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target multicolored creature gains double strike until 
+             end of turn. 
+             Draw a card. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Pure // Simple
+       Cost: 1RG // 1GW
+       Type: Sorcery // Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy target multicolored permanent. 
+             // 
+             Destroy all Auras and Equipment. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Ragamuffyn
+       Cost: 2B
+       Type: Creature - Zombie Cleric
+    Pow/Tgh: 2/2
+ Rules Text: Hellbent - T, Sacrifice a creature or land: Draw a 
+             card. Play this ability only if you have no cards in 
+             hand. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Rain of Gore
+       Cost: BR
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: If a spell or ability would cause its controller to 
+             gain life, that player loses that much life instead. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Rakdos Augermage
+       Cost: BBR
+       Type: Creature - Human Wizard
+    Pow/Tgh: 3/2
+ Rules Text: First strike 
+             T: Reveal your hand and discard a card of target opponent's 
+             choice. Then that player reveals his or her hand and 
+             discards a card of your choice. Play this ability only 
+             any time you could play a sorcery. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Rakdos Carnarium
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: Rakdos Carnarium comes into play tapped. 
+             When Rakdos Carnarium comes into play, return a land 
+             you control to its owner's hand. 
+             T: Add BR to your mana pool. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Rakdos Guildmage
+       Cost: (b/r)(b/r)
+       Type: Creature - Zombie Shaman
+    Pow/Tgh: 2/2
+ Rules Text: ((B/R) can be paid with either B or R.) 
+             3B, Discard a card: Target creature gets -2/-2 until 
+             end of turn. 
+             3R: Put a 2/1 red Goblin creature token with haste 
+             into play. Remove it from the game at end of turn. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Rakdos Ickspitter
+       Cost: 1BR
+       Type: Creature - Thrull
+    Pow/Tgh: 1/1
+ Rules Text: T: Rakdos Ickspitter deals 1 damage to target creature 
+             and that creature's controller loses 1 life. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Rakdos Pit Dragon
+       Cost: 2RR
+       Type: Creature - Dragon
+    Pow/Tgh: 3/3
+ Rules Text: RR: Rakdos Pit Dragon gains flying until end of turn. 
+             R: Rakdos Pit Dragon gets +1/+0 until end of turn. 
+             Hellbent - Rakdos Pit Dragon has double strike as long 
+             as you have no cards in hand. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Rakdos Riteknife
+       Cost: 2
+       Type: Artifact - Equipment
+    Pow/Tgh: 
+ Rules Text: Equipped creature gets +1/+0 for each blood counter 
+             on Rakdos Riteknife and has "T, Sacrifice a creature: 
+             Put a blood counter on Rakdos Riteknife." 
+             BR, Sacrifice Rakdos Riteknife: Target player sacrifices 
+             a permanent for each blood counter on Rakdos Riteknife. 
+             Equip 2 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Rakdos Signet
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 1, T: Add BR to your mana pool. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Rakdos the Defiler
+       Cost: 2BBRR
+       Type: Legendary Creature - Demon
+    Pow/Tgh: 7/6
+ Rules Text: Flying, trample 
+             Whenever Rakdos the Defiler attacks, sacrifice half 
+             the non-Demon permanents you control, rounded up. 
+             Whenever Rakdos deals combat damage to a player, that 
+             player sacrifices half the non-Demon permanents he 
+             or she controls, rounded up. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Ratcatcher
+       Cost: 4BB
+       Type: Creature - Ogre Rogue
+    Pow/Tgh: 4/4
+ Rules Text: Fear 
+             At the beginning of your upkeep, you may search your 
+             library for a Rat card, reveal it, and put it into 
+             your hand. If you do, shuffle your library. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Research // Development
+       Cost: GU // 3UR
+       Type: Instant // Instant 
+    Pow/Tgh: 
+ Rules Text: Choose up to four cards you own from outside the game 
+             and shuffle them into your library. 
+             // 
+             Put a 3/1 red Elemental creature token into play unless 
+             any opponent lets you draw a card. Repeat this process 
+             two more times. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Riot Spikes
+       Cost: (b/r)
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: ((B/R) can be paid with either B or R.) 
+             Enchant creature 
+             Enchanted creature gets +2/-1. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Rise // Fall
+       Cost: UB // BR
+       Type: Sorcery // Sorcery 
+    Pow/Tgh: 
+ Rules Text: Return target creature card in a graveyard and target 
+             creature in play to their owners' hands. 
+             // 
+             Target player reveals two cards at random from his 
+             or her hand, then discards each nonland card revealed 
+             this way. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Rix Maadi, Dungeon Palace
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: T: Add 1 to your mana pool. 
+             1BR, T: Each player discards a card. Play this ability 
+             only any time you could play a sorcery. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Sandstorm Eidolon
+       Cost: 3R
+       Type: Creature - Spirit
+    Pow/Tgh: 2/2
+ Rules Text: R, Sacrifice Sandstorm Eidolon: Target creature can't 
+             block this turn. 
+             Whenever you play a multicolored spell, you may return 
+             Sandstorm Eidolon from your graveyard to your hand. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Seal of Doom
+       Cost: 2B
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Sacrifice Seal of Doom: Destroy target nonblack creature. 
+             It can't be regenerated. 
+ Set/Rarity: Nemesis common, Dissension common 
+
+
+  Card Name: Seal of Fire
+       Cost: R
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Sacrifice Seal of Fire: Seal of Fire deals 2 damage 
+             to target creature or player. 
+ Set/Rarity: Nemesis common, Dissension common 
+
+
+  Card Name: Shielding Plax
+       Cost: 2(g/u)
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: ((G/U) can be paid with either G or U.) 
+             Enchant creature 
+             When Shielding Plax comes into play, draw a card. 
+             Enchanted creature can't be the target of spells or 
+             abilities your opponents control. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Silkwing Scout
+       Cost: 2U
+       Type: Creature - Faerie Scout
+    Pow/Tgh: 2/1
+ Rules Text: Flying 
+             G, Sacrifice Silkwing Scout: Search your library for 
+             a basic land card and put that card into play tapped. 
+             Then shuffle your library. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Simic Basilisk
+       Cost: 4GG
+       Type: Creature - Basilisk Mutant
+    Pow/Tgh: 0/0
+ Rules Text: Graft 3 (This creature comes into play with three +1/+1 
+             counters on it. Whenever another creature comes into 
+             play, you may move a +1/+1 counter from this creature 
+             onto it.) 
+             1G: Until end of turn, target creature with a +1/+1 
+             counter on it gains "Whenever this creature deals combat 
+             damage to a creature, destroy that creature at end 
+             of combat." 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Simic Growth Chamber
+       Cost: 
+       Type: Land 
+    Pow/Tgh: 
+ Rules Text: Simic Growth Chamber comes into play tapped. 
+             When Simic Growth Chamber comes into play, return a 
+             land you control to its owner's hand. 
+             T: Add GU to your mana pool. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Simic Guildmage
+       Cost: (g/u)(g/u)
+       Type: Creature - Elf Wizard
+    Pow/Tgh: 2/2
+ Rules Text: ((G/U) can be paid with either G or U.) 
+             1G: Move a +1/+1 counter from target creature onto 
+             another target creature with the same controller. 
+             1U: Attach target Aura enchanting a permanent to another 
+             permanent with the same controller. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Simic Initiate
+       Cost: G
+       Type: Creature - Human Mutant
+    Pow/Tgh: 0/0
+ Rules Text: Graft 1 (This creature comes into play with a +1/+1 
+             counter on it. Whenever another creature comes into 
+             play, you may move a +1/+1 counter from this creature 
+             onto it.) 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Simic Ragworm
+       Cost: 3G
+       Type: Creature - Worm
+    Pow/Tgh: 3/3
+ Rules Text: U: Untap Simic Ragworm. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Simic Signet
+       Cost: 2
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: 1, T: Add GU to your mana pool. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Simic Sky Swallower
+       Cost: 5GU
+       Type: Creature - Leviathan
+    Pow/Tgh: 6/6
+ Rules Text: Flying, trample 
+             Simic Sky Swallower can't be the target of spells or 
+             abilities. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Skullmead Cauldron
+       Cost: 4
+       Type: Artifact 
+    Pow/Tgh: 
+ Rules Text: T: You gain 1 life. 
+             T, Discard a card: You gain 3 life. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Sky Hussar
+       Cost: 3WU
+       Type: Creature - Human Knight
+    Pow/Tgh: 4/3
+ Rules Text: Flying 
+             When Sky Hussar comes into play, untap all creatures 
+             you control. 
+             Forecast - Tap two untapped white and/or blue creatures 
+             you control, Reveal Sky Hussar from your hand: Draw 
+             a card. (Play this ability only during your upkeep 
+             and only once each turn.) 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Skyscribing
+       Cost: XUU
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Each player draws X cards. 
+             Forecast - 2U, Reveal Skyscribing from your hand: Each 
+             player draws a card. (Play this ability only during 
+             your upkeep and only once each turn.) 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Slaughterhouse Bouncer
+       Cost: 4B
+       Type: Creature - Ogre Warrior
+    Pow/Tgh: 3/3
+ Rules Text: Hellbent - When Slaughterhouse Bouncer is put into 
+             a graveyard from play, if you have no cards in hand, 
+             target creature gets -3/-3 until end of turn. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Slithering Shade
+       Cost: B
+       Type: Creature - Shade
+    Pow/Tgh: 0/1
+ Rules Text: Defender (This creature can't attack.) 
+             B: Slithering Shade gets +1/+1 until end of turn. 
+             Hellbent - Slithering Shade can attack as though it 
+             didn't have defender as long as you have no cards in 
+             hand. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Soulsworn Jury
+       Cost: 2W
+       Type: Creature - Spirit
+    Pow/Tgh: 1/4
+ Rules Text: Defender (This creature can't attack.) 
+             1U, Sacrifice Soulsworn Jury: Counter target creature 
+             spell. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Spell Snare
+       Cost: U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Counter target spell with converted mana cost 2. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Sporeback Troll
+       Cost: 3G
+       Type: Creature - Troll Mutant
+    Pow/Tgh: 0/0
+ Rules Text: Graft 2 (This creature comes into play with two +1/+1 
+             counters on it. Whenever another creature comes into 
+             play, you may move a +1/+1 counter from this creature 
+             onto it.) 
+             1G: Regenerate target creature with a +1/+1 counter 
+             on it. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Sprouting Phytohydra
+       Cost: 4G
+       Type: Creature - Plant Hydra
+    Pow/Tgh: 0/2
+ Rules Text: Defender (This creature can't attack.) 
+             Whenever Sprouting Phytohydra is dealt damage, you 
+             may put a token into play that's a copy of Sprouting 
+             Phytohydra. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Squealing Devil
+       Cost: 1R
+       Type: Creature - Devil
+    Pow/Tgh: 2/1
+ Rules Text: Fear 
+             When Squealing Devil comes into play, you may pay X. 
+             If you do, target creature gets +X/+0 until end of 
+             turn. 
+             When Squealing Devil comes into play, sacrifice it 
+             unless B was spent to play it. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Stalking Vengeance
+       Cost: 5RR
+       Type: Creature - Avatar
+    Pow/Tgh: 5/5
+ Rules Text: Haste 
+             Whenever another creature you control is put into a 
+             graveyard from play, it deals damage equal to its power 
+             to target player. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Steeling Stance
+       Cost: 1WW
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Creatures you control get +1/+1 until end of turn. 
+             Forecast - W, Reveal Steeling Stance from your hand: 
+             Target creature gets +1/+1 until end of turn. (Play 
+             this ability only during your upkeep and only once 
+             each turn.) 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Stoic Ephemera
+       Cost: 2W
+       Type: Creature - Spirit
+    Pow/Tgh: 5/5
+ Rules Text: Defender (This creature can't attack.) 
+             Flying 
+             When Stoic Ephemera blocks, sacrifice it at end of 
+             combat. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Stomp and Howl
+       Cost: 2G
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Destroy target artifact and target enchantment. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Stormscale Anarch
+       Cost: 2RR
+       Type: Creature - Viashino Shaman
+    Pow/Tgh: 2/2
+ Rules Text: 2R, Discard a card at random: Stormscale Anarch deals 
+             2 damage to target creature or player. If the discarded 
+             card was multicolored, Stormscale Anarch deals 4 damage 
+             to that creature or player instead. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Street Savvy
+       Cost: G
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature 
+             Enchanted creature gets +0/+2 and can block creatures 
+             with landwalk abilities as though they didn't have 
+             those abilities. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Supply // Demand
+       Cost: XGW // 1WU
+       Type: Sorcery // Sorcery 
+    Pow/Tgh: 
+ Rules Text: Put X 1/1 green Saproling creature tokens into play. 
+             // 
+             Search your library for a multicolored card, reveal 
+             it, and put it into your hand. Then shuffle your library. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Swift Silence
+       Cost: 2WUU
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Counter all other spells. Draw a card for each spell 
+             countered this way. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Taste for Mayhem
+       Cost: R
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature 
+             Enchanted creature gets +2/+0. 
+             Hellbent - Enchanted creature gets an additional +2/+0 
+             as long as you have no cards in hand. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Thrive
+       Cost: XG
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Put a +1/+1 counter on each of X target creatures. 
+ Set/Rarity: Prophecy common, Dissension common 
+
+
+  Card Name: Tidespout Tyrant
+       Cost: 5UUU
+       Type: Creature - Djinn
+    Pow/Tgh: 5/5
+ Rules Text: Flying 
+             Whenever you play a spell, return target permanent 
+             to its owner's hand. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Transguild Courier
+       Cost: 4
+       Type: Artifact Creature - Golem
+    Pow/Tgh: 3/3
+ Rules Text: Transguild Courier is all colors (even if this card 
+             isn't in play). 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Trial // Error
+       Cost: WU // UB
+       Type: Instant // Instant 
+    Pow/Tgh: 
+ Rules Text: Return all creatures blocking or blocked by target 
+             creature to their owner's hand. 
+             // 
+             Counter target multicolored spell. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Trygon Predator
+       Cost: 1GU
+       Type: Creature - Beast
+    Pow/Tgh: 2/3
+ Rules Text: Flying 
+             Whenever Trygon Predator deals combat damage to a player, 
+             you may destroy target artifact or enchantment that 
+             player controls. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Twinstrike
+       Cost: 3BR
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Twinstrike deals 2 damage to each of two target creatures. 
+             Hellbent - Destroy those creatures instead if you have 
+             no cards in hand. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Unliving Psychopath
+       Cost: 2BB
+       Type: Creature - Zombie Assassin
+    Pow/Tgh: 0/4
+ Rules Text: B: Unliving Psychopath gets +1/-1 until end of turn. 
+             B, T: Destroy target creature with power less than 
+             Unliving Psychopath's power. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Utopia Sprawl
+       Cost: G
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: Enchant Forest 
+             As Utopia Sprawl comes into play, choose a color. 
+             Whenever enchanted Forest is tapped for mana, its controller 
+             adds one mana of the chosen color to his or her mana 
+             pool. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Utvara Scalper
+       Cost: 1R
+       Type: Creature - Goblin Scout
+    Pow/Tgh: 1/2
+ Rules Text: Flying 
+             Utvara Scalper attacks each turn if able. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Valor Made Real
+       Cost: W
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Target creature can block any number of creatures this 
+             turn. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Verdant Eidolon
+       Cost: 3G
+       Type: Creature - Spirit
+    Pow/Tgh: 2/2
+ Rules Text: G, Sacrifice Verdant Eidolon: Add three mana of any 
+             one color to your mana pool. 
+             Whenever you play a multicolored spell, you may return 
+             Verdant Eidolon from your graveyard to your hand. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Vesper Ghoul
+       Cost: 2B
+       Type: Creature - Zombie Druid
+    Pow/Tgh: 1/1
+ Rules Text: T, Pay 1 life: Add one mana of any color to your mana 
+             pool. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Vigean Graftmage
+       Cost: 2U
+       Type: Creature - Vedalken Wizard Mutant
+    Pow/Tgh: 0/0
+ Rules Text: Graft 2 (This creature comes into play with two +1/+1 
+             counters on it. Whenever another creature comes into 
+             play, you may move a +1/+1 counter from this creature 
+             onto it.) 
+             1U: Untap target creature with a +1/+1 counter on it. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Vigean Hydropon
+       Cost: 1GU
+       Type: Creature - Plant Mutant
+    Pow/Tgh: 0/0
+ Rules Text: Graft 5 (This creature comes into play with five +1/+1 
+             counters on it. Whenever another creature comes into 
+             play, you may move a +1/+1 counter from this creature 
+             onto it.) 
+             Vigean Hydropon can't attack or block. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Vigean Intuition
+       Cost: 3GU
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Choose a card type, then reveal the top four cards 
+             of your library. Put all cards of the chosen type revealed 
+             this way into your hand and the rest into your graveyard. 
+             (The card types are artifact, creature, enchantment, 
+             instant, land, and sorcery.) 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Vision Skeins
+       Cost: 1U
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Each player draws two cards. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Voidslime
+       Cost: GUU
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Counter target spell, activated ability, or triggered 
+             ability. (Mana abilities can't be targeted.) 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Wakestone Gargoyle
+       Cost: 3W
+       Type: Creature - Gargoyle
+    Pow/Tgh: 3/4
+ Rules Text: Defender (This creature can't attack.) 
+             Flying 
+             1W: Creatures you control with defender can attack 
+             this turn as though they didn't have defender. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Walking Archive
+       Cost: 3
+       Type: Artifact Creature - Golem
+    Pow/Tgh: 1/1
+ Rules Text: Defender (This creature can't attack.) 
+             Walking Archive comes into play with a +1/+1 counter 
+             on it. 
+             At the beginning of each player's upkeep, that player 
+             draws a card for each +1/+1 counter on Walking Archive. 
+             2WU: Put a +1/+1 counter on Walking Archive. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: War's Toll
+       Cost: 3R
+       Type: Enchantment 
+    Pow/Tgh: 
+ Rules Text: Whenever an opponent taps a land for mana, tap all 
+             lands that player controls. 
+             If a creature an opponent controls attacks, all creatures 
+             that opponent controls attack if able. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Weight of Spires
+       Cost: R
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Weight of Spires deals damage to target creature equal 
+             to the number of nonbasic lands that creature's controller 
+             controls. 
+ Set/Rarity: Dissension uncommon 
+
+
+  Card Name: Whiptail Moloch
+       Cost: 4R
+       Type: Creature - Lizard
+    Pow/Tgh: 6/3
+ Rules Text: When Whiptail Moloch comes into play, it deals 3 damage 
+             to target creature you control. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Windreaver
+       Cost: 3WU
+       Type: Creature - Elemental
+    Pow/Tgh: 1/3
+ Rules Text: Flying 
+             W: Windreaver gains vigilance until end of turn. 
+             W: Windreaver gets +0/+1 until end of turn. 
+             U: Switch Windreaver's power and toughness until end 
+             of turn. 
+             U: Return Windreaver to its owner's hand. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Wit's End
+       Cost: 5BB
+       Type: Sorcery 
+    Pow/Tgh: 
+ Rules Text: Target player discards his or her hand. 
+ Set/Rarity: Dissension rare 
+
+
+  Card Name: Wrecking Ball
+       Cost: 2BR
+       Type: Instant 
+    Pow/Tgh: 
+ Rules Text: Destroy target creature or land. 
+ Set/Rarity: Dissension common 
+
+
+  Card Name: Writ of Passage
+       Cost: U
+       Type: Enchantment - Aura
+    Pow/Tgh: 
+ Rules Text: Enchant creature 
+             Whenever enchanted creature attacks, if its power is 
+             2 or less, it's unblockable this turn. 
+             Forecast - 1U, Reveal Writ of Passage from your hand: 
+             Target creature with power 2 or less is unblockable 
+             this turn. (Play this ability only during your upkeep 
+             and only once each turn.) 
+ Set/Rarity: Dissension common 

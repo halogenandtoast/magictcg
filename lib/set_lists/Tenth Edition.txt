@@ -1,0 +1,2680 @@
+CardName:	Abundance
+Cost:	2GG
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order.
+Set/Rarity:	Tenth Edition Rare, Urza's Saga Rare
+
+CardName:	Academy Researchers
+Cost:	1UU
+Type:	Creature - Human Wizard
+Pow/Tgh:	2/2
+Rules Text:	When Academy Researchers comes into play, you may put an Aura card from your hand into play attached to Academy Researchers.
+Set/Rarity:	Tenth Edition Uncommon, Urza's Saga Uncommon
+
+CardName:	Adarkar Wastes
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. T Add W or U to your mana pool. Adarkar Wastes deals 1 damage to you.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Ice Age Rare
+
+CardName:	Afflict
+Cost:	2B
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target creature gets -1/-1 until end of turn. Draw a card.
+Set/Rarity:	Tenth Edition Common, Odyssey Common
+
+CardName:	Aggressive Urge
+Cost:	1G
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target creature gets +1/+1 until end of turn. Draw a card.
+Set/Rarity:	Tenth Edition Common, Invasion Common
+
+CardName:	Agonizing Memories
+Cost:	2BB
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Look at target player's hand and choose two cards from it. Put them on top of that player's library in any order.
+Set/Rarity:	Tenth Edition Uncommon, Seventh Edition Uncommon, Classic Sixth Edition Uncommon, Weatherlight Uncommon
+
+CardName:	Air Elemental
+Cost:	3UU
+Type:	Creature - Elemental
+Pow/Tgh:	4/4
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Beatdown Box Set Uncommon, Battle Royale Box Set Uncommon, Starter 1999 Uncommon, Classic Sixth Edition Uncommon, Portal Second Age Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Ambassador Laquatus
+Cost:	1UU
+Type:	Legendary Creature - Merfolk Wizard
+Pow/Tgh:	1/3
+Rules Text:	3: Target player puts the top three cards of his or her library into his or her graveyard.
+Set/Rarity:	Tenth Edition Rare, Torment Rare
+
+CardName:	Anaba Bodyguard
+Cost:	3R
+Type:	Creature - Minotaur
+Pow/Tgh:	2/3
+Rules Text:	First strike (This creature deals combat damage before creatures without first strike.)
+Set/Rarity:	Tenth Edition Common, Classic Sixth Edition Common, Homelands Common, Homelands Common
+
+CardName:	Ancestor's Chosen
+Cost:	5WW
+Type:	Creature - Human Cleric
+Pow/Tgh:	4/4
+Rules Text:	First strike (This creature deals combat damage before creatures without first strike.) When Ancestor's Chosen comes into play, you gain 1 life for each card in your graveyard.
+Set/Rarity:	Tenth Edition Uncommon, Judgment Uncommon
+
+CardName:	Angel of Mercy
+Cost:	4W
+Type:	Creature - Angel
+Pow/Tgh:	3/3
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) When Angel of Mercy comes into play, you gain 3 life.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Invasion Uncommon, Starter 1999 Uncommon, Portal Second Age Uncommon
+
+CardName:	Angelic Blessing
+Cost:	2W
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Starter 2000 Common, Starter 1999 Common, Exodus Common, Portal Second Age Common, Portal Common
+
+CardName:	Angelic Chorus
+Cost:	3WW
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Whenever a creature comes into play under your control, you gain life equal to its toughness.
+Set/Rarity:	Tenth Edition Rare, Urza's Saga Rare
+
+CardName:	Angelic Wall
+Cost:	1W
+Type:	Creature - Wall
+Pow/Tgh:	0/4
+Rules Text:	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+Set/Rarity:	Tenth Edition Common, Odyssey Common, Portal Second Age Common
+
+CardName:	Angel's Feather
+Cost:	2
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	Whenever a player plays a white spell, you may gain 1 life.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+CardName:	Arcane Teachings
+Cost:	2R
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Enchanted creature gets +2/+2 and has "T This creature deals 1 damage to target creature or player."
+Set/Rarity:	Tenth Edition Uncommon, Judgment Common
+
+CardName:	Arcanis the Omnipotent
+Cost:	3UUU
+Type:	Legendary Creature - Wizard
+Pow/Tgh:	3/4
+Rules Text:	T Draw three cards. 2UU: Return Arcanis the Omnipotent to its owner's hand.
+Set/Rarity:	Tenth Edition Rare, Onslaught Rare
+
+CardName:	Ascendant Evincar
+Cost:	4BB
+Type:	Legendary Creature - Vampire
+Pow/Tgh:	3/3
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) Other black creatures get +1/+1. Nonblack creatures get -1/-1.
+Set/Rarity:	Tenth Edition Rare, Nemesis Rare
+
+CardName:	Assassinate
+Cost:	2B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Destroy target tapped creature.
+Set/Rarity:	Tenth Edition Common, Time Spiral Common
+
+CardName:	Aura Graft
+Cost:	1U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Gain control of target Aura that's attached to a permanent. Attach it to another permanent it can enchant.
+Set/Rarity:	Tenth Edition Uncommon, Odyssey Uncommon
+
+CardName:	Aura of Silence
+Cost:	1WW
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Artifact and enchantment spells your opponents play cost 2 more to play. Sacrifice Aura of Silence: Destroy target artifact or enchantment.
+Set/Rarity:	Tenth Edition Uncommon, Weatherlight Uncommon
+
+CardName:	Avatar of Might
+Cost:	6GG
+Type:	Creature - Avatar
+Pow/Tgh:	8/8
+Rules Text:	If an opponent controls at least four more creatures than you, Avatar of Might costs 6 less to play. Trample (If this creature would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player.)
+Set/Rarity:	Tenth Edition Rare, Prophecy Rare
+
+CardName:	Aven Cloudchaser
+Cost:	3W
+Type:	Creature - Bird Soldier
+Pow/Tgh:	2/2
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) When Aven Cloudchaser comes into play, destroy target enchantment.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Odyssey Common
+
+CardName:	Aven Fisher
+Cost:	3U
+Type:	Creature - Bird Soldier
+Pow/Tgh:	2/2
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) When Aven Fisher is put into a graveyard from play, you may draw a card.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Odyssey Common
+
+CardName:	Aven Windreader
+Cost:	3UU
+Type:	Creature - Bird Soldier Wizard
+Pow/Tgh:	3/3
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) 1U: Target player reveals the top card of his or her library.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Odyssey Common
+
+CardName:	Ballista Squad
+Cost:	3W
+Type:	Creature - Human Rebel
+Pow/Tgh:	2/2
+Rules Text:	XW, T Ballista Squad deals X damage to target attacking or blocking creature.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Mercadian Masques Uncommon
+
+CardName:	Bandage
+Cost:	W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Prevent the next 1 damage that would be dealt to target creature or player this turn. Draw a card.
+Set/Rarity:	Tenth Edition Common, Stronghold Common
+
+CardName:	Battlefield Forge
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. T Add R or W to your mana pool. Battlefield Forge deals 1 damage to you.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Apocalypse Rare
+
+CardName:	Beacon of Destruction
+Cost:	3RR
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Beacon of Destruction deals 5 damage to target creature or player. Shuffle Beacon of Destruction into its owner's library.
+Set/Rarity:	Tenth Edition Rare, Fifth Dawn Rare
+
+CardName:	Beacon of Immortality
+Cost:	5W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Double target player's life total. Shuffle Beacon of Immortality into its owner's library.
+Set/Rarity:	Tenth Edition Rare, Fifth Dawn Rare
+
+CardName:	Beacon of Unrest
+Cost:	3BB
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Put target artifact or creature card in a graveyard into play under your control. Shuffle Beacon of Unrest into its owner's library.
+Set/Rarity:	Tenth Edition Rare, Fifth Dawn Rare
+
+CardName:	Benalish Knight
+Cost:	2W
+Type:	Creature - Human Knight
+Pow/Tgh:	2/2
+Rules Text:	Flash (You may play this spell any time you could play an instant.) First strike (This creature deals combat damage before creatures without first strike.)
+Set/Rarity:	Tenth Edition Common, Weatherlight Common
+
+CardName:	Birds of Paradise
+Cost:	G
+Type:	Creature - Bird
+Pow/Tgh:	0/1
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) T Add one mana of any color to your mana pool.
+Set/Rarity:	Tenth Edition Rare, Ravnica: City of Guilds Rare, Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	Blanchwood Armor
+Cost:	2G
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Enchanted creature gets +1/+1 for each Forest you control.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Urza's Saga Uncommon
+
+CardName:	Blaze
+Cost:	XR
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Blaze deals X damage to target creature or player.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Portal Three Kingdoms Uncommon, Classic Sixth Edition Uncommon, Portal Second Age Uncommon, Portal Uncommon, Portal Uncommon
+
+CardName:	Bloodfire Colossus
+Cost:	6RR
+Type:	Creature - Giant
+Pow/Tgh:	6/6
+Rules Text:	R, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Apocalypse Rare
+
+CardName:	Bloodrock Cyclops
+Cost:	2R
+Type:	Creature - Cyclops
+Pow/Tgh:	3/3
+Rules Text:	Bloodrock Cyclops attacks each turn if able.
+Set/Rarity:	Tenth Edition Common, Beatdown Box Set Common, Weatherlight Common
+
+CardName:	Bog Wraith
+Cost:	3B
+Type:	Creature - Wraith
+Pow/Tgh:	3/3
+Rules Text:	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Starter 1999 Uncommon, Classic Sixth Edition Uncommon, Portal Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Bogardan Firefiend
+Cost:	2R
+Type:	Creature - Elemental Spirit
+Pow/Tgh:	2/1
+Rules Text:	When Bogardan Firefiend is put into a graveyard from play, it deals 2 damage to target creature.
+Set/Rarity:	Tenth Edition Common, Weatherlight Common
+
+CardName:	Boomerang
+Cost:	UU
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Return target permanent to its owner's hand.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Fifth Edition Common, Mirage Common, Chronicles Common, Legends Common
+
+CardName:	Bottle Gnomes
+Cost:	3
+Type:	Artifact Creature - Gnome
+Pow/Tgh:	1/3
+Rules Text:	Sacrifice Bottle Gnomes: You gain 3 life.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Uncommon, Tempest Uncommon
+
+CardName:	Brushland
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. T Add G or W to your mana pool. Brushland deals 1 damage to you.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Ice Age Rare
+
+CardName:	Cancel
+Cost:	1UU
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Counter target spell.
+Set/Rarity:	Tenth Edition Common, Time Spiral Common
+
+CardName:	Canopy Spider
+Cost:	1G
+Type:	Creature - Spider
+Pow/Tgh:	1/3
+Rules Text:	Reach (This creature can block creatures with flying.)
+Set/Rarity:	Tenth Edition Common, Eighth Edition Common, Seventh Edition Common, Tempest Common
+
+CardName:	Caves of Koilos
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. T Add W or B to your mana pool. Caves of Koilos deals 1 damage to you.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Apocalypse Rare
+
+CardName:	Cephalid Constable
+Cost:	1UU
+Type:	Creature - Cephalid Wizard
+Pow/Tgh:	1/1
+Rules Text:	Whenever Cephalid Constable deals combat damage to a player, return up to that many target permanents that player controls to their owners' hands.
+Set/Rarity:	Tenth Edition Rare, Judgment Rare
+
+CardName:	Chimeric Staff
+Cost:	4
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	X: Chimeric Staff becomes an X/X Construct artifact creature until end of turn.
+Set/Rarity:	Tenth Edition Rare, Urza's Saga Rare
+
+CardName:	Cho-Manno, Revolutionary
+Cost:	2WW
+Type:	Legendary Creature - Human Rebel
+Pow/Tgh:	2/2
+Rules Text:	Prevent all damage that would be dealt to Cho-Manno, Revolutionary.
+Set/Rarity:	Tenth Edition Rare, Mercadian Masques Rare
+
+CardName:	Chromatic Star
+Cost:	1
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	1, T, Sacrifice Chromatic Star: Add one mana of any color to your mana pool. When Chromatic Star is put into a graveyard from play, draw a card.
+Set/Rarity:	Tenth Edition Uncommon, Time Spiral Common
+
+CardName:	Citanul Flute
+Cost:	5
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	X, T Search your library for a creature card with converted mana cost X or less, reveal it, and put it into your hand. Then shuffle your library.
+Set/Rarity:	Tenth Edition Rare, Urza's Saga Rare
+
+CardName:	Civic Wayfinder
+Cost:	2G
+Type:	Creature - Elf Warrior Druid
+Pow/Tgh:	2/2
+Rules Text:	When Civic Wayfinder comes into play, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.
+Set/Rarity:	Tenth Edition Common, Ravnica: City of Guilds Common
+
+CardName:	Clone
+Cost:	3U
+Type:	Creature - Shapeshifter
+Pow/Tgh:	0/0
+Rules Text:	As Clone comes into play, you may choose a creature in play. If you do, Clone comes into play as a copy of that creature.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Onslaught Rare, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Cloud Elemental
+Cost:	2U
+Type:	Creature - Elemental
+Pow/Tgh:	2/3
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) Cloud Elemental can block only creatures with flying.
+Set/Rarity:	Tenth Edition Common, Beatdown Box Set Common, Visions Common
+
+CardName:	Cloud Sprite
+Cost:	U
+Type:	Creature - Faerie
+Pow/Tgh:	1/1
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) Cloud Sprite can block only creatures with flying.
+Set/Rarity:	Tenth Edition Common, Mercadian Masques Common
+
+CardName:	Coat of Arms
+Cost:	5
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	Each creature gets +1/+1 for each other creature in play that shares a creature type with it. (For example, if a Goblin Warrior, a Goblin Scout, and a Zombie Goblin are in play, each gets +2/+2.)
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Exodus Rare
+
+CardName:	Colossus of Sardia
+Cost:	9
+Type:	Artifact Creature - Golem
+Pow/Tgh:	9/9
+Rules Text:	Trample (If this creature would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player.) Colossus of Sardia doesn't untap during your untap step. 9: Untap Colossus of Sardia. Play this ability only during your upkeep.
+Set/Rarity:	Tenth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Antiquities Rare
+
+CardName:	Commune with Nature
+Cost:	G
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+Set/Rarity:	Tenth Edition Common, Champions of Kamigawa Common
+
+CardName:	Composite Golem
+Cost:	6
+Type:	Artifact Creature - Golem
+Pow/Tgh:	4/4
+Rules Text:	Sacrifice Composite Golem: Add WUBRG to your mana pool.
+Set/Rarity:	Tenth Edition Uncommon, Fifth Dawn Uncommon
+
+CardName:	Condemn
+Cost:	W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.
+Set/Rarity:	Tenth Edition Uncommon, Dissension Uncommon
+
+CardName:	Cone of Flame
+Cost:	3RR
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.
+Set/Rarity:	Tenth Edition Uncommon, Weatherlight Uncommon
+
+CardName:	Consume Spirit
+Cost:	X1B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Spend only black mana on X. Consume Spirit deals X damage to target creature or player and you gain X life.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Common
+
+CardName:	Contaminated Bond
+Cost:	1B
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Whenever enchanted creature attacks or blocks, its controller loses 3 life.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Mirrodin Common
+
+CardName:	Counsel of the Soratami
+Cost:	2U
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Draw two cards.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Champions of Kamigawa Common
+
+CardName:	Crafty Pathmage
+Cost:	2U
+Type:	Creature - Human Wizard
+Pow/Tgh:	1/1
+Rules Text:	T Target creature with power 2 or less is unblockable this turn.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Onslaught Common
+
+CardName:	Craw Wurm
+Cost:	4GG
+Type:	Creature - Wurm
+Pow/Tgh:	6/4
+Rules Text:
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Creeping Mold
+Cost:	2GG
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Destroy target artifact, enchantment, or land.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Classic Sixth Edition Uncommon, Visions Uncommon
+
+CardName:	Crucible of Worlds
+Cost:	3
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	You may play land cards from your graveyard.
+Set/Rarity:	Tenth Edition Rare, Fifth Dawn Rare
+
+CardName:	Cruel Edict
+Cost:	1B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target opponent sacrifices a creature.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Portal Second Age Common
+
+CardName:	Cryoclasm
+Cost:	2R
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Destroy target Plains or Island. Cryoclasm deals 3 damage to that land's controller.
+Set/Rarity:	Tenth Edition Uncommon, Coldsnap Uncommon
+
+CardName:	Deathmark
+Cost:	B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Destroy target green or white creature.
+Set/Rarity:	Tenth Edition Uncommon, Coldsnap Uncommon
+
+CardName:	Dehydration
+Cost:	3U
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Enchanted creature doesn't untap during its controller's untap step.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Mercadian Masques Common
+
+CardName:	Deluge
+Cost:	2U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Tap all creatures without flying.
+Set/Rarity:	Tenth Edition Uncommon, Odyssey Uncommon
+
+CardName:	Demolish
+Cost:	3R
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Destroy target artifact or land.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Uncommon, Eighth Edition Uncommon, Odyssey Uncommon
+
+CardName:	Demon's Horn
+Cost:	2
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	Whenever a player plays a black spell, you may gain 1 life.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+CardName:	Demystify
+Cost:	W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Destroy target enchantment.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common
+
+CardName:	Denizen of the Deep
+Cost:	6UU
+Type:	Creature - Serpent
+Pow/Tgh:	11/11
+Rules Text:	When Denizen of the Deep comes into play, return each other creature you control to its owner's hand.
+Set/Rarity:	Tenth Edition Rare, Starter 1999 Rare, Portal Second Age Rare
+
+CardName:	Diabolic Tutor
+Cost:	2BB
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Search your library for a card and put that card into your hand. Then shuffle your library.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Odyssey Uncommon
+
+CardName:	Discombobulate
+Cost:	2UU
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Counter target spell. Look at the top four cards of your library, then put them back in any order.
+Set/Rarity:	Tenth Edition Uncommon, Onslaught Uncommon
+
+CardName:	Distress
+Cost:	BB
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.
+Set/Rarity:	Tenth Edition Common, Champions of Kamigawa Common
+
+CardName:	Doomed Necromancer
+Cost:	2B
+Type:	Creature - Human Cleric Mercenary
+Pow/Tgh:	2/2
+Rules Text:	B, T, Sacrifice Doomed Necromancer: Return target creature card from your graveyard to play.
+Set/Rarity:	Tenth Edition Rare, Onslaught Rare
+
+CardName:	Doubling Cube
+Cost:	2
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	3, T Double the amount of each type of mana in your mana pool.
+Set/Rarity:	Tenth Edition Rare, Fifth Dawn Rare
+
+CardName:	Dragon Roost
+Cost:	4RR
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	5RR: Put a 5/5 red Dragon creature token with flying into play. (It can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Rare, Onslaught Rare
+
+CardName:	Dragon's Claw
+Cost:	2
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	Whenever a player plays a red spell, you may gain 1 life.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+CardName:	Dreamborn Muse
+Cost:	2UU
+Type:	Creature - Spirit
+Pow/Tgh:	2/2
+Rules Text:	At the beginning of each player's upkeep, that player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in his or her hand.
+Set/Rarity:	Tenth Edition Rare, Legions Rare
+
+CardName:	Dross Crocodile
+Cost:	3B
+Type:	Creature - Zombie Crocodile
+Pow/Tgh:	5/1
+Rules Text:
+Set/Rarity:	Tenth Edition Common, Fifth Dawn Common
+
+CardName:	Drudge Skeletons
+Cost:	1B
+Type:	Creature - Skeleton
+Pow/Tgh:	1/1
+Rules Text:	B: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Common, Seventh Edition Common, Starter 2000 Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Duct Crawler
+Cost:	R
+Type:	Creature - Insect
+Pow/Tgh:	1/1
+Rules Text:	1R: Target creature can't block Duct Crawler this turn.
+Set/Rarity:	Tenth Edition Common, Stronghold Common
+
+CardName:	Dusk Imp
+Cost:	2B
+Type:	Creature - Imp
+Pow/Tgh:	2/1
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Common, Eighth Edition Common, Odyssey Common
+
+CardName:	Earth Elemental
+Cost:	3RR
+Type:	Creature - Elemental
+Pow/Tgh:	4/5
+Rules Text:
+Set/Rarity:	Tenth Edition Uncommon, Starter 1999 Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Elven Riders
+Cost:	3GG
+Type:	Creature - Elf
+Pow/Tgh:	3/3
+Rules Text:	Elven Riders can't be blocked except by Walls and/or creatures with flying.
+Set/Rarity:	Tenth Edition Uncommon, Onslaught Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Legends Rare
+
+CardName:	Elvish Berserker
+Cost:	G
+Type:	Creature - Elf Berserker
+Pow/Tgh:	1/1
+Rules Text:	Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Exodus Common
+
+CardName:	Elvish Champion
+Cost:	1GG
+Type:	Creature - Elf
+Pow/Tgh:	2/2
+Rules Text:	Other Elf creatures get +1/+1 and have forestwalk. (They're unblockable as long as defending player controls a Forest.)
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Invasion Rare
+
+CardName:	Elvish Piper
+Cost:	3G
+Type:	Creature - Elf Shaman
+Pow/Tgh:	1/1
+Rules Text:	G, T You may put a creature card from your hand into play.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Urza's Destiny Rare
+
+CardName:	Enormous Baloth
+Cost:	6G
+Type:	Creature - Beast
+Pow/Tgh:	7/7
+Rules Text:
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Legions Uncommon
+
+CardName:	Essence Drain
+Cost:	4B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Essence Drain deals 3 damage to target creature or player and you gain 3 life.
+Set/Rarity:	Tenth Edition Common, Darksteel Common
+
+CardName:	Evacuation
+Cost:	3UU
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Return all creatures to their owners' hands.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Stronghold Rare
+
+CardName:	Faerie Conclave
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	Faerie Conclave comes into play tapped. T Add U to your mana pool. 1U: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It's still a land. (It can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Uncommon, Urza's Legacy Uncommon
+
+CardName:	Fear
+Cost:	BB
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Fifth Edition Common, Ice Age Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Femeref Archers
+Cost:	2G
+Type:	Creature - Human Archer
+Pow/Tgh:	2/2
+Rules Text:	T Femeref Archers deals 4 damage to target attacking creature with flying.
+Set/Rarity:	Tenth Edition Uncommon, Seventh Edition Uncommon, Classic Sixth Edition Uncommon, Mirage Uncommon
+
+CardName:	Festering Goblin
+Cost:	B
+Type:	Creature - Zombie Goblin
+Pow/Tgh:	1/1
+Rules Text:	When Festering Goblin is put into a graveyard from play, target creature gets -1/-1 until end of turn.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Onslaught Common
+
+CardName:	Field Marshal
+Cost:	1WW
+Type:	Creature - Human Soldier
+Pow/Tgh:	2/2
+Rules Text:	Other Soldier creatures get +1/+1 and have first strike. (They deal combat damage before creatures without first strike.)
+Set/Rarity:	Tenth Edition Rare, Coldsnap Rare
+
+CardName:	Firebreathing
+Cost:	R
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) R: Enchanted creature gets +1/+0 until end of turn.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Classic Sixth Edition Common, Fifth Edition Common, Mirage Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Fists of the Anvil
+Cost:	1R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target creature gets +4/+0 until end of turn.
+Set/Rarity:	Tenth Edition Common, Mirrodin Common
+
+CardName:	Flamewave Invoker
+Cost:	2R
+Type:	Creature - Goblin Mutant
+Pow/Tgh:	2/2
+Rules Text:	7R: Flamewave Invoker deals 5 damage to target player.
+Set/Rarity:	Tenth Edition Uncommon, Legions Common
+
+CardName:	Flashfreeze
+Cost:	1U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Counter target red or green spell.
+Set/Rarity:	Tenth Edition Uncommon, Coldsnap Uncommon
+
+CardName:	Flowstone Slide
+Cost:	X2RR
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	All creatures get +X/-X until end of turn.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Nemesis Rare
+
+CardName:	Fog Elemental
+Cost:	2U
+Type:	Creature - Elemental
+Pow/Tgh:	4/4
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) When Fog Elemental attacks or blocks, sacrifice it at end of combat.
+Set/Rarity:	Tenth Edition Uncommon, Beatdown Box Set Common, Classic Sixth Edition Common, Weatherlight Common
+
+CardName:	Forbidding Watchtower
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	Forbidding Watchtower comes into play tapped. T Add W to your mana pool. 1W: Forbidding Watchtower becomes a 1/5 white Soldier creature until end of turn. It's still a land.
+Set/Rarity:	Tenth Edition Uncommon, Urza's Legacy Uncommon
+
+CardName:	Forest
+Cost:
+Type:	Basic Land - Forest
+Pow/Tgh:	/
+Rules Text:	[G]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Forest
+Cost:
+Type:	Basic Land - Forest
+Pow/Tgh:	/
+Rules Text:	[G]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Forest
+Cost:
+Type:	Basic Land - Forest
+Pow/Tgh:	/
+Rules Text:	[G]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Forest
+Cost:
+Type:	Basic Land - Forest
+Pow/Tgh:	/
+Rules Text:	[G]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Fountain of Youth
+Cost:	0
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	2, T You gain 1 life.
+Set/Rarity:	Tenth Edition Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Chronicles Common, The Dark Uncommon
+
+CardName:	Fugitive Wizard
+Cost:	U
+Type:	Creature - Human Wizard
+Pow/Tgh:	1/1
+Rules Text:
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Legions Common
+
+CardName:	Furnace of Rath
+Cost:	1RRR
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	If a source would deal damage to a creature or player, it deals double that damage to that creature or player instead.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Tempest Rare
+
+CardName:	Furnace Whelp
+Cost:	2RR
+Type:	Creature - Dragon
+Pow/Tgh:	2/2
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) R: Furnace Whelp gets +1/+0 until end of turn.
+Set/Rarity:	Tenth Edition Uncommon, Fifth Dawn Uncommon
+
+CardName:	Gaea's Herald
+Cost:	1G
+Type:	Creature - Elf
+Pow/Tgh:	1/1
+Rules Text:	Creature spells can't be countered.
+Set/Rarity:	Tenth Edition Rare, Eighth Edition Rare, Planeshift Rare
+
+CardName:	Ghitu Encampment
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	Ghitu Encampment comes into play tapped. T Add R to your mana pool. 1R: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. (It deals combat damage before creatures without first strike.)
+Set/Rarity:	Tenth Edition Uncommon, Urza's Legacy Uncommon
+
+CardName:	Ghost Warden
+Cost:	1W
+Type:	Creature - Spirit
+Pow/Tgh:	1/1
+Rules Text:	T Target creature gets +1/+1 until end of turn.
+Set/Rarity:	Tenth Edition Common, Guildpact Common
+
+CardName:	Giant Growth
+Cost:	G
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target creature gets +3/+3 until end of turn.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Starter 2000 Common, Battle Royale Box Set Common, Classic Sixth Edition Common, Fifth Edition Common, Ice Age Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Giant Spider
+Cost:	3G
+Type:	Creature - Spider
+Pow/Tgh:	2/4
+Rules Text:	Reach (This creature can block creatures with flying.)
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Portal Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Glorious Anthem
+Cost:	1WW
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Creatures you control get +1/+1.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Urza's Saga Rare
+
+CardName:	Goblin Elite Infantry
+Cost:	1R
+Type:	Creature - Goblin Warrior
+Pow/Tgh:	2/2
+Rules Text:	Whenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 until end of turn.
+Set/Rarity:	Tenth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Mirage Common
+
+CardName:	Goblin King
+Cost:	1RR
+Type:	Creature - Goblin
+Pow/Tgh:	2/2
+Rules Text:	Other Goblin creatures get +1/+1 and have mountainwalk. (They're unblockable as long as defending player controls a Mountain.)
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	Goblin Lore
+Cost:	1R
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Draw four cards, then discard three cards at random.
+Set/Rarity:	Tenth Edition Uncommon, Starter 1999 Uncommon, Portal Second Age Uncommon
+
+CardName:	Goblin Piker
+Cost:	1R
+Type:	Creature - Goblin Warrior
+Pow/Tgh:	2/1
+Rules Text:
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Portal Second Age Common
+
+CardName:	Goblin Sky Raider
+Cost:	2R
+Type:	Creature - Goblin Warrior
+Pow/Tgh:	1/2
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Onslaught Common
+
+CardName:	Grave Pact
+Cost:	1BBB
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Whenever a creature you control is put into a graveyard from play, each other player sacrifices a creature.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Stronghold Rare
+
+CardName:	Graveborn Muse
+Cost:	2BB
+Type:	Creature - Zombie Spirit
+Pow/Tgh:	3/3
+Rules Text:	At the beginning of your upkeep, you draw X cards and you lose X life, where X is the number of Zombies you control.
+Set/Rarity:	Tenth Edition Rare, Legions Rare
+
+CardName:	Gravedigger
+Cost:	3B
+Type:	Creature - Zombie
+Pow/Tgh:	2/2
+Rules Text:	When Gravedigger comes into play, you may return target creature card from your graveyard to your hand.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Odyssey Common, Seventh Edition Common, Beatdown Box Set Common, Starter 1999 Uncommon, Classic Sixth Edition Common, Tempest Common, Portal Uncommon
+
+CardName:	Grizzly Bears
+Cost:	1G
+Type:	Creature - Bear
+Pow/Tgh:	2/2
+Rules Text:
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 1999 Common, Classic Sixth Edition Common, Portal Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Guerrilla Tactics
+Cost:	1R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Guerrilla Tactics deals 2 damage to target creature or player. When a spell or ability an opponent controls causes you to discard Guerrilla Tactics, Guerrilla Tactics deals 4 damage to target creature or player.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Alliances Common, Alliances Common
+
+CardName:	Hail of Arrows
+Cost:	XW
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Hail of Arrows deals X damage divided as you choose among any number of target attacking creatures.
+Set/Rarity:	Tenth Edition Uncommon, Saviors of Kamigawa Uncommon
+
+CardName:	Hate Weaver
+Cost:	1B
+Type:	Creature - Zombie Wizard
+Pow/Tgh:	2/1
+Rules Text:	2: Target blue or red creature gets +1/+0 until end of turn.
+Set/Rarity:	Tenth Edition Uncommon, Invasion Uncommon
+
+CardName:	Head Games
+Cost:	3BB
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. The player puts those cards into his or her hand, then shuffles his or her library.
+Set/Rarity:	Tenth Edition Rare, Onslaught Rare
+
+CardName:	Heart of Light
+Cost:	2W
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Prevent all damage that would be dealt to and dealt by enchanted creature.
+Set/Rarity:	Tenth Edition Common, Betrayers of Kamigawa Common
+
+CardName:	Hidden Horror
+Cost:	1BB
+Type:	Creature - Horror
+Pow/Tgh:	4/4
+Rules Text:	When Hidden Horror comes into play, sacrifice it unless you discard a creature card.
+Set/Rarity:	Tenth Edition Uncommon, Classic Sixth Edition Uncommon, Portal Second Age Rare, Weatherlight Uncommon
+
+CardName:	High Ground
+Cost:	W
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Each creature you control can block an additional creature.
+Set/Rarity:	Tenth Edition Uncommon, Exodus Uncommon
+
+CardName:	Highway Robber
+Cost:	2BB
+Type:	Creature - Human Mercenary
+Pow/Tgh:	2/2
+Rules Text:	When Highway Robber comes into play, you gain 2 life and target opponent loses 2 life.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Mercadian Masques Common
+
+CardName:	Hill Giant
+Cost:	3R
+Type:	Creature - Giant
+Pow/Tgh:	3/3
+Rules Text:
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Portal Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Holy Day
+Cost:	W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Prevent all combat damage that would be dealt this turn.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Invasion Common, Legends Common
+
+CardName:	Holy Strength
+Cost:	W
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Enchanted creature gets +1/+2.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Honor Guard
+Cost:	W
+Type:	Creature - Human Soldier
+Pow/Tgh:	1/1
+Rules Text:	W: Honor Guard gets +0/+1 until end of turn.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Stronghold Common
+
+CardName:	Horseshoe Crab
+Cost:	2U
+Type:	Creature - Crab
+Pow/Tgh:	1/3
+Rules Text:	U: Untap Horseshoe Crab.
+Set/Rarity:	Tenth Edition Common, Urza's Saga Common
+
+CardName:	Howling Mine
+Cost:	2
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	At the beginning of each player's draw step, if Howling Mine is untapped, that player draws a card.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	Hunted Wumpus
+Cost:	3G
+Type:	Creature - Beast
+Pow/Tgh:	6/6
+Rules Text:	When Hunted Wumpus comes into play, each other player may put a creature card from his or her hand into play.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Mercadian Masques Uncommon
+
+CardName:	Hurkyl's Recall
+Cost:	1U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Return all artifacts target player owns to his or her hand.
+Set/Rarity:	Tenth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Antiquities Rare
+
+CardName:	Hurricane
+Cost:	XG
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Hurricane deals X damage to each creature with flying and each player.
+Set/Rarity:	Tenth Edition Rare, Seventh Edition Rare, Battle Royale Box Set Uncommon, Classic Sixth Edition Rare, Portal Second Age Rare, Portal Rare, Fifth Edition Uncommon, Ice Age Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Hypnotic Specter
+Cost:	1BB
+Type:	Creature - Specter
+Pow/Tgh:	2/2
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Icatian Priest
+Cost:	W
+Type:	Creature - Human Cleric
+Pow/Tgh:	1/1
+Rules Text:	1WW: Target creature gets +1/+1 until end of turn.
+Set/Rarity:	Tenth Edition Uncommon, Fallen Empires Uncommon
+
+CardName:	Icy Manipulator
+Cost:	4
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	1, T Tap target artifact, creature, or land.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Uncommon, Ice Age Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Incinerate
+Cost:	1R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.
+Set/Rarity:	Tenth Edition Common, Fifth Edition Common, Mirage Common, Ice Age Common
+
+CardName:	Island
+Cost:
+Type:	Basic Land - Island
+Pow/Tgh:	/
+Rules Text:	[U]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Island
+Cost:
+Type:	Basic Land - Island
+Pow/Tgh:	/
+Rules Text:	[U]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Island
+Cost:
+Type:	Basic Land - Island
+Pow/Tgh:	/
+Rules Text:	[U]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Island
+Cost:
+Type:	Basic Land - Island
+Pow/Tgh:	/
+Rules Text:	[U]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Jayemdae Tome
+Cost:	4
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	4, T Draw a card.
+Set/Rarity:	Tenth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	Joiner Adept
+Cost:	1G
+Type:	Creature - Elf Druid
+Pow/Tgh:	2/1
+Rules Text:	Lands you control have "T Add one mana of any color to your mana pool."
+Set/Rarity:	Tenth Edition Rare, Fifth Dawn Rare
+
+CardName:	Juggernaut
+Cost:	4
+Type:	Artifact Creature - Juggernaut
+Pow/Tgh:	5/3
+Rules Text:	Juggernaut attacks each turn if able. Juggernaut can't be blocked by Walls.
+Set/Rarity:	Tenth Edition Uncommon, Darksteel Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Kamahl, Pit Fighter
+Cost:	4RR
+Type:	Legendary Creature - Human Barbarian
+Pow/Tgh:	6/1
+Rules Text:	Haste (This creature can attack and T as soon as it comes under your control.) T Kamahl, Pit Fighter deals 3 damage to target creature or player.
+Set/Rarity:	Tenth Edition Rare, Odyssey Rare
+
+CardName:	Karplusan Forest
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. T Add R or G to your mana pool. Karplusan Forest deals 1 damage to you.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Ice Age Rare
+
+CardName:	Karplusan Strider
+Cost:	3G
+Type:	Creature - Yeti
+Pow/Tgh:	3/4
+Rules Text:	Karplusan Strider can't be the target of blue or black spells.
+Set/Rarity:	Tenth Edition Uncommon, Coldsnap Uncommon
+
+CardName:	Kavu Climber
+Cost:	3GG
+Type:	Creature - Kavu
+Pow/Tgh:	3/3
+Rules Text:	When Kavu Climber comes into play, draw a card.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Invasion Common
+
+CardName:	Kjeldoran Royal Guard
+Cost:	3WW
+Type:	Creature - Human Soldier
+Pow/Tgh:	2/5
+Rules Text:	T All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead.
+Set/Rarity:	Tenth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Ice Age Rare
+
+CardName:	Knight of Dusk
+Cost:	1BB
+Type:	Creature - Human Knight
+Pow/Tgh:	2/2
+Rules Text:	BB: Destroy target creature blocking Knight of Dusk.
+Set/Rarity:	Tenth Edition Uncommon, Tempest Uncommon
+
+CardName:	Kraken's Eye
+Cost:	2
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	Whenever a player plays a blue spell, you may gain 1 life.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+CardName:	Lava Axe
+Cost:	4R
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Lava Axe deals 5 damage to target player.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Starter 2000 Common, Starter 1999 Common, Urza's Legacy Common, Portal Second Age Common, Portal Common
+
+CardName:	Lavaborn Muse
+Cost:	3R
+Type:	Creature - Spirit
+Pow/Tgh:	3/3
+Rules Text:	At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to him or her.
+Set/Rarity:	Tenth Edition Rare, Legions Rare
+
+CardName:	Legacy Weapon
+Cost:	7
+Type:	Legendary Artifact
+Pow/Tgh:	/
+Rules Text:	WUBRG: Remove target permanent from the game. If Legacy Weapon would be put into a graveyard from anywhere, reveal Legacy Weapon and shuffle it into its owner's library instead.
+Set/Rarity:	Tenth Edition Rare, Apocalypse Rare
+
+CardName:	Leonin Scimitar
+Cost:	1
+Type:	Artifact - Equipment
+Pow/Tgh:	/
+Rules Text:	Equipped creature gets +1/+1. Equip 1 (1: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:	Tenth Edition Uncommon, Mirrodin Common
+
+CardName:	Lightning Elemental
+Cost:	3R
+Type:	Creature - Elemental
+Pow/Tgh:	4/1
+Rules Text:	Haste (This creature can attack and T as soon as it comes under your control.)
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Battle Royale Box Set Common, Tempest Common
+
+CardName:	Llanowar Elves
+Cost:	G
+Type:	Creature - Elf Druid
+Pow/Tgh:	1/1
+Rules Text:	T Add G to your mana pool.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Starter 2000 Common, Battle Royale Box Set Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Llanowar Sentinel
+Cost:	2G
+Type:	Creature - Elf
+Pow/Tgh:	2/3
+Rules Text:	When Llanowar Sentinel comes into play, you may pay 1G. If you do, search your library for a card named Llanowar Sentinel and put that card into play. Then shuffle your library.
+Set/Rarity:	Tenth Edition Common, Weatherlight Common
+
+CardName:	Llanowar Wastes
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. T Add B or G to your mana pool. Llanowar Wastes deals 1 damage to you.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Apocalypse Rare
+
+CardName:	Looming Shade
+Cost:	2B
+Type:	Creature - Shade
+Pow/Tgh:	1/1
+Rules Text:	B: Looming Shade gets +1/+1 until end of turn.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Urza's Saga Common
+
+CardName:	Lord of the Pit
+Cost:	4BBB
+Type:	Creature - Demon
+Pow/Tgh:	7/7
+Rules Text:	Flying, trample (This creature can't be blocked except by creatures with flying or reach. If this creature would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player.) At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+Set/Rarity:	Tenth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	Lord of the Undead
+Cost:	1BB
+Type:	Creature - Zombie
+Pow/Tgh:	2/2
+Rules Text:	Other Zombie creatures get +1/+1. 1B, T Return target Zombie card from your graveyard to your hand.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Planeshift Rare
+
+CardName:	Loxodon Mystic
+Cost:	3WW
+Type:	Creature - Elephant Cleric
+Pow/Tgh:	3/3
+Rules Text:	W, T Tap target creature.
+Set/Rarity:	Tenth Edition Common, Darksteel Common
+
+CardName:	Loxodon Warhammer
+Cost:	3
+Type:	Artifact - Equipment
+Pow/Tgh:	/
+Rules Text:	Equipped creature gets +3/+0 and has lifelink and trample. (When it deals damage, you gain that much life. If it would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player.) Equip 3 (3: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Mirrodin Uncommon
+
+CardName:	Loyal Sentry
+Cost:	W
+Type:	Creature - Human Soldier
+Pow/Tgh:	1/1
+Rules Text:	When Loyal Sentry blocks a creature, destroy that creature and Loyal Sentry.
+Set/Rarity:	Tenth Edition Rare, Starter 1999 Rare
+
+CardName:	Lumengrid Warden
+Cost:	1U
+Type:	Creature - Human Wizard
+Pow/Tgh:	1/3
+Rules Text:
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Mirrodin Common
+
+CardName:	Luminesce
+Cost:	W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Prevent all damage that black sources and red sources would deal this turn.
+Set/Rarity:	Tenth Edition Uncommon, Coldsnap Uncommon
+
+CardName:	Lure
+Cost:	1GG
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) All creatures able to block enchanted creature do so.
+Set/Rarity:	Tenth Edition Uncommon, Champions of Kamigawa Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Mercadian Masques Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Ice Age Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Mahamoti Djinn
+Cost:	4UU
+Type:	Creature - Djinn
+Pow/Tgh:	5/6
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Beatdown Box Set Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	Manabarbs
+Cost:	3R
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
+Set/Rarity:	Tenth Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	Mantis Engine
+Cost:	5
+Type:	Artifact Creature - Insect
+Pow/Tgh:	3/3
+Rules Text:	2: Mantis Engine gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.) 2: Mantis Engine gains first strike until end of turn. (It deals combat damage before creatures without first strike.)
+Set/Rarity:	Tenth Edition Uncommon, Urza's Destiny Uncommon
+
+CardName:	March of the Machines
+Cost:	3U
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Each noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost. (Equipment that's a creature can't equip a creature.)
+Set/Rarity:	Tenth Edition Rare, Mirrodin Rare
+
+CardName:	Mass of Ghouls
+Cost:	3BB
+Type:	Creature - Zombie Warrior
+Pow/Tgh:	5/3
+Rules Text:
+Set/Rarity:	Tenth Edition Common, Future Sight Common
+
+CardName:	Megrim
+Cost:	2B
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Whenever an opponent discards a card, Megrim deals 2 damage to that player.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Stronghold Uncommon
+
+CardName:	Merfolk Looter
+Cost:	1U
+Type:	Creature - Merfolk Rogue
+Pow/Tgh:	1/1
+Rules Text:	T Draw a card, then discard a card.
+Set/Rarity:	Tenth Edition Common, Seventh Edition Uncommon, Exodus Common
+
+CardName:	Midnight Ritual
+Cost:	X2B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Remove X target creature cards in your graveyard from the game. For each creature card removed this way, put a 2/2 black Zombie creature token into play.
+Set/Rarity:	Tenth Edition Rare, Mercadian Masques Rare
+
+CardName:	Might of Oaks
+Cost:	3G
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target creature gets +7/+7 until end of turn.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Urza's Legacy Rare
+
+CardName:	Might Weaver
+Cost:	1G
+Type:	Creature - Human Wizard
+Pow/Tgh:	2/1
+Rules Text:	2: Target red or white creature gains trample until end of turn. (If it would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player.)
+Set/Rarity:	Tenth Edition Uncommon, Invasion Uncommon
+
+CardName:	Millstone
+Cost:	2
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	2, T Target player puts the top two cards of his or her library into his or her graveyard.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Antiquities Uncommon
+
+CardName:	Mind Bend
+Cost:	U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another. (For example, you may change "nonblack creature" to "nongreen creature" or "forestwalk" to "islandwalk." This effect doesn't end at end of turn.)
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Mirage Uncommon
+
+CardName:	Mind Rot
+Cost:	2B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target player discards two cards.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 1999 Common, Portal Second Age Common, Portal Common
+
+CardName:	Mind Stone
+Cost:	2
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. 1, T, Sacrifice Mind Stone: Draw a card.
+Set/Rarity:	Tenth Edition Uncommon, Weatherlight Common
+
+CardName:	Mirri, Cat Warrior
+Cost:	1GG
+Type:	Legendary Creature - Cat Warrior
+Pow/Tgh:	2/3
+Rules Text:	First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it's unblockable as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)
+Set/Rarity:	Tenth Edition Rare, Exodus Rare
+
+CardName:	Mobilization
+Cost:	2W
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Soldier creatures have vigilance. (Attacking doesn't cause them to tap.) 2W: Put a 1/1 white Soldier creature token into play.
+Set/Rarity:	Tenth Edition Rare, Onslaught Rare
+
+CardName:	Mogg Fanatic
+Cost:	R
+Type:	Creature - Goblin
+Pow/Tgh:	1/1
+Rules Text:	Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.
+Set/Rarity:	Tenth Edition Uncommon, Tempest Common
+
+CardName:	Molimo, Maro-Sorcerer
+Cost:	4GGG
+Type:	Legendary Creature - Elemental
+Pow/Tgh:	*/*
+Rules Text:	Trample (If this creature would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player.) Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
+Set/Rarity:	Tenth Edition Rare, Invasion Rare
+
+CardName:	Mortal Combat
+Cost:	2BB
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game.
+Set/Rarity:	Tenth Edition Rare, Torment Rare
+
+CardName:	Mortivore
+Cost:	2BB
+Type:	Creature - Lhurgoyf
+Pow/Tgh:	*/*
+Rules Text:	Mortivore's power and toughness are each equal to the number of creature cards in all graveyards. B: Regenerate Mortivore. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Odyssey Rare
+
+CardName:	Mountain
+Cost:
+Type:	Basic Land - Mountain
+Pow/Tgh:	/
+Rules Text:	[R]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Arabian Nights Common, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Mountain
+Cost:
+Type:	Basic Land - Mountain
+Pow/Tgh:	/
+Rules Text:	[R]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Arabian Nights Common, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Mountain
+Cost:
+Type:	Basic Land - Mountain
+Pow/Tgh:	/
+Rules Text:	[R]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Arabian Nights Common, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Mountain
+Cost:
+Type:	Basic Land - Mountain
+Pow/Tgh:	/
+Rules Text:	[R]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Arabian Nights Common, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Nantuko Husk
+Cost:	2B
+Type:	Creature - Zombie Insect
+Pow/Tgh:	2/2
+Rules Text:	Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Onslaught Common
+
+CardName:	Natural Spring
+Cost:	3GG
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target player gains 8 life.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Starter 1999 Uncommon, Portal Second Age Common, Tempest Common, Portal Uncommon
+
+CardName:	Naturalize
+Cost:	1G
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Destroy target artifact or enchantment.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common
+
+CardName:	Nekrataal
+Cost:	2BB
+Type:	Creature - Human Assassin
+Pow/Tgh:	2/1
+Rules Text:	First strike (This creature deals combat damage before creatures without first strike.) When Nekrataal comes into play, destroy target nonartifact, nonblack creature. That creature can't be regenerated.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Battle Royale Box Set Uncommon, Visions Uncommon
+
+CardName:	Nightmare
+Cost:	5B
+Type:	Creature - Nightmare
+Pow/Tgh:	*/*
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) Nightmare's power and toughness are each equal to the number of Swamps you control.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	No Rest for the Wicked
+Cost:	1B
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Sacrifice No Rest for the Wicked: Return to your hand all creature cards that were put into your graveyard from play this turn.
+Set/Rarity:	Tenth Edition Uncommon, Urza's Saga Uncommon
+
+CardName:	Nomad Mythmaker
+Cost:	2W
+Type:	Creature - Human Nomad Cleric
+Pow/Tgh:	2/2
+Rules Text:	W, T Put target Aura card in a graveyard into play attached to a creature you control. (You control that Aura.)
+Set/Rarity:	Tenth Edition Rare, Judgment Rare
+
+CardName:	Orcish Artillery
+Cost:	1RR
+Type:	Creature - Orc Warrior
+Pow/Tgh:	1/3
+Rules Text:	T Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Ornithopter
+Cost:	0
+Type:	Artifact Creature - Thopter
+Pow/Tgh:	0/2
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Antiquities Common
+
+CardName:	Overgrowth
+Cost:	2G
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant land (Target a land as you play this. This card comes into play attached to that land.) Whenever enchanted land is tapped for mana, its controller adds GG to his or her mana pool.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Stronghold Common
+
+CardName:	Overrun
+Cost:	2GGG
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player.)
+Set/Rarity:	Tenth Edition Uncommon, Odyssey Uncommon, Tempest Uncommon
+
+CardName:	Pacifism
+Cost:	1W
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Enchanted creature can't attack or block.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common, Seventh Edition Common, Battle Royale Box Set Common, Classic Sixth Edition Common, Urza's Saga Common, Tempest Common, Mirage Common
+
+CardName:	Paladin en-Vec
+Cost:	1WW
+Type:	Creature - Human Knight
+Pow/Tgh:	2/2
+Rules Text:	First strike, protection from black, protection from red (This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Exodus Rare
+
+CardName:	Pariah
+Cost:	2W
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) All damage that would be dealt to you is dealt to enchanted creature instead.
+Set/Rarity:	Tenth Edition Rare, Seventh Edition Rare, Urza's Saga Rare
+
+CardName:	Peek
+Cost:	U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Look at target player's hand. Draw a card.
+Set/Rarity:	Tenth Edition Common, Odyssey Common
+
+CardName:	Persuasion
+Cost:	3UU
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) You control enchanted creature.
+Set/Rarity:	Tenth Edition Uncommon, Odyssey Rare
+
+CardName:	Phage the Untouchable
+Cost:	3BBBB
+Type:	Legendary Creature - Minion
+Pow/Tgh:	4/4
+Rules Text:	When Phage the Untouchable comes into play, if you didn't play it from your hand, you lose the game. Whenever Phage deals combat damage to a creature, destroy that creature. It can't be regenerated. Whenever Phage deals combat damage to a player, that player loses the game.
+Set/Rarity:	Tenth Edition Rare, Legions Rare
+
+CardName:	Phantom Warrior
+Cost:	1UU
+Type:	Creature - Illusion Warrior
+Pow/Tgh:	2/2
+Rules Text:	Phantom Warrior is unblockable.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Starter 1999 Rare, Classic Sixth Edition Uncommon, Portal Rare, Weatherlight Uncommon
+
+CardName:	Phyrexian Rager
+Cost:	2B
+Type:	Creature - Horror
+Pow/Tgh:	2/2
+Rules Text:	When Phyrexian Rager comes into play, you draw a card and you lose 1 life.
+Set/Rarity:	Tenth Edition Common, Apocalypse Common
+
+CardName:	Phyrexian Vault
+Cost:	3
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	2, T, Sacrifice a creature: Draw a card.
+Set/Rarity:	Tenth Edition Uncommon, Classic Sixth Edition Uncommon, Mirage Uncommon
+
+CardName:	Pincher Beetles
+Cost:	2G
+Type:	Creature - Insect
+Pow/Tgh:	3/1
+Rules Text:	Shroud (This creature can't be the target of spells or abilities.)
+Set/Rarity:	Tenth Edition Common, Battle Royale Box Set Common, Tempest Common
+
+CardName:	Pithing Needle
+Cost:	1
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	As Pithing Needle comes into play, name a card. Activated abilities of sources with the chosen name can't be played unless they're mana abilities.
+Set/Rarity:	Tenth Edition Rare, Saviors of Kamigawa Rare
+
+CardName:	Plagiarize
+Cost:	3U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Until end of turn, if target player would draw a card, instead that player skips that draw and you draw a card.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Torment Rare
+
+CardName:	Plague Beetle
+Cost:	B
+Type:	Creature - Insect
+Pow/Tgh:	1/1
+Rules Text:	Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Urza's Legacy Common
+
+CardName:	Plague Wind
+Cost:	7BB
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Destroy all creatures you don't control. They can't be regenerated.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Prophecy Rare
+
+CardName:	Plains
+Cost:
+Type:	Basic Land - Plains
+Pow/Tgh:	/
+Rules Text:	[W]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Plains
+Cost:
+Type:	Basic Land - Plains
+Pow/Tgh:	/
+Rules Text:	[W]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Plains
+Cost:
+Type:	Basic Land - Plains
+Pow/Tgh:	/
+Rules Text:	[W]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Plains
+Cost:
+Type:	Basic Land - Plains
+Pow/Tgh:	/
+Rules Text:	[W]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Platinum Angel
+Cost:	7
+Type:	Artifact Creature - Angel
+Pow/Tgh:	4/4
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) You can't lose the game and your opponents can't win the game.
+Set/Rarity:	Tenth Edition Rare, Mirrodin Rare
+
+CardName:	Primal Rage
+Cost:	1G
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Creatures you control have trample. (If a creature you control would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player.)
+Set/Rarity:	Tenth Edition Uncommon, Stronghold Uncommon
+
+CardName:	Prodigal Pyromancer
+Cost:	2R
+Type:	Creature - Human Wizard
+Pow/Tgh:	1/1
+Rules Text:	T Prodigal Pyromancer deals 1 damage to target creature or player.
+Set/Rarity:	Tenth Edition Common, Planar Chaos Common
+
+CardName:	Puppeteer
+Cost:	2U
+Type:	Creature - Human Wizard
+Pow/Tgh:	1/2
+Rules Text:	U, T You may tap or untap target creature.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Odyssey Uncommon
+
+CardName:	Pyroclasm
+Cost:	1R
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Pyroclasm deals 2 damage to each creature.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Portal Rare, Ice Age Uncommon
+
+CardName:	Quicksand
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. T, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Visions Uncommon
+
+CardName:	Quirion Dryad
+Cost:	1G
+Type:	Creature - Dryad
+Pow/Tgh:	1/1
+Rules Text:	Whenever you play a white, blue, black, or red spell, put a +1/+1 counter on Quirion Dryad.
+Set/Rarity:	Tenth Edition Rare, Planeshift Rare
+
+CardName:	Rage Weaver
+Cost:	1R
+Type:	Creature - Human Wizard
+Pow/Tgh:	2/1
+Rules Text:	2: Target black or green creature gains haste until end of turn. (It can attack and T this turn.)
+Set/Rarity:	Tenth Edition Uncommon, Invasion Uncommon
+
+CardName:	Raging Goblin
+Cost:	R
+Type:	Creature - Goblin Berserker
+Pow/Tgh:	1/1
+Rules Text:	Haste (This creature can attack and T as soon as it comes under your control.)
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Battle Royale Box Set Common, Starter 1999 Common, Classic Sixth Edition Common, Exodus Common, Portal Second Age Common, Portal Common, Portal Common
+
+CardName:	Rain of Tears
+Cost:	1BB
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Destroy target land.
+Set/Rarity:	Tenth Edition Uncommon, Mercadian Masques Uncommon, Tempest Uncommon, Portal Uncommon
+
+CardName:	Rampant Growth
+Cost:	1G
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Search your library for a basic land card and put that card into play tapped. Then shuffle your library.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Beatdown Box Set Common, Classic Sixth Edition Common, Tempest Common, Mirage Common
+
+CardName:	Ravenous Rats
+Cost:	1B
+Type:	Creature - Rat
+Pow/Tgh:	1/1
+Rules Text:	When Ravenous Rats comes into play, target opponent discards a card.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Invasion Common, Starter 1999 Uncommon, Urza's Destiny Common, Portal Second Age Common
+
+CardName:	Razormane Masticore
+Cost:	5
+Type:	Artifact Creature - Masticore
+Pow/Tgh:	5/5
+Rules Text:	First strike (This creature deals combat damage before creatures without first strike.) At the beginning of your upkeep, sacrifice Razormane Masticore unless you discard a card. At the beginning of your draw step, you may have Razormane Masticore deal 3 damage to target creature.
+Set/Rarity:	Tenth Edition Rare, Fifth Dawn Rare
+
+CardName:	Recollect
+Cost:	2G
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Return target card from your graveyard to your hand.
+Set/Rarity:	Tenth Edition Uncommon, Ravnica: City of Guilds Uncommon
+
+CardName:	Recover
+Cost:	2B
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Return target creature card from your graveyard to your hand. Draw a card.
+Set/Rarity:	Tenth Edition Common, Invasion Common
+
+CardName:	Regeneration
+Cost:	1G
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) G: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Fifth Edition Common, Mirage Common, Ice Age Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Relentless Assault
+Cost:	2RR
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Starter 1999 Rare, Portal Three Kingdoms Rare, Classic Sixth Edition Rare, Portal Second Age Rare, Visions Rare
+
+CardName:	Relentless Rats
+Cost:	1BB
+Type:	Creature - Rat
+Pow/Tgh:	2/2
+Rules Text:	Relentless Rats gets +1/+1 for each other creature in play named Relentless Rats. A deck can have any number of cards named Relentless Rats.
+Set/Rarity:	Tenth Edition Uncommon, Fifth Dawn Uncommon
+
+CardName:	Reminisce
+Cost:	2U
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target player shuffles his or her graveyard into his or her library.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Onslaught Uncommon
+
+CardName:	Remove Soul
+Cost:	1U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Counter target creature spell.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 1999 Common, Classic Sixth Edition Common, Fifth Edition Common, Chronicles Common, Legends Common
+
+CardName:	Reviving Dose
+Cost:	2W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	You gain 3 life. Draw a card.
+Set/Rarity:	Tenth Edition Common, Invasion Common
+
+CardName:	Reya Dawnbringer
+Cost:	6WWW
+Type:	Legendary Creature - Angel
+Pow/Tgh:	4/6
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) At the beginning of your upkeep, you may return target creature card from your graveyard to play.
+Set/Rarity:	Tenth Edition Rare, Invasion Rare
+
+CardName:	Rhox
+Cost:	4GG
+Type:	Creature - Beast
+Pow/Tgh:	5/5
+Rules Text:	You may have Rhox deal its combat damage to defending player as though it weren't blocked. 2G: Regenerate Rhox. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity:	Tenth Edition Rare, Eighth Edition Rare, Nemesis Rare
+
+CardName:	Righteousness
+Cost:	W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target blocking creature gets +7/+7 until end of turn.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	Robe of Mirrors
+Cost:	U
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Enchanted creature has shroud. (It can't be the target of spells or abilities.)
+Set/Rarity:	Tenth Edition Common, Exodus Common
+
+CardName:	Rock Badger
+Cost:	4R
+Type:	Creature - Beast
+Pow/Tgh:	3/3
+Rules Text:	Mountainwalk (This creature is unblockable as long as defending player controls a Mountain.)
+Set/Rarity:	Tenth Edition Common, Mercadian Masques Uncommon
+
+CardName:	Rod of Ruin
+Cost:	4
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	3, T Rod of Ruin deals 1 damage to target creature or player.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Starter 2000 Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Root Maze
+Cost:	G
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Artifacts and lands come into play tapped.
+Set/Rarity:	Tenth Edition Rare, Tempest Rare
+
+CardName:	Rootwalla
+Cost:	2G
+Type:	Creature - Lizard
+Pow/Tgh:	2/2
+Rules Text:	1G: Rootwalla gets +2/+2 until end of turn. Play this ability only once each turn.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Tempest Common
+
+CardName:	Rootwater Commando
+Cost:	2U
+Type:	Creature - Merfolk
+Pow/Tgh:	2/2
+Rules Text:	Islandwalk (This creature is unblockable as long as defending player controls an Island.)
+Set/Rarity:	Tenth Edition Common, Nemesis Common
+
+CardName:	Rootwater Matriarch
+Cost:	2UU
+Type:	Creature - Merfolk
+Pow/Tgh:	2/3
+Rules Text:	T Gain control of target creature as long as that creature is enchanted.
+Set/Rarity:	Tenth Edition Rare, Tempest Rare
+
+CardName:	Royal Assassin
+Cost:	1BB
+Type:	Creature - Human Assassin
+Pow/Tgh:	1/1
+Rules Text:	T Destroy target tapped creature.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	Rule of Law
+Cost:	2W
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Each player can't play more than one spell each turn.
+Set/Rarity:	Tenth Edition Uncommon, Mirrodin Rare
+
+CardName:	Rushwood Dryad
+Cost:	1G
+Type:	Creature - Dryad
+Pow/Tgh:	2/1
+Rules Text:	Forestwalk (This creature is unblockable as long as defending player controls a Forest.)
+Set/Rarity:	Tenth Edition Common, Eighth Edition Common, Mercadian Masques Common
+
+CardName:	Sage Owl
+Cost:	1U
+Type:	Creature - Bird
+Pow/Tgh:	1/1
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) When Sage Owl comes into play, look at the top four cards of your library, then put them back in any order.
+Set/Rarity:	Tenth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Weatherlight Common
+
+CardName:	Samite Healer
+Cost:	1W
+Type:	Creature - Human Cleric
+Pow/Tgh:	1/1
+Rules Text:	T Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 2000 Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Scalpelexis
+Cost:	4U
+Type:	Creature - Beast
+Pow/Tgh:	1/5
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever Scalpelexis deals combat damage to a player, that player removes the top four cards of his or her library from the game. If two or more of those cards have the same name, repeat this process.
+Set/Rarity:	Tenth Edition Rare, Judgment Rare
+
+CardName:	Scathe Zombies
+Cost:	2B
+Type:	Creature - Zombie
+Pow/Tgh:	2/2
+Rules Text:
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 2000 Common, Starter 1999 Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Scion of the Wild
+Cost:	1GG
+Type:	Creature - Avatar
+Pow/Tgh:	*/*
+Rules Text:	Scion of the Wild's power and toughness are each equal to the number of creatures you control.
+Set/Rarity:	Tenth Edition Rare, Ravnica: City of Guilds Rare
+
+CardName:	Scoria Wurm
+Cost:	4R
+Type:	Creature - Wurm
+Pow/Tgh:	7/7
+Rules Text:	At the beginning of your upkeep, flip a coin. If you lose the flip, return Scoria Wurm to its owner's hand.
+Set/Rarity:	Tenth Edition Rare, Urza's Saga Rare
+
+CardName:	Sculpting Steel
+Cost:	3
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	As Sculpting Steel comes into play, you may choose an artifact in play. If you do, Sculpting Steel comes into play as a copy of that artifact.
+Set/Rarity:	Tenth Edition Rare, Mirrodin Rare
+
+CardName:	Sea Monster
+Cost:	4UU
+Type:	Creature - Serpent
+Pow/Tgh:	6/6
+Rules Text:	Sea Monster can't attack unless defending player controls an Island.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Tempest Common
+
+CardName:	Seedborn Muse
+Cost:	3GG
+Type:	Creature - Spirit
+Pow/Tgh:	2/4
+Rules Text:	Untap all permanents you control during each other player's untap step.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Legions Rare
+
+CardName:	Seismic Assault
+Cost:	RRR
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Discard a land card: Seismic Assault deals 2 damage to target creature or player.
+Set/Rarity:	Tenth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Exodus Rare
+
+CardName:	Sengir Vampire
+Cost:	3BB
+Type:	Creature - Vampire
+Pow/Tgh:	4/4
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Torment Rare, Beatdown Box Set Uncommon, Battle Royale Box Set Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Serra Angel
+Cost:	3WW
+Type:	Creature - Angel
+Pow/Tgh:	4/4
+Rules Text:	Flying, vigilance (This creature can't be blocked except by creatures with flying or reach, and attacking doesn't cause this creature to tap.)
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Serra's Embrace
+Cost:	2WW
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Enchanted creature gets +2/+2 and has flying and vigilance. (It can't be blocked except by creatures with flying or reach, and attacking doesn't cause it to tap.)
+Set/Rarity:	Tenth Edition Uncommon, Seventh Edition Uncommon, Urza's Saga Uncommon
+
+CardName:	Severed Legion
+Cost:	1BB
+Type:	Creature - Zombie
+Pow/Tgh:	2/2
+Rules Text:	Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Set/Rarity:	Tenth Edition Common, Eighth Edition Common, Onslaught Common
+
+CardName:	Shatterstorm
+Cost:	2RR
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Destroy all artifacts. They can't be regenerated.
+Set/Rarity:	Tenth Edition Uncommon, Classic Sixth Edition Rare, Fifth Edition Uncommon, Revised Edition Uncommon, Antiquities Rare
+
+CardName:	Shimmering Wings
+Cost:	U
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.) U: Return Shimmering Wings to its owner's hand.
+Set/Rarity:	Tenth Edition Common, Invasion Common, Tempest Common
+
+CardName:	Shivan Dragon
+Cost:	4RR
+Type:	Creature - Dragon
+Pow/Tgh:	5/5
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) R: Shivan Dragon gets +1/+0 until end of turn.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Beatdown Box Set Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	Shivan Hellkite
+Cost:	5RR
+Type:	Creature - Dragon
+Pow/Tgh:	5/5
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) 1R: Shivan Hellkite deals 1 damage to target creature or player.
+Set/Rarity:	Tenth Edition Rare, Urza's Saga Rare
+
+CardName:	Shivan Reef
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. T Add U or R to your mana pool. Shivan Reef deals 1 damage to you.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Apocalypse Rare
+
+CardName:	Shock
+Cost:	R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Shock deals 2 damage to target creature or player.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Onslaught Common, Seventh Edition Common, Beatdown Box Set Common, Starter 2000 Common, Classic Sixth Edition Common, Stronghold Common
+
+CardName:	Shunt
+Cost:	1RR
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Change the target of target spell with a single target.
+Set/Rarity:	Tenth Edition Rare, Darksteel Rare
+
+CardName:	Siege-Gang Commander
+Cost:	3RR
+Type:	Creature - Goblin
+Pow/Tgh:	2/2
+Rules Text:	When Siege-Gang Commander comes into play, put three 1/1 red Goblin creature tokens into play. 1R, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to target creature or player.
+Set/Rarity:	Tenth Edition Rare, Scourge Rare
+
+CardName:	Sift
+Cost:	3U
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Draw three cards, then discard a card.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Stronghold Common
+
+CardName:	Sky Weaver
+Cost:	1U
+Type:	Creature - Metathran Wizard
+Pow/Tgh:	2/1
+Rules Text:	2: Target white or black creature gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Uncommon, Invasion Uncommon
+
+CardName:	Skyhunter Patrol
+Cost:	2WW
+Type:	Creature - Cat Knight
+Pow/Tgh:	2/3
+Rules Text:	Flying, first strike (This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)
+Set/Rarity:	Tenth Edition Common, Mirrodin Common
+
+CardName:	Skyhunter Prowler
+Cost:	2W
+Type:	Creature - Cat Knight
+Pow/Tgh:	1/3
+Rules Text:	Flying, vigilance (This creature can't be blocked except by creatures with flying or reach, and attacking doesn't cause this creature to tap.)
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Fifth Dawn Common
+
+CardName:	Skyhunter Skirmisher
+Cost:	1WW
+Type:	Creature - Cat Knight
+Pow/Tgh:	1/1
+Rules Text:	Flying, double strike (This creature can't be blocked except by creatures with flying or reach, and it deals both first-strike and regular combat damage.)
+Set/Rarity:	Tenth Edition Uncommon, Fifth Dawn Uncommon
+
+CardName:	Skyshroud Ranger
+Cost:	G
+Type:	Creature - Elf
+Pow/Tgh:	1/1
+Rules Text:	T You may put a land card from your hand into play. Play this ability only any time you could play a sorcery.
+Set/Rarity:	Tenth Edition Common, Tempest Common
+
+CardName:	Sleeper Agent
+Cost:	B
+Type:	Creature - Minion
+Pow/Tgh:	3/3
+Rules Text:	When Sleeper Agent comes into play, target opponent gains control of it. At the beginning of your upkeep, Sleeper Agent deals 2 damage to you.
+Set/Rarity:	Tenth Edition Rare, Urza's Saga Rare
+
+CardName:	Smash
+Cost:	2R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Destroy target artifact. Draw a card.
+Set/Rarity:	Tenth Edition Common, Ravnica: City of Guilds Common, Apocalypse Common
+
+CardName:	Snapping Drake
+Cost:	3U
+Type:	Creature - Drake
+Pow/Tgh:	3/2
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Common, Ravnica: City of Guilds Common, Beatdown Box Set Common, Starter 1999 Common, Portal Common
+
+CardName:	Soul Feast
+Cost:	3BB
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target player loses 4 life and you gain 4 life.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Starter 1999 Uncommon, Urza's Destiny Uncommon
+
+CardName:	Soul Warden
+Cost:	W
+Type:	Creature - Human Cleric
+Pow/Tgh:	1/1
+Rules Text:	Whenever another creature comes into play, you gain 1 life.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Battle Royale Box Set Common, Exodus Common
+
+CardName:	Soulblast
+Cost:	3RRR
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	As an additional cost to play Soulblast, sacrifice all creatures you control. Soulblast deals damage to target creature or player equal to the total power of the sacrificed creatures.
+Set/Rarity:	Tenth Edition Rare, Champions of Kamigawa Rare
+
+CardName:	Spark Elemental
+Cost:	R
+Type:	Creature - Elemental
+Pow/Tgh:	3/1
+Rules Text:	Trample, haste (If this creature would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player. This creature can attack and T as soon as it comes under your control.) At end of turn, sacrifice Spark Elemental.
+Set/Rarity:	Tenth Edition Uncommon, Fifth Dawn Common
+
+CardName:	Spawning Pool
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	Spawning Pool comes into play tapped. T Add B to your mana pool. 1B: Spawning Pool becomes a 1/1 black Skeleton creature with "B: Regenerate this creature" until end of turn. It's still a land. (If it regenerates, the next time it would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity:	Tenth Edition Uncommon, Urza's Legacy Uncommon
+
+CardName:	Spellbook
+Cost:	0
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	You have no maximum hand size.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Exodus Uncommon
+
+CardName:	Spiketail Hatchling
+Cost:	1U
+Type:	Creature - Drake
+Pow/Tgh:	1/1
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) Sacrifice Spiketail Hatchling: Counter target spell unless its controller pays 1.
+Set/Rarity:	Tenth Edition Uncommon, Eighth Edition Uncommon, Prophecy Common
+
+CardName:	Spined Wurm
+Cost:	4G
+Type:	Creature - Wurm
+Pow/Tgh:	5/4
+Rules Text:
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 2000 Common, Stronghold Common, Portal Common
+
+CardName:	Spineless Thug
+Cost:	1B
+Type:	Creature - Zombie Mercenary
+Pow/Tgh:	2/2
+Rules Text:	Spineless Thug can't block.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Nemesis Common
+
+CardName:	Spirit Link
+Cost:	W
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Whenever enchanted creature deals damage, you gain that much life.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Legends Uncommon
+
+CardName:	Spirit Weaver
+Cost:	1W
+Type:	Creature - Human Wizard
+Pow/Tgh:	2/1
+Rules Text:	2: Target green or blue creature gets +0/+1 until end of turn.
+Set/Rarity:	Tenth Edition Uncommon, Invasion Uncommon
+
+CardName:	Spitting Earth
+Cost:	1R
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Spitting Earth deals damage equal to the number of Mountains you control to target creature.
+Set/Rarity:	Tenth Edition Common, Seventh Edition Common, Starter 1999 Uncommon, Classic Sixth Edition Common, Portal Second Age Common, Portal Common, Mirage Common
+
+CardName:	Squee, Goblin Nabob
+Cost:	2R
+Type:	Legendary Creature - Goblin
+Pow/Tgh:	1/1
+Rules Text:	At the beginning of your upkeep, you may return Squee, Goblin Nabob from your graveyard to your hand.
+Set/Rarity:	Tenth Edition Rare, Mercadian Masques Rare
+
+CardName:	Stalking Tiger
+Cost:	3G
+Type:	Creature - Cat
+Pow/Tgh:	3/3
+Rules Text:	Stalking Tiger can't be blocked by more than one creature.
+Set/Rarity:	Tenth Edition Common, Portal Three Kingdoms Common, Classic Sixth Edition Common, Portal Common, Mirage Common
+
+CardName:	Stampeding Wildebeests
+Cost:	2GG
+Type:	Creature - Beast
+Pow/Tgh:	5/4
+Rules Text:	Trample (If this creature would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player.) At the beginning of your upkeep, return a green creature you control to its owner's hand.
+Set/Rarity:	Tenth Edition Uncommon, Visions Uncommon
+
+CardName:	Starlight Invoker
+Cost:	1W
+Type:	Creature - Human Cleric Mutant
+Pow/Tgh:	1/3
+Rules Text:	7W: You gain 5 life.
+Set/Rarity:	Tenth Edition Uncommon, Legions Common
+
+CardName:	Steadfast Guard
+Cost:	WW
+Type:	Creature - Human Rebel
+Pow/Tgh:	2/2
+Rules Text:	Vigilance (Attacking doesn't cause this creature to tap.)
+Set/Rarity:	Tenth Edition Common, Mercadian Masques Common
+
+CardName:	Steel Golem
+Cost:	3
+Type:	Artifact Creature - Golem
+Pow/Tgh:	3/4
+Rules Text:	You can't play creature spells.
+Set/Rarity:	Tenth Edition Uncommon, Weatherlight Uncommon
+
+CardName:	Story Circle
+Cost:	1WW
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	As Story Circle comes into play, choose a color. W: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Mercadian Masques Uncommon
+
+CardName:	Stronghold Discipline
+Cost:	2BB
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Each player loses 1 life for each creature he or she controls.
+Set/Rarity:	Tenth Edition Uncommon, Nemesis Common
+
+CardName:	Stun
+Cost:	1R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Target creature can't block this turn. Draw a card.
+Set/Rarity:	Tenth Edition Common, Invasion Common, Tempest Common
+
+CardName:	Sudden Impact
+Cost:	3R
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Sudden Impact deals damage equal to the number of cards in target player's hand to that player.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Tempest Uncommon
+
+CardName:	Sulfurous Springs
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. T Add B or R to your mana pool. Sulfurous Springs deals 1 damage to you.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Ice Age Rare
+
+CardName:	Sunken Hope
+Cost:	3UU
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	At the beginning of each player's upkeep, that player returns a creature he or she controls to its owner's hand.
+Set/Rarity:	Tenth Edition Rare, Planeshift Rare
+
+CardName:	Suntail Hawk
+Cost:	W
+Type:	Creature - Bird
+Pow/Tgh:	1/1
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Judgment Common
+
+CardName:	Swamp
+Cost:
+Type:	Basic Land - Swamp
+Pow/Tgh:	/
+Rules Text:	[B]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Swamp
+Cost:
+Type:	Basic Land - Swamp
+Pow/Tgh:	/
+Rules Text:	[B]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Swamp
+Cost:
+Type:	Basic Land - Swamp
+Pow/Tgh:	/
+Rules Text:	[B]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Swamp
+Cost:
+Type:	Basic Land - Swamp
+Pow/Tgh:	/
+Rules Text:	[B]
+Set/Rarity:	Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Tenth Edition BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Time Spiral BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ravnica: City of Guilds BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Ninth Edition BasicLand, Unhinged BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Champions of Kamigawa BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Mirrodin BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Eighth Edition BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Onslaught BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Odyssey BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Seventh Edition BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Beatdown Box Set BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Invasion BasicLand, Starter 2000 BasicLand, Starter 2000 BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Battle Royale Box Set BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Mercadian Masques BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Starter 1999 BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Portal Three Kingdoms BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Classic Sixth Edition BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Urza's Saga BasicLand, Unglued Common, Portal Second Age BasicLand, Portal Second Age BasicLand, Portal Second Age BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Tempest BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Portal BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Fifth Edition BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Mirage BasicLand, Ice Age BasicLand, Ice Age BasicLand, Ice Age BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Fourth Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Revised Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Unlimited Edition BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Beta BasicLand, Limited Edition Alpha BasicLand, Limited Edition Alpha BasicLand
+
+CardName:	Sylvan Basilisk
+Cost:	3GG
+Type:	Creature - Basilisk
+Pow/Tgh:	2/4
+Rules Text:	Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature.
+Set/Rarity:	Tenth Edition Uncommon, Starter 1999 Rare, Portal Second Age Rare
+
+CardName:	Sylvan Scrying
+Cost:	1G
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+Set/Rarity:	Tenth Edition Uncommon, Mirrodin Uncommon
+
+CardName:	Tangle Spider
+Cost:	4GG
+Type:	Creature - Spider
+Pow/Tgh:	3/4
+Rules Text:	Flash (You may play this spell any time you could play an instant.) Reach (This creature can block creatures with flying.)
+Set/Rarity:	Tenth Edition Uncommon, Darksteel Common
+
+CardName:	Telepathy
+Cost:	U
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Your opponents play with their hands revealed.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Urza's Saga Uncommon
+
+CardName:	Telling Time
+Cost:	1U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.
+Set/Rarity:	Tenth Edition Uncommon, Ravnica: City of Guilds Uncommon
+
+CardName:	Tempest of Light
+Cost:	2W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Destroy all enchantments.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Uncommon
+
+CardName:	Terramorphic Expanse
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it into play tapped. Then shuffle your library.
+Set/Rarity:	Tenth Edition Common, Time Spiral Common
+
+CardName:	Terror
+Cost:	1B
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Destroy target nonartifact, nonblack creature. It can't be regenerated.
+Set/Rarity:	Tenth Edition Common, Mirrodin Common, Beatdown Box Set Common, Starter 2000 Common, Battle Royale Box Set Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	The Hive
+Cost:	5
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	5, T Put a 1/1 Insect artifact creature token with flying named Wasp into play. (It can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	Thieving Magpie
+Cost:	2UU
+Type:	Creature - Bird
+Pow/Tgh:	1/3
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) Whenever Thieving Magpie deals damage to an opponent, you draw a card.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Urza's Destiny Uncommon
+
+CardName:	Threaten
+Cost:	2R
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. (It can attack and T this turn.)
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Onslaught Uncommon
+
+CardName:	Thrull Surgeon
+Cost:	1B
+Type:	Creature - Thrull
+Pow/Tgh:	1/1
+Rules Text:	1B, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Play this ability only any time you could play a sorcery.
+Set/Rarity:	Tenth Edition Uncommon, Exodus Common
+
+CardName:	Thundering Giant
+Cost:	3RR
+Type:	Creature - Giant
+Pow/Tgh:	4/3
+Rules Text:	Haste (This creature can attack and T as soon as it comes under your control.)
+Set/Rarity:	Tenth Edition Uncommon, Beatdown Box Set Uncommon, Urza's Saga Uncommon
+
+CardName:	Tidings
+Cost:	3UU
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Draw four cards.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Starter 1999 Uncommon
+
+CardName:	Time Stop
+Cost:	4UU
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	End the turn. (Remove all spells and abilities on the stack from the game, including this card. The player whose turn it is discards down to his or her maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)
+Set/Rarity:	Tenth Edition Rare, Champions of Kamigawa Rare
+
+CardName:	Time Stretch
+Cost:	8UU
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target player takes two extra turns after this one.
+Set/Rarity:	Tenth Edition Rare, Odyssey Rare
+
+CardName:	Traumatize
+Cost:	3UU
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Target player puts the top half of his or her library, rounded down, into his or her graveyard.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Odyssey Rare
+
+CardName:	Treasure Hunter
+Cost:	2W
+Type:	Creature - Human
+Pow/Tgh:	2/2
+Rules Text:	When Treasure Hunter comes into play, you may return target artifact card from your graveyard to your hand.
+Set/Rarity:	Tenth Edition Uncommon, Exodus Uncommon
+
+CardName:	Treetop Bracers
+Cost:	1G
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Enchanted creature gets +1/+1 and can't be blocked except by creatures with flying.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Nemesis Common
+
+CardName:	Treetop Village
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	Treetop Village comes into play tapped. T Add G to your mana pool. 1G: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would deal enough combat damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player.)
+Set/Rarity:	Tenth Edition Uncommon, Urza's Legacy Uncommon
+
+CardName:	Troll Ascetic
+Cost:	1GG
+Type:	Creature - Troll Shaman
+Pow/Tgh:	3/2
+Rules Text:	Troll Ascetic can't be the target of spells or abilities your opponents control. 1G: Regenerate Troll Ascetic. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)
+Set/Rarity:	Tenth Edition Rare, Mirrodin Rare
+
+CardName:	True Believer
+Cost:	WW
+Type:	Creature - Human Cleric
+Pow/Tgh:	2/2
+Rules Text:	You have shroud. (You can't be the target of spells or abilities.)
+Set/Rarity:	Tenth Edition Rare, Onslaught Rare
+
+CardName:	Tundra Wolves
+Cost:	W
+Type:	Creature - Wolf
+Pow/Tgh:	1/1
+Rules Text:	First strike (This creature deals combat damage before creatures without first strike.)
+Set/Rarity:	Tenth Edition Common, Eighth Edition Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Legends Common
+
+CardName:	Twincast
+Cost:	UU
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Copy target instant or sorcery spell. You may choose new targets for the copy.
+Set/Rarity:	Tenth Edition Rare, Saviors of Kamigawa Rare
+
+CardName:	Twitch
+Cost:	2U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	You may tap or untap target artifact, creature, or land. Draw a card.
+Set/Rarity:	Tenth Edition Common, Tempest Common
+
+CardName:	Uncontrollable Anger
+Cost:	2RR
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Flash (You may play this spell any time you could play an instant.) Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Enchanted creature gets +2/+2 and attacks each turn if able.
+Set/Rarity:	Tenth Edition Common, Champions of Kamigawa Common
+
+CardName:	Underground River
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. T Add U or B to your mana pool. Underground River deals 1 damage to you.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Seventh Edition Rare, Classic Sixth Edition Rare, Fifth Edition Rare, Ice Age Rare
+
+CardName:	Underworld Dreams
+Cost:	BBB
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Whenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Legends Uncommon
+
+CardName:	Unholy Strength
+Cost:	B
+Type:	Enchantment - Aura
+Pow/Tgh:	/
+Rules Text:	Enchant creature (Target a creature as you play this. This card comes into play attached to that creature.) Enchanted creature gets +2/+1.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Unsummon
+Cost:	U
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Return target creature to its owner's hand.
+Set/Rarity:	Tenth Edition Common, Eighth Edition Common, Seventh Edition Common, Classic Sixth Edition Common, Fifth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Upwelling
+Cost:	3G
+Type:	Enchantment
+Pow/Tgh:	/
+Rules Text:	Mana pools don't empty at the end of phases or turns. (This effect stops mana burn.)
+Set/Rarity:	Tenth Edition Rare, Scourge Rare
+
+CardName:	Vampire Bats
+Cost:	B
+Type:	Creature - Bat
+Pow/Tgh:	0/1
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) B: Vampire Bats gets +1/+0 until end of turn. Play this ability no more than twice each turn.
+Set/Rarity:	Tenth Edition Common, Fifth Edition Common, Fourth Edition Common, Legends Common
+
+CardName:	Vedalken Mastermind
+Cost:	UU
+Type:	Creature - Vedalken Wizard
+Pow/Tgh:	1/2
+Rules Text:	U, T Return target permanent you control to its owner's hand.
+Set/Rarity:	Tenth Edition Uncommon, Fifth Dawn Uncommon
+
+CardName:	Venerable Monk
+Cost:	2W
+Type:	Creature - Human Monk Cleric
+Pow/Tgh:	2/2
+Rules Text:	When Venerable Monk comes into play, you gain 2 life.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Eighth Edition Common, Seventh Edition Common, Starter 2000 Common, Starter 1999 Common, Classic Sixth Edition Common, Stronghold Common, Portal Uncommon
+
+CardName:	Verdant Force
+Cost:	5GGG
+Type:	Creature - Elemental
+Pow/Tgh:	7/7
+Rules Text:	At the beginning of each upkeep, put a 1/1 green Saproling creature token into play under your control.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Tempest Rare
+
+CardName:	Viashino Runner
+Cost:	3R
+Type:	Creature - Viashino
+Pow/Tgh:	3/2
+Rules Text:	Viashino Runner can't be blocked except by two or more creatures.
+Set/Rarity:	Tenth Edition Common, Urza's Saga Common
+
+CardName:	Viashino Sandscout
+Cost:	1R
+Type:	Creature - Viashino Scout
+Pow/Tgh:	2/1
+Rules Text:	Haste (This creature can attack and T as soon as it comes under your control.) At end of turn, return Viashino Sandscout to its owner's hand. (Return it only if it's in play.)
+Set/Rarity:	Tenth Edition Common, Urza's Legacy Common
+
+CardName:	Viridian Shaman
+Cost:	2G
+Type:	Creature - Elf Shaman
+Pow/Tgh:	2/2
+Rules Text:	When Viridian Shaman comes into play, destroy target artifact.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Mirrodin Uncommon
+
+CardName:	Voice of All
+Cost:	2WW
+Type:	Creature - Angel
+Pow/Tgh:	2/2
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) As Voice of All comes into play, choose a color. Voice of All has protection from the chosen color. (It can't be blocked, targeted, dealt damage, or enchanted by anything of the chosen color.)
+Set/Rarity:	Tenth Edition Rare, Planeshift Uncommon
+
+CardName:	Wall of Air
+Cost:	1UU
+Type:	Creature - Wall
+Pow/Tgh:	1/5
+Rules Text:	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+Set/Rarity:	Tenth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Wall of Fire
+Cost:	1RR
+Type:	Creature - Wall
+Pow/Tgh:	0/5
+Rules Text:	Defender (This creature can't attack.) R: Wall of Fire gets +1/+0 until end of turn.
+Set/Rarity:	Tenth Edition Uncommon, Seventh Edition Uncommon, Classic Sixth Edition Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Wall of Swords
+Cost:	3W
+Type:	Creature - Wall
+Pow/Tgh:	3/5
+Rules Text:	Defender, flying (This creature can't attack, and it can block creatures with flying.)
+Set/Rarity:	Tenth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Classic Sixth Edition Uncommon, Portal Uncommon, Fifth Edition Uncommon, Fourth Edition Uncommon, Revised Edition Uncommon, Unlimited Edition Uncommon, Limited Edition Beta Uncommon, Limited Edition Alpha Uncommon
+
+CardName:	Wall of Wood
+Cost:	G
+Type:	Creature - Wall
+Pow/Tgh:	0/3
+Rules Text:	Defender (This creature can't attack.)
+Set/Rarity:	Tenth Edition Common, Fourth Edition Common, Revised Edition Common, Unlimited Edition Common, Limited Edition Beta Common, Limited Edition Alpha Common
+
+CardName:	Warp World
+Cost:	5RRR
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, and land cards revealed this way into play, then puts all enchantment cards revealed this way into play, then puts all cards revealed this way that weren't put into play on the bottom of his or her library in any order.
+Set/Rarity:	Tenth Edition Rare, Ravnica: City of Guilds Rare
+
+CardName:	Warrior's Honor
+Cost:	2W
+Type:	Instant
+Pow/Tgh:	/
+Rules Text:	Creatures you control get +1/+1 until end of turn.
+Set/Rarity:	Tenth Edition Common, Ninth Edition Common, Classic Sixth Edition Common, Visions Common
+
+CardName:	Whispersilk Cloak
+Cost:	3
+Type:	Artifact - Equipment
+Pow/Tgh:	/
+Rules Text:	Equipped creature is unblockable and has shroud. (It can't be the target of spells or abilities.) Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)
+Set/Rarity:	Tenth Edition Uncommon, Darksteel Common
+
+CardName:	Wild Griffin
+Cost:	2W
+Type:	Creature - Griffin
+Pow/Tgh:	2/2
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.)
+Set/Rarity:	Tenth Edition Common, Starter 2000 Common, Starter 1999 Common, Portal Second Age Common
+
+CardName:	Windborn Muse
+Cost:	3W
+Type:	Creature - Spirit
+Pow/Tgh:	2/3
+Rules Text:	Flying (This creature can't be blocked except by creatures with flying or reach.) Creatures can't attack you unless their controller pays 2 for each creature he or she controls that's attacking you.
+Set/Rarity:	Tenth Edition Rare, Legions Rare
+
+CardName:	Wrath of God
+Cost:	2WW
+Type:	Sorcery
+Pow/Tgh:	/
+Rules Text:	Destroy all creatures. They can't be regenerated.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Eighth Edition Rare, Seventh Edition Rare, Battle Royale Box Set Rare, Classic Sixth Edition Rare, Portal Rare, Fifth Edition Rare, Fourth Edition Rare, Revised Edition Rare, Unlimited Edition Rare, Limited Edition Beta Rare, Limited Edition Alpha Rare
+
+CardName:	Wurm's Tooth
+Cost:	2
+Type:	Artifact
+Pow/Tgh:	/
+Rules Text:	Whenever a player plays a green spell, you may gain 1 life.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Darksteel Uncommon
+
+CardName:	Yavimaya Coast
+Cost:
+Type:	Land
+Pow/Tgh:	/
+Rules Text:	T Add 1 to your mana pool. T Add G or U to your mana pool. Yavimaya Coast deals 1 damage to you.
+Set/Rarity:	Tenth Edition Rare, Ninth Edition Rare, Apocalypse Rare
+
+CardName:	Yavimaya Enchantress
+Cost:	2G
+Type:	Creature - Human Druid
+Pow/Tgh:	2/2
+Rules Text:	Yavimaya Enchantress gets +1/+1 for each enchantment in play.
+Set/Rarity:	Tenth Edition Uncommon, Ninth Edition Uncommon, Eighth Edition Uncommon, Seventh Edition Uncommon, Urza's Destiny Uncommon
+
+CardName:	Youthful Knight
+Cost:	1W
+Type:	Creature - Human Knight
+Pow/Tgh:	2/1
+Rules Text:	First strike (This creature deals combat damage before creatures without first strike.)
+Set/Rarity:	Tenth Edition Common, Stronghold Common
