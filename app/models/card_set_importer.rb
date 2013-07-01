@@ -74,7 +74,7 @@ class CardSetImporter
 
   def alternate_land_count versions
     if versions.any?
-      Dir.glob(scan_dir.join("#{land}[1-4].full.jpg").count
+      Dir.glob(scan_dir.join("#{land}[1-4].full.jpg")).count
     else
       0
     end
