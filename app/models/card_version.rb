@@ -5,7 +5,7 @@ class CardVersion < ActiveRecord::Base
   delegate :name, :color, to: :card
 
   def scan_url
-    "https://s3.amazonaws.com/magictcg-development" + image_url
+    "https://s3.amazonaws.com/magictcg-development/scans/#{card_set.abbreviation}/#{image_url}.full.jpg"
   end
 
   def add_alternate_art count, suffix = ''
