@@ -3,7 +3,7 @@ class CollectingSetsController < ApplicationController
 
   def show
     @collecting_set = find_collecting_set
-    @card_versions = @collecting_set.card_versions.includes(:card).sort { |a,b| ActiveSupport::Inflector.transliterate(a.name) <=> ActiveSupport::Inflector.transliterate(b.name) }
+    @card_versions = @collecting_set.card_versions.includes(:card)
     @collected_card_versions = current_user.collected_cards.includes(:card_version).where(card_version_id: @card_versions.map(&:id)).map(&:card_version)
   end
 

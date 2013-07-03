@@ -10,9 +10,11 @@ task import: :environment do
       card_colors = card_json["colors"] || []
       rarity = card_json["rarity"]
       imageName = card_json["imageName"]
-      types = card_json["types"].join("|")
+      multiverse_id = card_json["multiverseid"]
+      number = card_json["number"] || card_name
+      types = (card_json["types"] || []).join("|")
       card = Card.find_or_create_by!(name: card_name, color: card_colors.join(" "), types: types)
-      card.card_versions.create(card_set_id: card_set.id, rarity: rarity, image_url: imageName)
+      card.card_versions.create(card_set_id: card_set.id, rarity: rarity, image_url: imageName, multiverse_id: multiverse_id, number: number)
     end
   end
 end

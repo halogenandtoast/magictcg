@@ -3,6 +3,7 @@ class CardVersion < ActiveRecord::Base
   belongs_to :card
 
   delegate :name, :color, :types, to: :card
+  default_scope { order "number ASC" }
 
   def scan_url
     path = "/scans/#{card_set.abbreviation}/#{image_url}.full.jpg"
