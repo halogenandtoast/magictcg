@@ -9,7 +9,7 @@ class CardVersion < ActiveRecord::Base
     if ENV['LOCAL']
       path
     else
-      "https://s3.amazonaws.com/magictcg-development/#{path}"
+      "https://s3.amazonaws.com/magictcg-development#{path}"
     end
   end
 
