@@ -1,6 +1,24 @@
-.card_version {
-  width: 223px;
+body, div, form, input, p {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neueu", "Helvetica", sans-serif;
+}
+.collecting_set {
+  width: 175px;
+  height: 248px;
+  margin: 5px 10px;
+  border: 1px solid #000;
   display: inline-block;
+  box-shadow: 1px 1px 3px #333;
+  text-align: center;
+}
+
+.card_version {
+  width: 175px;
+  display: inline-block;
+  img {
+    box-shadow: 1px 1px 3px #333;
+  }
   button {
     border: none;
     background: transparent;
@@ -13,15 +31,44 @@ a.active {
   background-color: #FEE;
 }
 
-.collected {
+div.card_version.collected {
   display: none;
-  -webkit-opacity: 0.5;
 }
 
-.card_version.advanced {
+div.card_version.advanced {
+  display: none;
+}
+
+div.card_version.advanced.collected {
   display: inline-block;
+}
+
+div.card_version.hide {
+  display: none;
 }
 
 .advanced_bar {
   display: none;
+}
+
+.controls {
+  width: 12%;
+  float: left;
+  top: 0;
+  position: fixed;
+  background: #EEE;
+  height: 100%;
+  .inner {
+    padding: 10px;
+  }
+}
+
+.collection {
+  width: 88%;
+  height: 100%;
+  float: right;
+  background-color: #999;
+  .inner {
+    margin: 0 auto;
+  }
 }

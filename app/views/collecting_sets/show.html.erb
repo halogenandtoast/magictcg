@@ -1,104 +1,120 @@
-﻿<div>
-  <input id="search" type="text" placeholder="Search" />
-  <%= link_to "All", "#", class: "active", data: { showc: "*" } %>
-  <%= link_to "Artifact", "#", data: { showc: "A" } %>
-  <%= link_to "Black", "#", data: { showc: "B" } %>
-  <%= link_to "Blue", "#", data: { showc: "U" } %>
-  <%= link_to "Green", "#", data: { showc: "G" } %>
-  <%= link_to "Land", "#", data: { showc: "L" } %>
-  <%= link_to "Red", "#", data: { showc: "R" } %>
-  <%= link_to "White", "#", data: { showc: "W" } %>
-  -
-  <%= link_to "All", "#", class: "active", data: { showr: "*" } %>
-  <%= link_to "Common", "#", data: { showr: "Common" } %>
-  <%= link_to "Uncommon", "#", data: { showr: "Uncommon" } %>
-  <%= link_to "Rare", "#", data: { showr: "Rare" } %>
-  <%= link_to "Mythic", "#", data: { showr: "Mythic" } %>
-  -
-  <%= link_to "Advanced", "#", class: "advanced" %>
+﻿<div class="controls">
+  <div class="inner">
+    <div>
+      <input id="search" type="text" placeholder="Search" />
+    </div>
+    <div>
+      <%= link_to "All", "#", class: "active", data: { showc: "*" } %>
+      <%= link_to "Artifact", "#", data: { showt: "Artifact" } %>
+      <%= link_to "Black", "#", data: { showc: "Black" } %>
+      <%= link_to "Blue", "#", data: { showc: "Blue" } %>
+      <%= link_to "Green", "#", data: { showc: "Green" } %>
+      <%= link_to "Land", "#", data: { showt: "Land" } %>
+      <%= link_to "Red", "#", data: { showc: "Red" } %>
+      <%= link_to "White", "#", data: { showc: "White" } %>
+    </div>
+    <div>
+      <%= link_to "All", "#", class: "active", data: { showr: "*" } %>
+      <%= link_to "Common", "#", data: { showr: "Common" } %>
+      <%= link_to "Uncommon", "#", data: { showr: "Uncommon" } %>
+      <%= link_to "Rare", "#", data: { showr: "Rare" } %>
+      <%= link_to "Mythic", "#", data: { showr: "Mythic" } %>
+    </div>
+    <div>
+      <%= link_to "Collected", "#", class: "advanced" %>
+    </div>
+    <div>
+      <%= @collecting_set.collected_cards_count %>/<%= @collecting_set.full_count %>
+    </div>
+    <div>
+      <%= link_to "Back", dashboard_path %>
+    </div>
+
+    <div class="advanced_bar">
+
+    </div>
+  </div>
 </div>
 
-<div class="advanced_bar">
-
-</div>
-
-<% @card_versions.each do |card_version| %>
-  <%= div_for(card_version, class: (@collected_card_versions.include?(card_version) ? "collected" : "uncollected"), data: { name: card_version.name.downcase, color: card_version.color, rarity: card_version.rarity }) do %>
-    <%= button_to card_version_collected_cards_path(card_version), remote: true do %>
-      <%= image_tag card_version.scan_url, width: 223 %>
+<div class="collection">
+  <div class="inner">
+    <% @card_versions.each do |card_version| %>
+      <%= div_for(card_version, class: (@collected_card_versions.include?(card_version) ? "collected" : "uncollected"), data: card_data(card_version)) do %>
+        <%= button_to card_version_collected_cards_path(card_version), remote: true do %>
+          <%= image_tag card_version.scan_url, width: 175 %>
+        <% end %>
+      <% end %>
     <% end %>
-  <% end %>
-<% end %>
+  </div>
+</div>
 
 <script>
-  var showc = "*";
-  var showr = "*";
+  var color_filter = "*";
+  var type_filter = "*";
+  var rarity_filter = "*";
+  var search_filter = "";
   var advanced = false;
 
   var filter_cards = function() {
-      if(showr == '*' && showc == '*') {
-        $(".card_version").css("display", "inline-block");
-        $(".card_version").animate({ opacity: 1, width: 223 }, function() {
-          $(this).removeClass("filtered");
-        });
-      } else {
-        filter = "";
-        if(showr != "*") {
-          filter += "[data-rarity~='"+showr+"']";
-        }
-        if(showc != "*") {
-          filter += "[data-color~='"+showc+"']";
-        }
-        $(".card_version"+filter).css("display", "inline-block");
-        $(".card_version"+filter).animate({ opacity: 1, width: 223 }, function() {
-          $(this).removeClass("fitered");
-        });
-        $(".card_version:not("+filter+")").animate({ opacity: 0, width: 0 }, function() {
-          $(this).addClass("filtered")
-          $(this).css("display", "none");
-        });
-      }
+    filter = "";
+    if(color_filter != "*") {
+      filter += "[data-color~='"+color_filter+"']";
+    }
+    if(type_filter != "*") {
+      filter += "[data-type~='"+type_filter+"']";
+    }
+    if(rarity_filter != "*") {
+      filter += "[data-rarity~='"+rarity_filter+"']";
+    }
+    if(search_filter != "") {
+      filter += "[data-name*='"+search_filter+"']";
+    }
+    console.log(filter);
+    $(".card_version").removeClass("hide");
+    if(filter != "") {
+      $(".card_version:not("+filter+")").addClass("hide");
+    }
   }
   $(function() {
-    $("a[data-showc]").click(function(e) {
-      $("a[data-showc]").removeClass("active");
-      $(this).addClass("active")
-      e.stopPropagation();
-      showc = $(this).data('showc');
+    $("a[data-showc]").click(function() {
+      $("a[data-showt], a[data-showc]").removeClass("active");
+      $(this).addClass("active");
+      color_filter = $(this).data("showc");
+      type_filter = "*";
       filter_cards();
       return false;
     });
-    $("a[data-showr]").click(function(e) {
+    $("a[data-showt]").click(function() {
+      $("a[data-showt], a[data-showc]").removeClass("active");
+      $(this).addClass("active");
+      type_filter = $(this).data("showt");
+      color_filter = "*";
+      filter_cards();
+      return false;
+    });
+    $("a[data-showr]").click(function() {
       $("a[data-showr]").removeClass("active");
-      $(this).addClass("active")
-      e.stopPropagation();
-      showr = $(this).data('showr');
+      $(this).addClass("active");
+      rarity_filter = $(this).data("showr");
       filter_cards();
       return false;
     });
-    $("a.advanced").click(function(e) {
-      e.stopPropagation();
+    $("#search").keyup(function() {
+      search_filter = $(this).val().toLowerCase();
+      filter_cards();
+    });
+    $(".advanced").click(function() {
       advanced = !advanced;
       if(advanced) {
-        $(".card_version").css("display", "inline-block");
-        $(".card_version").addClass("advanced")
+        $(this).text("Uncollected");
+        $(this).addClass("active");
+        $(".card_version").addClass("advanced");
       } else {
-        $(".card_version").removeClass("advanced")
-        $(".card_version.collected").css("display", "none");
+        $(this).text("Collected");
+        $(this).removeClass("active");
+        $(".card_version").removeClass("advanced");
       }
       return false;
-    });
-    $("#search").keyup(function(e) {
-      var search_term = $(this).val().toLowerCase();
-      if(search_term != "") {
-        $(".card_version[data-name*='"+search_term+"']:not(.filtered)").css("display", "inline-block");
-        $(".card_version[data-name*='"+search_term+"']:not(.filtered)").animate({ opacity: 1, width: 223 });
-        $(".card_version:visible:not([data-name*='"+search_term+"'])").animate({ opacity: 0, width: 0 }, function() {
-          $(this).css("display", "none");
-        });
-      } else {
-        filter_cards();
-      }
     });
   });
 </script>

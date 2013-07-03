@@ -2,10 +2,15 @@ class CardVersion < ActiveRecord::Base
   belongs_to :card_set
   belongs_to :card
 
-  delegate :name, :color, to: :card
+  delegate :name, :color, :types, to: :card
 
   def scan_url
-    "https://s3.amazonaws.com/magictcg-development/scans/#{card_set.abbreviation}/#{image_url}.full.jpg"
+    path = "/scans/#{card_set.abbreviation}/#{image_url}.full.jpg"
+    if ENV['LOCAL']
+      path
+    else
+      "https://s3.amazonaws.com/magictcg-development/#{path}"
+    end
   end
 
   def add_alternate_art count, suffix = ''

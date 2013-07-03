@@ -1,12 +1,1 @@
-var opacity;
-if(advanced) {
-  opacity = 0.5;
-} else {
-  opacity = 0;
-}
-$("#card_version_<%= @collected_card.card_version_id %>").animate({ opacity: opacity }, 400, null, function() {
-  $(this).addClass("collected");
-  $(this).removeClass("uncollected");
-  $(this).css("display", "none");
-  $(this).css('opacity', "");
-});
+$("#card_version_<%= @collected_card.card_version_id %>").addClass("collected");

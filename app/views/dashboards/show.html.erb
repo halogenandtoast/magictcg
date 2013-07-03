@@ -1,10 +1,18 @@
-<%= form_for(CollectingSet.new, remote: true) do |form| %>
-  <input name="set" id="set" />
-  <%= form.submit "Track" %>
-<% end %>
+<div class="controls">
+  <div class="inner">
+    <%= form_for(CollectingSet.new, remote: true) do |form| %>
+      <input name="set" id="set" />
+      <%= form.submit "Track" %>
+    <% end %>
+  </div>
+</div>
 
-<div class='collecting_sets'>
-  <%= render @collecting_sets %>
+<div class="collection">
+  <div class="inner">
+    <div class='collecting_sets'>
+      <%= render @collecting_sets %>
+    </div>
+  </div>
 </div>
 
 <script type="text/javascript">
