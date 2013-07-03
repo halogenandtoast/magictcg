@@ -3,7 +3,7 @@ class CardVersion < ActiveRecord::Base
   belongs_to :card
 
   delegate :name, :color, :types, to: :card
-  default_scope { order "(substring(number, '^[0-9]+'))::int, substring(number, '[^0-9_].*$')" }
+  default_scope { order "(substring(number, '^[0-9]+'))::int ASC, substring(number, '[^0-9].*$') ASC" }
 
   def scan_url
     path = "/scans/#{card_set.abbreviation}/#{image_url}.full.jpg"
