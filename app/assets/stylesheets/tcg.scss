@@ -44,7 +44,7 @@ body, div, form, input, p, h2 {
 }
 
 .card_version {
-  width: 175px;
+  width: 14.00%;
   display: inline-block;
   img {
     box-shadow: 1px 1px 3px #333;
@@ -95,7 +95,7 @@ div.card_version.hide {
 
 .collection {
   width: 88%;
-  height: 100%;
+  min-height: 100%;
   float: right;
   background-color: #999;
   .inner {
