@@ -1,1 +1,8 @@
-Home
+<div class='home'>
+  <p>PRODUCT_NAME makes completing your sets easy by tracking the cards you need. PRODUCT_NAME will provide you with cost estimates for completing sets and getting other useful information</p>
+  <h2>Sign up now</h2>
+  <%= form_for User.new do |form| %>
+    <%= render "users/form", form: form %>
+  <% end %>
+  <%= link_to "Sign in", new_session_path %>
+</div>

@@ -2,12 +2,38 @@ html, body {
   height: 100%;
 }
 
-body, div, form, input, p {
+.home {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #EEE;
+  padding: 20px;
+  margin-top: 40px;
+  p {
+    margin-bottom: 20px;
+  }
+}
+
+body, div, form, input, p, h2 {
   margin: 0;
   padding: 0;
   font-family: "Helvetica Neueu", "Helvetica", sans-serif;
 }
 .collecting_set {
+  position: relative;
+  .info {
+    margin-top: 100px;
+  }
+  .remove {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  background: #333;
+  color: #CCC;
+  a {
+    color: #FFF;
+    text-decoration: none;
+  }
   width: 175px;
   height: 248px;
   margin: 5px 10px;

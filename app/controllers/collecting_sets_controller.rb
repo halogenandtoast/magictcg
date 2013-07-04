@@ -9,8 +9,12 @@ class CollectingSetsController < ApplicationController
 
   def create
     card_set = CardSet.find_by(name: params[:set])
-    @collecting_set = current_user.collecting_sets.create(card_set: card_set)
-    respond_with @collecting_set
+    if card_set
+      @collecting_set = current_user.collecting_sets.create(card_set: card_set)
+      respond_with @collecting_set
+    else
+      render nothing: true
+    end
   end
 
   def destroy

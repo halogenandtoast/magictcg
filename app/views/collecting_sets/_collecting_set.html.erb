@@ -1,3 +1,7 @@
 <%= div_for(collecting_set) do %>
-  <%= link_to collecting_set.name, collecting_set %> (<%= collecting_set.collected_cards_count %>/<%= collecting_set.full_count %>) <%= link_to "Remove", collecting_set, method: :delete, confirm: "Are you sure you want to remove this set?" %>
+  <div class="info">
+    <div><%= link_to collecting_set.name, collecting_set %></div>
+    <div>(<%= collecting_set.collected_cards_count %>/<%= collecting_set.full_count %>)</div>
+  </div>
+  <%= link_to "Remove", collecting_set, class: "remove", method: :delete, confirm: "Are you sure you want to remove this set?" %>
 <% end %>
