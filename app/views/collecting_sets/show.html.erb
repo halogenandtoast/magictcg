@@ -22,6 +22,8 @@
     </div>
     <div>
       <%= link_to "Collected", "#", class: "advanced" %>
+      <%= link_to "Page View", "#", class: "page-view" %>
+      <%= link_to "Show All", "#", class: "show-all" %>
     </div>
     <div>
       <%= @collecting_set.collected_cards_count %>/<%= @collecting_set.full_count %>
@@ -40,9 +42,7 @@
   <div class="inner">
     <% @card_versions.each do |card_version| %>
       <%= div_for(card_version, class: (@collected_card_versions.include?(card_version) ? "collected" : "uncollected"), data: card_data(card_version)) do %>
-        <%= button_to card_version_collected_cards_path(card_version), remote: true do %>
-          <%= image_tag card_version.scan_url, width: "100%" %>
-        <% end %>
+        <%= image_tag card_version.scan_url, width: "100%" %>
       <% end %>
     <% end %>
   </div>
@@ -54,6 +54,8 @@
   var rarity_filter = "*";
   var search_filter = "";
   var advanced = false;
+  var page_view = false;
+  var show_all = false;
 
   var filter_cards = function() {
     filter = "";
@@ -84,6 +86,7 @@
       filter_cards();
       return false;
     });
+
     $("a[data-showt]").click(function() {
       $("a[data-showt], a[data-showc]").removeClass("active");
       $(this).addClass("active");
@@ -92,6 +95,7 @@
       filter_cards();
       return false;
     });
+
     $("a[data-showr]").click(function() {
       $("a[data-showr]").removeClass("active");
       $(this).addClass("active");
@@ -99,11 +103,25 @@
       filter_cards();
       return false;
     });
+
     $("#search").keyup(function() {
       search_filter = $(this).val().toLowerCase();
       filter_cards();
     });
-    $(".advanced").click(function() {
+
+    $(".card_version:not(.collected)").click(function() {
+      $(this).addClass("collected");
+      console.log($(this).data("collect-url"));
+      $.post($(this).data("collect-url"));
+    });
+
+    $(".card_version.collected").click(function() {
+      console.log("HERE");
+      $(this).removeClass("collected");
+      $.post($(this).data("uncollect-url"), { _method: "DELETE" });
+    });
+
+    $(".controls .advanced").click(function() {
       advanced = !advanced;
       if(advanced) {
         $(this).text("Uncollected");
@@ -113,6 +131,38 @@
         $(this).text("Collected");
         $(this).removeClass("active");
         $(".card_version").removeClass("advanced");
+      }
+      return false;
+    });
+
+    $(".controls .page-view").click(function() {
+      page_view = !page_view;
+      if(page_view) {
+        $(this).text("Normal View");
+        $(this).addClass("active");
+        $(".card_version").addClass("page-view");
+      } else {
+        $(this).text("Page View");
+        $(this).removeClass("active");
+        $(".card_version").removeClass("page-view");
+      }
+      return false;
+    });
+
+    $(".controls .show-all").click(function() {
+      show_all = !show_all;
+      if(show_all) {
+        $(".controls a.collected").removeClass("active");
+
+        advanced = false;
+
+        $(this).text("Show Normal");
+        $(this).addClass("active");
+        $(".card_version").addClass("show-all");
+      } else {
+        $(this).text("Show All");
+        $(this).removeClass("active");
+        $(".card_version").removeClass("show-all");
       }
       return false;
     });

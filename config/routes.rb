@@ -12,6 +12,6 @@ Tcg::Application.routes.draw do
   resources :collected_cards, only: [:show]
   resources :collecting_sets, only: [:create, :show, :destroy]
   resources :card_versions, only: :none do
-    resources :collected_cards, only: [:create]
+    resources :collected_cards, only: [:create, :destroy]
   end
 end

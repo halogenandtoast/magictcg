@@ -55,6 +55,10 @@ body, div, form, input, p, h2 {
   }
 }
 
+.card_version.page-view {
+  width: 33%;
+}
+
 a.active {
   color: #000;
   font-weight: bold;
@@ -63,14 +67,23 @@ a.active {
 
 div.card_version.collected {
   display: none;
+  &.show-all {
+    display: inline-block;
+  }
 }
 
 div.card_version.advanced {
   display: none;
+  &.show-all {
+    display: inline-block;
+  }
 }
 
 div.card_version.advanced.collected {
   display: inline-block;
+  &.hide {
+    display: none;
+  }
 }
 
 div.card_version.hide {
