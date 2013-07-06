@@ -4,6 +4,7 @@ ruby '2.0.0'
 gem 'rails', '4.0.0'
 gem 'monban'
 gem 'bourbon'
+gem 'unicorn'
 gem 'rails_12factor'
 gem 'pg'
 gem 'sass-rails', '~> 4.0.0'
@@ -14,6 +15,7 @@ gem 'jquery-ui-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'nokogiri'
+gem 'newrelic_rpm'
 
 group :doc do
   gem 'sdoc', require: false
