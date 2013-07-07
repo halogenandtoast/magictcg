@@ -1,2 +1,2 @@
-$(".collecting_sets").append("<%== j(render @collecting_set) %>");
+$(".collecting_sets .collecting_set:last").after("<%== j(render @collecting_set) %>");
 $("#set").val("")

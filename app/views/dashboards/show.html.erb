@@ -1,16 +1,26 @@
 <div class="controls">
-  <div class="inner">
+</div>
+
+<div class="collection">
+  <div class="modal">
+  </div>
+
+  <div class="add_set">
     <%= form_for(CollectingSet.new, remote: true) do |form| %>
       <input name="set" id="set" />
       <%= form.submit "Track" %>
     <% end %>
+    <a href="#" class="cancel">Cancel</a>
   </div>
-</div>
 
-<div class="collection">
   <div class="inner">
     <div class='collecting_sets'>
       <%= render @collecting_sets %>
+      <div class="add_more">
+        <div class="info">
+          <div>Track another set</div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
@@ -19,5 +29,11 @@
   $(function() {
     var availableTags = <%== @uncollecting_sets.map(&:name).to_json %>;
     $("#set").autocomplete({ source: availableTags });
+    $(".add_more").click(function() {
+      $(".modal, .add_set").show();
+    });
+    $(".cancel").click(function() {
+      $(".modal, .add_set").hide();
+    });
   });
 </script>
