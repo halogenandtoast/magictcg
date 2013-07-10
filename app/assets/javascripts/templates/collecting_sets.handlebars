@@ -1,0 +1,26 @@
+<div class="controls">
+  {{view Ember.TextField valueBinding="cardSetId" action="addCollectingSet"}}
+</div>
+
+<div class="collection">
+  <div class="modal">
+  </div>
+
+  <div class="add_set">
+    <input name="set" id="set" />
+    <a href="#" class="cancel">Cancel</a>
+  </div>
+
+  <div class="inner">
+    <div class='collecting_sets'>
+      {{#each collectingSet in controller}}
+        {{ render "collectingSet" collectingSet }}
+      {{/each}}
+      <div class="add_more">
+        <div class="info">
+          <div>Track another set</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

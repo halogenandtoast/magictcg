@@ -10,7 +10,7 @@ Tcg::Application.routes.draw do
   resources :users, only: [:new, :create]
   resource :dashboard, only: [:show]
   resources :collected_cards, only: [:show]
-  resources :collecting_sets, only: [:create, :show, :destroy]
+  resources :collecting_sets, only: [:index, :create, :show, :destroy]
   resources :card_versions, only: :none do
     resources :collected_cards, only: [:create, :destroy]
   end

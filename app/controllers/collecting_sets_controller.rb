@@ -1,30 +1,23 @@
 class CollectingSetsController < ApplicationController
-  respond_to :js, :html
+  respond_to :json
+
+  def index
+    respond_with current_user.collecting_sets
+  end
 
   def show
-    @collecting_set = find_collecting_set
-    @card_versions = @collecting_set.card_versions.includes(:card)
-    @collected_card_versions = current_user.collected_cards.includes(:card_version).where(card_version_id: @card_versions.map(&:id)).map(&:card_version)
+    respond_with current_user.collecting_sets.find(params[:id])
   end
 
   def create
-    card_set = CardSet.find_by(name: params[:set])
-    if card_set
-      @collecting_set = current_user.collecting_sets.create(card_set: card_set)
-      respond_with @collecting_set
-    else
-      render nothing: true
-    end
+    respond_with current_user.collecting_sets.create(params[:collecting_set])
+  end
+
+  def update
+    respond_with current_user.collecting_sets.update(params[:id], params[:card])
   end
 
   def destroy
-    find_collecting_set.destroy
-    redirect_to root_path, notice: "Set removed"
-  end
-
-  private
-
-  def find_collecting_set
-    current_user.collecting_sets.find(params[:id])
+    respond_with current_user.collecting_sets.destroy(params[:id])
   end
 end
